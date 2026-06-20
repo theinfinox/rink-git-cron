@@ -31,7 +31,7 @@ jobs:
           # Pulls the ID from your GitHub Repository Secrets
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
           # Update this if your Sheet tab is not the first one (Check the #gid= in your URL)
-          SHEET_GID: "0" 
+          SHEET_GID: "5695880" 
         run: node scripts/sync.js
 
       - name: Commit and Push Changes
