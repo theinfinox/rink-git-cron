@@ -1,0 +1,9 @@
+{
+  "name": "rink-sync-engine",
+  "version": "1.0.0",
+  "description": "Serverless data pipeline for the RINK Portal",
+  "type": "module",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
