@@ -16509,5 +16509,24 @@
     "provider_key": "",
     "warnings_gemini": "No Contact Info, Missing Facility/Institution",
     "warnings": "No Contact Info, Missing Facility/Institution"
+  },
+  {
+    "id": "inst_100869",
+    "instruments": "RINK",
+    "acronym": "",
+    "image_link": "",
+    "district": "",
+    "name_of_facility": "",
+    "institution_name": "",
+    "address": "",
+    "enquiry_contact_number": "",
+    "enquiry_mail": "",
+    "website_booking_link": "",
+    "website_booking_link_fallback": "",
+    "standardized_district": "",
+    "tag": "",
+    "provider_key": "",
+    "warnings_gemini": "",
+    "warnings": ""
   }
 ]
