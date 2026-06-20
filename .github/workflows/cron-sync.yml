@@ -1,0 +1,49 @@
+name: Nightly RINK Data Sync
+
+on:
+  schedule:
+    # Runs automatically at 00:00 UTC (5:30 AM IST) every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+    # Adds a manual "Run workflow" button in the GitHub Actions tab
+
+jobs:
+  sync-database:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # CRITICAL: Allows the bot to commit files back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        working-directory: ./scripts
+        run: npm install
+
+      - name: Run Data Sync Script
+        env:
+          # Pulls the ID from your GitHub Repository Secrets
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+          # Update this if your Sheet tab is not the first one (Check the #gid= in your URL)
+          SHEET_GID: "0" 
+        run: node scripts/sync.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "RINK-Automaton[bot]"
+          git config --global user.email "rink-automaton@users.noreply.github.com"
+          
+          # Stage all generated files in the data directory
+          git add data/
+          
+          # If nothing changed in the sheet, silently exit without crashing
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          
+          # Push the new JSON files to the main branch
+          git push origin main
