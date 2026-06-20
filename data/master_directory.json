@@ -13180,7 +13180,7 @@
     "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
     "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/51",
     "standardized_district": "Thiruvananthapuram",
-    "tag": "I do not have enough information to answer the query. The instrument name provided, \"Per 1 Hr Session\", refers to a booking duration or fee rather than a specific scientific instrument, making it impossible to select appropriate tags from the provided list.",
+    "tag": "analytical_chem, metrology, nanotech, surface_science",
     "provider_key": "",
     "warnings_gemini": "Missing Image",
     "warnings": "Missing Image"
