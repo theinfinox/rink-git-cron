@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-06-22T01:12:27.867Z",
+    "status": "SUCCESS",
+    "error_code": null,
+    "rows_total": 870,
+    "rows_exported": 870
+  },
+  {
     "timestamp": "2026-06-21T01:12:20.500Z",
     "status": "SUCCESS",
     "error_code": null,
