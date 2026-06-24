@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "Serverless data pipeline for the RINK Portal",
   "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "download-images": "node scripts/downloadImages.js"
+  },
   "dependencies": {
-    "papaparse": "^5.4.1"
+    "axios": "^1.18.1",
+    "papaparse": "^5.4.1",
+    "sharp": "^0.35.2"
   }
 }
