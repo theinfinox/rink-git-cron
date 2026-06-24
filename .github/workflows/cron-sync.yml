@@ -26,20 +26,26 @@ jobs:
         working-directory: ./scripts
         run: npm install
 
+      # ... earlier steps (like setting up Node.js) ...
+
       - name: Run Data Sync Script
         env:
-          # Pulls the ID from your GitHub Repository Secrets
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-          # Update this if your Sheet tab is not the first one (Check the #gid= in your URL)
-          SHEET_GID: "5695880" 
+          SHEET_GID: "5695880"
         run: node scripts/sync.js
 
+      # ADD THIS NEW STEP RIGHT AFTER SYNC.JS
+      - name: Run Image Downloader Script
+        run: node scripts/downloadImages.js
+
+      # UPDATE THIS EXISTING STEP TO INCLUDE THE PUBLIC FOLDER
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage all generated files in the data directory
-          git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          # Stage BOTH the data directory AND the public directory
+          git add data/ public/
+          
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data & Image Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           git push origin main
