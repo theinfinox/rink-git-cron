@@ -22,11 +22,9 @@ jobs:
         with:
           node-version: '24'
 
+      # FIX: Removed the working-directory line so it installs from the root
       - name: Install Dependencies
-        working-directory: ./scripts
         run: npm install
-
-      # ... earlier steps (like setting up Node.js) ...
 
       - name: Run Data Sync Script
         env:
@@ -34,11 +32,9 @@ jobs:
           SHEET_GID: "5695880"
         run: node scripts/sync.js
 
-      # ADD THIS NEW STEP RIGHT AFTER SYNC.JS
       - name: Run Image Downloader Script
         run: node scripts/downloadImages.js
 
-      # UPDATE THIS EXISTING STEP TO INCLUDE THE PUBLIC FOLDER
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
