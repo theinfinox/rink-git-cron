@@ -37,8 +37,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Rink Automated Pipeline"
+          git config --global user.email "hi@govindsr.me"
           
           # Stage BOTH the data directory AND the public directory
           git add data/ public/
