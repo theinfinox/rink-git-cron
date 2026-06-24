@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "public": true,
+  "rewrites": [
+    {
+      "source": "/assets/(.*)",
+      "destination": "/public/assets/$1"
+    }
+  ]
+}
