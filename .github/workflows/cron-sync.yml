@@ -37,8 +37,9 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Dynamically pulls the repo owner's username for the commit
+          git config --global user.name "${GITHUB_REPOSITORY_OWNER} Automated Pipeline"
+          git config --global user.email "${GITHUB_REPOSITORY_OWNER}@users.noreply.github.com"
           
           # Stage BOTH the data directory AND the public directory
           git add data/ public/
