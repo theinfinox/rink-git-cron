@@ -14,257 +14,261 @@ rink-git-cron
 │   │   ├── master_2026-06-23T01-00-10.713Z.json
 │   │   ├── master_2026-06-24T00-57-51.787Z.json
 │   │   ├── master_2026-06-24T05-48-03.464Z.json
-│   │   └── master_2026-06-24T06-31-56.847Z.json
+│   │   ├── master_2026-06-24T06-31-56.847Z.json
+│   │   ├── master_2026-06-24T06-50-55.464Z.json
+│   │   ├── master_2026-06-24T06-55-04.330Z.json
+│   │   └── master_2026-06-24T07-25-25.328Z.json
 │   ├── master_directory.json
 │   └── sync_history.json
 ├── package-lock.json
 ├── package.json
 ├── public
-│   └── assets
-│       └── instruments
-│           ├── inst_100001.webp
-│           ├── inst_100002.webp
-│           ├── inst_100004.webp
-│           ├── inst_100005.webp
-│           ├── inst_100006.webp
-│           ├── inst_100007.webp
-│           ├── inst_100009.webp
-│           ├── inst_100011.webp
-│           ├── inst_100015.webp
-│           ├── inst_100016.webp
-│           ├── inst_100017.webp
-│           ├── inst_100018.webp
-│           ├── inst_100019.webp
-│           ├── inst_100020.webp
-│           ├── inst_100021.webp
-│           ├── inst_100022.webp
-│           ├── inst_100023.webp
-│           ├── inst_100024.webp
-│           ├── inst_100025.webp
-│           ├── inst_100026.webp
-│           ├── inst_100027.webp
-│           ├── inst_100028.webp
-│           ├── inst_100029.webp
-│           ├── inst_100030.webp
-│           ├── inst_100031.webp
-│           ├── inst_100032.webp
-│           ├── inst_100033.webp
-│           ├── inst_100034.webp
-│           ├── inst_100035.webp
-│           ├── inst_100036.webp
-│           ├── inst_100037.webp
-│           ├── inst_100038.webp
-│           ├── inst_100039.webp
-│           ├── inst_100040.webp
-│           ├── inst_100041.webp
-│           ├── inst_100042.webp
-│           ├── inst_100043.webp
-│           ├── inst_100044.webp
-│           ├── inst_100045.webp
-│           ├── inst_100046.webp
-│           ├── inst_100047.webp
-│           ├── inst_100048.webp
-│           ├── inst_100049.webp
-│           ├── inst_100050.webp
-│           ├── inst_100055.webp
-│           ├── inst_100056.webp
-│           ├── inst_100057.webp
-│           ├── inst_100058.webp
-│           ├── inst_100059.webp
-│           ├── inst_100060.webp
-│           ├── inst_100061.webp
-│           ├── inst_100062.webp
-│           ├── inst_100063.webp
-│           ├── inst_100064.webp
-│           ├── inst_100065.webp
-│           ├── inst_100066.webp
-│           ├── inst_100067.webp
-│           ├── inst_100068.webp
-│           ├── inst_100069.webp
-│           ├── inst_100070.webp
-│           ├── inst_100071.webp
-│           ├── inst_100072.webp
-│           ├── inst_100073.webp
-│           ├── inst_100074.webp
-│           ├── inst_100075.webp
-│           ├── inst_100076.webp
-│           ├── inst_100077.webp
-│           ├── inst_100078.webp
-│           ├── inst_100079.webp
-│           ├── inst_100080.webp
-│           ├── inst_100081.webp
-│           ├── inst_100082.webp
-│           ├── inst_100083.webp
-│           ├── inst_100084.webp
-│           ├── inst_100085.webp
-│           ├── inst_100086.webp
-│           ├── inst_100087.webp
-│           ├── inst_100088.webp
-│           ├── inst_100089.webp
-│           ├── inst_100090.webp
-│           ├── inst_100091.webp
-│           ├── inst_100092.webp
-│           ├── inst_100093.webp
-│           ├── inst_100094.webp
-│           ├── inst_100095.webp
-│           ├── inst_100096.webp
-│           ├── inst_100097.webp
-│           ├── inst_100098.webp
-│           ├── inst_100099.webp
-│           ├── inst_100100.webp
-│           ├── inst_100101.webp
-│           ├── inst_100102.webp
-│           ├── inst_100103.webp
-│           ├── inst_100104.webp
-│           ├── inst_100106.webp
-│           ├── inst_100107.webp
-│           ├── inst_100108.webp
-│           ├── inst_100109.webp
-│           ├── inst_100110.webp
-│           ├── inst_100111.webp
-│           ├── inst_100123.webp
-│           ├── inst_100125.webp
-│           ├── inst_100126.webp
-│           ├── inst_100127.webp
-│           ├── inst_100129.webp
-│           ├── inst_100130.webp
-│           ├── inst_100132.webp
-│           ├── inst_100133.webp
-│           ├── inst_100134.webp
-│           ├── inst_100135.webp
-│           ├── inst_100136.webp
-│           ├── inst_100138.webp
-│           ├── inst_100139.webp
-│           ├── inst_100140.webp
-│           ├── inst_100141.webp
-│           ├── inst_100142.webp
-│           ├── inst_100144.webp
-│           ├── inst_100145.webp
-│           ├── inst_100146.webp
-│           ├── inst_100147.webp
-│           ├── inst_100148.webp
-│           ├── inst_100150.webp
-│           ├── inst_100151.webp
-│           ├── inst_100152.webp
-│           ├── inst_100154.webp
-│           ├── inst_100156.webp
-│           ├── inst_100157.webp
-│           ├── inst_100158.webp
-│           ├── inst_100160.webp
-│           ├── inst_100161.webp
-│           ├── inst_100163.webp
-│           ├── inst_100164.webp
-│           ├── inst_100165.webp
-│           ├── inst_100166.webp
-│           ├── inst_100167.webp
-│           ├── inst_100169.webp
-│           ├── inst_100170.webp
-│           ├── inst_100171.webp
-│           ├── inst_100172.webp
-│           ├── inst_100173.webp
-│           ├── inst_100175.webp
-│           ├── inst_100176.webp
-│           ├── inst_100177.webp
-│           ├── inst_100178.webp
-│           ├── inst_100179.webp
-│           ├── inst_100181.webp
-│           ├── inst_100182.webp
-│           ├── inst_100183.webp
-│           ├── inst_100193.webp
-│           ├── inst_100194.webp
-│           ├── inst_100197.webp
-│           ├── inst_100198.webp
-│           ├── inst_100199.webp
-│           ├── inst_100202.webp
-│           ├── inst_100203.webp
-│           ├── inst_100204.webp
-│           ├── inst_100205.webp
-│           ├── inst_100206.webp
-│           ├── inst_100207.webp
-│           ├── inst_100208.webp
-│           ├── inst_100209.webp
-│           ├── inst_100210.webp
-│           ├── inst_100211.webp
-│           ├── inst_100212.webp
-│           ├── inst_100213.webp
-│           ├── inst_100214.webp
-│           ├── inst_100215.webp
-│           ├── inst_100216.webp
-│           ├── inst_100217.webp
-│           ├── inst_100218.webp
-│           ├── inst_100219.webp
-│           ├── inst_100220.webp
-│           ├── inst_100675.webp
-│           ├── inst_100676.webp
-│           ├── inst_100678.webp
-│           ├── inst_100681.webp
-│           ├── inst_100682.webp
-│           ├── inst_100683.webp
-│           ├── inst_100684.webp
-│           ├── inst_100685.webp
-│           ├── inst_100687.webp
-│           ├── inst_100689.webp
-│           ├── inst_100690.webp
-│           ├── inst_100691.webp
-│           ├── inst_100695.webp
-│           ├── inst_100696.webp
-│           ├── inst_100697.webp
-│           ├── inst_100750.webp
-│           ├── inst_100751.webp
-│           ├── inst_100752.webp
-│           ├── inst_100753.webp
-│           ├── inst_100754.webp
-│           ├── inst_100755.webp
-│           ├── inst_100756.webp
-│           ├── inst_100812.webp
-│           ├── inst_100813.webp
-│           ├── inst_100814.webp
-│           ├── inst_100815.webp
-│           ├── inst_100816.webp
-│           ├── inst_100817.webp
-│           ├── inst_100818.webp
-│           ├── inst_100819.webp
-│           ├── inst_100825.webp
-│           ├── inst_100827.webp
-│           ├── inst_100828.webp
-│           ├── inst_100829.webp
-│           ├── inst_100830.webp
-│           ├── inst_100831.webp
-│           ├── inst_100832.webp
-│           ├── inst_100834.webp
-│           ├── inst_100835.webp
-│           ├── inst_100836.webp
-│           ├── inst_100837.webp
-│           ├── inst_100839.webp
-│           ├── inst_100840.webp
-│           ├── inst_100841.webp
-│           ├── inst_100842.webp
-│           ├── inst_100843.webp
-│           ├── inst_100844.webp
-│           ├── inst_100845.webp
-│           ├── inst_100846.webp
-│           ├── inst_100847.webp
-│           ├── inst_100848.webp
-│           ├── inst_100849.webp
-│           ├── inst_100850.webp
-│           ├── inst_100851.webp
-│           ├── inst_100852.webp
-│           ├── inst_100853.webp
-│           ├── inst_100854.webp
-│           ├── inst_100855.webp
-│           ├── inst_100856.webp
-│           ├── inst_100857.webp
-│           ├── inst_100858.webp
-│           ├── inst_100859.webp
-│           ├── inst_100860.webp
-│           ├── inst_100861.webp
-│           ├── inst_100862.webp
-│           ├── inst_100863.webp
-│           ├── inst_100864.webp
-│           ├── inst_100865.webp
-│           ├── inst_100866.webp
-│           ├── inst_100867.webp
-│           └── inst_100868.webp
+│   ├── assets
+│   │   └── instruments
+│   │       ├── inst_100001.webp
+│   │       ├── inst_100002.webp
+│   │       ├── inst_100004.webp
+│   │       ├── inst_100005.webp
+│   │       ├── inst_100006.webp
+│   │       ├── inst_100007.webp
+│   │       ├── inst_100009.webp
+│   │       ├── inst_100011.webp
+│   │       ├── inst_100015.webp
+│   │       ├── inst_100016.webp
+│   │       ├── inst_100017.webp
+│   │       ├── inst_100018.webp
+│   │       ├── inst_100019.webp
+│   │       ├── inst_100020.webp
+│   │       ├── inst_100021.webp
+│   │       ├── inst_100022.webp
+│   │       ├── inst_100023.webp
+│   │       ├── inst_100024.webp
+│   │       ├── inst_100025.webp
+│   │       ├── inst_100026.webp
+│   │       ├── inst_100027.webp
+│   │       ├── inst_100028.webp
+│   │       ├── inst_100029.webp
+│   │       ├── inst_100030.webp
+│   │       ├── inst_100031.webp
+│   │       ├── inst_100032.webp
+│   │       ├── inst_100033.webp
+│   │       ├── inst_100034.webp
+│   │       ├── inst_100035.webp
+│   │       ├── inst_100036.webp
+│   │       ├── inst_100037.webp
+│   │       ├── inst_100038.webp
+│   │       ├── inst_100039.webp
+│   │       ├── inst_100040.webp
+│   │       ├── inst_100041.webp
+│   │       ├── inst_100042.webp
+│   │       ├── inst_100043.webp
+│   │       ├── inst_100044.webp
+│   │       ├── inst_100045.webp
+│   │       ├── inst_100046.webp
+│   │       ├── inst_100047.webp
+│   │       ├── inst_100048.webp
+│   │       ├── inst_100049.webp
+│   │       ├── inst_100050.webp
+│   │       ├── inst_100055.webp
+│   │       ├── inst_100056.webp
+│   │       ├── inst_100057.webp
+│   │       ├── inst_100058.webp
+│   │       ├── inst_100059.webp
+│   │       ├── inst_100060.webp
+│   │       ├── inst_100061.webp
+│   │       ├── inst_100062.webp
+│   │       ├── inst_100063.webp
+│   │       ├── inst_100064.webp
+│   │       ├── inst_100065.webp
+│   │       ├── inst_100066.webp
+│   │       ├── inst_100067.webp
+│   │       ├── inst_100068.webp
+│   │       ├── inst_100069.webp
+│   │       ├── inst_100070.webp
+│   │       ├── inst_100071.webp
+│   │       ├── inst_100072.webp
+│   │       ├── inst_100073.webp
+│   │       ├── inst_100074.webp
+│   │       ├── inst_100075.webp
+│   │       ├── inst_100076.webp
+│   │       ├── inst_100077.webp
+│   │       ├── inst_100078.webp
+│   │       ├── inst_100079.webp
+│   │       ├── inst_100080.webp
+│   │       ├── inst_100081.webp
+│   │       ├── inst_100082.webp
+│   │       ├── inst_100083.webp
+│   │       ├── inst_100084.webp
+│   │       ├── inst_100085.webp
+│   │       ├── inst_100086.webp
+│   │       ├── inst_100087.webp
+│   │       ├── inst_100088.webp
+│   │       ├── inst_100089.webp
+│   │       ├── inst_100090.webp
+│   │       ├── inst_100091.webp
+│   │       ├── inst_100092.webp
+│   │       ├── inst_100093.webp
+│   │       ├── inst_100094.webp
+│   │       ├── inst_100095.webp
+│   │       ├── inst_100096.webp
+│   │       ├── inst_100097.webp
+│   │       ├── inst_100098.webp
+│   │       ├── inst_100099.webp
+│   │       ├── inst_100100.webp
+│   │       ├── inst_100101.webp
+│   │       ├── inst_100102.webp
+│   │       ├── inst_100103.webp
+│   │       ├── inst_100104.webp
+│   │       ├── inst_100106.webp
+│   │       ├── inst_100107.webp
+│   │       ├── inst_100108.webp
+│   │       ├── inst_100109.webp
+│   │       ├── inst_100110.webp
+│   │       ├── inst_100111.webp
+│   │       ├── inst_100123.webp
+│   │       ├── inst_100125.webp
+│   │       ├── inst_100126.webp
+│   │       ├── inst_100127.webp
+│   │       ├── inst_100129.webp
+│   │       ├── inst_100130.webp
+│   │       ├── inst_100132.webp
+│   │       ├── inst_100133.webp
+│   │       ├── inst_100134.webp
+│   │       ├── inst_100135.webp
+│   │       ├── inst_100136.webp
+│   │       ├── inst_100138.webp
+│   │       ├── inst_100139.webp
+│   │       ├── inst_100140.webp
+│   │       ├── inst_100141.webp
+│   │       ├── inst_100142.webp
+│   │       ├── inst_100144.webp
+│   │       ├── inst_100145.webp
+│   │       ├── inst_100146.webp
+│   │       ├── inst_100147.webp
+│   │       ├── inst_100148.webp
+│   │       ├── inst_100150.webp
+│   │       ├── inst_100151.webp
+│   │       ├── inst_100152.webp
+│   │       ├── inst_100154.webp
+│   │       ├── inst_100156.webp
+│   │       ├── inst_100157.webp
+│   │       ├── inst_100158.webp
+│   │       ├── inst_100160.webp
+│   │       ├── inst_100161.webp
+│   │       ├── inst_100163.webp
+│   │       ├── inst_100164.webp
+│   │       ├── inst_100165.webp
+│   │       ├── inst_100166.webp
+│   │       ├── inst_100167.webp
+│   │       ├── inst_100169.webp
+│   │       ├── inst_100170.webp
+│   │       ├── inst_100171.webp
+│   │       ├── inst_100172.webp
+│   │       ├── inst_100173.webp
+│   │       ├── inst_100175.webp
+│   │       ├── inst_100176.webp
+│   │       ├── inst_100177.webp
+│   │       ├── inst_100178.webp
+│   │       ├── inst_100179.webp
+│   │       ├── inst_100181.webp
+│   │       ├── inst_100182.webp
+│   │       ├── inst_100183.webp
+│   │       ├── inst_100193.webp
+│   │       ├── inst_100194.webp
+│   │       ├── inst_100197.webp
+│   │       ├── inst_100198.webp
+│   │       ├── inst_100199.webp
+│   │       ├── inst_100202.webp
+│   │       ├── inst_100203.webp
+│   │       ├── inst_100204.webp
+│   │       ├── inst_100205.webp
+│   │       ├── inst_100206.webp
+│   │       ├── inst_100207.webp
+│   │       ├── inst_100208.webp
+│   │       ├── inst_100209.webp
+│   │       ├── inst_100210.webp
+│   │       ├── inst_100211.webp
+│   │       ├── inst_100212.webp
+│   │       ├── inst_100213.webp
+│   │       ├── inst_100214.webp
+│   │       ├── inst_100215.webp
+│   │       ├── inst_100216.webp
+│   │       ├── inst_100217.webp
+│   │       ├── inst_100218.webp
+│   │       ├── inst_100219.webp
+│   │       ├── inst_100220.webp
+│   │       ├── inst_100675.webp
+│   │       ├── inst_100676.webp
+│   │       ├── inst_100678.webp
+│   │       ├── inst_100681.webp
+│   │       ├── inst_100682.webp
+│   │       ├── inst_100683.webp
+│   │       ├── inst_100684.webp
+│   │       ├── inst_100685.webp
+│   │       ├── inst_100687.webp
+│   │       ├── inst_100689.webp
+│   │       ├── inst_100690.webp
+│   │       ├── inst_100691.webp
+│   │       ├── inst_100695.webp
+│   │       ├── inst_100696.webp
+│   │       ├── inst_100697.webp
+│   │       ├── inst_100750.webp
+│   │       ├── inst_100751.webp
+│   │       ├── inst_100752.webp
+│   │       ├── inst_100753.webp
+│   │       ├── inst_100754.webp
+│   │       ├── inst_100755.webp
+│   │       ├── inst_100756.webp
+│   │       ├── inst_100812.webp
+│   │       ├── inst_100813.webp
+│   │       ├── inst_100814.webp
+│   │       ├── inst_100815.webp
+│   │       ├── inst_100816.webp
+│   │       ├── inst_100817.webp
+│   │       ├── inst_100818.webp
+│   │       ├── inst_100819.webp
+│   │       ├── inst_100825.webp
+│   │       ├── inst_100827.webp
+│   │       ├── inst_100828.webp
+│   │       ├── inst_100829.webp
+│   │       ├── inst_100830.webp
+│   │       ├── inst_100831.webp
+│   │       ├── inst_100832.webp
+│   │       ├── inst_100834.webp
+│   │       ├── inst_100835.webp
+│   │       ├── inst_100836.webp
+│   │       ├── inst_100837.webp
+│   │       ├── inst_100839.webp
+│   │       ├── inst_100840.webp
+│   │       ├── inst_100841.webp
+│   │       ├── inst_100842.webp
+│   │       ├── inst_100843.webp
+│   │       ├── inst_100844.webp
+│   │       ├── inst_100845.webp
+│   │       ├── inst_100846.webp
+│   │       ├── inst_100847.webp
+│   │       ├── inst_100848.webp
+│   │       ├── inst_100849.webp
+│   │       ├── inst_100850.webp
+│   │       ├── inst_100851.webp
+│   │       ├── inst_100852.webp
+│   │       ├── inst_100853.webp
+│   │       ├── inst_100854.webp
+│   │       ├── inst_100855.webp
+│   │       ├── inst_100856.webp
+│   │       ├── inst_100857.webp
+│   │       ├── inst_100858.webp
+│   │       ├── inst_100859.webp
+│   │       ├── inst_100860.webp
+│   │       ├── inst_100861.webp
+│   │       ├── inst_100862.webp
+│   │       ├── inst_100863.webp
+│   │       ├── inst_100864.webp
+│   │       ├── inst_100865.webp
+│   │       ├── inst_100866.webp
+│   │       ├── inst_100867.webp
+│   │       └── inst_100868.webp
+│   └── master_directory.json
 ├── scripts
 │   ├── downloadImages.js
 │   ├── package.json
