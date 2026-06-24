@@ -2,8 +2,11 @@ import fs from 'fs';
 import Papa from 'papaparse';
 
 const DATA_DIR = './data';
+const PUBLIC_DIR = './public'; // 👈 NEW: Added public directory mapping
 const BACKUP_DIR = './data/backups';
-const MASTER_JSON = `${DATA_DIR}/master_directory.json`;
+
+// 👈 CHANGED: Route the live master JSON directly to the public folder for Vercel
+const MASTER_JSON = `${PUBLIC_DIR}/master_directory.json`; 
 const HISTORY_JSON = `${DATA_DIR}/sync_history.json`;
 
 const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
@@ -39,7 +42,6 @@ async function runSync() {
         logEntry.rows_total = rows.length - 1; 
 
         // 🧠 ADAPTIVE HEADER SYSTEM
-        // Converts ANY column name (even new ones added later) into standard snake_case
         const rawHeaders = rows[0];
         const headers = rawHeaders.map(header => {
             return header.toString().toLowerCase()
@@ -59,28 +61,28 @@ async function runSync() {
                 if (cellValue !== "") isRowEmpty = false;
             });
 
-            // If the sheet has 1000 empty rows at the bottom, ignore them
             if (isRowEmpty) continue;
 
-            // SMART FILTER: If an 'approval_status' column is added later, enforce it.
-            // If it does not exist currently, export all rows natively.
             if (rowObj.hasOwnProperty('approval_status')) {
                 if (rowObj.approval_status.toLowerCase() === 'approved') {
                     exportData.push(rowObj);
                 }
             } else {
-                exportData.push(rowObj); // No approval column? Export everything.
+                exportData.push(rowObj); 
             }
         }
         
         logEntry.rows_exported = exportData.length;
 
-        // Save Artifacts Securely
+        // 👈 Ensure ALL directories exist before saving
         if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
         if (!fs.existsSync(BACKUP_DIR)) fs.mkdirSync(BACKUP_DIR, { recursive: true });
+        if (!fs.existsSync(PUBLIC_DIR)) fs.mkdirSync(PUBLIC_DIR, { recursive: true }); // NEW
 
+        // 👈 Save the LIVE API file to the public folder
         fs.writeFileSync(MASTER_JSON, JSON.stringify(exportData, null, 2));
         
+        // Keep the backups hidden safely in the data folder
         const safeTime = timestamp.replace(/:/g, '-');
         fs.writeFileSync(`${BACKUP_DIR}/master_${safeTime}.json`, JSON.stringify(exportData));
 
@@ -102,5 +104,4 @@ async function runSync() {
     }
 }
 
-// Catches unhandled errors gracefully so GitHub Actions shows a clean failure log
 runSync().catch(() => process.exit(1));
