@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 29 Jun 2026 08:53:12 GMT*
+*Auto-generated on: Mon, 29 Jun 2026 08:57:46 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -14,6 +14,9 @@ This document serves as a live map and analytics overview of your JSON data endp
 - **Total Records:** 893
 - **Images Directory:** `/assets/master_directory/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
+- **Tabs Synced:**
+  - `Main Data` (870 items)
+  - `Instituitiion list` (23 items)
 - **JSON Structure:**
   - `data.main_data`: Array containing **870** items.
   - `data.instituitiion_list`: Array containing **23** items.

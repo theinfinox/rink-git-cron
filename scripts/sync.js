@@ -245,11 +245,13 @@ async function runSync() {
             // Collect data for the automated API Report
             let tabDocs = [];
             if (isMultiTab) {
-                for (const key of Object.keys(finalData)) {
-                    tabDocs.push({ name: key, count: finalData[key].length });
+                for (const tab of tabsToFetch) {
+                    const snakeKey = toSnakeCase(tab.name);
+                    const count = finalData[snakeKey] ? finalData[snakeKey].length : 0;
+                    tabDocs.push({ originalName: tab.name, snakeKey: snakeKey, count: count });
                 }
             } else {
-                tabDocs.push({ name: 'Root Array', count: finalData.length });
+                tabDocs.push({ originalName: 'Root Array', snakeKey: 'Root Array', count: finalData.length });
             }
 
             apiReport.push({
@@ -302,12 +304,20 @@ async function runSync() {
         if (doc.totalDropped > 0) markdown += `- **Discarded Records:** ⚠️ ${doc.totalDropped} rows failed validation rules and were dropped.\n`;
         markdown += `- **Images Directory:** \`/assets/${doc.snakeCaseName}/\`\n`;
         markdown += `- **Image Naming Structure:** \`<row_id>_<column_name>.webp\` *(Fallback: random hash if row lacks an \`id\` column)*\n`;
+        markdown += `- **Tabs Synced:**\n`;
+        for (const tab of doc.tabs) {
+            if (tab.originalName === 'Root Array') {
+                markdown += `  - Single Dataset (${tab.count} items)\n`;
+            } else {
+                markdown += `  - \`${tab.originalName}\` (${tab.count} items)\n`;
+            }
+        }
         markdown += `- **JSON Structure:**\n`;
         for (const tab of doc.tabs) {
-            if (tab.name === 'Root Array') {
+            if (tab.originalName === 'Root Array') {
                 markdown += `  - Returns a flat JSON Array (` + "`[ { ... } ]`" + `) containing **${tab.count}** items.\n`;
             } else {
-                markdown += `  - \`data.${tab.name}\`: Array containing **${tab.count}** items.\n`;
+                markdown += `  - \`data.${tab.snakeKey}\`: Array containing **${tab.count}** items.\n`;
             }
         }
         markdown += `\n---\n\n`;
