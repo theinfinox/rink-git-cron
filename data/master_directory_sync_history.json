@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-06-29T08:26:26.950Z",
+    "sheet_name": "Master Directory",
+    "status": "FAILED",
+    "error_code": "ERR_FETCH_FAILED",
+    "rows_total": 0,
+    "rows_exported": 0,
+    "error_message": "HTTP Error 404: Failed to download CSV for tab Instruments."
+  },
+  {
     "timestamp": "2026-06-29T08:24:27.086Z",
     "sheet_name": "Master Directory",
     "status": "FAILED",
