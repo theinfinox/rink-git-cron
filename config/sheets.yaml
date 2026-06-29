@@ -1,7 +1,5 @@
 - name: Master Directory
-  spreadsheetId: YOUR_SPREADSHEET_ID_HERE
+  spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
   tabs:
-    - name: Instruments
-      gid: 0
-    - name: Equipment
-      gid: 12345
+    - name: Main Data
+      gid: 5695880
