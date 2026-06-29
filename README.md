@@ -56,6 +56,20 @@ It will automatically:
 
 ---
 
+## 🗺️ Automated API Documentation
+
+Every time the pipeline runs, it automatically generates a live **API Map** at [`public/API_DIRECTORY.md`](public/API_DIRECTORY.md). 
+
+This file serves as dynamic documentation for your frontend developers. It explicitly lists:
+- Every active JSON endpoint URL.
+- The total record count for each endpoint.
+- Where the images for that endpoint are stored, and how their slugs are formatted.
+- The exact JSON object structure and keys available.
+
+Because it is committed to the `public/` directory, this documentation is always guaranteed to be 100% accurate to your live data.
+
+---
+
 ## 🏃‍♂️ How to Run Locally
 
 If you want to test the sync locally on your machine:

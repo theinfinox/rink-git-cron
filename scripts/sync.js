@@ -1,6 +1,8 @@
 import fs from 'fs';
 import Papa from 'papaparse';
 import yaml from 'yaml';
+import crypto from 'crypto';
+import { marked } from 'marked';
 
 const DATA_DIR = './data';
 const PUBLIC_DIR = './public';
@@ -56,6 +58,8 @@ async function runSync() {
         console.warn("⚠️ Configuration file is empty or invalid.");
     }
 
+    const apiReport = [];
+
     for (const sheet of sheetsConfig) {
         const timestamp = new Date().toISOString();
         const snakeCaseName = toSnakeCase(sheet.name);
@@ -96,6 +100,32 @@ async function runSync() {
                 }
                 const csvText = await response.text();
 
+                // INCREMENTAL SYNC LOGIC
+                const hash = crypto.createHash('md5').update(csvText).digest('hex');
+                const HASH_FILE = `${DATA_DIR}/${snakeCaseName}_${toSnakeCase(tab.name)}_hash.json`;
+                let previousHash = null;
+                if (fs.existsSync(HASH_FILE)) {
+                    try { previousHash = JSON.parse(fs.readFileSync(HASH_FILE, 'utf8')).hash; } catch(e) {}
+                }
+
+                if (previousHash === hash && fs.existsSync(MASTER_JSON)) {
+                    console.log(`⏭️  No changes detected for ${sheet.name} (Tab: ${tab.name}). Using cached data to save compute time!`);
+                    
+                    const cachedMaster = JSON.parse(fs.readFileSync(MASTER_JSON, 'utf8'));
+                    let cachedData = [];
+                    if (isMultiTab && cachedMaster[toSnakeCase(tab.name)]) {
+                        cachedData = cachedMaster[toSnakeCase(tab.name)];
+                        finalData[toSnakeCase(tab.name)] = cachedData;
+                    } else if (!isMultiTab && Array.isArray(cachedMaster)) {
+                        cachedData = cachedMaster;
+                        finalData.push(...cachedData);
+                    }
+                    
+                    logEntry.rows_total += cachedData.length;
+                    logEntry.rows_exported += cachedData.length;
+                    continue; // Skip the heavy processing for this tab!
+                }
+
                 const parsed = Papa.parse(csvText, { header: false, skipEmptyLines: true });
                 const rows = parsed.data;
 
@@ -125,12 +155,32 @@ async function runSync() {
                     let isRowEmpty = true;
                     
                     headers.forEach((header, index) => {
-                        const cellValue = rows[i][index] ? rows[i][index].trim() : "";
+                        let cellValue = rows[i][index] ? rows[i][index].trim() : "";
+                        
+                        // MARKDOWN AUTO-CONVERSION
+                        // If cell contains potential markdown (bold, italic, list, links) and is not a raw URL
+                        if (cellValue && /[\*\_\-\[\]\n]/.test(cellValue) && !cellValue.startsWith('http')) {
+                            try { cellValue = marked.parseInline(cellValue); } catch(e) {}
+                        }
+
                         rowObj[header] = cellValue;
                         if (cellValue !== "") isRowEmpty = false;
                     });
 
                     if (isRowEmpty) continue;
+
+                    // DATA VALIDATION RULES
+                    if (tab.required && Array.isArray(tab.required)) {
+                        let missingRequired = false;
+                        for (const reqCol of tab.required) {
+                            if (!rowObj[reqCol] || rowObj[reqCol] === "") {
+                                console.warn(`⚠️ Row ${i+1} in ${tab.name} is missing required column '${reqCol}'. Skipping row.`);
+                                missingRequired = true;
+                                break;
+                            }
+                        }
+                        if (missingRequired) continue;
+                    }
 
                     // 🧠 TRANSFORM ALL IMAGE LINKS FOR FRONTEND
                     for (const key of Object.keys(rowObj)) {
@@ -164,6 +214,9 @@ async function runSync() {
                 } else {
                     finalData.push(...exportData);
                 }
+
+                // Update hash cache after successful processing
+                fs.writeFileSync(HASH_FILE, JSON.stringify({ hash, timestamp: new Date().toISOString() }));
             }
 
             // Save the LIVE API file safely using atomic write
@@ -189,6 +242,25 @@ async function runSync() {
 
             console.log(`✅ Sync Complete for ${sheet.name}! ${logEntry.rows_exported} total records processed and exported.`);
 
+            // Collect data for the automated API Report
+            let tabDocs = [];
+            if (isMultiTab) {
+                for (const key of Object.keys(finalData)) {
+                    tabDocs.push({ name: key, count: finalData[key].length });
+                }
+            } else {
+                tabDocs.push({ name: 'Root Array', count: finalData.length });
+            }
+
+            apiReport.push({
+                endpoint: `/${snakeCaseName}.json`,
+                sheetName: sheet.name,
+                snakeCaseName: snakeCaseName,
+                tabs: tabDocs,
+                totalRecords: logEntry.rows_exported,
+                totalDropped: logEntry.rows_total - logEntry.rows_exported
+            });
+
         } catch (error) {
             console.error(`❌ SYNC FAILED for ${sheet.name}: ${error.code || 'ERR_UNKNOWN'} - ${error.message || error}`);
             logEntry.status = 'FAILED';
@@ -203,6 +275,46 @@ async function runSync() {
             fs.writeFileSync(HISTORY_JSON, JSON.stringify(history.slice(0, 50), null, 2));
         }
     }
+
+    // Generate the Automated API Directory Report
+    console.log("📝 Generating API Directory Report...");
+    
+    let totalEndpoints = apiReport.length;
+    let totalRecordsAcrossAll = apiReport.reduce((sum, doc) => sum + doc.totalRecords, 0);
+    let totalDroppedAcrossAll = apiReport.reduce((sum, doc) => sum + doc.totalDropped, 0);
+
+    let markdown = `# 📡 RINK Data API Directory\n`;
+    markdown += `*Auto-generated on: ${new Date().toUTCString()}*\n\n`;
+    markdown += `This document serves as a live map and analytics overview of your JSON data endpoints.\n\n`;
+    
+    markdown += `## 📊 Global Analytics\n`;
+    markdown += `- **Total Data Endpoints:** ${totalEndpoints}\n`;
+    markdown += `- **Total Active Records:** ${totalRecordsAcrossAll}\n`;
+    if (totalDroppedAcrossAll > 0) {
+        markdown += `- **Total Discarded Records:** ⚠️ ${totalDroppedAcrossAll} (Failed validation)\n`;
+    }
+    markdown += `\n---\n\n`;
+
+    for (const doc of apiReport) {
+        markdown += `## 📄 ${doc.sheetName}\n`;
+        markdown += `- **Endpoint URL:** \`${doc.endpoint}\`\n`;
+        markdown += `- **Total Records:** ${doc.totalRecords}\n`;
+        if (doc.totalDropped > 0) markdown += `- **Discarded Records:** ⚠️ ${doc.totalDropped} rows failed validation rules and were dropped.\n`;
+        markdown += `- **Images Directory:** \`/assets/${doc.snakeCaseName}/\`\n`;
+        markdown += `- **Image Naming Structure:** \`<row_id>_<column_name>.webp\` *(Fallback: random hash if row lacks an \`id\` column)*\n`;
+        markdown += `- **JSON Structure:**\n`;
+        for (const tab of doc.tabs) {
+            if (tab.name === 'Root Array') {
+                markdown += `  - Returns a flat JSON Array (` + "`[ { ... } ]`" + `) containing **${tab.count}** items.\n`;
+            } else {
+                markdown += `  - \`data.${tab.name}\`: Array containing **${tab.count}** items.\n`;
+            }
+        }
+        markdown += `\n---\n\n`;
+    }
+
+    fs.writeFileSync(`${PUBLIC_DIR}/API_DIRECTORY.md`, markdown);
+    console.log(`✅ API Report saved to ${PUBLIC_DIR}/API_DIRECTORY.md`);
 }
 
 runSync().catch(() => process.exit(1));

@@ -26,6 +26,10 @@ async function runDownload() {
     const files = fs.readdirSync(PUBLIC_DIR);
     const jsonFiles = files.filter(file => file.endsWith('.json'));
 
+    let globalDownloadedCount = 0;
+    let globalSkippedCount = 0;
+    let globalErrorCount = 0;
+
     for (const jsonFile of jsonFiles) {
         const snakeCaseName = path.basename(jsonFile, '.json');
         const dataJsonPath = path.join(PUBLIC_DIR, jsonFile);
@@ -134,6 +138,26 @@ async function runDownload() {
         console.log(`   Downloaded: ${downloadedCount}`);
         console.log(`   Skipped:    ${skippedCount}`);
         console.log(`   Errors:     ${errorCount}`);
+
+        globalDownloadedCount += downloadedCount;
+        globalSkippedCount += skippedCount;
+        globalErrorCount += errorCount;
+    }
+
+    // Append Image Analytics to the API Directory Report
+    const apiDocPath = path.join(PUBLIC_DIR, 'API_DIRECTORY.md');
+    if (fs.existsSync(apiDocPath)) {
+        console.log("📝 Appending Image Analytics to API Directory Report...");
+        let imageMarkdown = `\n## 🖼️ Image Pipeline Analytics\n`;
+        imageMarkdown += `- **Total Active Images:** ${globalDownloadedCount + globalSkippedCount}\n`;
+        imageMarkdown += `- **Newly Downloaded:** ${globalDownloadedCount}\n`;
+        imageMarkdown += `- **Served from Cache:** ${globalSkippedCount}\n`;
+        if (globalErrorCount > 0) {
+            imageMarkdown += `- **Broken Links/Errors:** ⚠️ ${globalErrorCount} (Check Action Logs)\n`;
+        }
+        imageMarkdown += `\n---\n`;
+        fs.appendFileSync(apiDocPath, imageMarkdown);
+        console.log(`✅ Image Analytics appended to ${apiDocPath}`);
     }
 }
 
