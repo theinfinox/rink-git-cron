@@ -11,5 +11,6 @@ sheets:
         splitColumns:
           - column: "tag"
             delimiter: ","
+        imageColumns: "image_link"
       - name: Instituitiion list
         gid: 1583764603
