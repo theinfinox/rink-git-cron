@@ -26,7 +26,7 @@ sheets:
     # 3. 🧠 DYNAMIC FILTERS (Optional): Auto-generate an API for frontend filter menus
     # It cross-references the live Google Sheet against these predefined categories.
     filterTaxonomy:
-      district:
+      standardized_district:
         "South Zone": ["Thiruvananthapuram", "Kollam", "Pathanamthitta"]
         "Central Zone": ["Ernakulam", "Thrissur"]
       tag:
@@ -93,7 +93,7 @@ A list of specific tabs within the spreadsheet to sync.
 
 #### `filterTaxonomy` (Object)
 *Optional but powerful.* Used to auto-generate a `filters.json` endpoint for your frontend menus.
-You provide a structured taxonomy (e.g., grouping specific `district` values into zones, or `tag` values into research domains). As the engine syncs your sheet, it cross-references the live data. If a row contains a district or tag not listed in your predefined taxonomy, the engine automatically adds it to an `"Other Districts"` or `"Other Tags"` bucket. This allows your frontend to pull a perfectly structured and live filter menu natively from the backend without any hardcoding!
+You provide a structured taxonomy mapped **exactly to your column headers**. The engine dynamically parses whatever keys you provide (e.g., `standardized_district`, `tag`, `funding_agency`). As the engine syncs your sheet, it cross-references the live data in those specific columns against your categories. If a row contains a value not listed in your predefined taxonomy, the engine automatically adds it to an `"Other [ColumnName]"` bucket. This allows your frontend to pull a perfectly structured and live filter menu natively from the backend without any hardcoding!
 
 ---
 

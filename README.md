@@ -94,9 +94,9 @@ If you utilize the `filterTaxonomy` configuration in `sheets.yaml`, the backend 
 **The JSON Structure:**
 ```json
 {
-  "district": {
+  "standardized_district": {
     "South Zone": ["Thiruvananthapuram", "Kollam"],
-    "Other Districts": ["Palakkad"]
+    "Other Standardized_districts": ["Palakkad"]
   },
   "tag": {
     "Life Sciences": ["genomics", "bioinformatics"],
@@ -107,12 +107,12 @@ If you utilize the `filterTaxonomy` configuration in `sheets.yaml`, the backend 
 
 **How the Frontend Should Consume This:**
 1. Fetch `https://[your-domain]/api/[sheet]/filters.json` into your state manager (e.g. Zustand).
-2. Use `Object.keys(data)` to automatically discover filter sections (e.g., District, Tag).
+2. Use `Object.keys(data)` to automatically discover filter sections (e.g., `standardized_district`, `tag`).
 3. For each section, use `Object.entries(data[sectionKey])` to render the group headers ("South Zone") and their respective checkboxes ("Kollam").
 
 **Zero-Maintenance Architecture:**
-- **Unknown Values:** If someone types a brand new district into Google Sheets, it automatically appears in the `"Other Districts"` array and instantly renders on the frontend.
-- **New Filter Categories:** If you add a new filter category (like `funding_agency`) to `sheets.yaml`, the backend outputs a new root key, and the frontend's dynamic `Object.keys()` loop instantly spawns a new sidebar section without *any* frontend code changes!
+- **Unknown Values:** If someone types a brand new district into Google Sheets, it automatically appears in the `"Other Standardized_districts"` array and instantly renders on the frontend.
+- **New Filter Categories:** Because the backend engine parses `Object.keys(filterTaxonomy)` dynamically, if you add a new filter category (like `funding_agency`) to `sheets.yaml`, the backend outputs a new root key. The frontend's dynamic `Object.keys()` loop instantly spawns a new sidebar section without *any* backend or frontend code changes!
 
 ---
 
