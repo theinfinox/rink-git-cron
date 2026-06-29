@@ -7,6 +7,9 @@ sheets:
         gid: 5695880
         excludeRowsWhere:
           - column: "id"
-            equals: "id" 
+            equals: "id"
+        splitColumns:
+          - column: "tag"
+            delimiter: ","
       - name: Instituitiion list
         gid: 1583764603
