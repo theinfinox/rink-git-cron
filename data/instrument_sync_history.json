@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-06-29T11:23:05.569Z",
+    "sheet_name": "instrument",
+    "status": "SUCCESS",
+    "error_code": null,
+    "rows_total": 893,
+    "rows_exported": 892,
+    "rows_dropped": null
+  },
+  {
     "timestamp": "2026-06-29T11:01:43.405Z",
     "sheet_name": "instrument",
     "status": "SUCCESS",

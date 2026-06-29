@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 29 Jun 2026 11:01:50 GMT*
+*Auto-generated on: Mon, 29 Jun 2026 11:23:12 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -42,11 +42,3 @@ To allow local AI agents to natively query and search this database, add this to
 
 ---
 
-
-## 🖼️ Image Pipeline Analytics
-- **Total Active Images:** 243
-- **Newly Downloaded:** 0
-- **Served from Cache:** 243
-- **Broken Links/Errors:** ⚠️ 8 (Check Action Logs)
-
----

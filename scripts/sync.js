@@ -110,9 +110,9 @@ async function runSync() {
                 const csvText = await response.text();
 
                 // INCREMENTAL SYNC LOGIC
-                // We hash both the CSV data and the tab configuration from sheets.yaml. 
-                // This ensures if the user adds an 'excludeColumns' or 'imageColumns' filter, the cache correctly invalidates!
-                const configString = JSON.stringify(tab);
+                // We hash both the CSV data and the tab/sheet configuration from sheets.yaml. 
+                // This ensures if the user adds an 'excludeColumns' or 'filterTaxonomy', the cache correctly invalidates!
+                const configString = JSON.stringify(tab) + JSON.stringify(sheet.filterTaxonomy || {});
                 const hash = crypto.createHash('md5').update(csvText + configString).digest('hex');
                 const HASH_FILE = `${DATA_DIR}/${snakeCaseName}_${toSnakeCase(tab.name)}_hash.json`;
                 let previousHash = null;
@@ -325,6 +325,58 @@ async function runSync() {
             }
 
             fs.writeFileSync(`${apiSheetDir}/llms.txt`, llmsText);
+
+            // 🧠 GENERATE DYNAMIC FILTERS TAXONOMY
+            if (sheet.filterTaxonomy) {
+                console.log(`🧠 Generating Dynamic Filters Pipeline for ${sheet.name}...`);
+                let filtersObj = JSON.parse(JSON.stringify(sheet.filterTaxonomy));
+                
+                const processFilterItem = (filterKey, val) => {
+                    if (!val || typeof val !== 'string') return;
+                    let foundInGroup = false;
+                    if (filtersObj[filterKey]) {
+                        for (const groupName in filtersObj[filterKey]) {
+                            if (filtersObj[filterKey][groupName].includes(val)) {
+                                foundInGroup = true;
+                                break;
+                            }
+                        }
+                    } else {
+                        filtersObj[filterKey] = {};
+                    }
+                    
+                    if (!foundInGroup) {
+                        const otherGroupName = filterKey === 'district' ? 'Other Districts' : 'Other Tags';
+                        if (!filtersObj[filterKey][otherGroupName]) {
+                            filtersObj[filterKey][otherGroupName] = [];
+                        }
+                        if (!filtersObj[filterKey][otherGroupName].includes(val)) {
+                            filtersObj[filterKey][otherGroupName].push(val);
+                        }
+                    }
+                };
+
+                const parseRowForFilters = (row) => {
+                    ['district', 'tag'].forEach(filterKey => {
+                        let values = row[filterKey];
+                        if (values) {
+                            if (!Array.isArray(values)) values = [values];
+                            values.forEach(val => processFilterItem(filterKey, val));
+                        }
+                    });
+                };
+
+                if (isMultiTab) {
+                    for (const key of Object.keys(finalData)) {
+                        finalData[key].forEach(parseRowForFilters);
+                    }
+                } else {
+                    finalData.forEach(parseRowForFilters);
+                }
+
+                validFileNames.add('filters.json');
+                fs.writeFileSync(`${apiSheetDir}/filters.json`, JSON.stringify(filtersObj, null, 2));
+            }
 
             // Orphan Cleanup: delete old JSON files that no longer exist
             const existingFiles = fs.readdirSync(apiSheetDir).filter(f => f.endsWith('.json'));
