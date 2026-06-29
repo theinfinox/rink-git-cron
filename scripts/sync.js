@@ -430,7 +430,8 @@ async function runSync() {
                 snakeCaseName: snakeCaseName,
                 tabs: tabDocs,
                 totalRecords: logEntry.rows_exported,
-                totalDropped: logEntry.rows_total - logEntry.rows_exported
+                totalDropped: logEntry.rows_total - logEntry.rows_exported,
+                hasFilters: !!sheet.filterTaxonomy
             });
 
         } catch (error) {
@@ -480,6 +481,7 @@ async function runSync() {
     for (const doc of apiReport) {
         markdown += `## 📄 ${doc.sheetName}\n`;
         markdown += `- **Endpoint URL:** \`${doc.endpoint}\`\n`;
+        if (doc.hasFilters) markdown += `- **Dynamic Filters Taxonomy:** \`/api/${doc.snakeCaseName}/filters.json\`\n`;
         markdown += `- **Total Records:** ${doc.totalRecords}\n`;
         if (doc.totalDropped > 0) markdown += `- **Discarded Records:** ⚠️ ${doc.totalDropped} rows failed validation rules and were dropped.\n`;
         markdown += `- **Images Directory:** \`/assets/${doc.snakeCaseName}/\`\n`;
@@ -567,6 +569,7 @@ async function runSync() {
     <div class="endpoint-card">
         <h2>${doc.sheetName}</h2>
         <p><strong>Primary JSON:</strong> <a href="${doc.endpoint}">${doc.endpoint}</a></p>
+        ${doc.hasFilters ? `<p><strong>Dynamic Filters:</strong> <a href="/api/${doc.snakeCaseName}/filters.json">/api/${doc.snakeCaseName}/filters.json</a></p>` : ''}
         <p><strong>AI Search Index:</strong> <a href="/api/${doc.snakeCaseName}/llms.txt">/api/${doc.snakeCaseName}/llms.txt</a></p>
         <p><strong>Images Folder:</strong> <code>/assets/${doc.snakeCaseName}/</code></p>
         <h3>Available Tabs</h3>
