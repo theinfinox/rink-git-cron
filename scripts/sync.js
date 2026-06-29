@@ -436,6 +436,58 @@ async function runSync() {
     fs.writeFileSync(`${PUBLIC_DIR}/LLM_REPORT.md`, llmMarkdown);
     console.log(`✅ LLM Report saved to ./public/LLM_REPORT.md\n`);
 
+    // Generate the Root Directory Index (index.html)
+    console.log("📄 Generating Root API Directory (index.html)...");
+    
+    let htmlContent = `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RINK Data API Directory</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; line-height: 1.6; background: #f9fafb; color: #111827; }
+        h1 { border-bottom: 2px solid #e5e7eb; padding-bottom: 0.5rem; }
+        .endpoint-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        h2 { margin-top: 0; color: #2563eb; }
+        ul { padding-left: 1.5rem; }
+        a { color: #2563eb; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        code { background: #f3f4f6; padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>📂 RINK Data API Directory</h1>
+    <p>Welcome to the live data API. Below are the available endpoints generated directly from Google Sheets.</p>
+`;
+
+    for (const doc of apiReport) {
+        htmlContent += `
+    <div class="endpoint-card">
+        <h2>${doc.sheetName}</h2>
+        <p><strong>Primary JSON:</strong> <a href="${doc.endpoint}">${doc.endpoint}</a></p>
+        <p><strong>AI Search Index:</strong> <a href="/api/${doc.snakeCaseName}/llms.txt">/api/${doc.snakeCaseName}/llms.txt</a></p>
+        <p><strong>Images Folder:</strong> <code>/assets/${doc.snakeCaseName}/</code></p>
+        <h3>Available Tabs</h3>
+        <ul>
+`;
+        for (const tab of doc.tabs) {
+            htmlContent += `            <li>${tab.originalName === 'Root Array' ? 'Single Dataset' : tab.originalName} (${tab.count} items)</li>\n`;
+        }
+        htmlContent += `        </ul>\n    </div>\n`;
+    }
+
+    htmlContent += `
+    <div style="margin-top: 2rem; font-size: 0.9rem; color: #6b7280;">
+        <p>For AI Integration instructions, see <a href="/LLM_REPORT.md">LLM_REPORT.md</a>.</p>
+        <p>Auto-generated on: ${new Date().toUTCString()}</p>
+    </div>
+</body>
+</html>`;
+
+    fs.writeFileSync(`${PUBLIC_DIR}/index.html`, htmlContent);
+    console.log(`✅ Root Index HTML saved to ./public/index.html\n`);
+
 }
 
 runSync().catch(() => process.exit(1));
