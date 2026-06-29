@@ -1,5 +1,5 @@
 {
-  "district": {
+  "standardized_district": {
     "South Zone": [
       "Thiruvananthapuram",
       "Kollam",
@@ -21,9 +21,6 @@
       "Kannur",
       "Wayanad",
       "Kasaragod"
-    ],
-    "Other Districts": [
-      "Trivandrum"
     ]
   },
   "tag": {

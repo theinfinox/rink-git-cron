@@ -357,7 +357,7 @@ async function runSync() {
                 };
 
                 const parseRowForFilters = (row) => {
-                    ['district', 'tag'].forEach(filterKey => {
+                    Object.keys(sheet.filterTaxonomy).forEach(filterKey => {
                         let values = row[filterKey];
                         if (values) {
                             if (!Array.isArray(values)) values = [values];

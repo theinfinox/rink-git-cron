@@ -15,7 +15,7 @@ sheets:
       - name: Instituitiion list
         gid: 1583764603
     filterTaxonomy:
-      district:
+      standardized_district:
         "South Zone": ["Thiruvananthapuram", "Kollam", "Pathanamthitta"]
         "Central Zone": ["Ernakulam", "Thrissur", "Alappuzha", "Kottayam", "Idukki"]
         "North-Central Zone": ["Palakkad", "Malappuram"]
