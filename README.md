@@ -82,7 +82,20 @@ If your Google Sheet has a column (e.g. `tags`) containing comma-separated lists
             delimiter: ","
 ```
 
-### Option C: Data Validation (Required Columns)
+### Option C: Explicit Image Columns (`imageColumns`)
+
+By default, the backend scans every column for Google Drive links or image URLs to automatically optimize them. If you have URLs in other columns (like `website_url` or `brochure_link`) that you *do not* want the engine to touch, you can explicitly define which columns are images.
+
+You can provide a YAML array or a comma-separated string:
+```yaml
+    tabs:
+      - name: Main Data
+        gid: 5695880
+        imageColumns: "image_link, cover_photo" # or ["image_link", "cover_photo"]
+```
+*Result: Only the `image_link` and `cover_photo` columns will be scanned for image processing. All other URLs will be ignored.*
+
+### Option D: Data Validation (Required Columns)
 
 You **do not** need to name your columns `image_link`. 
 

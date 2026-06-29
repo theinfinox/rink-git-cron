@@ -231,18 +231,30 @@ async function runSync() {
                     }
 
                     // 🧠 TRANSFORM ALL IMAGE LINKS FOR FRONTEND
+                    let imageColumnsList = null;
+                    if (tab.imageColumns) {
+                        if (Array.isArray(tab.imageColumns)) {
+                            imageColumnsList = tab.imageColumns.map(toSnakeCase);
+                        } else if (typeof tab.imageColumns === 'string') {
+                            imageColumnsList = tab.imageColumns.split(',').map(s => toSnakeCase(s.trim()));
+                        }
+                    }
+
                     for (const key of Object.keys(rowObj)) {
-                        const value = rowObj[key];
-                        if (typeof value === 'string' && value.startsWith('http')) {
-                            const driveId = extractDriveId(value);
-                            const isImage = isImageExtension(value);
-                            
-                            if (driveId || isImage) {
-                                rowObj[`original_${key}`] = value;
-                                let fallbackId = driveId || Buffer.from(value).toString('base64').substring(0, 10).replace(/[^a-zA-Z0-9]/g, '');
-                                let imageId = rowObj.id ? `${rowObj.id}_${key}` : fallbackId;
-                                rowObj[key] = `/assets/${snakeCaseName}/${imageId}.webp`;
-                            }
+                        // If imageColumns is explicitly defined in yaml, skip any columns not in that list
+                        if (imageColumnsList && !imageColumnsList.includes(key)) continue;
+
+                        const cellValue = rowObj[key];
+                        if (typeof cellValue !== 'string') continue;
+                        
+                        const driveId = extractDriveId(cellValue);
+                        const isImage = isImageExtension(cellValue);
+                        
+                        if (driveId || isImage) {
+                            rowObj[`original_${key}`] = cellValue;
+                            let fallbackId = driveId || Buffer.from(cellValue).toString('base64').substring(0, 10).replace(/[^a-zA-Z0-9]/g, '');
+                            let imageId = rowObj.id ? `${rowObj.id}_${key}` : fallbackId;
+                            rowObj[key] = `/assets/${snakeCaseName}/${imageId}.webp`;
                         }
                     }
 
