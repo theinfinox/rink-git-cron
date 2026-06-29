@@ -1,13 +1,15 @@
 import fs from 'fs';
 import Papa from 'papaparse';
+import yaml from 'yaml';
 
 const DATA_DIR = './data';
 const PUBLIC_DIR = './public';
 const BACKUP_DIR = './data/backups';
-const CONFIG_PATH = './config/sheets.json';
+const CONFIG_PATH = './config/sheets.yaml';
 
 function toSnakeCase(str) {
-    return str.toLowerCase()
+    if (!str) return '';
+    return str.toString().toLowerCase()
               .replace(/[^a-z0-9]+/g, '_')
               .replace(/^_+|_+$/g, '');
 }
@@ -25,6 +27,9 @@ const isImageExtension = (url) => {
     return /\.(jpeg|jpg|gif|png|webp|svg|bmp)(\?.*)?$/i.test(url.trim());
 };
 
+// Sleep utility to prevent rate limiting
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 async function runSync() {
     console.log("🚀 Starting Adaptive RINK Data Sync...");
 
@@ -33,12 +38,23 @@ async function runSync() {
         process.exit(1);
     }
 
-    const sheetsConfig = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
+    let sheetsConfig = [];
+    try {
+        const fileContents = fs.readFileSync(CONFIG_PATH, 'utf8');
+        sheetsConfig = yaml.parse(fileContents) || [];
+    } catch (error) {
+        console.error(`❌ Failed to read or parse configuration file at ${CONFIG_PATH}:`, error.message);
+        process.exit(1);
+    }
 
     // Ensure ALL directories exist before saving
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     if (!fs.existsSync(BACKUP_DIR)) fs.mkdirSync(BACKUP_DIR, { recursive: true });
     if (!fs.existsSync(PUBLIC_DIR)) fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+
+    if (sheetsConfig.length === 0) {
+        console.warn("⚠️ Configuration file is empty or invalid.");
+    }
 
     for (const sheet of sheetsConfig) {
         const timestamp = new Date().toISOString();
@@ -66,7 +82,10 @@ async function runSync() {
             
             const finalData = isMultiTab ? {} : [];
 
-            for (const tab of tabsToFetch) {
+            for (let tIndex = 0; tIndex < tabsToFetch.length; tIndex++) {
+                const tab = tabsToFetch[tIndex];
+                if (tIndex > 0) await sleep(1000); // 1s delay between tabs to prevent Google HTTP 429 Rate Limiting
+
                 const gid = tab.gid || '0';
                 const csvUrl = `https://docs.google.com/spreadsheets/d/${sheet.spreadsheetId}/export?format=csv&gid=${gid}`;
                 console.log(`📥 Fetching data for ${sheet.name} (Tab: ${tab.name}) from Google Sheets...`);
@@ -92,10 +111,11 @@ async function runSync() {
 
                 // ADAPTIVE HEADER SYSTEM
                 const rawHeaders = rows[0];
-                const headers = rawHeaders.map(header => {
-                    return header.toString().toLowerCase()
+                const headers = rawHeaders.map((header, idx) => {
+                    let cleanHeader = header.toString().toLowerCase()
                         .replace(/[^a-z0-9]+/g, '_') 
-                        .replace(/^_+|_+$/g, '');    
+                        .replace(/^_+|_+$/g, '');
+                    return cleanHeader || `column_${idx + 1}`; // Prevent empty headers from overwriting each other
                 });
 
                 // ADAPTIVE ROW PARSING
@@ -120,14 +140,9 @@ async function runSync() {
                             const isImage = isImageExtension(value);
                             
                             if (driveId || isImage) {
-                                // Keep the original link
                                 rowObj[`original_${key}`] = value;
-                                
-                                // Create a unique ID for the image
                                 let fallbackId = driveId || Buffer.from(value).toString('base64').substring(0, 10).replace(/[^a-zA-Z0-9]/g, '');
                                 let imageId = rowObj.id ? `${rowObj.id}_${key}` : fallbackId;
-                                
-                                // Overwrite the frontend property with the local path
                                 rowObj[key] = `/assets/${snakeCaseName}/${imageId}.webp`;
                             }
                         }
@@ -151,8 +166,10 @@ async function runSync() {
                 }
             }
 
-            // Save the LIVE API file to the public folder
-            fs.writeFileSync(MASTER_JSON, JSON.stringify(finalData, null, 2));
+            // Save the LIVE API file safely using atomic write
+            const tempMaster = `${MASTER_JSON}.tmp`;
+            fs.writeFileSync(tempMaster, JSON.stringify(finalData, null, 2));
+            fs.renameSync(tempMaster, MASTER_JSON); // Atomic replacement prevents corruption if process crashes
             
             // Keep the backups hidden safely in the data folder
             const safeTime = timestamp.replace(/:/g, '-');
@@ -161,7 +178,7 @@ async function runSync() {
             // Clean up old backups (keep only the last 3)
             const allBackups = fs.readdirSync(BACKUP_DIR)
                 .filter(file => file.startsWith(`${snakeCaseName}_`) && file.endsWith('.json'))
-                .sort(); // Lexicographical sort works perfectly for ISO 8601 timestamps
+                .sort();
             
             if (allBackups.length > 3) {
                 const backupsToDelete = allBackups.slice(0, allBackups.length - 3);

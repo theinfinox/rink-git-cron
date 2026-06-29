@@ -4,13 +4,6 @@ import axios from 'axios';
 import sharp from 'sharp';
 
 const PUBLIC_DIR = './public';
-const CONFIG_PATH = './config/sheets.json';
-
-function toSnakeCase(str) {
-    return str.toLowerCase()
-              .replace(/[^a-z0-9]+/g, '_')
-              .replace(/^_+|_+$/g, '');
-}
 
 // Extract Google Drive file ID from a URL
 function extractDriveId(url) {
@@ -19,37 +12,36 @@ function extractDriveId(url) {
     return match ? match[1] : null;
 }
 
-async function runDownload() {
-    console.log("🖼️ Starting Image Download & Optimization for all sheets...");
+// Sleep utility to prevent rate limiting
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-    if (!fs.existsSync(CONFIG_PATH)) {
-        console.error(`❌ Configuration file not found at ${CONFIG_PATH}`);
-        process.exit(1);
+async function runDownload() {
+    console.log("🖼️ Starting Configuration-Free Image Download & Optimization...");
+
+    if (!fs.existsSync(PUBLIC_DIR)) {
+        console.warn(`⚠️ Public directory not found at ${PUBLIC_DIR}. Nothing to process.`);
+        return;
     }
 
-    const sheetsConfig = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
+    const files = fs.readdirSync(PUBLIC_DIR);
+    const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-    for (const sheet of sheetsConfig) {
-        const snakeCaseName = toSnakeCase(sheet.name);
-        const dataJsonPath = `${PUBLIC_DIR}/${snakeCaseName}.json`;
-        const outputDir = `${PUBLIC_DIR}/assets/${snakeCaseName}`;
+    for (const jsonFile of jsonFiles) {
+        const snakeCaseName = path.basename(jsonFile, '.json');
+        const dataJsonPath = path.join(PUBLIC_DIR, jsonFile);
+        const outputDir = path.join(PUBLIC_DIR, 'assets', snakeCaseName);
         
         console.log(`\n=========================================`);
-        console.log(`📦 Processing sheet: ${sheet.name}`);
+        console.log(`📦 Scanning JSON endpoint: ${jsonFile}`);
         console.log(`=========================================`);
 
-        // 1. Ensure output directory exists for this sheet
-        if (!fs.existsSync(outputDir)) {
-            fs.mkdirSync(outputDir, { recursive: true });
-        }
-
-        // 2. Read JSON data
-        if (!fs.existsSync(dataJsonPath)) {
-            console.warn(`⚠️  Data file not found at ${dataJsonPath}. Has it been synced? Skipping...`);
+        let data;
+        try {
+            data = JSON.parse(fs.readFileSync(dataJsonPath, 'utf8'));
+        } catch (e) {
+            console.error(`❌ Failed to parse JSON file ${jsonFile}. Skipping... (${e.message})`);
             continue;
         }
-
-        const data = JSON.parse(fs.readFileSync(dataJsonPath, 'utf8'));
         let downloadedCount = 0;
         let skippedCount = 0;
         let errorCount = 0;
@@ -66,7 +58,7 @@ async function runDownload() {
             }
         }
 
-        // 3. Iterate over the JSON array
+        // Iterate over the JSON array
         for (const item of itemsToProcess) {
             // Find all auto-identified image links
             for (const key of Object.keys(item)) {
@@ -79,14 +71,22 @@ async function runDownload() {
                 const localRelativePath = item[targetKey];
                 if (!localRelativePath) continue;
 
-                const outputPath = path.join(PUBLIC_DIR, localRelativePath);
+                // Strip leading slash for robust path.join across OS environments
+                const safeRelativePath = localRelativePath.startsWith('/') ? localRelativePath.slice(1) : localRelativePath;
+                const outputPath = path.join(PUBLIC_DIR, safeRelativePath);
                 const imageId = path.basename(outputPath, '.webp');
 
-                // 4. Check if image already exists
+                // Check if image already exists and is valid
                 if (fs.existsSync(outputPath)) {
-                    console.log(`⏭️  Skipping existing image: ${imageId}.webp`);
-                    skippedCount++;
-                    continue;
+                    const stats = fs.statSync(outputPath);
+                    if (stats.size > 0) {
+                        console.log(`⏭️  Skipping existing image: ${imageId}.webp`);
+                        skippedCount++;
+                        continue;
+                    } else {
+                        console.log(`⚠️  Found corrupted 0-byte image: ${imageId}.webp. Deleting and retrying...`);
+                        fs.unlinkSync(outputPath);
+                    }
                 }
 
                 // Determine the correct download URL
@@ -96,7 +96,7 @@ async function runDownload() {
                     downloadUrl = `https://drive.google.com/uc?export=download&id=${driveId}`;
                 }
 
-                // 5. Download and optimize
+                // Download and optimize
                 try {
                     console.log(`⬇️  Downloading image for ${imageId} from ${targetKey}...`);
                     
@@ -104,7 +104,6 @@ async function runDownload() {
                         method: 'GET',
                         url: downloadUrl,
                         responseType: 'arraybuffer',
-                        // Adding a User-Agent helps avoid some basic bot blocks from Drive and others
                         headers: {
                             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
                         }
@@ -113,7 +112,7 @@ async function runDownload() {
                     // Ensure the nested directory exists (just in case)
                     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
-                    // 6. Pipe buffer to sharp
+                    // Pipe buffer to sharp
                     await sharp(response.data)
                         .resize(800, null, { withoutEnlargement: true }) // Resize width to 800px, maintain aspect ratio
                         .webp({ quality: 80 })
@@ -121,6 +120,9 @@ async function runDownload() {
                     
                     console.log(`✅ Saved: ${imageId}.webp`);
                     downloadedCount++;
+                    
+                    // Delay between downloads to prevent Google Drive 403 Forbidden / 429 Too Many Requests
+                    await sleep(300); 
                 } catch (error) {
                     console.error(`❌ Failed to process image for ${imageId} (${originalUrl}): ${error.message}`);
                     errorCount++;
@@ -128,7 +130,7 @@ async function runDownload() {
             }
         }
 
-        console.log(`\n🎉 Image Processing Complete for ${sheet.name}!`);
+        console.log(`\n🎉 Image Processing Complete for ${snakeCaseName}!`);
         console.log(`   Downloaded: ${downloadedCount}`);
         console.log(`   Skipped:    ${skippedCount}`);
         console.log(`   Errors:     ${errorCount}`);

@@ -27,9 +27,6 @@ jobs:
         run: npm install
 
       - name: Run Data Sync Script
-        env:
-          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-          SHEET_GID: "5695880"
         run: node scripts/sync.js
 
       - name: Run Image Downloader Script

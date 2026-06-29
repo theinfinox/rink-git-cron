@@ -1,0 +1,7 @@
+- name: Master Directory
+  spreadsheetId: YOUR_SPREADSHEET_ID_HERE
+  tabs:
+    - name: Instruments
+      gid: 0
+    - name: Equipment
+      gid: 12345
