@@ -154,6 +154,11 @@ async function runSync() {
                     let cleanHeader = header.toString().toLowerCase()
                         .replace(/[^a-z0-9]+/g, '_') 
                         .replace(/^_+|_+$/g, '');
+                    
+                    // Auto-correct known Google Sheet header typos
+                    if (cleanHeader === 'fid') cleanHeader = 'id';
+                    if (cleanHeader === 'instrtnents') cleanHeader = 'instruments';
+                    
                     return cleanHeader || `column_${idx + 1}`; // Prevent empty headers from overwriting each other
                 });
 
