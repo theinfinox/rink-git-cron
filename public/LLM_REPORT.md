@@ -1,5 +1,5 @@
 # 🧠 RINK LLM Integration Report
-*Auto-generated on: Mon, 29 Jun 2026 09:51:32 GMT*
+*Auto-generated on: Mon, 29 Jun 2026 10:24:33 GMT*
 
 This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.
 
@@ -8,9 +8,9 @@ For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked t
 
 > **Frontend Routing Note:** Our AI Indexes automatically embed frontend UI links (e.g., `URL: https://...`) using the `frontendBaseUrl` property in `sheets.yaml`!
 
-### Master Directory
-- **Search Index:** [`/api/master_directory/llms.txt`](/api/master_directory/llms.txt) (Highly compressed metadata for spatial/categorical search)
-- **Data Chunks:** `/api/master_directory/{id}.json` (893 zero-token endpoints generated)
+### instrument
+- **Search Index:** [`/api/instrument/llms.txt`](/api/instrument/llms.txt) (Highly compressed metadata for spatial/categorical search)
+- **Data Chunks:** `/api/instrument/{id}.json` (893 zero-token endpoints generated)
 
 ## 🔌 2. Local AI MCP Server (Cursor, Claude Desktop)
 For local development environments, we expose a native Model Context Protocol (MCP) server.
@@ -27,4 +27,4 @@ Add the following to your AI configuration (e.g., `claude_desktop_config.json` o
 ```
 
 **Available MCP Tools:**
-- `search_master_directory`: Deep semantic search over all columns in Master Directory.
+- `search_instrument`: Deep semantic search over all columns in instrument.

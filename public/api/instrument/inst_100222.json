@@ -1,0 +1,20 @@
+{
+  "id": "inst_100222",
+  "instruments": "SNAPGENE SOFTWARE",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Core Instrumentation Facility",
+  "institution_name": "Institute of Advanced VIrology",
+  "address": "Thonnakkal Thiruvananthapuram\n Kerala-695 317",
+  "enquiry_contact_number": "0471-2710063",
+  "enquiry_mail": "corefacility@iav.res.in",
+  "website_booking_link": "https://iav.kerala.gov.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "genomics, bioinformatics, microbiology, cell_culture",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

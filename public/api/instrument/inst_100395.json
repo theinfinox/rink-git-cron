@@ -1,0 +1,20 @@
+{
+  "id": "inst_100395",
+  "instruments": "Floor type sheet making and diamond shape slice forming machine",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Techno Incubation Centre",
+  "institution_name": "ICAR -Central Tuber Crops ResearchInstitute(CTCRI)",
+  "address": "Sreekariyam P O, Thiruvananthapuram",
+  "enquiry_contact_number": "(+91)(471) 2598551.",
+  "enquiry_mail": "",
+  "website_booking_link": "https://www.ctcri.org/",
+  "website_booking_link_fallback": "https://cwrdm.kerala.gov.in/laboratories",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "food_safety, crop_science, additive_mfg",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image, No Contact Info",
+  "warnings": "Missing Image, No Contact Info",
+  "test": ""
+}

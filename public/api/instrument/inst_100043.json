@@ -1,0 +1,21 @@
+{
+  "id": "inst_100043",
+  "instruments": "Single Crystal XRD (Bruker AXS)",
+  "acronym": "XRD, AXS",
+  "image_link": "/assets/instrument/inst_100043_image_link.webp",
+  "district": "Kottayam",
+  "name_of_facility": "DST-PURSE Facility",
+  "institution_name": "Mahatma Gandhi University",
+  "address": "Inter University Instrumentation Centre,\nMahatma Gandhi University,\nKottayam-686560, Kerala, India",
+  "enquiry_contact_number": "",
+  "enquiry_mail": "cic@mgu.ac.in",
+  "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kottayam",
+  "tag": "pharmaceuticals, nanotech, analytical_chem, geosciences",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1maF9m2ho8e1XcHaIgwM1cc0NSR0uW-5J/view?usp=sharing"
+}

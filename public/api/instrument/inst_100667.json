@@ -1,0 +1,20 @@
+{
+  "id": "inst_100667",
+  "instruments": "Fourier Transform Infrared Spectrometer (FTIR)",
+  "acronym": "FTIR[source: 1]",
+  "image_link": "",
+  "district": "Thrissur",
+  "name_of_facility": "Central Instruments Laboratory, Mannuthy",
+  "institution_name": "Kerala Veterinary and Animal Sciences\n University (KVASU)",
+  "address": "Mannuthi Road, Pananchakam Colony,\n Mannuthy, Thrissur, Kerala 680651",
+  "enquiry_contact_number": "9446579057",
+  "enquiry_mail": "ramnath@kvasu.ac.in",
+  "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/57",
+  "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/25",
+  "standardized_district": "Thrissur",
+  "tag": "analytical_chem, polymers, surface_science, pharmaceuticals",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

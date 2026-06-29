@@ -1,0 +1,21 @@
+{
+  "id": "inst_100843",
+  "instruments": "Gel Documentation System",
+  "acronym": "",
+  "image_link": "/assets/instrument/inst_100843_image_link.webp",
+  "district": "Kollam",
+  "name_of_facility": "",
+  "institution_name": "CEPCI Laboratory & Research Institute",
+  "address": "Cashew Bhavan, Mundakkal, Kollam – 691 001, Kerala, India",
+  "enquiry_contact_number": "",
+  "enquiry_mail": "",
+  "website_booking_link": "https://cepclab.org.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kollam",
+  "tag": "genomics, microbiology, cell_culture, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Facility/Institution, No Contact Info",
+  "warnings": "Missing Facility/Institution, No Contact Info",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1wQ0Z220B9BanKNaPO05wXVT7LN3ekuvD/view?usp=drive_link"
+}

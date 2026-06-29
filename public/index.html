@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RINK Data API Directory</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; line-height: 1.6; background: #f9fafb; color: #111827; }
+        h1 { border-bottom: 2px solid #e5e7eb; padding-bottom: 0.5rem; }
+        .endpoint-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        h2 { margin-top: 0; color: #2563eb; }
+        ul { padding-left: 1.5rem; }
+        a { color: #2563eb; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        code { background: #f3f4f6; padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>📂 RINK Data API Directory</h1>
+    <p>Welcome to the live data API. Below are the available endpoints generated directly from Google Sheets.</p>
+
+    <div class="endpoint-card">
+        <h2>instrument</h2>
+        <p><strong>Primary JSON:</strong> <a href="/instrument.json">/instrument.json</a></p>
+        <p><strong>AI Search Index:</strong> <a href="/api/instrument/llms.txt">/api/instrument/llms.txt</a></p>
+        <p><strong>Images Folder:</strong> <code>/assets/instrument/</code></p>
+        <h3>Available Tabs</h3>
+        <ul>
+            <li>Main Data (870 items)</li>
+            <li>Instituitiion list (23 items)</li>
+        </ul>
+    </div>
+
+    <div style="margin-top: 2rem; font-size: 0.9rem; color: #6b7280;">
+        <p>For AI Integration instructions, see <a href="/LLM_REPORT.md">LLM_REPORT.md</a>.</p>
+        <p>Auto-generated on: Mon, 29 Jun 2026 10:24:33 GMT</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "id": "inst_100205",
+  "instruments": "FLUORESCENCE-ACTIVATED CELL SORTING (FACS)",
+  "acronym": "FACS",
+  "image_link": "/assets/instrument/inst_100205_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Core Instrumentation Facility",
+  "institution_name": "Institute of Advanced VIrology",
+  "address": "Thonnakkal Thiruvananthapuram\n Kerala-695 317",
+  "enquiry_contact_number": "0471-2710063",
+  "enquiry_mail": "corefacility@iav.res.in",
+  "website_booking_link": "https://iav.kerala.gov.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "cell_culture, microbiology, genomics, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1TsiOvWNOEmIOlEC6PtKFWHqYWE6nYJcB/view?usp=sharing"
+}

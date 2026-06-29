@@ -1,0 +1,21 @@
+{
+  "id": "inst_100232",
+  "instruments": "Reversed Phase - High Performance Liquid Chromatography (RP-HPLC)",
+  "acronym": "RP-HPLC",
+  "image_link": "/assets/instrument/inst_100232_image_link.webp",
+  "district": "Thrissur",
+  "name_of_facility": "CENTRE FOR ANALYTICAL INSTRUMENTATION \n- KERALA (CAIK)",
+  "institution_name": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+  "address": "&quot;Kerala Forest Research Institute,\nPeechi, Thrissur - 680653,\nKerala, India&quot;",
+  "enquiry_contact_number": "497 2690-147/205/166",
+  "enquiry_mail": "caik@kfri.res.in",
+  "website_booking_link": "https://www.caik.res.in/",
+  "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
+  "standardized_district": "Thrissur",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, water_quality",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1nlST2wJ2qe8yerU5Pz4fHMLk_OqNq0i4/view?usp=sharing"
+}

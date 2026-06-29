@@ -1,0 +1,21 @@
+{
+  "id": "inst_100835",
+  "instruments": "Abbe Refractometer",
+  "acronym": "",
+  "image_link": "/assets/instrument/inst_100835_image_link.webp",
+  "district": "Wayanad",
+  "name_of_facility": "Bio-NEST",
+  "institution_name": "Dr. Moopen's iNEST",
+  "address": "Naseera Nagar, Meppadi, Meppadi (P.O), Wayanad, Kerala, India",
+  "enquiry_contact_number": "81128 80451",
+  "enquiry_mail": "Contact@drmoopensinest.com",
+  "website_booking_link": "www.drmoopensinest.com",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Wayanad",
+  "tag": "food_safety, analytical_chem, pharmaceuticals, metrology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1-uDZisMHSbhqHqE87hJMxzNWTdOazktF/view?usp=sharing"
+}

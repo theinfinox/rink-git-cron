@@ -1,0 +1,20 @@
+{
+  "id": "inst_100543",
+  "instruments": "Confocal Laser Scanning Microscope with GaAsP Detector for Multifluorescence and Live Cell Imaging ( Leica SP8 Wll Confocal Microscope)",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Bio imaging facility",
+  "institution_name": "Rajiv Gandhi Centre, for Bio-Technology",
+  "address": "Melarannoor Road, Behind Central Jail Poojapura, Thycaud, Thiruvananthapuram, Kerala 695026",
+  "enquiry_contact_number": "0471-2529400, 2347975, \n2348753",
+  "enquiry_mail": "info@rgcb.res.in",
+  "website_booking_link": "https://www.rgcb.res.in/mls.php",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "cell_culture, microbiology, genomics, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inst_100291",
+  "instruments": "Gas Chromatograph (Varian-CP3800-USA)",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Kozhikode",
+  "name_of_facility": "water quality analysis laboratory",
+  "institution_name": "Centre for Water Resources Development and Management",
+  "address": "Kunnamangalam, Kozhikode-673 571\nKerala , India",
+  "enquiry_contact_number": "(91) 495 2351800",
+  "enquiry_mail": "ed@cwrdm.org",
+  "website_booking_link": "http://www.cwrdm.org/central-instrumentation-facility#",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kozhikode",
+  "tag": "analytical_chem, water_quality, food_safety, pharmaceuticals",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

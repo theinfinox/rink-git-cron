@@ -1,0 +1,20 @@
+{
+  "id": "inst_100534",
+  "instruments": "TSQ Altis Plus Triple Quadrupole MS connected with vanquish UHPLC system (Thermo Fisher Scientific)",
+  "acronym": "MS, UHPLC[source: 1]",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Mass spectrometry facility",
+  "institution_name": "Rajiv Gandhi Centre, for Bio-Technology",
+  "address": "Melarannoor Road, Behind Central Jail Poojapura, Thycaud, Thiruvananthapuram, Kerala 695017",
+  "enquiry_contact_number": "0471-2529400, 2347975, \n2348753",
+  "enquiry_mail": "info@rgcb.res.in",
+  "website_booking_link": "https://www.rgcb.res.in/mls.php",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "food_safety, pharmaceuticals, analytical_chem, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

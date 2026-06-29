@@ -1,0 +1,20 @@
+{
+  "id": "inst_100693",
+  "instruments": "Per 1 Hr Session",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "CIF (Central Instrumentation Facility)",
+  "institution_name": "Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM)",
+  "address": "Maruthamala PO, Vithura, \nThiruvananthapuram - 695551",
+  "enquiry_contact_number": "0471-2778009, 80448046",
+  "enquiry_mail": "",
+  "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
+  "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/51",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "analytical_chem, metrology, nanotech, surface_science",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

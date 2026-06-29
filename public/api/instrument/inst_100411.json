@@ -1,0 +1,21 @@
+{
+  "id": "inst_100411",
+  "instruments": "Total Organic Carbon Analyzer",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Alappuzha",
+  "name_of_facility": "Sophisticated Analytical Instrument Facility",
+  "institution_name": "ICAR -Central Plantation Crops Research Institute, Kayamkulam",
+  "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
+  "enquiry_contact_number": "489 244 2104",
+  "enquiry_mail": "",
+  "website_booking_link": "/assets/instrument/inst_100411_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Alappuzha",
+  "tag": "analytical_chem, water_quality, soil_analysis, green_chem",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": "",
+  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+}

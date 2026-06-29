@@ -1,0 +1,21 @@
+{
+  "id": "inst_100023",
+  "instruments": "CHN(S)/O Analyser",
+  "acronym": "CHN(S)/O",
+  "image_link": "/assets/instrument/inst_100023_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Laboratory for Instrumentation and Facilitation (CLIF)",
+  "institution_name": "Kerala University",
+  "address": "University Campus, Kariavattom 695581",
+  "enquiry_contact_number": "0471-2308566",
+  "enquiry_mail": "clifanalyses@keralauniversity.ac.in",
+  "website_booking_link": "https://kusicc.ac.in/spm-afm/",
+  "website_booking_link_fallback": "https://kusicc.ac.in/chns-o-analyser/",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "analytical_chem, soil_analysis, geosciences, green_chem",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/17rZ2OW3crC5D_FGYUfRzEOvgzl3gXI3A/view?usp=sharing"
+}

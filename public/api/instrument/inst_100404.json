@@ -1,0 +1,21 @@
+{
+  "id": "inst_100404",
+  "instruments": "Flame Photometer",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Alappuzha",
+  "name_of_facility": "Sophisticated Analytical Instrument Facility",
+  "institution_name": "ICAR -Central Plantation Crops Research Institute, Kayamkulam",
+  "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
+  "enquiry_contact_number": "482 244 2104",
+  "enquiry_mail": "",
+  "website_booking_link": "/assets/instrument/inst_100404_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Alappuzha",
+  "tag": "analytical_chem, soil_analysis, water_quality, crop_science",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": "",
+  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "inst_100022",
+  "instruments": "Nuclear Magnetic Resonance Spectrometer [NMR including 1H and 13 C NMR]",
+  "acronym": "NMR",
+  "image_link": "/assets/instrument/inst_100022_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Laboratory for Instrumentation and Facilitation (CLIF)",
+  "institution_name": "Kerala University",
+  "address": "University Campus, Kariavattom 695581",
+  "enquiry_contact_number": "0471-2308566",
+  "enquiry_mail": "clifanalyses@keralauniversity.ac.in",
+  "website_booking_link": "https://kusicc.ac.in/spm-afm/",
+  "website_booking_link_fallback": "https://kusicc.ac.in/nmr-2/",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "pharmaceuticals, polymers, analytical_chem, bioinformatics",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1hRTEaqdOeNnqJW_1BVchwY8iVjcmF6T8/view?usp=drive_link"
+}

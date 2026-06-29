@@ -1,0 +1,21 @@
+{
+  "id": "inst_100031",
+  "instruments": "Bet Surface Area Analyzer (BET)",
+  "acronym": "BET",
+  "image_link": "/assets/instrument/inst_100031_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Laboratory for Instrumentation and Facilitation (CLIF)",
+  "institution_name": "Kerala University",
+  "address": "University Campus, Kariavattom 695581",
+  "enquiry_contact_number": "0471-2308566",
+  "enquiry_mail": "clifanalyses@keralauniversity.ac.in",
+  "website_booking_link": "https://kusicc.ac.in/spm-afm/",
+  "website_booking_link_fallback": "https://kusicc.ac.in/bet/",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "surface_science, analytical_chem, nanotech, metrology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1CWVEyQ2PZQLLeF3zU1r-JxQ9t4wsifEe/view?usp=sharing"
+}

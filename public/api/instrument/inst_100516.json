@@ -1,0 +1,20 @@
+{
+  "id": "inst_100516",
+  "instruments": "Cryomicrotome",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Ernakulam",
+  "name_of_facility": "Central Instrumentation Facility",
+  "institution_name": "ICAR-Central Marine Fisheries Research Institute (ICAR-CMFRI)",
+  "address": "Post Box No.1603, Kochi-682018",
+  "enquiry_contact_number": "0484-2394867, 2394909,0484-2391407, 2394462",
+  "enquiry_mail": "mdcmfri@md2.vsnl.net.in",
+  "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Ernakulam",
+  "tag": "microbiology, cell_culture, pharmaceuticals, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

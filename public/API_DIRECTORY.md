@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 29 Jun 2026 09:51:32 GMT*
+*Auto-generated on: Mon, 29 Jun 2026 10:24:33 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -26,10 +26,10 @@ To allow local AI agents to natively query and search this database, add this to
 
 ---
 
-## 📄 Master Directory
-- **Endpoint URL:** `/master_directory.json`
+## 📄 instrument
+- **Endpoint URL:** `/instrument.json`
 - **Total Records:** 893
-- **Images Directory:** `/assets/master_directory/`
+- **Images Directory:** `/assets/instrument/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
   - `Main Data` (870 items)

@@ -1,0 +1,22 @@
+{
+  "id": "inst_100173",
+  "instruments": "Vector Network Analyzer",
+  "acronym": "None",
+  "image_link": "/assets/instrument/inst_100173_image_link.webp",
+  "district": "Palakkad",
+  "name_of_facility": "Central Instrumentation Facility",
+  "institution_name": "Indian Institute of Technology Palakkad",
+  "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678642",
+  "enquiry_contact_number": "04923 226 554",
+  "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
+  "website_booking_link": "/assets/instrument/inst_100173_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Palakkad",
+  "tag": "pcb_design, rf_communications, semiconductors, metrology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/112kXHHQuWuTQE0j3FlRdM9lN6EQ6vvm7/view?usp=sharing",
+  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/30"
+}

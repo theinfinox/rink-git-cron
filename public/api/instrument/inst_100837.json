@@ -1,0 +1,21 @@
+{
+  "id": "inst_100837",
+  "instruments": "Muffle furnace",
+  "acronym": "",
+  "image_link": "/assets/instrument/inst_100837_image_link.webp",
+  "district": "Wayanad",
+  "name_of_facility": "Bio-NEST",
+  "institution_name": "Dr. Moopen's iNEST",
+  "address": "Naseera Nagar, Meppadi, Meppadi (P.O), Wayanad, Kerala, India",
+  "enquiry_contact_number": "81130 80451",
+  "enquiry_mail": "Contact@drmoopensinest.com",
+  "website_booking_link": "www.drmoopensinest.com",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Wayanad",
+  "tag": "metallurgy, analytical_chem, geosciences",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1CPKOWQu1QjJT3h83Z4Lx_-AXLinmJ_V_/view?usp=sharing"
+}

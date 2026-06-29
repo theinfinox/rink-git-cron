@@ -1,0 +1,20 @@
+{
+  "id": "inst_100647",
+  "instruments": "Refrigerated centrifuge (High Speed)",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Thrissur",
+  "name_of_facility": "Central Instruments Laboratory, Mannuthy",
+  "institution_name": "Kerala Veterinary and Animal Sciences\n University (KVASU)",
+  "address": "Mannuthi Road, Pananchakam Colony,\n Mannuthy, Thrissur, Kerala 680651",
+  "enquiry_contact_number": "9446579057",
+  "enquiry_mail": "ramnath@kvasu.ac.in",
+  "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/37",
+  "website_booking_link_fallback": "https://csif.uoc.ac.in/images/User-Fee-Revised---from-15.06.2022.pdf",
+  "standardized_district": "Thrissur",
+  "tag": "cell_culture, microbiology, food_safety, pharmaceuticals",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

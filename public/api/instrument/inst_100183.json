@@ -1,0 +1,22 @@
+{
+  "id": "inst_100183",
+  "instruments": "Thermal Evaporator",
+  "acronym": "None",
+  "image_link": "/assets/instrument/inst_100183_image_link.webp",
+  "district": "Palakkad",
+  "name_of_facility": "Central Micro-Nano Fabrication Facility (CMFF)",
+  "institution_name": "Indian Institute of Technology Palakkad",
+  "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678652",
+  "enquiry_contact_number": "4925 226 554",
+  "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
+  "website_booking_link": "/assets/instrument/inst_100183_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Palakkad",
+  "tag": "nanotech, surface_science, semiconductors, solar_energy",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/14zMVuztjH6fwuGfBxb-qOks1x947337n/view?usp=sharing",
+  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/55"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "inst_100410",
+  "instruments": "Kelplus Nitrogen Estimation System",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Alappuzha",
+  "name_of_facility": "Sophisticated Analytical Instrument Facility",
+  "institution_name": "ICAR -Central Plantation Crops Research Institute, Kayamkulam",
+  "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
+  "enquiry_contact_number": "488 244 2104",
+  "enquiry_mail": "",
+  "website_booking_link": "/assets/instrument/inst_100410_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Alappuzha",
+  "tag": "soil_analysis, food_safety, analytical_chem, crop_science",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": "",
+  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+}
