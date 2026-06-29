@@ -87,6 +87,35 @@ Because it is committed to the `public/` directory, this documentation is always
 
 ---
 
+## 🎨 Frontend Integration: Dynamic Filters
+
+If you utilize the `filterTaxonomy` configuration in `sheets.yaml`, the backend will dynamically generate a `filters.json` endpoint. **This completely eliminates the need for hardcoded filter lists in your frontend.**
+
+**The JSON Structure:**
+```json
+{
+  "district": {
+    "South Zone": ["Thiruvananthapuram", "Kollam"],
+    "Other Districts": ["Palakkad"]
+  },
+  "tag": {
+    "Life Sciences": ["genomics", "bioinformatics"],
+    "Other Tags": ["robotics"]
+  }
+}
+```
+
+**How the Frontend Should Consume This:**
+1. Fetch `https://[your-domain]/api/[sheet]/filters.json` into your state manager (e.g. Zustand).
+2. Use `Object.keys(data)` to automatically discover filter sections (e.g., District, Tag).
+3. For each section, use `Object.entries(data[sectionKey])` to render the group headers ("South Zone") and their respective checkboxes ("Kollam").
+
+**Zero-Maintenance Architecture:**
+- **Unknown Values:** If someone types a brand new district into Google Sheets, it automatically appears in the `"Other Districts"` array and instantly renders on the frontend.
+- **New Filter Categories:** If you add a new filter category (like `funding_agency`) to `sheets.yaml`, the backend outputs a new root key, and the frontend's dynamic `Object.keys()` loop instantly spawns a new sidebar section without *any* frontend code changes!
+
+---
+
 ## 🧠 Dual AI Architecture (Zero-Cost LLM Integration)
 
 This repository is built not just for frontends, but specifically for AI Agents (ChatGPT, Claude, Cursor) to ingest data with **zero token waste**.
