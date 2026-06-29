@@ -44,56 +44,15 @@ sheets:
 ```
 *Result:* This generates a single JSON object at `/global_inventory.json` where each tab is a key containing its respective rows (e.g., `data.instruments` and `data.equipment`).
 
-### 🛡️ Advanced Data Filtering (Drafts & Privacy)
-You can completely control what data is exported to the JSON API or AI tools by adding filters to any tab or sheet.
+### Options and Filters
 
-#### 1. Skipping Columns (`excludeColumns`)
-If your Google Sheet has columns for internal administrative notes, private emails, or pricing that you do not want the frontend or AI to see:
-```yaml
-    tabs:
-      - name: Main Data
-        gid: 5695880
-        excludeColumns:
-          - "internal_admin_notes"
-          - "contact_email"
-```
+The engine supports a massive amount of configuration for privacy, data formatting, and routing. You can:
+- **Skip Columns**: Hide internal notes (`excludeColumns`).
+- **Skip Rows**: Hide draft records (`excludeRowsWhere`).
+- **Split Strings to Arrays**: Convert `"bio, chem"` to `["bio", "chem"]` for Orama search indexing (`splitColumns`).
+- **Explicit Image Targeting**: Restrict the auto-downloader to specific columns so it ignores normal website links (`imageColumns`).
 
-#### 2. Skipping Rows (`excludeRowsWhere`)
-If you want to keep draft or unapproved items in your Google Sheet but hide them from the live API:
-```yaml
-    tabs:
-      - name: Main Data
-        gid: 5695880
-        excludeRowsWhere:
-          - column: "status"
-            equals: "draft"
-          - column: "published"
-            equals: "FALSE"
-```
-
-#### 3. Tag Splitting (For Search Facets & Arrays)
-If your Google Sheet has a column (e.g. `tags`) containing comma-separated lists like `"nanotech, biology, chemistry"`, you can automatically convert it into a real JSON array `["nanotech", "biology", "chemistry"]` which is incredibly useful for frontend search filters like Orama.
-```yaml
-    tabs:
-      - name: Main Data
-        gid: 5695880
-        splitColumns:
-          - column: "tag"
-            delimiter: ","
-```
-
-### Option C: Explicit Image Columns (`imageColumns`)
-
-By default, the backend scans every column for Google Drive links or image URLs to automatically optimize them. If you have URLs in other columns (like `website_url` or `brochure_link`) that you *do not* want the engine to touch, you can explicitly define which columns are images.
-
-You can provide a YAML array or a comma-separated string:
-```yaml
-    tabs:
-      - name: Main Data
-        gid: 5695880
-        imageColumns: "image_link, cover_photo" # or ["image_link", "cover_photo"]
-```
-*Result: Only the `image_link` and `cover_photo` columns will be scanned for image processing. All other URLs will be ignored.*
+**👉 [Read the Complete Configuration Guide](SHEETS_CONFIG_GUIDE.md)** for a deep dive into every option, complete with copy-pasteable YAML examples!
 
 ### Option D: Data Validation (Required Columns)
 
