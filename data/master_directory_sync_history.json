@@ -1,10 +1,29 @@
 [
   {
+<<<<<<< HEAD
     "timestamp": "2026-06-29T08:29:18.725Z",
     "sheet_name": "Master Directory",
     "status": "SUCCESS",
     "error_code": null,
     "rows_total": 870,
     "rows_exported": 870
+=======
+    "timestamp": "2026-06-29T08:26:26.950Z",
+    "sheet_name": "Master Directory",
+    "status": "FAILED",
+    "error_code": "ERR_FETCH_FAILED",
+    "rows_total": 0,
+    "rows_exported": 0,
+    "error_message": "HTTP Error 404: Failed to download CSV for tab Instruments."
+  },
+  {
+    "timestamp": "2026-06-29T08:24:27.086Z",
+    "sheet_name": "Master Directory",
+    "status": "FAILED",
+    "error_code": "ERR_FETCH_FAILED",
+    "rows_total": 0,
+    "rows_exported": 0,
+    "error_message": "HTTP Error 404: Failed to download CSV for tab Instruments."
+>>>>>>> a5e4388d790c98a4549a34cac81da45214bbeaf3
   }
 ]
