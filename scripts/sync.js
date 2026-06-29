@@ -110,7 +110,10 @@ async function runSync() {
                 const csvText = await response.text();
 
                 // INCREMENTAL SYNC LOGIC
-                const hash = crypto.createHash('md5').update(csvText).digest('hex');
+                // We hash both the CSV data and the tab configuration from sheets.yaml. 
+                // This ensures if the user adds an 'excludeColumns' or 'imageColumns' filter, the cache correctly invalidates!
+                const configString = JSON.stringify(tab);
+                const hash = crypto.createHash('md5').update(csvText + configString).digest('hex');
                 const HASH_FILE = `${DATA_DIR}/${snakeCaseName}_${toSnakeCase(tab.name)}_hash.json`;
                 let previousHash = null;
                 if (fs.existsSync(HASH_FILE)) {
