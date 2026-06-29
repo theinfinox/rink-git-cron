@@ -42,4 +42,7 @@ jobs:
           git add data/ public/
           
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data & Image Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          
+          # Pull any new commits that were pushed while the action was running to prevent rejection
+          git pull origin main --rebase
           git push origin main
