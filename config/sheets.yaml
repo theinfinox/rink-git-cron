@@ -1,7 +1,9 @@
-- name: Master Directory
-  spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
-  tabs:
-    - name: Main Data
-      gid: 5695880
-    - name: Instituitiion list
-      gid: 1583764603
+frontendBaseUrl: "https://rink-ui.vercel.app"
+sheets:
+  - name: instrument
+    spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
+    tabs:
+      - name: Main Data
+        gid: 5695880
+      - name: Instituitiion list
+        gid: 1583764603

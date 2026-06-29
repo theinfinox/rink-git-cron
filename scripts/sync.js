@@ -41,9 +41,18 @@ async function runSync() {
     }
 
     let sheetsConfig = [];
+    let frontendBaseUrl = "";
+    
     try {
         const fileContents = fs.readFileSync(CONFIG_PATH, 'utf8');
-        sheetsConfig = yaml.parse(fileContents) || [];
+        const parsed = yaml.parse(fileContents);
+        
+        if (Array.isArray(parsed)) {
+            sheetsConfig = parsed;
+        } else if (parsed && typeof parsed === 'object') {
+            frontendBaseUrl = parsed.frontendBaseUrl || "";
+            sheetsConfig = parsed.sheets || [];
+        }
     } catch (error) {
         console.error(`❌ Failed to read or parse configuration file at ${CONFIG_PATH}:`, error.message);
         process.exit(1);
@@ -244,6 +253,12 @@ async function runSync() {
                 if (loc) metadata += ` | Location: ${loc}`;
                 if (tags) metadata += ` | Tags: ${tags}`;
                 
+                if (frontendBaseUrl) {
+                    // Make sure frontend URL doesn't end with slash, then append the slug structure
+                    const base = frontendBaseUrl.endsWith('/') ? frontendBaseUrl.slice(0, -1) : frontendBaseUrl;
+                    metadata += ` | URL: ${base}/${snakeCaseName}/${rowId}`;
+                }
+                
                 llmsText += `${metadata}\n`;
             };
 
@@ -394,6 +409,7 @@ async function runSync() {
     
     llmMarkdown += `## 🌐 1. Web AI Integration (ChatGPT, Claude Web)\n`;
     llmMarkdown += `For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked to prevent token bloat.\n\n`;
+    llmMarkdown += `> **Frontend Routing Note:** Our AI Indexes automatically embed frontend UI links (e.g., \`URL: https://...\`) using the \`frontendBaseUrl\` property in \`sheets.yaml\`!\n\n`;
     
     for (const doc of apiReport) {
         llmMarkdown += `### ${doc.sheetName}\n`;

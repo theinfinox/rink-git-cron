@@ -14,25 +14,33 @@ A serverless data pipeline that intelligently syncs Google Sheets data into JSON
 
 All configuration is handled in a clean, human-readable `config/sheets.yaml` file. You do not need any GitHub Secrets or environment variables to add new sheets.
 
+### Top-Level Properties
+- `frontendBaseUrl`: (Optional) The base URL of your frontend UI (e.g., `https://rink-ui.vercel.app`). Providing this allows the sync engine to automatically inject direct frontend links into the AI `llms.txt` search index!
+- `sheets`: The list of Google Sheets to sync.
+
 ### Option A: Single Tab Sheet
-If you just want to pull the default tab from a sheet, define the `gid` directly:
+If you just want to pull the default tab from a sheet, define the `gid` directly under `sheets`:
 ```yaml
-- name: Master Directory
-  spreadsheetId: YOUR_SPREADSHEET_ID_HERE
-  gid: 0
+frontendBaseUrl: "https://rink-ui.vercel.app"
+sheets:
+  - name: Master Directory
+    spreadsheetId: YOUR_SPREADSHEET_ID_HERE
+    gid: 0
 ```
-*Result:* This generates an array of rows at `/master_directory.json` and images at `/assets/master_directory/`.
+*Result:* This generates an array of rows at `/master_directory.json`, images at `/assets/master_directory/`, and injects AI URLs pointing to `https://rink-ui.vercel.app/master_directory/{row_id}`.
 
 ### Option B: Multiple Tabs (Categorized)
 If you want to pull multiple tabs from the same sheet, use the `tabs` list:
 ```yaml
-- name: Global Inventory
-  spreadsheetId: YOUR_SPREADSHEET_ID_HERE
-  tabs:
-    - name: Instruments
-      gid: 0
-    - name: Equipment
-      gid: 12345
+frontendBaseUrl: "https://rink-ui.vercel.app"
+sheets:
+  - name: Global Inventory
+    spreadsheetId: YOUR_SPREADSHEET_ID_HERE
+    tabs:
+      - name: Instruments
+        gid: 0
+      - name: Equipment
+        gid: 12345
 ```
 *Result:* This generates a single JSON object at `/global_inventory.json` where each tab is a key containing its respective rows (e.g., `data.instruments` and `data.equipment`).
 
