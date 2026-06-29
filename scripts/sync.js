@@ -182,8 +182,21 @@ async function runSync() {
                             try { cellValue = marked.parseInline(cellValue); } catch(e) {}
                         }
 
+                        // TAG SPLITTING (Orama Facets)
+                        if (tab.splitColumns && Array.isArray(tab.splitColumns)) {
+                            for (const splitConfig of tab.splitColumns) {
+                                if (toSnakeCase(splitConfig.column) === header && typeof cellValue === 'string') {
+                                    const delimiter = splitConfig.delimiter || ",";
+                                    // Split by delimiter, trim whitespace, and drop empty items
+                                    cellValue = cellValue.split(delimiter)
+                                        .map(v => v.trim())
+                                        .filter(v => v !== "");
+                                }
+                            }
+                        }
+
                         rowObj[header] = cellValue;
-                        if (cellValue !== "") isRowEmpty = false;
+                        if (cellValue !== "" && (!Array.isArray(cellValue) || cellValue.length > 0)) isRowEmpty = false;
                     });
 
                     if (isRowEmpty) continue;

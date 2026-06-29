@@ -71,6 +71,17 @@ If you want to keep draft or unapproved items in your Google Sheet but hide them
             equals: "FALSE"
 ```
 
+#### 3. Tag Splitting (For Search Facets & Arrays)
+If your Google Sheet has a column (e.g. `tags`) containing comma-separated lists like `"nanotech, biology, chemistry"`, you can automatically convert it into a real JSON array `["nanotech", "biology", "chemistry"]` which is incredibly useful for frontend search filters like Orama.
+```yaml
+    tabs:
+      - name: Main Data
+        gid: 5695880
+        splitColumns:
+          - column: "tag"
+            delimiter: ","
+```
+
 ### Option C: Data Validation (Required Columns)
 
 You **do not** need to name your columns `image_link`. 
