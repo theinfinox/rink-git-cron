@@ -17727,5 +17727,122 @@
       "warnings": "",
       "test": ""
     }
+  ],
+  "instituitiion_list": [
+    {
+      "institution_name": "Cochin University of Science and Technology",
+      "correct_provider_key": "state_univ",
+      "reason_classification": "Kerala State Public University"
+    },
+    {
+      "institution_name": "Kerala University",
+      "correct_provider_key": "state_univ",
+      "reason_classification": "Kerala State Public University"
+    },
+    {
+      "institution_name": "Mahatma Gandhi University",
+      "correct_provider_key": "state_univ",
+      "reason_classification": "Kerala State Public University"
+    },
+    {
+      "institution_name": "ICAR-Central Institute of Fisheries Technology",
+      "correct_provider_key": "icar_lab",
+      "reason_classification": "ICAR (Indian Council of Agricultural Research)"
+    },
+    {
+      "institution_name": "Indian Institute of Technology Palakkad",
+      "correct_provider_key": "ini_iit",
+      "reason_classification": "Institute of National Importance (IIT)"
+    },
+    {
+      "institution_name": "ICAR-Indian Institute of Spices Research",
+      "correct_provider_key": "icar_lab",
+      "reason_classification": "ICAR"
+    },
+    {
+      "institution_name": "Jawaharlal Nehru Tropical Botanical Garden...",
+      "correct_provider_key": "kscste_center",
+      "reason_classification": "Under KSCSTE (Kerala State Council)"
+    },
+    {
+      "institution_name": "Institute of Advanced VIrology",
+      "correct_provider_key": "state_gov_other",
+      "reason_classification": "Autonomous body under Govt of Kerala"
+    },
+    {
+      "institution_name": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+      "correct_provider_key": "kscste_center",
+      "reason_classification": "Under KSCSTE"
+    },
+    {
+      "institution_name": "Central Coir Research Institute",
+      "correct_provider_key": "industry_board",
+      "reason_classification": "Under Coir Board (Ministry of MSME, Govt of India)"
+    },
+    {
+      "institution_name": "National Institute of Technology Calicut (NITC)",
+      "correct_provider_key": "ini_nit",
+      "reason_classification": "Institute of National Importance (NIT)"
+    },
+    {
+      "institution_name": "Centre for Water Resources Development...",
+      "correct_provider_key": "kscste_center",
+      "reason_classification": "Under KSCSTE (CWRDM)"
+    },
+    {
+      "institution_name": "ICAR -Central Tuber Crops ResearchInstitute...",
+      "correct_provider_key": "icar_lab",
+      "reason_classification": "ICAR"
+    },
+    {
+      "institution_name": "ICAR -Central Plantation Crops Research...",
+      "correct_provider_key": "icar_lab",
+      "reason_classification": "ICAR"
+    },
+    {
+      "institution_name": "ICAR-Central Marine Fisheries Research Institute",
+      "correct_provider_key": "icar_lab",
+      "reason_classification": "ICAR"
+    },
+    {
+      "institution_name": "Rajiv Gandhi Centre, for Bio-Technology",
+      "correct_provider_key": "central_gov_other",
+      "reason_classification": "Under Dept of Biotechnology (Govt of India)"
+    },
+    {
+      "institution_name": "Sree Chitra Tirunal Institute for Medical Sciences...",
+      "correct_provider_key": "ini_sctimst",
+      "reason_classification": "Institute of National Importance (Medical)"
+    },
+    {
+      "institution_name": "University of Calicut",
+      "correct_provider_key": "state_univ",
+      "reason_classification": "Kerala State Public University"
+    },
+    {
+      "institution_name": "Kerala Veterinary and Animal Sciences University",
+      "correct_provider_key": "state_univ",
+      "reason_classification": "Kerala State Public University"
+    },
+    {
+      "institution_name": "Indian Institute of Science Education and Research",
+      "correct_provider_key": "ini_iiser",
+      "reason_classification": "Institute of National Importance (IISER)"
+    },
+    {
+      "institution_name": "National Centre for Earth Science Studies",
+      "correct_provider_key": "central_gov_other",
+      "reason_classification": "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014"
+    },
+    {
+      "institution_name": "Dr. Moopen's iNEST",
+      "correct_provider_key": "pvt_incubator",
+      "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College"
+    },
+    {
+      "institution_name": "CEPCI Laboratory & Research Institute",
+      "correct_provider_key": "industry_board",
+      "reason_classification": "Cashew Export Promotion Council of India"
+    }
   ]
 }
