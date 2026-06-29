@@ -5,5 +5,8 @@ sheets:
     tabs:
       - name: Main Data
         gid: 5695880
+        excludeRowsWhere:
+          - column: "id"
+            equals: "id" 
       - name: Instituitiion list
         gid: 1583764603
