@@ -169,6 +169,11 @@ async function runSync() {
                     let isRowEmpty = true;
                     
                     headers.forEach((header, index) => {
+                        // EXCLUDE COLUMNS
+                        if (tab.excludeColumns && tab.excludeColumns.map(toSnakeCase).includes(header)) {
+                            return; // Skip mapping this column completely
+                        }
+
                         let cellValue = rows[i][index] ? rows[i][index].trim() : "";
                         
                         // MARKDOWN AUTO-CONVERSION
@@ -182,6 +187,22 @@ async function runSync() {
                     });
 
                     if (isRowEmpty) continue;
+
+                    // EXCLUDE ROWS LOGIC
+                    if (tab.excludeRowsWhere && Array.isArray(tab.excludeRowsWhere)) {
+                        let shouldExcludeRow = false;
+                        for (const filter of tab.excludeRowsWhere) {
+                            const col = toSnakeCase(filter.column);
+                            if (filter.equals !== undefined && rowObj[col] === filter.equals.toString()) {
+                                shouldExcludeRow = true;
+                                break;
+                            }
+                        }
+                        if (shouldExcludeRow) {
+                            logEntry.rows_dropped += 1;
+                            continue; // Drop the entire row
+                        }
+                    }
 
                     // DATA VALIDATION RULES
                     if (tab.required && Array.isArray(tab.required)) {

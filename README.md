@@ -44,9 +44,34 @@ sheets:
 ```
 *Result:* This generates a single JSON object at `/global_inventory.json` where each tab is a key containing its respective rows (e.g., `data.instruments` and `data.equipment`).
 
----
+### 🛡️ Advanced Data Filtering (Drafts & Privacy)
+You can completely control what data is exported to the JSON API or AI tools by adding filters to any tab or sheet.
 
-## 📸 Image Auto-Identification
+#### 1. Skipping Columns (`excludeColumns`)
+If your Google Sheet has columns for internal administrative notes, private emails, or pricing that you do not want the frontend or AI to see:
+```yaml
+    tabs:
+      - name: Main Data
+        gid: 5695880
+        excludeColumns:
+          - "internal_admin_notes"
+          - "contact_email"
+```
+
+#### 2. Skipping Rows (`excludeRowsWhere`)
+If you want to keep draft or unapproved items in your Google Sheet but hide them from the live API:
+```yaml
+    tabs:
+      - name: Main Data
+        gid: 5695880
+        excludeRowsWhere:
+          - column: "status"
+            equals: "draft"
+          - column: "published"
+            equals: "FALSE"
+```
+
+### Option C: Data Validation (Required Columns)
 
 You **do not** need to name your columns `image_link`. 
 
