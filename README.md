@@ -51,6 +51,7 @@ The engine supports a massive amount of configuration for privacy, data formatti
 - **Skip Rows**: Hide draft records (`excludeRowsWhere`).
 - **Split Strings to Arrays**: Convert `"bio, chem"` to `["bio", "chem"]` for Orama search indexing (`splitColumns`).
 - **Explicit Image Targeting**: Restrict the auto-downloader to specific columns so it ignores normal website links (`imageColumns`).
+- **Dynamic Frontend Menus**: Provide a basic structure and let the engine auto-discover and generate a live filter menu (`filters.json`) from your live sheet data (`filterTaxonomy`).
 
 **👉 [Read the Complete Configuration Guide](SHEETS_CONFIG_GUIDE.md)** for a deep dive into every option, complete with copy-pasteable YAML examples!
 

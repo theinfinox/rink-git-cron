@@ -23,7 +23,17 @@ sheets:
     # 2. The Google Spreadsheet ID (found in the Google Sheets URL)
     spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
     
-    # 3. Define the tabs you want to extract from this spreadsheet
+    # 3. 🧠 DYNAMIC FILTERS (Optional): Auto-generate an API for frontend filter menus
+    # It cross-references the live Google Sheet against these predefined categories.
+    filterTaxonomy:
+      district:
+        "South Zone": ["Thiruvananthapuram", "Kollam", "Pathanamthitta"]
+        "Central Zone": ["Ernakulam", "Thrissur"]
+      tag:
+        "Life Sciences": ["genomics", "bioinformatics"]
+        "Material Sciences": ["metallurgy", "polymers"]
+    
+    # 4. Define the tabs you want to extract from this spreadsheet
     tabs:
       - name: Instruments               # The exact name of the tab in Google Sheets
         gid: 0                          # The gid (found at the end of the Google Sheets URL)
@@ -80,6 +90,10 @@ The unique identifier of the Google Sheet.
 A list of specific tabs within the spreadsheet to sync.
 - If you only define **one** tab, the resulting JSON is an array of objects `[{...}, {...}]`.
 - If you define **multiple** tabs, the resulting JSON is an object grouping the arrays by tab name `{"instruments": [...], "equipment": [...]}`.
+
+#### `filterTaxonomy` (Object)
+*Optional but powerful.* Used to auto-generate a `filters.json` endpoint for your frontend menus.
+You provide a structured taxonomy (e.g., grouping specific `district` values into zones, or `tag` values into research domains). As the engine syncs your sheet, it cross-references the live data. If a row contains a district or tag not listed in your predefined taxonomy, the engine automatically adds it to an `"Other Districts"` or `"Other Tags"` bucket. This allows your frontend to pull a perfectly structured and live filter menu natively from the backend without any hardcoding!
 
 ---
 
