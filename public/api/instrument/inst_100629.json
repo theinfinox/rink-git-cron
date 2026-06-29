@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/19",
   "website_booking_link_fallback": "",
   "standardized_district": "Thrissur",
-  "tag": "microbiology, food_safety, pharmaceuticals, diagnostics",
+  "tag": [
+    "microbiology",
+    "food_safety",
+    "pharmaceuticals",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

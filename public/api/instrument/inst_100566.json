@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.rgcb.res.in/mls.php",
   "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "microbiology, cell_culture, diagnostics, medical_devices",
+  "tag": [
+    "microbiology",
+    "cell_culture",
+    "diagnostics",
+    "medical_devices"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

@@ -12,7 +12,12 @@
   "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "food_safety, analytical_chem, marine_tech, crop_science",
+  "tag": [
+    "food_safety",
+    "analytical_chem",
+    "marine_tech",
+    "crop_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

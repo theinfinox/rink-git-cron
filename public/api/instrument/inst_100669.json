@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/59",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/27",
   "standardized_district": "Thrissur",
-  "tag": "microbiology, cell_culture, food_safety, pharmaceuticals",
+  "tag": [
+    "microbiology",
+    "cell_culture",
+    "food_safety",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

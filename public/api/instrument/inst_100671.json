@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/61",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/29",
   "standardized_district": "Thrissur",
-  "tag": "food_safety, analytical_chem, pharmaceuticals, soil_analysis",
+  "tag": [
+    "food_safety",
+    "analytical_chem",
+    "pharmaceuticals",
+    "soil_analysis"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

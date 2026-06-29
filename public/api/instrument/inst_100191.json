@@ -12,7 +12,12 @@
   "website_booking_link": "http://spices.res.in/saif/pricelist.php",
   "website_booking_link_fallback": "http://spices.res.in/saif/facilities.php",
   "standardized_district": "Kozhikode",
-  "tag": "food_safety, microbiology, pharmaceuticals, cell_culture",
+  "tag": [
+    "food_safety",
+    "microbiology",
+    "pharmaceuticals",
+    "cell_culture"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image, No Contact Info",
   "warnings": "Missing Image, No Contact Info",

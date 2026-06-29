@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/34",
   "website_booking_link_fallback": "https://csif.uoc.ac.in/images/User-Fee-Revised---from-15.06.2022.pdf",
   "standardized_district": "Thrissur",
-  "tag": "diagnostics, analytical_chem, pharmaceuticals, food_safety",
+  "tag": [
+    "diagnostics",
+    "analytical_chem",
+    "pharmaceuticals",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

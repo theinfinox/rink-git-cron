@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/48",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "nanotech, surface_science, metallurgy, analytical_chem",
+  "tag": [
+    "nanotech",
+    "surface_science",
+    "metallurgy",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

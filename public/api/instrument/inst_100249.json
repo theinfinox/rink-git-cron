@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.ccriindia.org/coir_Pith_Testing_Laboratory.html",
   "website_booking_link_fallback": "",
   "standardized_district": "Alappuzha",
-  "tag": "soil_analysis, textiles, analytical_chem, metrology",
+  "tag": [
+    "soil_analysis",
+    "textiles",
+    "analytical_chem",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

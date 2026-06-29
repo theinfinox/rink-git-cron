@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.amc.nitc.ac.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kozhikode",
-  "tag": "metrology, additive_mfg, metallurgy, surface_science",
+  "tag": [
+    "metrology",
+    "additive_mfg",
+    "metallurgy",
+    "surface_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

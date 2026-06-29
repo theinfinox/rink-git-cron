@@ -12,7 +12,11 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "cell_culture, additive_mfg, medical_devices",
+  "tag": [
+    "cell_culture",
+    "additive_mfg",
+    "medical_devices"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

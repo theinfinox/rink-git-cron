@@ -12,7 +12,12 @@
   "website_booking_link": "http://www.cwrdm.org/central-instrumentation-facility#",
   "website_booking_link_fallback": "https://cwrdm.kerala.gov.in/laboratories",
   "standardized_district": "Kozhikode",
-  "tag": "analytical_chem, metrology, pharmaceuticals, food_safety",
+  "tag": [
+    "analytical_chem",
+    "metrology",
+    "pharmaceuticals",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

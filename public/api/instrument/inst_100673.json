@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/63",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/31",
   "standardized_district": "Thrissur",
-  "tag": "nanotech, surface_science, metallurgy, analytical_chem",
+  "tag": [
+    "nanotech",
+    "surface_science",
+    "metallurgy",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

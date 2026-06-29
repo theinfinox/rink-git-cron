@@ -12,7 +12,12 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "cell_culture, microbiology, pharmaceuticals, genomics",
+  "tag": [
+    "cell_culture",
+    "microbiology",
+    "pharmaceuticals",
+    "genomics"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

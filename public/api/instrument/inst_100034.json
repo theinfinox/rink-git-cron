@@ -12,7 +12,12 @@
   "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kottayam",
-  "tag": "polymers, surface_science, analytical_chem, pharmaceuticals",
+  "tag": [
+    "polymers",
+    "surface_science",
+    "analytical_chem",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

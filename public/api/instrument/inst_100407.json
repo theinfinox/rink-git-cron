@@ -9,13 +9,17 @@
   "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
   "enquiry_contact_number": "485 244 2104",
   "enquiry_mail": "",
-  "website_booking_link": "/assets/instrument/inst_100407_website_booking_link.webp",
+  "website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam",
   "website_booking_link_fallback": "",
   "standardized_district": "Alappuzha",
-  "tag": "microbiology, cell_culture, diagnostics, crop_science",
+  "tag": [
+    "microbiology",
+    "cell_culture",
+    "diagnostics",
+    "crop_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image, No Contact Info",
   "warnings": "Missing Image, No Contact Info",
-  "test": "",
-  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+  "test": ""
 }

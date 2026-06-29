@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.ccriindia.org/coir_Pith_Testing_Laboratory.html",
   "website_booking_link_fallback": "",
   "standardized_district": "Alappuzha",
-  "tag": "nanotech, metallurgy, surface_science, analytical_chem",
+  "tag": [
+    "nanotech",
+    "metallurgy",
+    "surface_science",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image, Missing Facility/Institution",
   "warnings": "Missing Image, Missing Facility/Institution",

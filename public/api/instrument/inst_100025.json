@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/lc-ms-ms/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "food_safety, pharmaceuticals, analytical_chem, diagnostics",
+  "tag": [
+    "food_safety",
+    "pharmaceuticals",
+    "analytical_chem",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

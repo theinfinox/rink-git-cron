@@ -12,7 +12,12 @@
   "website_booking_link": "",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "rf_communications, semiconductors, metrology, analytical_chem",
+  "tag": [
+    "rf_communications",
+    "semiconductors",
+    "metrology",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

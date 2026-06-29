@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.caik.res.in/",
   "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
   "standardized_district": "Thrissur",
-  "tag": "nanotech, metallurgy, surface_science, analytical_chem",
+  "tag": [
+    "nanotech",
+    "metallurgy",
+    "surface_science",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/bet/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "surface_science, analytical_chem, nanotech, metrology",
+  "tag": [
+    "surface_science",
+    "analytical_chem",
+    "nanotech",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

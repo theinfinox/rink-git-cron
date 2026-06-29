@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/37",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "pharmaceuticals, nanotech, analytical_chem, geosciences",
+  "tag": [
+    "pharmaceuticals",
+    "nanotech",
+    "analytical_chem",
+    "geosciences"
+  ],
   "provider_key": "",
   "warnings_gemini": "No Contact Info, Missing Image",
   "warnings": "No Contact Info, Missing Image",

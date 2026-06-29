@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "analytical_chem, food_safety, soil_analysis, pharmaceuticals",
+  "tag": [
+    "analytical_chem",
+    "food_safety",
+    "soil_analysis",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

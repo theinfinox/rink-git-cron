@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.caik.res.in/",
   "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
   "standardized_district": "Thrissur",
-  "tag": "pharmaceuticals, analytical_chem, food_safety, polymers",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "food_safety",
+    "polymers"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

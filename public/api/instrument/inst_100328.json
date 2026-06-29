@@ -12,7 +12,12 @@
   "website_booking_link": "http://www.cwrdm.org/central-instrumentation-facility#",
   "website_booking_link_fallback": "https://cwrdm.kerala.gov.in/laboratories",
   "standardized_district": "Kozhikode",
-  "tag": "microbiology, cell_culture, pharmaceuticals, analytical_chem",
+  "tag": [
+    "microbiology",
+    "cell_culture",
+    "pharmaceuticals",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

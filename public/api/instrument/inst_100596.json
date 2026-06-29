@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/",
   "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "food_safety, crop_science, analytical_chem, polymers",
+  "tag": [
+    "food_safety",
+    "crop_science",
+    "analytical_chem",
+    "polymers"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

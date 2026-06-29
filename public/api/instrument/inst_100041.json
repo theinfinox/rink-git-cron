@@ -12,7 +12,12 @@
   "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kottayam",
-  "tag": "analytical_chem, water_quality, soil_analysis, pharmaceuticals",
+  "tag": [
+    "analytical_chem",
+    "water_quality",
+    "soil_analysis",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

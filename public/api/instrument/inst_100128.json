@@ -9,13 +9,17 @@
   "address": "04923 226 554",
   "enquiry_contact_number": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
   "enquiry_mail": "https://iitpkd.ac.in/",
-  "website_booking_link": "/assets/instrument/inst_100128_website_booking_link.webp",
+  "website_booking_link": "https://cif.iitpkd.ac.in/node/45",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "analytical_chem, pharmaceuticals, food_safety, water_quality",
+  "tag": [
+    "analytical_chem",
+    "pharmaceuticals",
+    "food_safety",
+    "water_quality"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",
-  "test": "",
-  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/45"
+  "test": ""
 }

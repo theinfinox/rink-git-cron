@@ -12,7 +12,12 @@
   "website_booking_link": "https://iav.kerala.gov.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "genomics, bioinformatics, microbiology, cell_culture",
+  "tag": [
+    "genomics",
+    "bioinformatics",
+    "microbiology",
+    "cell_culture"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

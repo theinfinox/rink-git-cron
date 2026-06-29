@@ -12,7 +12,12 @@
   "website_booking_link": "http://csif.uoc.ac.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Malappuram",
-  "tag": "analytical_chem, surface_science, polymers, pharmaceuticals",
+  "tag": [
+    "analytical_chem",
+    "surface_science",
+    "polymers",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

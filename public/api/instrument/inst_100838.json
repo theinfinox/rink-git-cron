@@ -2,7 +2,7 @@
   "id": "inst_100838",
   "instruments": "Vacuum Oven",
   "acronym": "",
-  "image_link": "vaccum oven.jpeg",
+  "image_link": "/assets/instrument/inst_100838_image_link.webp",
   "district": "Wayanad",
   "name_of_facility": "Bio-NEST",
   "institution_name": "Dr. Moopen's iNEST",
@@ -12,9 +12,15 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "food_safety, pharmaceuticals, analytical_chem, microbiology",
+  "tag": [
+    "food_safety",
+    "pharmaceuticals",
+    "analytical_chem",
+    "microbiology"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",
-  "test": ""
+  "test": "",
+  "original_image_link": "vaccum oven.jpeg"
 }

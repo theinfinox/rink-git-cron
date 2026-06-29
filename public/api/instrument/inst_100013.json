@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.sticindia.com/about_us.php",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "polymers, pharmaceuticals, analytical_chem, battery_tech",
+  "tag": [
+    "polymers",
+    "pharmaceuticals",
+    "analytical_chem",
+    "battery_tech"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

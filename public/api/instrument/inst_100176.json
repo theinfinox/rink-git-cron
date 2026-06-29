@@ -9,14 +9,18 @@
   "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678645",
   "enquiry_contact_number": "04923 226 554",
   "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
-  "website_booking_link": "/assets/instrument/inst_100176_website_booking_link.webp",
+  "website_booking_link": "https://cif.iitpkd.ac.in/node/28",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "semiconductors, nanotech, pcb_design, metrology",
+  "tag": [
+    "semiconductors",
+    "nanotech",
+    "pcb_design",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",
   "test": "",
-  "original_image_link": "https://drive.google.com/file/d/1WSeK79VSNW3Fd6_Y6sJvMNPuMEScLpUH/view?usp=sharing",
-  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/28"
+  "original_image_link": "https://drive.google.com/file/d/1WSeK79VSNW3Fd6_Y6sJvMNPuMEScLpUH/view?usp=sharing"
 }

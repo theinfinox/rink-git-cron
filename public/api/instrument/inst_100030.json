@@ -12,7 +12,11 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/xps-4/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "geosciences, metallurgy, analytical_chem",
+  "tag": [
+    "geosciences",
+    "metallurgy",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/xrf/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "surface_science, nanotech, analytical_chem, semiconductors",
+  "tag": [
+    "surface_science",
+    "nanotech",
+    "analytical_chem",
+    "semiconductors"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

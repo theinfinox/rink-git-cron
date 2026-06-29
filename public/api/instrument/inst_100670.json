@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/60",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/28",
   "standardized_district": "Thrissur",
-  "tag": "pharmaceuticals, analytical_chem, medical_devices, diagnostics",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "medical_devices",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.caik.res.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thrissur",
-  "tag": "analytical_chem, soil_analysis, food_safety, geosciences",
+  "tag": [
+    "analytical_chem",
+    "soil_analysis",
+    "food_safety",
+    "geosciences"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

@@ -12,7 +12,12 @@
   "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "analytical_chem, metallurgy, geosciences, soil_analysis",
+  "tag": [
+    "analytical_chem",
+    "metallurgy",
+    "geosciences",
+    "soil_analysis"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

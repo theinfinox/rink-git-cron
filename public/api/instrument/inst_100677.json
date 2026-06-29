@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/35",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "surface_science, nanotech, analytical_chem, semiconductors",
+  "tag": [
+    "surface_science",
+    "nanotech",
+    "analytical_chem",
+    "semiconductors"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

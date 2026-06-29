@@ -9,14 +9,18 @@
   "address": "04923 226 554",
   "enquiry_contact_number": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
   "enquiry_mail": "https://iitpkd.ac.in/",
-  "website_booking_link": "/assets/instrument/inst_100130_website_booking_link.webp",
+  "website_booking_link": "https://cif.iitpkd.ac.in/node/26",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "analytical_chem, polymers, nanotech, surface_science",
+  "tag": [
+    "analytical_chem",
+    "polymers",
+    "nanotech",
+    "surface_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",
   "test": "",
-  "original_image_link": "https://drive.google.com/file/d/10L_2ol5UKyZHjx8Hat0IgS7R5mq5PfMC/view?usp=sharing",
-  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/26"
+  "original_image_link": "https://drive.google.com/file/d/10L_2ol5UKyZHjx8Hat0IgS7R5mq5PfMC/view?usp=sharing"
 }

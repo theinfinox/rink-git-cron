@@ -9,13 +9,17 @@
   "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678631",
   "enquiry_contact_number": "04923 226 554",
   "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
-  "website_booking_link": "/assets/instrument/inst_100162_website_booking_link.webp",
+  "website_booking_link": "https://cif.iitpkd.ac.in/node/54",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "pharmaceuticals, analytical_chem, diagnostics, medical_devices",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "diagnostics",
+    "medical_devices"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",
-  "test": "",
-  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/54"
+  "test": ""
 }

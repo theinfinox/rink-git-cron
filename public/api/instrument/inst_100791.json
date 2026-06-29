@@ -12,7 +12,11 @@
   "website_booking_link": "https://www.ncess.gov.in/2-uncategorised/601-criticalzoneobservatories.html",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "geosciences, analytical_chem, metrology",
+  "tag": [
+    "geosciences",
+    "analytical_chem",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

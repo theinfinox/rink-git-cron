@@ -12,7 +12,11 @@
   "website_booking_link": "https://www.ccriindia.org/coir_Pith_Testing_Laboratory.html",
   "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
   "standardized_district": "Alappuzha",
-  "tag": "soil_analysis, crop_science, analytical_chem",
+  "tag": [
+    "soil_analysis",
+    "crop_science",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

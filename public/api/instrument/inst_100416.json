@@ -9,13 +9,16 @@
   "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
   "enquiry_contact_number": "494 244 2104",
   "enquiry_mail": "",
-  "website_booking_link": "/assets/instrument/inst_100416_website_booking_link.webp",
+  "website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam",
   "website_booking_link_fallback": "",
   "standardized_district": "Alappuzha",
-  "tag": "bioinformatics, genomics, diagnostics",
+  "tag": [
+    "bioinformatics",
+    "genomics",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",
-  "test": "",
-  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+  "test": ""
 }

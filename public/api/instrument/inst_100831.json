@@ -12,7 +12,12 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "analytical_chem, pharmaceuticals, food_safety, polymers",
+  "tag": [
+    "analytical_chem",
+    "pharmaceuticals",
+    "food_safety",
+    "polymers"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

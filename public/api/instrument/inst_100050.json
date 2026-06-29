@@ -12,7 +12,12 @@
   "website_booking_link": "https://cift.res.in/how-to-use-the-facility",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "analytical_chem, food_safety, water_quality, geosciences",
+  "tag": [
+    "analytical_chem",
+    "food_safety",
+    "water_quality",
+    "geosciences"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

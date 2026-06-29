@@ -12,7 +12,12 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "microbiology, diagnostics, genomics, pharmaceuticals",
+  "tag": [
+    "microbiology",
+    "diagnostics",
+    "genomics",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

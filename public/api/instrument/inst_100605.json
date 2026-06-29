@@ -12,7 +12,12 @@
   "website_booking_link": "http://csif.uoc.ac.in/",
   "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
   "standardized_district": "Malappuram",
-  "tag": "surface_science, analytical_chem, nanotech, metrology",
+  "tag": [
+    "surface_science",
+    "analytical_chem",
+    "nanotech",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

@@ -12,7 +12,7 @@
   "website_booking_link": "",
   "website_booking_link_fallback": "",
   "standardized_district": "",
-  "tag": "",
+  "tag": [],
   "provider_key": "",
   "warnings_gemini": "",
   "warnings": "",

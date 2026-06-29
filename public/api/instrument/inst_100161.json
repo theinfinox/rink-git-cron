@@ -9,14 +9,18 @@
   "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678630",
   "enquiry_contact_number": "04923 226 554",
   "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
-  "website_booking_link": "/assets/instrument/inst_100161_website_booking_link.webp",
+  "website_booking_link": "https://cif.iitpkd.ac.in/node/26",
   "website_booking_link_fallback": "",
   "standardized_district": "Palakkad",
-  "tag": "nanotech, surface_science, analytical_chem, pharmaceuticals",
+  "tag": [
+    "nanotech",
+    "surface_science",
+    "analytical_chem",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",
   "test": "",
-  "original_image_link": "https://drive.google.com/file/d/10L_2ol5UKyZHjx8Hat0IgS7R5mq5PfMC/view?usp=sharing",
-  "original_website_booking_link": "https://cif.iitpkd.ac.in/node/26"
+  "original_image_link": "https://drive.google.com/file/d/10L_2ol5UKyZHjx8Hat0IgS7R5mq5PfMC/view?usp=sharing"
 }

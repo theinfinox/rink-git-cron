@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/genetic-analyser/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "genomics, bioinformatics, diagnostics, microbiology",
+  "tag": [
+    "genomics",
+    "bioinformatics",
+    "diagnostics",
+    "microbiology"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

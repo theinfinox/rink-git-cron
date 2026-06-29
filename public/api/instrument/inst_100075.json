@@ -12,7 +12,11 @@
   "website_booking_link": "https://cift.res.in/how-to-use-the-facility",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "food_safety, pharmaceuticals, textiles",
+  "tag": [
+    "food_safety",
+    "pharmaceuticals",
+    "textiles"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

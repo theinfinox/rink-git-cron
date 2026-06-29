@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.kvasu.ac.in/researchcategory/21/49",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/17",
   "standardized_district": "Thrissur",
-  "tag": "analytical_chem, water_quality, soil_analysis, food_safety",
+  "tag": [
+    "analytical_chem",
+    "water_quality",
+    "soil_analysis",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

@@ -12,7 +12,10 @@
   "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "marine_tech, metrology",
+  "tag": [
+    "marine_tech",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

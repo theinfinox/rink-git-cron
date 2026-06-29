@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.rgcb.res.in/mls.php",
   "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "nanotech, surface_science, microbiology, cell_culture",
+  "tag": [
+    "nanotech",
+    "surface_science",
+    "microbiology",
+    "cell_culture"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image, Missing Facility/Institution",
   "warnings": "Missing Image, Missing Facility/Institution",

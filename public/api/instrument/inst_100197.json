@@ -12,7 +12,12 @@
   "website_booking_link": "https://jntbgri.res.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "pharmaceuticals, food_safety, analytical_chem, water_quality",
+  "tag": [
+    "pharmaceuticals",
+    "food_safety",
+    "analytical_chem",
+    "water_quality"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

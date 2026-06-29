@@ -12,7 +12,12 @@
   "website_booking_link": "http://spices.res.in/saif/pricelist.php",
   "website_booking_link_fallback": "http://spices.res.in/saif/facilities.php",
   "standardized_district": "Kozhikode",
-  "tag": "genomics, microbiology, diagnostics, pharmaceuticals",
+  "tag": [
+    "genomics",
+    "microbiology",
+    "diagnostics",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

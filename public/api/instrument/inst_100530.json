@@ -12,7 +12,12 @@
   "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "pharmaceuticals, analytical_chem, food_safety, water_quality",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "food_safety",
+    "water_quality"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

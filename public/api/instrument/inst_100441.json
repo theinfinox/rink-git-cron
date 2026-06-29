@@ -12,7 +12,11 @@
   "website_booking_link": "http://eprints.cmfri.org.in/9240/1/21.pdf",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "marine_tech, microbiology, cell_culture",
+  "tag": [
+    "marine_tech",
+    "microbiology",
+    "cell_culture"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

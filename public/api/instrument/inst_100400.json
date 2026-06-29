@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.ctcri.org/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "crop_science, green_chem, microbiology, analytical_chem",
+  "tag": [
+    "crop_science",
+    "green_chem",
+    "microbiology",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

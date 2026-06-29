@@ -12,7 +12,12 @@
   "website_booking_link": "https://jntbgri.res.in/",
   "website_booking_link_fallback": "http://spices.res.in/saif/facilities.php",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "analytical_chem, pharmaceuticals, food_safety, environmental_science",
+  "tag": [
+    "analytical_chem",
+    "pharmaceuticals",
+    "food_safety",
+    "environmental_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

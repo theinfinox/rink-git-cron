@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/chns-o-analyser/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "analytical_chem, soil_analysis, geosciences, green_chem",
+  "tag": [
+    "analytical_chem",
+    "soil_analysis",
+    "geosciences",
+    "green_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

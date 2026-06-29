@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.sticindia.com/about_us.php",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": "genomics, microbiology, pharmaceuticals, analytical_chem",
+  "tag": [
+    "genomics",
+    "microbiology",
+    "pharmaceuticals",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

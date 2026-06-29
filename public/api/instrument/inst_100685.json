@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/43",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "pharmaceuticals, analytical_chem, bioinformatics, polymers",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "bioinformatics",
+    "polymers"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

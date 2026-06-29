@@ -12,7 +12,12 @@
   "website_booking_link": "https://iav.kerala.gov.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "pharmaceuticals, analytical_chem, cell_culture, microbiology",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "cell_culture",
+    "microbiology"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

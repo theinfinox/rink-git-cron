@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/scm/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "cell_culture,microbiology,genomics,diagnostics",
+  "tag": [
+    "cell_culture",
+    "microbiology",
+    "genomics",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

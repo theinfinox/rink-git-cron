@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.caik.res.in/",
   "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
   "standardized_district": "Thrissur",
-  "tag": "analytical_chem, water_quality, geosciences, food_safety",
+  "tag": [
+    "analytical_chem",
+    "water_quality",
+    "geosciences",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

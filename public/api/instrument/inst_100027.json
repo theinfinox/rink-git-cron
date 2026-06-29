@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/sfs-2/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "pharmaceuticals, analytical_chem, medical_devices, diagnostics",
+  "tag": [
+    "pharmaceuticals",
+    "analytical_chem",
+    "medical_devices",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

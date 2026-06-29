@@ -12,7 +12,12 @@
   "website_booking_link": "https://cepclab.org.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kollam",
-  "tag": "food_safety, microbiology, pharmaceuticals, analytical_chem",
+  "tag": [
+    "food_safety",
+    "microbiology",
+    "pharmaceuticals",
+    "analytical_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Facility/Institution",
   "warnings": "Missing Facility/Institution",

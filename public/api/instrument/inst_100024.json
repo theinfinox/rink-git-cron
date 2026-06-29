@@ -12,7 +12,12 @@
   "website_booking_link": "https://kusicc.ac.in/spm-afm/",
   "website_booking_link_fallback": "https://kusicc.ac.in/tga-2/",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "polymers, analytical_chem, metallurgy, pharmaceuticals",
+  "tag": [
+    "polymers",
+    "analytical_chem",
+    "metallurgy",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

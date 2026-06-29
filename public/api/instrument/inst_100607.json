@@ -12,7 +12,12 @@
   "website_booking_link": "http://csif.uoc.ac.in/",
   "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
   "standardized_district": "Malappuram",
-  "tag": "food_safety, pharmaceuticals, analytical_chem, diagnostics",
+  "tag": [
+    "food_safety",
+    "pharmaceuticals",
+    "analytical_chem",
+    "diagnostics"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

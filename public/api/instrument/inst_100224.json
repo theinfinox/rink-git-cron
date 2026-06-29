@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.caik.res.in/",
   "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
   "standardized_district": "Thrissur",
-  "tag": "analytical_chem, soil_analysis, water_quality, crop_science",
+  "tag": [
+    "analytical_chem",
+    "soil_analysis",
+    "water_quality",
+    "crop_science"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

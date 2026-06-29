@@ -12,7 +12,11 @@
   "website_booking_link": "www.drmoopensinest.com",
   "website_booking_link_fallback": "",
   "standardized_district": "Wayanad",
-  "tag": "metallurgy, analytical_chem, geosciences",
+  "tag": [
+    "metallurgy",
+    "analytical_chem",
+    "geosciences"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

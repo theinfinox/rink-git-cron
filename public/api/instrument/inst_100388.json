@@ -12,7 +12,11 @@
   "website_booking_link": "https://www.ctcri.org/",
   "website_booking_link_fallback": "https://cwrdm.kerala.gov.in/laboratories",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "food_safety, crop_science, metrology",
+  "tag": [
+    "food_safety",
+    "crop_science",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

@@ -12,7 +12,11 @@
   "website_booking_link": "http://www.cwrdm.org/central-instrumentation-facility#",
   "website_booking_link_fallback": "",
   "standardized_district": "Kozhikode",
-  "tag": "water_quality, analytical_chem, food_safety",
+  "tag": [
+    "water_quality",
+    "analytical_chem",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

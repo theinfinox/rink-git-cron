@@ -12,7 +12,12 @@
   "website_booking_link": "https://jntbgri.res.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
-  "tag": "analytical_chem, metrology, pharmaceuticals, food_safety",
+  "tag": [
+    "analytical_chem",
+    "metrology",
+    "pharmaceuticals",
+    "food_safety"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

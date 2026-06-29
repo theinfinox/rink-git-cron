@@ -12,7 +12,12 @@
   "website_booking_link": "http://csif.uoc.ac.in/",
   "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
   "standardized_district": "Malappuram",
-  "tag": "analytical_chem, soil_analysis, geosciences, green_chem",
+  "tag": [
+    "analytical_chem",
+    "soil_analysis",
+    "geosciences",
+    "green_chem"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

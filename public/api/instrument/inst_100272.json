@@ -12,7 +12,12 @@
   "website_booking_link": "https://www.amc.nitc.ac.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kozhikode",
-  "tag": "nanotech, surface_science, semiconductors, metrology",
+  "tag": [
+    "nanotech",
+    "surface_science",
+    "semiconductors",
+    "metrology"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Image",
   "warnings": "Missing Image",

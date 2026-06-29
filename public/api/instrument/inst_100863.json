@@ -12,7 +12,12 @@
   "website_booking_link": "https://cepclab.org.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kollam",
-  "tag": "food_safety, analytical_chem, metallurgy, geosciences",
+  "tag": [
+    "food_safety",
+    "analytical_chem",
+    "metallurgy",
+    "geosciences"
+  ],
   "provider_key": "",
   "warnings_gemini": "No Contact Info, Missing Facility/Institution",
   "warnings": "No Contact Info, Missing Facility/Institution",

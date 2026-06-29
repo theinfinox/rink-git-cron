@@ -12,7 +12,12 @@
   "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kottayam",
-  "tag": "nanotech, metallurgy, surface_science, semiconductors",
+  "tag": [
+    "nanotech",
+    "metallurgy",
+    "surface_science",
+    "semiconductors"
+  ],
   "provider_key": "",
   "warnings_gemini": "CLEAN",
   "warnings": "CLEAN",

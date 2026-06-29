@@ -12,7 +12,12 @@
   "website_booking_link": "https://cepclab.org.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kollam",
-  "tag": "genomics, microbiology, cell_culture, pharmaceuticals",
+  "tag": [
+    "genomics",
+    "microbiology",
+    "cell_culture",
+    "pharmaceuticals"
+  ],
   "provider_key": "",
   "warnings_gemini": "Missing Facility/Institution, No Contact Info",
   "warnings": "Missing Facility/Institution, No Contact Info",
