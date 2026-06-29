@@ -219,6 +219,55 @@ async function runSync() {
                 fs.writeFileSync(HASH_FILE, JSON.stringify({ hash, timestamp: new Date().toISOString() }));
             }
 
+            // Generate Static AI Endpoints (Chunking) & Metadata Index
+            console.log(`🤖 Generating Static Web AI API for ${sheet.name}...`);
+            const apiSheetDir = `${PUBLIC_DIR}/api/${snakeCaseName}`;
+            if (!fs.existsSync(apiSheetDir)) fs.mkdirSync(apiSheetDir, { recursive: true });
+            
+            const validFileNames = new Set();
+            let llmsText = `# 📡 ${sheet.name} - AI Search Index\nTo fetch full details, request the corresponding JSON file at: https://rink-git-cron.vercel.app/api/${snakeCaseName}/{ID}.json\n\n`;
+
+            const processRowForAI = (row) => {
+                const rowId = row.id || crypto.createHash('md5').update(JSON.stringify(row)).digest('hex').substring(0, 10);
+                const fileName = `${rowId}.json`;
+                validFileNames.add(fileName);
+                
+                fs.writeFileSync(`${apiSheetDir}/${fileName}`, JSON.stringify(row, null, 2));
+
+                const name = row.instruments || row.title || row.name || 'Unknown Item';
+                const inst = row.institution_name || row.institute || '';
+                const loc = row.district || row.location || row.state || '';
+                const tags = row.tag || row.category || '';
+                
+                let metadata = `[${rowId}] ${name}`;
+                if (inst) metadata += ` | Institute: ${inst}`;
+                if (loc) metadata += ` | Location: ${loc}`;
+                if (tags) metadata += ` | Tags: ${tags}`;
+                
+                llmsText += `${metadata}\n`;
+            };
+
+            if (isMultiTab) {
+                for (const key of Object.keys(finalData)) {
+                    finalData[key].forEach(processRowForAI);
+                }
+            } else {
+                finalData.forEach(processRowForAI);
+            }
+
+            fs.writeFileSync(`${apiSheetDir}/llms.txt`, llmsText);
+
+            // Orphan Cleanup: delete old JSON files that no longer exist
+            const existingFiles = fs.readdirSync(apiSheetDir).filter(f => f.endsWith('.json'));
+            let deletedCount = 0;
+            for (const oldFile of existingFiles) {
+                if (!validFileNames.has(oldFile)) {
+                    fs.unlinkSync(`${apiSheetDir}/${oldFile}`);
+                    deletedCount++;
+                }
+            }
+            if (deletedCount > 0) console.log(`🧹 Deleted ${deletedCount} orphaned API files.`);
+
             // Save the LIVE API file safely using atomic write
             const tempMaster = `${MASTER_JSON}.tmp`;
             fs.writeFileSync(tempMaster, JSON.stringify(finalData, null, 2));
@@ -289,6 +338,16 @@ async function runSync() {
     markdown += `*Auto-generated on: ${new Date().toUTCString()}*\n\n`;
     markdown += `This document serves as a live map and analytics overview of your JSON data endpoints.\n\n`;
     
+    markdown += `## 🤖 AI Integrations\n`;
+    markdown += `- **LLM Static Search Index:** The metadata index for ChatGPT/Claude is automatically generated at \`/api/{sheet_name}/llms.txt\`.\n`;
+    markdown += `- **Individual Item Chunks:** Individual row endpoints (Zero Token Waste) are generated at \`/api/{sheet_name}/{id}.json\`.\n\n`;
+    
+    markdown += `### 🔌 Local MCP Server (For Claude Desktop & Cursor)\n`;
+    markdown += `To allow local AI agents to natively query and search this database, add this to your AI's MCP configuration:\n`;
+    markdown += "```json\n";
+    markdown += `{\n  "mcpServers": {\n    "rink-data": {\n      "command": "node",\n      "args": ["scripts/mcp-server.js"]\n    }\n  }\n}\n`;
+    markdown += "```\n\n";
+
     markdown += `## 📊 Global Analytics\n`;
     markdown += `- **Total Data Endpoints:** ${totalEndpoints}\n`;
     markdown += `- **Total Active Records:** ${totalRecordsAcrossAll}\n`;
@@ -324,7 +383,38 @@ async function runSync() {
     }
 
     fs.writeFileSync(`${PUBLIC_DIR}/API_DIRECTORY.md`, markdown);
-    console.log(`✅ API Report saved to ${PUBLIC_DIR}/API_DIRECTORY.md`);
+    console.log(`✅ API Report saved to ./public/API_DIRECTORY.md\n`);
+    
+    // Generate the Automated LLM Report
+    console.log("📝 Generating LLM Directory Report...");
+    
+    let llmMarkdown = `# 🧠 RINK LLM Integration Report\n`;
+    llmMarkdown += `*Auto-generated on: ${new Date().toUTCString()}*\n\n`;
+    llmMarkdown += `This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.\n\n`;
+    
+    llmMarkdown += `## 🌐 1. Web AI Integration (ChatGPT, Claude Web)\n`;
+    llmMarkdown += `For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked to prevent token bloat.\n\n`;
+    
+    for (const doc of apiReport) {
+        llmMarkdown += `### ${doc.sheetName}\n`;
+        llmMarkdown += `- **Search Index:** [\`/api/${doc.snakeCaseName}/llms.txt\`](/api/${doc.snakeCaseName}/llms.txt) (Highly compressed metadata for spatial/categorical search)\n`;
+        llmMarkdown += `- **Data Chunks:** \`/api/${doc.snakeCaseName}/{id}.json\` (${doc.totalRecords} zero-token endpoints generated)\n\n`;
+    }
+
+    llmMarkdown += `## 🔌 2. Local AI MCP Server (Cursor, Claude Desktop)\n`;
+    llmMarkdown += `For local development environments, we expose a native Model Context Protocol (MCP) server.\n`;
+    llmMarkdown += `Add the following to your AI configuration (e.g., \`claude_desktop_config.json\` or Cursor Settings):\n`;
+    llmMarkdown += "```json\n";
+    llmMarkdown += `{\n  "mcpServers": {\n    "rink-data": {\n      "command": "node",\n      "args": ["scripts/mcp-server.js"]\n    }\n  }\n}\n`;
+    llmMarkdown += "```\n\n";
+    llmMarkdown += `**Available MCP Tools:**\n`;
+    for (const doc of apiReport) {
+        llmMarkdown += `- \`search_${doc.snakeCaseName}\`: Deep semantic search over all columns in ${doc.sheetName}.\n`;
+    }
+    
+    fs.writeFileSync(`${PUBLIC_DIR}/LLM_REPORT.md`, llmMarkdown);
+    console.log(`✅ LLM Report saved to ./public/LLM_REPORT.md\n`);
+
 }
 
 runSync().catch(() => process.exit(1));

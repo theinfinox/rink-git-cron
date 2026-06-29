@@ -1,0 +1,21 @@
+{
+  "id": "inst_100234",
+  "instruments": "X-Ray Diffractometer (XRD)",
+  "acronym": "XRD",
+  "image_link": "/assets/master_directory/inst_100234_image_link.webp",
+  "district": "Thrissur",
+  "name_of_facility": "CENTRE FOR ANALYTICAL INSTRUMENTATION \n- KERALA (CAIK)",
+  "institution_name": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+  "address": "&quot;Kerala Forest Research Institute,\nPeechi, Thrissur - 680653,\nKerala, India&quot;",
+  "enquiry_contact_number": "499 2690-147/205/166",
+  "enquiry_mail": "caik@kfri.res.in",
+  "website_booking_link": "https://www.caik.res.in/",
+  "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
+  "standardized_district": "Thrissur",
+  "tag": "nanotech, metallurgy, surface_science, analytical_chem",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/19VyqDmlnywGLXIKftamgr7YRfGhQDkQ0/view?usp=sharing"
+}

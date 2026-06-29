@@ -1,0 +1,21 @@
+{
+  "id": "inst_100037",
+  "instruments": "UV-Visible Spectrophotometer (LAMBDA 650, Perkin Elmer)",
+  "acronym": "None",
+  "image_link": "/assets/master_directory/inst_100037_image_link.webp",
+  "district": "Kottayam",
+  "name_of_facility": "Inter University Instrumentation Centre",
+  "institution_name": "Mahatma Gandhi University",
+  "address": "Inter University Instrumentation Centre,\nMahatma Gandhi University,\nKottayam-686560, Kerala, India",
+  "enquiry_contact_number": "9846222072",
+  "enquiry_mail": "cic@mgu.ac.in",
+  "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kottayam",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, polymers",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1P4qWEMH3DQugEATzNjdKUjjjtH7aw7dz/view?usp=sharing"
+}

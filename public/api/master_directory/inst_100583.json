@@ -1,0 +1,20 @@
+{
+  "id": "inst_100583",
+  "instruments": "Incinerator,",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Reseach engineering Services",
+  "institution_name": "Rajiv Gandhi Centre, for Bio-Technology",
+  "address": "Melarannoor Road, Behind Central Jail Poojapura, Thycaud, Thiruvananthapuram, Kerala 695066",
+  "enquiry_contact_number": "0471-2529400, 2347975, \n2348753",
+  "enquiry_mail": "info@rgcb.res.in",
+  "website_booking_link": "https://www.rgcb.res.in/mls.php",
+  "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "microbiology,pharmaceuticals,green_chem",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

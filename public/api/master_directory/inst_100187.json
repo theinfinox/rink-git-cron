@@ -1,0 +1,20 @@
+{
+  "id": "inst_100187",
+  "instruments": "HPLC",
+  "acronym": "HPLC",
+  "image_link": "",
+  "district": "Kozhikode",
+  "name_of_facility": "Sophisticated Analytical Instruments Facility",
+  "institution_name": "ICAR-Indian Institute of Spices Research",
+  "address": "Marikunnu P.O.,Kozhikode (Calicut), Kerala,India 673014",
+  "enquiry_contact_number": "0495-2731410",
+  "enquiry_mail": "",
+  "website_booking_link": "http://spices.res.in/saif/pricelist.php",
+  "website_booking_link_fallback": "http://spices.res.in/saif/facilities.php",
+  "standardized_district": "Kozhikode",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, water_quality",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image, No Contact Info",
+  "warnings": "Missing Image, No Contact Info",
+  "test": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inst_100174",
+  "instruments": "Signal Analyzer",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Palakkad",
+  "name_of_facility": "Central Instrumentation Facility",
+  "institution_name": "Indian Institute of Technology Palakkad",
+  "address": "Indian Institute of Technology Palakkad, Palakkad, Kerala 678643",
+  "enquiry_contact_number": "04923 226 554",
+  "enquiry_mail": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
+  "website_booking_link": "",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Palakkad",
+  "tag": "semiconductors, pcb_design, rf_communications, metrology",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

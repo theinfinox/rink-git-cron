@@ -1,0 +1,21 @@
+{
+  "id": "inst_100001",
+  "instruments": "High resolution Transmission Electron Microscope (HRTEM)",
+  "acronym": "HRTEM",
+  "image_link": "/assets/master_directory/inst_100001_image_link.webp",
+  "district": "Ernakulam",
+  "name_of_facility": "Sophisticated Test and Instrumentation Center (STIC)",
+  "institution_name": "Cochin University of Science and Technology",
+  "address": "CUSAT, Cochin - 682 022, Kerala, India",
+  "enquiry_contact_number": "91 484 2575908",
+  "enquiry_mail": "saif@sticindia.com",
+  "website_booking_link": "https://www.sticindia.com/about_us.php",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Ernakulam",
+  "tag": "nanotech, surface_science, metallurgy, analytical_chem",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "Success",
+  "original_image_link": "https://drive.google.com/file/d/10DBUxivXS4FFTpJwUaVPBMLo60Q3DhLa/view?usp=sharing"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inst_100227",
+  "instruments": "Gas chromatograph(GC)",
+  "acronym": "GC",
+  "image_link": "",
+  "district": "Thrissur",
+  "name_of_facility": "CENTRE FOR ANALYTICAL INSTRUMENTATION \n- KERALA (CAIK)",
+  "institution_name": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+  "address": "&quot;Kerala Forest Research Institute,\nPeechi, Thrissur - 680653,\nKerala, India&quot;",
+  "enquiry_contact_number": "492 2690-147/205/166",
+  "enquiry_mail": "caik@kfri.res.in",
+  "website_booking_link": "https://www.caik.res.in/",
+  "website_booking_link_fallback": "https://www.caik.res.in/facilities.asp",
+  "standardized_district": "Thrissur",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, water_quality",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

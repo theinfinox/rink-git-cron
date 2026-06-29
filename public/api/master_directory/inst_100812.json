@@ -1,0 +1,21 @@
+{
+  "id": "inst_100812",
+  "instruments": "Acoustic Doppler Current Profiler (ADCP)",
+  "acronym": "",
+  "image_link": "/assets/master_directory/inst_100812_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Field Instrumentation (FI)",
+  "institution_name": "National Centre for Earth Science Studies",
+  "address": "National Centre for Earth Science Studies Post Box No.7250,Akkulam,Thiruvananthapuram Kerala, 695 011, India",
+  "enquiry_contact_number": "0471-2511620",
+  "enquiry_mail": "seniormanager@ncess.gov.in",
+  "website_booking_link": "https://www.ncess.gov.in/2-uncategorised/601-criticalzoneobservatories.html",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "marine_tech, geosciences, metrology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/15CDKPm-3I86hTuI9WQX9G2Nyh47v_Iut/view?usp=drive_link"
+}

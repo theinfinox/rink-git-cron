@@ -1,0 +1,21 @@
+{
+  "id": "inst_100021",
+  "instruments": "X-Ray Diffractometer includes Powder X-ray Diffraction (Powder XRD), Grazing Incidence X-Ray Diffraction (GI XRD",
+  "acronym": "XRD, GI XRD",
+  "image_link": "/assets/master_directory/inst_100021_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Laboratory for Instrumentation and Facilitation (CLIF)",
+  "institution_name": "Kerala University",
+  "address": "University Campus, Kariavattom 695581",
+  "enquiry_contact_number": "0471-2308566",
+  "enquiry_mail": "clifanalyses@keralauniversity.ac.in",
+  "website_booking_link": "https://kusicc.ac.in/spm-afm/",
+  "website_booking_link_fallback": "https://kusicc.ac.in/xrd-2/",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "nanotech, metallurgy, surface_science, analytical_chem",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1M0caKzFtezG6tMNWOeYigInVMHnDXgeV/view?usp=sharing"
+}

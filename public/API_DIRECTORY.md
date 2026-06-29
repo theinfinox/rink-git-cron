@@ -1,7 +1,24 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 29 Jun 2026 08:57:46 GMT*
+*Auto-generated on: Mon, 29 Jun 2026 09:15:26 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
+
+## 🤖 AI Integrations
+- **LLM Static Search Index:** The metadata index for ChatGPT/Claude is automatically generated at `/api/{sheet_name}/llms.txt`.
+- **Individual Item Chunks:** Individual row endpoints (Zero Token Waste) are generated at `/api/{sheet_name}/{id}.json`.
+
+### 🔌 Local MCP Server (For Claude Desktop & Cursor)
+To allow local AI agents to natively query and search this database, add this to your AI's MCP configuration:
+```json
+{
+  "mcpServers": {
+    "rink-data": {
+      "command": "node",
+      "args": ["scripts/mcp-server.js"]
+    }
+  }
+}
+```
 
 ## 📊 Global Analytics
 - **Total Data Endpoints:** 1
@@ -23,11 +40,3 @@ This document serves as a live map and analytics overview of your JSON data endp
 
 ---
 
-
-## 🖼️ Image Pipeline Analytics
-- **Total Active Images:** 243
-- **Newly Downloaded:** 0
-- **Served from Cache:** 243
-- **Broken Links/Errors:** ⚠️ 84 (Check Action Logs)
-
----

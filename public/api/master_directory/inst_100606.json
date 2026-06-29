@@ -1,0 +1,20 @@
+{
+  "id": "inst_100606",
+  "instruments": "AFM",
+  "acronym": "AFM",
+  "image_link": "",
+  "district": "Malappuram",
+  "name_of_facility": "CENTRAL SOPHISTICATED INSTRUMENTATION FACILITY (CSIF)",
+  "institution_name": "University of Calicut",
+  "address": "Thenhipalam PO\nMalappuram - 673635 PIN",
+  "enquiry_contact_number": "501 2407606",
+  "enquiry_mail": "csifoffice@uoc.ac.in",
+  "website_booking_link": "http://csif.uoc.ac.in/",
+  "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
+  "standardized_district": "Malappuram",
+  "tag": "nanotech, surface_science, semiconductors, metrology",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

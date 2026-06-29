@@ -70,6 +70,33 @@ Because it is committed to the `public/` directory, this documentation is always
 
 ---
 
+## 🧠 Dual AI Architecture (Zero-Cost LLM Integration)
+
+This repository is built not just for frontends, but specifically for AI Agents (ChatGPT, Claude, Cursor) to ingest data with **zero token waste**.
+
+1. **Web AI Static Chunks (ChatGPT/Claude Web)**
+   Instead of forcing an LLM to download a 2MB JSON file, the sync script dynamically generates:
+   - **`public/api/{sheet}/llms.txt`**: A hyper-condensed spatial/categorical search index.
+   - **`public/api/{sheet}/{id}.json`**: Thousands of tiny individual files. The LLM can read the index and fetch just the 1KB file it needs.
+
+2. **Local AI MCP Server (Cursor/Claude Desktop)**
+   For local development environments, we expose a native Model Context Protocol (MCP) server. To use it, simply configure your AI:
+   ```json
+   {
+     "mcpServers": {
+       "rink-data": {
+         "command": "node",
+         "args": ["scripts/mcp-server.js"]
+       }
+     }
+   }
+   ```
+   *This automatically registers tools like `search_master_directory` to let the AI natively query your live JSON.*
+
+Every sync automatically generates a fresh [`public/LLM_REPORT.md`](public/LLM_REPORT.md) detailing the AI endpoints available!
+
+---
+
 ## 🏃‍♂️ How to Run Locally
 
 If you want to test the sync locally on your machine:

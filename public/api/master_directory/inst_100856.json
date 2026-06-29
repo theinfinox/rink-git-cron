@@ -1,0 +1,21 @@
+{
+  "id": "inst_100856",
+  "instruments": "Serological Water Bath",
+  "acronym": "",
+  "image_link": "/assets/master_directory/inst_100856_image_link.webp",
+  "district": "Kollam",
+  "name_of_facility": "",
+  "institution_name": "CEPCI Laboratory & Research Institute",
+  "address": "Cashew Bhavan, Mundakkal, Kollam – 691 001, Kerala, India",
+  "enquiry_contact_number": "",
+  "enquiry_mail": "",
+  "website_booking_link": "https://cepclab.org.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kollam",
+  "tag": "microbiology, cell_culture, food_safety, pharmaceuticals",
+  "provider_key": "",
+  "warnings_gemini": "Missing Facility/Institution, No Contact Info",
+  "warnings": "Missing Facility/Institution, No Contact Info",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1wa-Gkpp5J64es22Bd1E-6WSbmJqvFvqZ/view?usp=drive_link"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inst_100277",
+  "instruments": "DYNOWARE Software On Machine Measurement with CCD camera",
+  "acronym": "CCD[source: 11, 12]",
+  "image_link": "",
+  "district": "Kozhikode",
+  "name_of_facility": "Micro machining centre",
+  "institution_name": "National Institute of Technology Calicut (NITC)",
+  "address": "National Institute of Technology Calicut\nNIT Campus P.O., Kerala - 673 601, India",
+  "enquiry_contact_number": "9447416639",
+  "enquiry_mail": "josmat@nitc.ac.in",
+  "website_booking_link": "https://www.amc.nitc.ac.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kozhikode",
+  "tag": "metrology, surface_science, analytical_chem",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

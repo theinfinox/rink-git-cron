@@ -1,0 +1,20 @@
+{
+  "id": "inst_100833",
+  "instruments": "Fluorescent Microscopy",
+  "acronym": "",
+  "image_link": "",
+  "district": "Wayanad",
+  "name_of_facility": "Bio-NEST",
+  "institution_name": "Dr. Moopen's iNEST",
+  "address": "Naseera Nagar, Meppadi, Meppadi (P.O), Wayanad, Kerala, India",
+  "enquiry_contact_number": "81126 80451",
+  "enquiry_mail": "Contact@drmoopensinest.com",
+  "website_booking_link": "www.drmoopensinest.com",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Wayanad",
+  "tag": "microbiology, cell_culture, diagnostics, genomics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

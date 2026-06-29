@@ -1,0 +1,20 @@
+{
+  "id": "id",
+  "instruments": "Instruments",
+  "acronym": "acronym",
+  "image_link": "Image Link",
+  "district": "District",
+  "name_of_facility": "Name of Facility",
+  "institution_name": "Institution Name",
+  "address": "Address",
+  "enquiry_contact_number": "Enquiry Contact Number",
+  "enquiry_mail": "Enquiry mail",
+  "website_booking_link": "Website/ Booking link",
+  "website_booking_link_fallback": "Website/ Booking link fallback",
+  "standardized_district": "Standardized District",
+  "tag": "tag",
+  "provider_key": "Provider Key",
+  "warnings_gemini": "Warnings Gemini",
+  "warnings": "Warnings",
+  "test": "Test"
+}

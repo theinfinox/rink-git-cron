@@ -1,0 +1,21 @@
+{
+  "id": "inst_100417",
+  "instruments": "Dell Optiplex 7050 MT (Intel Core i7 7700/32GB/2TB), Black workstation",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Alappuzha",
+  "name_of_facility": "Sophisticated Analytical Instrument Facility",
+  "institution_name": "ICAR -Central Plantation Crops Research Institute, Kayamkulam",
+  "address": "Krishnapuram Post Kayamkulam.,Alappuzha-690533",
+  "enquiry_contact_number": "495 244 2104",
+  "enquiry_mail": "",
+  "website_booking_link": "/assets/master_directory/inst_100417_website_booking_link.webp",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Alappuzha",
+  "tag": "bioinformatics, genomics, crop_science, microbiology",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": "",
+  "original_website_booking_link": "https://cpcri.icar.gov.in/page/article/CPCRI_Directory_Kayamkulam"
+}

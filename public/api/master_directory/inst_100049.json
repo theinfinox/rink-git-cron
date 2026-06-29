@@ -1,0 +1,21 @@
+{
+  "id": "inst_100049",
+  "instruments": "GC-MS (Thermo Fisher Scientific, Austria)",
+  "acronym": "GC-MS[source: 1]",
+  "image_link": "/assets/master_directory/inst_100049_image_link.webp",
+  "district": "Kottayam",
+  "name_of_facility": "IUIC-KSCSTE combined facility",
+  "institution_name": "Mahatma Gandhi University",
+  "address": "Sophisticated Analytical Instrument Facility(DST-SAIF)\nRoom No. 105, Ground Floor\nConvergence Academia Complex\nMahatma Gandhi University\nKottayam-686560",
+  "enquiry_contact_number": "9074038161",
+  "enquiry_mail": "cic@mgu.ac.in",
+  "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kottayam",
+  "tag": "food_safety, pharmaceuticals, analytical_chem, water_quality",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1nOOzOUxNR7gyGfBDHR-sxKzOrBpldK5G/view?usp=sharing"
+}

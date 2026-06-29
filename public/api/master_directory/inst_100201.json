@@ -1,0 +1,20 @@
+{
+  "id": "inst_100201",
+  "instruments": "Optical Rotation",
+  "acronym": "None",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Instrumentation Facility",
+  "institution_name": "Jawaharlal Nehru Tropical Botanical Garden and Research Institute (KSCSTE - JNTBGRI)",
+  "address": "JNTBGRI\nPalode, Thiruvananthapuram – 695562",
+  "enquiry_contact_number": "482 2869226",
+  "enquiry_mail": "",
+  "website_booking_link": "https://jntbgri.res.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, metrology",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

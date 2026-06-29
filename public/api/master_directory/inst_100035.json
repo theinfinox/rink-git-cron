@@ -1,0 +1,21 @@
+{
+  "id": "inst_100035",
+  "instruments": "HPLC (LC-20 AD Prominence, Shimadzu)",
+  "acronym": "HPLC, LC",
+  "image_link": "/assets/master_directory/inst_100035_image_link.webp",
+  "district": "Kottayam",
+  "name_of_facility": "Inter University Instrumentation Centre",
+  "institution_name": "Mahatma Gandhi University",
+  "address": "Inter University Instrumentation Centre,\nMahatma Gandhi University,\nKottayam-686560, Kerala, India",
+  "enquiry_contact_number": "9778505776",
+  "enquiry_mail": "cic@mgu.ac.in",
+  "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Kottayam",
+  "tag": "pharmaceuticals, analytical_chem, food_safety, water_quality",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1Clib_dm_9YlPQG7Gab-7qMo6RfMwUv1_/view?usp=sharing"
+}

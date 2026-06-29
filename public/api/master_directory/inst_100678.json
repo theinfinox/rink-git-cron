@@ -1,0 +1,21 @@
+{
+  "id": "inst_100678",
+  "instruments": "Single Crystal XRD",
+  "acronym": "XRD",
+  "image_link": "/assets/master_directory/inst_100678_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "CIF (Central Instrumentation Facility)",
+  "institution_name": "Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM)",
+  "address": "Maruthamala PO, Vithura, \nThiruvananthapuram - 695551",
+  "enquiry_contact_number": "0471-2778009, 80448031",
+  "enquiry_mail": "",
+  "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
+  "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/36",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "pharmaceuticals, nanotech, analytical_chem, geosciences",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1Boyli0kqbEv2H5FwEOVjWYVxBJJOm9ZJ/view?usp=drive_link"
+}

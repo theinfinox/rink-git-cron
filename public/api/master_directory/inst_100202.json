@@ -1,0 +1,21 @@
+{
+  "id": "inst_100202",
+  "instruments": "RT-PCR",
+  "acronym": "RT-PCR",
+  "image_link": "/assets/master_directory/inst_100202_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Instrumentation Facility",
+  "institution_name": "Jawaharlal Nehru Tropical Botanical Garden and Research Institute (KSCSTE - JNTBGRI)",
+  "address": "JNTBGRI\nPalode, Thiruvananthapuram – 695562",
+  "enquiry_contact_number": "483 2869226",
+  "enquiry_mail": "",
+  "website_booking_link": "https://jntbgri.res.in/",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "genomics, microbiology, diagnostics, cell_culture",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1QFWnqqE3gBsIanE--704iFjQ05Rv9k5L/view?usp=drive_link"
+}

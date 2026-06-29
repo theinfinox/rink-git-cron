@@ -8,6 +8,7 @@
     "download-images": "node scripts/downloadImages.js"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "axios": "^1.18.1",
     "marked": "^18.0.5",
     "papaparse": "^5.4.1",

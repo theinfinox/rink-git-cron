@@ -1,0 +1,20 @@
+{
+  "id": "inst_100589",
+  "instruments": "Simultaneous Differential thermal analysis and Thermo gravimetric analysis (DTA-TGA)",
+  "acronym": "DTA-TGA",
+  "image_link": "",
+  "district": "Trivandrum",
+  "name_of_facility": "Achutha Menon Centre for Health Science \nStudies(AMCHSS)",
+  "institution_name": "Sree Chitra Tirunal Institute for Medical Sciences \nand Technology, Trivandrum",
+  "address": "Jai Nagar W Rd, Chalakkuzhi, Thiruvananthapuram, Kerala 695016",
+  "enquiry_contact_number": "0471-2443152",
+  "enquiry_mail": "sct@sctimst.ac.in",
+  "website_booking_link": "https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/",
+  "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "analytical_chem, polymers, metallurgy, geosciences",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

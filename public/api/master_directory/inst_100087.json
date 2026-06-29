@@ -1,0 +1,21 @@
+{
+  "id": "inst_100087",
+  "instruments": "Boiler unit (diesel)",
+  "acronym": "None",
+  "image_link": "/assets/master_directory/inst_100087_image_link.webp",
+  "district": "Ernakulam",
+  "name_of_facility": "sophisticated analytical instrument facilities (SAIF)",
+  "institution_name": "ICAR-Central Institute of Fisheries Technology",
+  "address": "ICAR-CIFT, Willingdon Island, Cochin, Kerala-682029",
+  "enquiry_contact_number": "",
+  "enquiry_mail": "src.cift@gmail.com",
+  "website_booking_link": "https://cift.res.in/how-to-use-the-facility",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Ernakulam",
+  "tag": "food_safety, marine_tech",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1wARc93AVaGTuTFNpGIFbv1W3oqsPsiJA/view?usp=sharing"
+}

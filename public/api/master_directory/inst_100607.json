@@ -1,0 +1,20 @@
+{
+  "id": "inst_100607",
+  "instruments": "LC - MS",
+  "acronym": "LC-MS",
+  "image_link": "",
+  "district": "Malappuram",
+  "name_of_facility": "CENTRAL SOPHISTICATED INSTRUMENTATION FACILITY (CSIF)",
+  "institution_name": "University of Calicut",
+  "address": "Thenhipalam PO\nMalappuram - 673635 PIN",
+  "enquiry_contact_number": "502 2407606",
+  "enquiry_mail": "csifoffice@uoc.ac.in",
+  "website_booking_link": "http://csif.uoc.ac.in/",
+  "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
+  "standardized_district": "Malappuram",
+  "tag": "food_safety, pharmaceuticals, analytical_chem, diagnostics",
+  "provider_key": "",
+  "warnings_gemini": "Missing Image",
+  "warnings": "Missing Image",
+  "test": ""
+}

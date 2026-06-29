@@ -1,0 +1,21 @@
+{
+  "id": "inst_100015",
+  "instruments": "Scanning Probe Microscopy (SPM)",
+  "acronym": "SPM",
+  "image_link": "/assets/master_directory/inst_100015_image_link.webp",
+  "district": "Trivandrum",
+  "name_of_facility": "Central Laboratory for Instrumentation and Facilitation (CLIF)",
+  "institution_name": "Kerala University",
+  "address": "University Campus, Kariavattom 695581",
+  "enquiry_contact_number": "0471-2308566",
+  "enquiry_mail": "clifanalyses@keralauniversity.ac.in",
+  "website_booking_link": "https://kusicc.ac.in/spm-afm/",
+  "website_booking_link_fallback": "https://kusicc.ac.in/spm-afm/",
+  "standardized_district": "Thiruvananthapuram",
+  "tag": "nanotech, surface_science, semiconductors, metrology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": "",
+  "original_image_link": "https://drive.google.com/file/d/1lHQkDMpXvnM5sV-YwEQPbHiC4V-fwKse/view?usp=sharing"
+}

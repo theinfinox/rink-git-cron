@@ -1,0 +1,20 @@
+{
+  "id": "inst_100838",
+  "instruments": "Vacuum Oven",
+  "acronym": "",
+  "image_link": "vaccum oven.jpeg",
+  "district": "Wayanad",
+  "name_of_facility": "Bio-NEST",
+  "institution_name": "Dr. Moopen's iNEST",
+  "address": "Naseera Nagar, Meppadi, Meppadi (P.O), Wayanad, Kerala, India",
+  "enquiry_contact_number": "81131 80451",
+  "enquiry_mail": "Contact@drmoopensinest.com",
+  "website_booking_link": "www.drmoopensinest.com",
+  "website_booking_link_fallback": "",
+  "standardized_district": "Wayanad",
+  "tag": "food_safety, pharmaceuticals, analytical_chem, microbiology",
+  "provider_key": "",
+  "warnings_gemini": "CLEAN",
+  "warnings": "CLEAN",
+  "test": ""
+}
