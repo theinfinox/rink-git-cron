@@ -158,6 +158,18 @@ async function runSync() {
             const safeTime = timestamp.replace(/:/g, '-');
             fs.writeFileSync(`${BACKUP_DIR}/${snakeCaseName}_${safeTime}.json`, JSON.stringify(finalData));
 
+            // Clean up old backups (keep only the last 3)
+            const allBackups = fs.readdirSync(BACKUP_DIR)
+                .filter(file => file.startsWith(`${snakeCaseName}_`) && file.endsWith('.json'))
+                .sort(); // Lexicographical sort works perfectly for ISO 8601 timestamps
+            
+            if (allBackups.length > 3) {
+                const backupsToDelete = allBackups.slice(0, allBackups.length - 3);
+                for (const oldBackup of backupsToDelete) {
+                    fs.unlinkSync(`${BACKUP_DIR}/${oldBackup}`);
+                }
+            }
+
             console.log(`✅ Sync Complete for ${sheet.name}! ${logEntry.rows_exported} total records processed and exported.`);
 
         } catch (error) {
