@@ -1,5 +1,5 @@
 {
-  "standardized_district": {
+  "Districts": {
     "South Zone": [
       "Thiruvananthapuram",
       "Kollam",
@@ -23,7 +23,7 @@
       "Kasaragod"
     ]
   },
-  "tag": {
+  "Domain": {
     "Life Sciences": [
       "genomics",
       "bioinformatics",
@@ -52,18 +52,7 @@
       "food_safety",
       "textiles",
       "additive_mfg"
-    ],
-    "Other Tags": [
-      "analytical_chem",
-      "metrology",
-      "geosciences",
-      "pharmaceuticals",
-      "diagnostics",
-      "medical_devices",
-      "marine_tech",
-      "crop_science",
-      "solar_energy",
-      "environmental_testing"
     ]
-  }
+  },
+  "Providers": {}
 }

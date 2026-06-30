@@ -1,4 +1,4 @@
-frontendBaseUrl: "https://rink-ui.vercel.app"
+frontendBaseUrl: https://rink-ui.vercel.app
 sheets:
   - name: instrument
     spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
@@ -6,25 +6,59 @@ sheets:
       - name: Main Data
         gid: 5695880
         excludeRowsWhere:
-          - column: "id"
-            equals: "id"
+          - column: id
+            equals: id
         splitColumns:
-          - column: "tag"
-            delimiter: ","
-        imageColumns: "image_link"
+          - column: tag
+            delimiter: ','
+        imageColumns: image_link
       - name: Instituitiion list
         gid: 1583764603
         aiSearch:
           enabled: false
     filterTaxonomy:
-      standardized_district:
-        "South Zone": ["Thiruvananthapuram", "Kollam", "Pathanamthitta"]
-        "Central Zone": ["Ernakulam", "Thrissur", "Alappuzha", "Kottayam", "Idukki"]
-        "North-Central Zone": ["Palakkad", "Malappuram"]
-        "North Zone": ["Kozhikode", "Kannur", "Wayanad", "Kasaragod"]
-      tag:
-        "Life Sciences": ["genomics", "bioinformatics", "cell_culture", "microbiology"]
-        "Material Sciences": ["metallurgy", "polymers", "nanotech", "surface_science"]
-        "Electronics & Tech": ["semiconductors", "pcb_design", "rf_communications", "battery_tech"]
-        "Environmental": ["environmental_science", "water_quality", "soil_analysis", "green_chem"]
-        "Industrial / Commercial": ["food_safety", "textiles", "additive_mfg"]
+      Districts:
+        South Zone:
+          - Thiruvananthapuram
+          - Kollam
+          - Pathanamthitta
+        Central Zone:
+          - Ernakulam
+          - Thrissur
+          - Alappuzha
+          - Kottayam
+          - Idukki
+        North-Central Zone:
+          - Palakkad
+          - Malappuram
+        North Zone:
+          - Kozhikode
+          - Kannur
+          - Wayanad
+          - Kasaragod
+      Domain:
+        Life Sciences:
+          - genomics
+          - bioinformatics
+          - cell_culture
+          - microbiology
+        Material Sciences:
+          - metallurgy
+          - polymers
+          - nanotech
+          - surface_science
+        Electronics & Tech:
+          - semiconductors
+          - pcb_design
+          - rf_communications
+          - battery_tech
+        Environmental:
+          - environmental_science
+          - water_quality
+          - soil_analysis
+          - green_chem
+        Industrial / Commercial:
+          - food_safety
+          - textiles
+          - additive_mfg
+      Providers: {}
