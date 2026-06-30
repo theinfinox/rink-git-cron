@@ -2,6 +2,8 @@
   {
     "id": "standardized_district",
     "title": "Districts",
+    "gid": 5695880,
+    "tabKey": "main_data",
     "groups": {
       "South Zone": [
         "Thiruvananthapuram",
@@ -30,21 +32,11 @@
   {
     "id": "correct_provider_key",
     "title": "Providers",
+    "gid": 5695880,
+    "tabKey": "main_data",
     "groups": {
       "Institutes of National Importance": [
         "ini_iit"
-      ],
-      "Other": [
-        "state_univ",
-        "icar_lab",
-        "kscste_center",
-        "state_gov_other",
-        "industry_board",
-        "ini_nit",
-        "central_gov_other",
-        "ini_sctimst",
-        "ini_iiser",
-        "pvt_incubator"
       ]
     }
   }

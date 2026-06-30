@@ -19,6 +19,7 @@ sheets:
     filterTaxonomy:
       - id: standardized_district
         title: Districts
+        gid: 5695880
         groups:
           South Zone:
             - Thiruvananthapuram
@@ -40,6 +41,7 @@ sheets:
             - Kasaragod
       - id: correct_provider_key
         title: Providers
+        gid: 5695880
         groups:
           Institutes of National Importance:
             - ini_iit

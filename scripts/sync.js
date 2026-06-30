@@ -380,11 +380,27 @@ async function runSync() {
                 
                 let filtersOutput = [];
 
+                // Build a GID → tabKey map for fast lookup
+                const gidToTabKey = {};
+                if (sheet.tabs) {
+                    sheet.tabs.forEach(t => {
+                        gidToTabKey[String(t.gid)] = toSnakeCase(t.name);
+                    });
+                }
+
                 // Initialize the output structure based on config
                 taxonomyConfig.forEach(config => {
+                    // Resolve tabKey from config.gid
+                    let tabKey = null;
+                    if (config.gid !== undefined) {
+                        tabKey = gidToTabKey[String(config.gid)] || null;
+                    }
+
                     filtersOutput.push({
                         id: config.id,
                         title: config.title || config.id,
+                        gid: config.gid !== undefined ? config.gid : null,
+                        tabKey: tabKey,
                         groups: JSON.parse(JSON.stringify(config.groups || {}))
                     });
                 });
@@ -414,23 +430,35 @@ async function runSync() {
                     }
                 };
 
-                const parseRowForFilters = (row) => {
-                    taxonomyConfig.forEach(config => {
+                // Per-category, scan only the rows from the mapped tab (gid-scoped)
+                taxonomyConfig.forEach(config => {
+                    let rowsToScan = [];
+
+                    if (config.gid !== undefined && isMultiTab) {
+                        // Scope to the specific tab matching this gid
+                        const scopedTabKey = gidToTabKey[String(config.gid)];
+                        if (scopedTabKey && finalData[scopedTabKey]) {
+                            rowsToScan = finalData[scopedTabKey];
+                        } else {
+                            console.warn(`⚠️  filterTaxonomy category '${config.id}' has gid ${config.gid} but no matching tab was found.`);
+                        }
+                    } else if (isMultiTab) {
+                        // No gid specified — scan all tabs (backward compat)
+                        for (const key of Object.keys(finalData)) {
+                            rowsToScan = rowsToScan.concat(finalData[key]);
+                        }
+                    } else {
+                        rowsToScan = Array.isArray(finalData) ? finalData : [];
+                    }
+
+                    rowsToScan.forEach(row => {
                         let values = row[config.id];
                         if (values) {
                             if (!Array.isArray(values)) values = [values];
                             values.forEach(val => processFilterItem(config.id, val));
                         }
                     });
-                };
-
-                if (isMultiTab) {
-                    for (const key of Object.keys(finalData)) {
-                        finalData[key].forEach(parseRowForFilters);
-                    }
-                } else {
-                    finalData.forEach(parseRowForFilters);
-                }
+                });
 
                 validFileNames.add('filters.json');
                 fs.writeFileSync(`${apiSheetDir}/filters.json`, JSON.stringify(filtersOutput, null, 2));
