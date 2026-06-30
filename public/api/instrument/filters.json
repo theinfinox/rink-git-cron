@@ -1,58 +1,51 @@
-{
-  "Districts": {
-    "South Zone": [
-      "Thiruvananthapuram",
-      "Kollam",
-      "Pathanamthitta"
-    ],
-    "Central Zone": [
-      "Ernakulam",
-      "Thrissur",
-      "Alappuzha",
-      "Kottayam",
-      "Idukki"
-    ],
-    "North-Central Zone": [
-      "Palakkad",
-      "Malappuram"
-    ],
-    "North Zone": [
-      "Kozhikode",
-      "Kannur",
-      "Wayanad",
-      "Kasaragod"
-    ]
+[
+  {
+    "id": "standardized_district",
+    "title": "Districts",
+    "groups": {
+      "South Zone": [
+        "Thiruvananthapuram",
+        "Kollam",
+        "Pathanamthitta"
+      ],
+      "Central Zone": [
+        "Ernakulam",
+        "Thrissur",
+        "Alappuzha",
+        "Kottayam",
+        "Idukki"
+      ],
+      "North-Central Zone": [
+        "Palakkad",
+        "Malappuram"
+      ],
+      "North Zone": [
+        "Kozhikode",
+        "Kannur",
+        "Wayanad",
+        "Kasaragod"
+      ]
+    }
   },
-  "Domain": {
-    "Life Sciences": [
-      "genomics",
-      "bioinformatics",
-      "cell_culture",
-      "microbiology"
-    ],
-    "Material Sciences": [
-      "metallurgy",
-      "polymers",
-      "nanotech",
-      "surface_science"
-    ],
-    "Electronics & Tech": [
-      "semiconductors",
-      "pcb_design",
-      "rf_communications",
-      "battery_tech"
-    ],
-    "Environmental": [
-      "environmental_science",
-      "water_quality",
-      "soil_analysis",
-      "green_chem"
-    ],
-    "Industrial / Commercial": [
-      "food_safety",
-      "textiles",
-      "additive_mfg"
-    ]
-  },
-  "Providers": {}
-}
+  {
+    "id": "correct_provider_key",
+    "title": "Providers",
+    "groups": {
+      "Institutes of National Importance": [
+        "ini_iit"
+      ],
+      "Other": [
+        "state_univ",
+        "icar_lab",
+        "kscste_center",
+        "state_gov_other",
+        "industry_board",
+        "ini_nit",
+        "central_gov_other",
+        "ini_sctimst",
+        "ini_iiser",
+        "pvt_incubator"
+      ]
+    }
+  }
+]

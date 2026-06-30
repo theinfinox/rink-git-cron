@@ -17,7 +17,7 @@ sheets:
         aiSearch:
           enabled: false
     filterTaxonomy:
-      - id: district
+      - id: standardized_district
         title: Districts
         groups:
           South Zone:
@@ -38,33 +38,8 @@ sheets:
             - Kannur
             - Wayanad
             - Kasaragod
-      - id: tag
-        title: Domain
-        groups:
-          Life Sciences:
-            - genomics
-            - bioinformatics
-            - cell_culture
-            - microbiology
-          Material Sciences:
-            - metallurgy
-            - polymers
-            - nanotech
-            - surface_science
-          Electronics & Tech:
-            - semiconductors
-            - pcb_design
-            - rf_communications
-            - battery_tech
-          Environmental:
-            - environmental_science
-            - water_quality
-            - soil_analysis
-            - green_chem
-          Industrial / Commercial:
-            - food_safety
-            - textiles
-            - additive_mfg
-      - id: provider_key
+      - id: correct_provider_key
         title: Providers
-        groups: {}
+        groups:
+          Institutes of National Importance:
+            - ini_iit
