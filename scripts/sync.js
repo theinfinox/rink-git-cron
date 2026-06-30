@@ -372,39 +372,54 @@ async function runSync() {
             // 🧠 GENERATE DYNAMIC FILTERS TAXONOMY
             if (sheet.filterTaxonomy) {
                 console.log(`🧠 Generating Dynamic Filters Pipeline for ${sheet.name}...`);
-                let filtersObj = JSON.parse(JSON.stringify(sheet.filterTaxonomy));
                 
-                const processFilterItem = (filterKey, val) => {
+                // Ensure it's an array for the new format
+                const taxonomyConfig = Array.isArray(sheet.filterTaxonomy) 
+                    ? sheet.filterTaxonomy 
+                    : []; 
+                
+                let filtersOutput = [];
+
+                // Initialize the output structure based on config
+                taxonomyConfig.forEach(config => {
+                    filtersOutput.push({
+                        id: config.id,
+                        title: config.title || config.id,
+                        groups: JSON.parse(JSON.stringify(config.groups || {}))
+                    });
+                });
+
+                const processFilterItem = (configId, val) => {
                     if (!val || typeof val !== 'string') return;
+                    
+                    const outputCategory = filtersOutput.find(f => f.id === configId);
+                    if (!outputCategory) return;
+
                     let foundInGroup = false;
-                    if (filtersObj[filterKey]) {
-                        for (const groupName in filtersObj[filterKey]) {
-                            if (filtersObj[filterKey][groupName].includes(val)) {
-                                foundInGroup = true;
-                                break;
-                            }
+                    for (const groupName in outputCategory.groups) {
+                        if (outputCategory.groups[groupName].includes(val)) {
+                            foundInGroup = true;
+                            break;
                         }
-                    } else {
-                        filtersObj[filterKey] = {};
                     }
                     
                     if (!foundInGroup) {
-                        const otherGroupName = filterKey === 'district' ? 'Other Districts' : 'Other Tags';
-                        if (!filtersObj[filterKey][otherGroupName]) {
-                            filtersObj[filterKey][otherGroupName] = [];
+                        const otherGroupName = 'Other';
+                        if (!outputCategory.groups[otherGroupName]) {
+                            outputCategory.groups[otherGroupName] = [];
                         }
-                        if (!filtersObj[filterKey][otherGroupName].includes(val)) {
-                            filtersObj[filterKey][otherGroupName].push(val);
+                        if (!outputCategory.groups[otherGroupName].includes(val)) {
+                            outputCategory.groups[otherGroupName].push(val);
                         }
                     }
                 };
 
                 const parseRowForFilters = (row) => {
-                    Object.keys(sheet.filterTaxonomy).forEach(filterKey => {
-                        let values = row[filterKey];
+                    taxonomyConfig.forEach(config => {
+                        let values = row[config.id];
                         if (values) {
                             if (!Array.isArray(values)) values = [values];
-                            values.forEach(val => processFilterItem(filterKey, val));
+                            values.forEach(val => processFilterItem(config.id, val));
                         }
                     });
                 };
@@ -418,7 +433,7 @@ async function runSync() {
                 }
 
                 validFileNames.add('filters.json');
-                fs.writeFileSync(`${apiSheetDir}/filters.json`, JSON.stringify(filtersObj, null, 2));
+                fs.writeFileSync(`${apiSheetDir}/filters.json`, JSON.stringify(filtersOutput, null, 2));
             }
 
             // Orphan Cleanup: delete old JSON files that no longer exist

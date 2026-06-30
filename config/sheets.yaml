@@ -17,48 +17,54 @@ sheets:
         aiSearch:
           enabled: false
     filterTaxonomy:
-      Districts:
-        South Zone:
-          - Thiruvananthapuram
-          - Kollam
-          - Pathanamthitta
-        Central Zone:
-          - Ernakulam
-          - Thrissur
-          - Alappuzha
-          - Kottayam
-          - Idukki
-        North-Central Zone:
-          - Palakkad
-          - Malappuram
-        North Zone:
-          - Kozhikode
-          - Kannur
-          - Wayanad
-          - Kasaragod
-      Domain:
-        Life Sciences:
-          - genomics
-          - bioinformatics
-          - cell_culture
-          - microbiology
-        Material Sciences:
-          - metallurgy
-          - polymers
-          - nanotech
-          - surface_science
-        Electronics & Tech:
-          - semiconductors
-          - pcb_design
-          - rf_communications
-          - battery_tech
-        Environmental:
-          - environmental_science
-          - water_quality
-          - soil_analysis
-          - green_chem
-        Industrial / Commercial:
-          - food_safety
-          - textiles
-          - additive_mfg
-      Providers: {}
+      - id: district
+        title: Districts
+        groups:
+          South Zone:
+            - Thiruvananthapuram
+            - Kollam
+            - Pathanamthitta
+          Central Zone:
+            - Ernakulam
+            - Thrissur
+            - Alappuzha
+            - Kottayam
+            - Idukki
+          North-Central Zone:
+            - Palakkad
+            - Malappuram
+          North Zone:
+            - Kozhikode
+            - Kannur
+            - Wayanad
+            - Kasaragod
+      - id: tag
+        title: Domain
+        groups:
+          Life Sciences:
+            - genomics
+            - bioinformatics
+            - cell_culture
+            - microbiology
+          Material Sciences:
+            - metallurgy
+            - polymers
+            - nanotech
+            - surface_science
+          Electronics & Tech:
+            - semiconductors
+            - pcb_design
+            - rf_communications
+            - battery_tech
+          Environmental:
+            - environmental_science
+            - water_quality
+            - soil_analysis
+            - green_chem
+          Industrial / Commercial:
+            - food_safety
+            - textiles
+            - additive_mfg
+      - id: provider_key
+        title: Providers
+        groups: {}
