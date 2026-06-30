@@ -290,25 +290,52 @@ async function runSync() {
             const validFileNames = new Set();
             let llmsText = `# 📡 ${sheet.name} - AI Search Index\nTo fetch full details, request the corresponding JSON file at: https://rink-git-cron.vercel.app/api/${snakeCaseName}/{ID}.json\n\n`;
 
-            const processRowForAI = (row) => {
+            const processRowForAI = (row, tabConfig) => {
                 const rowId = row.id || crypto.createHash('md5').update(JSON.stringify(row)).digest('hex').substring(0, 10);
                 const fileName = `${rowId}.json`;
                 validFileNames.add(fileName);
                 
                 fs.writeFileSync(`${apiSheetDir}/${fileName}`, JSON.stringify(row, null, 2));
 
-                const name = row.instruments || row.title || row.name || 'Unknown Item';
-                const inst = row.institution_name || row.institute || '';
-                const loc = row.district || row.location || row.state || '';
-                const tags = row.tag || row.category || '';
-                
+                // Check if this tab is excluded from AI Search
+                if (tabConfig && tabConfig.aiSearch && tabConfig.aiSearch.enabled === false) {
+                    return; // Skip adding to llms.txt, but we still generated the .json file!
+                }
+
+                // Title Generation
+                let name = 'Unknown Item';
+                if (tabConfig && tabConfig.aiSearch && tabConfig.aiSearch.titleColumns && tabConfig.aiSearch.titleColumns.length > 0) {
+                    for (const col of tabConfig.aiSearch.titleColumns) {
+                        if (row[col]) {
+                            name = row[col];
+                            break;
+                        }
+                    }
+                } else {
+                    // Fallback to legacy
+                    name = row.instruments || row.title || row.name || 'Unknown Item';
+                }
+
                 let metadata = `[${rowId}] ${name}`;
-                if (inst) metadata += ` | Institute: ${inst}`;
-                if (loc) metadata += ` | Location: ${loc}`;
-                if (tags) metadata += ` | Tags: ${tags}`;
+
+                // Metadata Generation
+                if (tabConfig && tabConfig.aiSearch && tabConfig.aiSearch.metadataColumns && tabConfig.aiSearch.metadataColumns.length > 0) {
+                    for (const col of tabConfig.aiSearch.metadataColumns) {
+                        if (row[col]) {
+                            metadata += ` | ${col}: ${row[col]}`;
+                        }
+                    }
+                } else {
+                    // Fallback to legacy
+                    const inst = row.institution_name || row.institute || '';
+                    const loc = row.district || row.location || row.state || '';
+                    const tags = row.tag || row.category || '';
+                    if (inst) metadata += ` | Institute: ${inst}`;
+                    if (loc) metadata += ` | Location: ${loc}`;
+                    if (tags) metadata += ` | Tags: ${tags}`;
+                }
                 
                 if (frontendBaseUrl) {
-                    // Make sure frontend URL doesn't end with slash, then append the slug structure
                     const base = frontendBaseUrl.endsWith('/') ? frontendBaseUrl.slice(0, -1) : frontendBaseUrl;
                     metadata += ` | URL: ${base}/${snakeCaseName}/${rowId}`;
                 }
@@ -317,11 +344,15 @@ async function runSync() {
             };
 
             if (isMultiTab) {
-                for (const key of Object.keys(finalData)) {
-                    finalData[key].forEach(processRowForAI);
-                }
+                sheet.tabs.forEach(tabConfig => {
+                    const tabKey = toSnakeCase(tabConfig.name);
+                    if (finalData[tabKey]) {
+                        finalData[tabKey].forEach(row => processRowForAI(row, tabConfig));
+                    }
+                });
             } else {
-                finalData.forEach(processRowForAI);
+                const tabConfig = sheet.tabs[0];
+                finalData.forEach(row => processRowForAI(row, tabConfig));
             }
 
             fs.writeFileSync(`${apiSheetDir}/llms.txt`, llmsText);
