@@ -31,12 +31,112 @@
   },
   {
     "id": "correct_provider_key",
-    "title": "Providers",
+    "title": "Institution Type",
     "gid": 5695880,
     "tabKey": "main_data",
+    "linkType": "join",
     "groups": {
-      "Institutes of National Importance": [
-        "ini_iit"
+      "Kerala State Public University": [
+        {
+          "label": "Cochin University of Science and Technology",
+          "value": "state_univ"
+        }
+      ],
+      "ICAR (Indian Council of Agricultural Research)": [
+        {
+          "label": "ICAR-Central Institute of Fisheries Technology",
+          "value": "icar_lab"
+        }
+      ],
+      "Institute of National Importance (IIT)": [
+        {
+          "label": "Indian Institute of Technology Palakkad",
+          "value": "ini_iit"
+        }
+      ],
+      "ICAR": [
+        {
+          "label": "ICAR-Indian Institute of Spices Research",
+          "value": "icar_lab"
+        }
+      ],
+      "Under KSCSTE (Kerala State Council)": [
+        {
+          "label": "Jawaharlal Nehru Tropical Botanical Garden...",
+          "value": "kscste_center"
+        }
+      ],
+      "Autonomous body under Govt of Kerala": [
+        {
+          "label": "Institute of Advanced VIrology",
+          "value": "state_gov_other"
+        }
+      ],
+      "Under KSCSTE": [
+        {
+          "label": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+          "value": "kscste_center"
+        }
+      ],
+      "Under Coir Board (Ministry of MSME": [
+        {
+          "label": "Central Coir Research Institute",
+          "value": "industry_board"
+        }
+      ],
+      "Govt of India)": [
+        {
+          "label": "Central Coir Research Institute",
+          "value": "industry_board"
+        }
+      ],
+      "Institute of National Importance (NIT)": [
+        {
+          "label": "National Institute of Technology Calicut (NITC)",
+          "value": "ini_nit"
+        }
+      ],
+      "Under KSCSTE (CWRDM)": [
+        {
+          "label": "Centre for Water Resources Development...",
+          "value": "kscste_center"
+        }
+      ],
+      "Under Dept of Biotechnology (Govt of India)": [
+        {
+          "label": "Rajiv Gandhi Centre, for Bio-Technology",
+          "value": "central_gov_other"
+        }
+      ],
+      "Institute of National Importance (Medical)": [
+        {
+          "label": "Sree Chitra Tirunal Institute for Medical Sciences...",
+          "value": "ini_sctimst"
+        }
+      ],
+      "Institute of National Importance (IISER)": [
+        {
+          "label": "Indian Institute of Science Education and Research",
+          "value": "ini_iiser"
+        }
+      ],
+      "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014": [
+        {
+          "label": "National Centre for Earth Science Studies",
+          "value": "central_gov_other"
+        }
+      ],
+      "BIRAC BioNEST Incubator at a Private Medical College": [
+        {
+          "label": "Dr. Moopen's iNEST",
+          "value": "pvt_incubator"
+        }
+      ],
+      "Cashew Export Promotion Council of India": [
+        {
+          "label": "CEPCI Laboratory & Research Institute",
+          "value": "industry_board"
+        }
       ]
     }
   }

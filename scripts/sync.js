@@ -373,7 +373,6 @@ async function runSync() {
             if (sheet.filterTaxonomy) {
                 console.log(`🧠 Generating Dynamic Filters Pipeline for ${sheet.name}...`);
                 
-                // Ensure it's an array for the new format
                 const taxonomyConfig = Array.isArray(sheet.filterTaxonomy) 
                     ? sheet.filterTaxonomy 
                     : []; 
@@ -388,62 +387,128 @@ async function runSync() {
                     });
                 }
 
-                // Initialize the output structure based on config
+                // ── Process each filter category ──────────────────────────────
                 taxonomyConfig.forEach(config => {
-                    // Resolve tabKey from config.gid
+                    // Resolve primary tabKey from config.gid
                     let tabKey = null;
                     if (config.gid !== undefined) {
                         tabKey = gidToTabKey[String(config.gid)] || null;
                     }
 
-                    filtersOutput.push({
+                    // ── JOIN FILTER ──────────────────────────────────────────
+                    if (config.linkType === 'join' && config.joinSource) {
+                        const js = config.joinSource;
+                        const joinTabKey = gidToTabKey[String(js.gid)] || null;
+                        const joinRows = (joinTabKey && isMultiTab && finalData[joinTabKey]) 
+                            ? finalData[joinTabKey] 
+                            : [];
+
+                        if (!joinRows.length) {
+                            console.warn(`⚠️  Join filter '${config.id}': joinSource gid ${js.gid} → no rows found (tabKey: ${joinTabKey})`);
+                        }
+
+                        const foreignKey    = toSnakeCase(js.foreignKey || config.id);
+                        const groupByCol    = toSnakeCase(js.groupByColumn);
+                        const displayCol    = toSnakeCase(js.displayColumn);
+                        const delimiter     = js.groupByDelimiter || ',';
+                        const autoDiscover  = js.autoDiscover !== false;
+
+                        // Build foreignKey → displayName lookup map
+                        const valueLabelMap = {};
+                        joinRows.forEach(row => {
+                            const fkVal = row[foreignKey];
+                            if (fkVal) valueLabelMap[String(fkVal)] = row[displayCol] || fkVal;
+                        });
+
+                        // Auto-discover groups from joinSource rows
+                        const discoveredGroups = {}; // groupName → Array<{label, value}>
+                        if (autoDiscover) {
+                            joinRows.forEach(row => {
+                                const fkVal = row[foreignKey];
+                                const displayVal = row[displayCol] || fkVal;
+                                if (!fkVal) return;
+
+                                let rawGroupVal = row[groupByCol];
+                                if (!rawGroupVal) return;
+
+                                // Split multi-value groupByColumn
+                                const groupNames = typeof rawGroupVal === 'string'
+                                    ? rawGroupVal.split(delimiter).map(s => s.trim()).filter(Boolean)
+                                    : [String(rawGroupVal)];
+
+                                groupNames.forEach(groupName => {
+                                    if (!discoveredGroups[groupName]) discoveredGroups[groupName] = [];
+                                    const exists = discoveredGroups[groupName].some(e => e.value === String(fkVal));
+                                    if (!exists) {
+                                        discoveredGroups[groupName].push({ label: displayVal, value: String(fkVal) });
+                                    }
+                                });
+                            });
+                        }
+
+                        // Merge manual groups (defined in YAML) with auto-discovered
+                        // Manual groups take precedence on ordering; values are foreign key strings
+                        const manualGroups = config.groups || {};
+                        const mergedGroups = {};
+
+                        // 1. Process manual groups first
+                        Object.keys(manualGroups).forEach(groupName => {
+                            mergedGroups[groupName] = mergedGroups[groupName] || [];
+                            (manualGroups[groupName] || []).forEach(val => {
+                                const label = valueLabelMap[String(val)] || val;
+                                const exists = mergedGroups[groupName].some(e => e.value === String(val));
+                                if (!exists) mergedGroups[groupName].push({ label, value: String(val) });
+                            });
+                        });
+
+                        // 2. Merge auto-discovered groups on top
+                        if (autoDiscover) {
+                            Object.keys(discoveredGroups).forEach(groupName => {
+                                if (!mergedGroups[groupName]) {
+                                    mergedGroups[groupName] = discoveredGroups[groupName];
+                                } else {
+                                    // Add items not already in manual group
+                                    discoveredGroups[groupName].forEach(item => {
+                                        const exists = mergedGroups[groupName].some(e => e.value === item.value);
+                                        if (!exists) mergedGroups[groupName].push(item);
+                                    });
+                                }
+                            });
+                        }
+
+                        console.log(`  🔗 Join filter '${config.id}': ${Object.keys(mergedGroups).length} groups built from ${joinRows.length} rows`);
+
+                        filtersOutput.push({
+                            id: config.id,
+                            title: config.title || config.id,
+                            gid: config.gid !== undefined ? config.gid : null,
+                            tabKey: tabKey,
+                            linkType: 'join',
+                            groups: mergedGroups
+                        });
+                        return; // skip standard processing for this config
+                    }
+
+                    // ── STANDARD DIRECT FILTER ───────────────────────────────
+                    const outputCategory = {
                         id: config.id,
                         title: config.title || config.id,
                         gid: config.gid !== undefined ? config.gid : null,
                         tabKey: tabKey,
                         groups: JSON.parse(JSON.stringify(config.groups || {}))
-                    });
-                });
+                    };
+                    filtersOutput.push(outputCategory);
 
-                const processFilterItem = (configId, val) => {
-                    if (!val || typeof val !== 'string') return;
-                    
-                    const outputCategory = filtersOutput.find(f => f.id === configId);
-                    if (!outputCategory) return;
-
-                    let foundInGroup = false;
-                    for (const groupName in outputCategory.groups) {
-                        if (outputCategory.groups[groupName].includes(val)) {
-                            foundInGroup = true;
-                            break;
-                        }
-                    }
-                    
-                    if (!foundInGroup) {
-                        const otherGroupName = 'Other';
-                        if (!outputCategory.groups[otherGroupName]) {
-                            outputCategory.groups[otherGroupName] = [];
-                        }
-                        if (!outputCategory.groups[otherGroupName].includes(val)) {
-                            outputCategory.groups[otherGroupName].push(val);
-                        }
-                    }
-                };
-
-                // Per-category, scan only the rows from the mapped tab (gid-scoped)
-                taxonomyConfig.forEach(config => {
+                    // Determine rows to scan for auto-discovering ungrouped values
                     let rowsToScan = [];
-
                     if (config.gid !== undefined && isMultiTab) {
-                        // Scope to the specific tab matching this gid
                         const scopedTabKey = gidToTabKey[String(config.gid)];
                         if (scopedTabKey && finalData[scopedTabKey]) {
                             rowsToScan = finalData[scopedTabKey];
                         } else {
-                            console.warn(`⚠️  filterTaxonomy category '${config.id}' has gid ${config.gid} but no matching tab was found.`);
+                            console.warn(`⚠️  Filter '${config.id}' has gid ${config.gid} but no matching tab found.`);
                         }
                     } else if (isMultiTab) {
-                        // No gid specified — scan all tabs (backward compat)
                         for (const key of Object.keys(finalData)) {
                             rowsToScan = rowsToScan.concat(finalData[key]);
                         }
@@ -451,12 +516,27 @@ async function runSync() {
                         rowsToScan = Array.isArray(finalData) ? finalData : [];
                     }
 
+                    // Auto-discover values not already in a group → add to 'Other'
                     rowsToScan.forEach(row => {
                         let values = row[config.id];
-                        if (values) {
-                            if (!Array.isArray(values)) values = [values];
-                            values.forEach(val => processFilterItem(config.id, val));
-                        }
+                        if (!values) return;
+                        if (!Array.isArray(values)) values = [values];
+                        values.forEach(val => {
+                            if (!val || typeof val !== 'string') return;
+                            let foundInGroup = false;
+                            for (const groupName in outputCategory.groups) {
+                                if (outputCategory.groups[groupName].includes(val)) {
+                                    foundInGroup = true;
+                                    break;
+                                }
+                            }
+                            if (!foundInGroup) {
+                                if (!outputCategory.groups['Other']) outputCategory.groups['Other'] = [];
+                                if (!outputCategory.groups['Other'].includes(val)) {
+                                    outputCategory.groups['Other'].push(val);
+                                }
+                            }
+                        });
                     });
                 });
 
@@ -464,7 +544,9 @@ async function runSync() {
                 fs.writeFileSync(`${apiSheetDir}/filters.json`, JSON.stringify(filtersOutput, null, 2));
             }
 
+
             // Orphan Cleanup: delete old JSON files that no longer exist
+
             const existingFiles = fs.readdirSync(apiSheetDir).filter(f => f.endsWith('.json'));
             let deletedCount = 0;
             for (const oldFile of existingFiles) {

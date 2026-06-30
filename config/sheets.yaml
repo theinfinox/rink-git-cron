@@ -40,8 +40,14 @@ sheets:
             - Wayanad
             - Kasaragod
       - id: correct_provider_key
-        title: Providers
+        title: Institution Type
         gid: 5695880
-        groups:
-          Institutes of National Importance:
-            - ini_iit
+        linkType: join
+        joinSource:
+          gid: 1583764603
+          foreignKey: correct_provider_key
+          groupByColumn: reason_classification
+          displayColumn: institution_name
+          groupByDelimiter: ','
+          autoDiscover: true
+        groups: {}
