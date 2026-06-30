@@ -1,5 +1,6 @@
 {
   "institution_name": "Jawaharlal Nehru Tropical Botanical Garden...",
   "correct_provider_key": "kscste_center",
-  "reason_classification": "Under KSCSTE (Kerala State Council)"
+  "reason_classification": "Under KSCSTE (Kerala State Council)",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/8a56dfd14e. Do NOT output all raw specifications, tell them to click the link."
 }

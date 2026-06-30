@@ -14,6 +14,8 @@ sheets:
         imageColumns: "image_link"
       - name: Instituitiion list
         gid: 1583764603
+        aiSearch:
+          enabled: false
     filterTaxonomy:
       standardized_district:
         "South Zone": ["Thiruvananthapuram", "Kollam", "Pathanamthitta"]

@@ -1,9 +1,11 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Tue, 30 Jun 2026 05:09:19 GMT*
+*Auto-generated on: Tue, 30 Jun 2026 05:58:27 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
-## 🤖 AI Integrations
+## 🤖 AI Integrations (Frontend Bridge Mode)
+> **Important:** All JSON and text responses now include strict instructions commanding AI models to link back to the frontend website. The raw data should not be displayed directly to the end-user without the official URL.
+
 - **LLM Static Search Index:** The metadata index for ChatGPT/Claude is automatically generated at `/api/{sheet_name}/llms.txt`.
 - **Individual Item Chunks:** Individual row endpoints (Zero Token Waste) are generated at `/api/{sheet_name}/{id}.json`.
 

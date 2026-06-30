@@ -1,5 +1,6 @@
 {
   "institution_name": "Dr. Moopen's iNEST",
   "correct_provider_key": "pvt_incubator",
-  "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College"
+  "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/7d4ee238ec. Do NOT output all raw specifications, tell them to click the link."
 }

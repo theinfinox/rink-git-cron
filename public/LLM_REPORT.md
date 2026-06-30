@@ -1,12 +1,12 @@
 # 🧠 RINK LLM Integration Report
-*Auto-generated on: Tue, 30 Jun 2026 05:09:19 GMT*
+*Auto-generated on: Tue, 30 Jun 2026 05:58:27 GMT*
 
 This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.
 
 ## 🌐 1. Web AI Integration (ChatGPT, Claude Web)
 For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked to prevent token bloat.
 
-> **Frontend Routing Note:** Our AI Indexes automatically embed frontend UI links (e.g., `URL: https://...`) using the `frontendBaseUrl` property in `sheets.yaml`!
+> **Frontend Bridge Active:** Our AI Indexes automatically embed frontend UI links using the `frontendBaseUrl` property in `sheets.yaml`. The data explicitly commands AI models to act as a bridge and direct human users to click the URL rather than consuming raw data in the chat interface.
 
 ### instrument
 - **Search Index:** [`/api/instrument/llms.txt`](/api/instrument/llms.txt) (Highly compressed metadata for spatial/categorical search)
