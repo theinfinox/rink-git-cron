@@ -1,3 +1,5 @@
+# IMPORTANT: If migrating to a custom domain (e.g. startupmission.in), you MUST update frontendBaseUrl
+# otherwise AI search indexes will point to the wrong domain.
 frontendBaseUrl: https://rink-ui.vercel.app
 sheets:
   - name: instrument
