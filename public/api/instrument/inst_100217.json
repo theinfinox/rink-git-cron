@@ -1,7 +1,7 @@
 {
   "id": "inst_100217",
-  "instruments": "THERMAL MIXER",
-  "column_3": "Thermal Mixer",
+  "instruments1": "THERMAL MIXER",
+  "instruments": "Thermal Mixer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100217_image_link.webp",
   "district": "Trivandrum",

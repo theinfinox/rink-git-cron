@@ -1,7 +1,7 @@
 {
   "id": "inst_100691",
-  "instruments": "ESI TOF",
-  "column_3": "Electrospray Ionization Time-of-Flight Mass Spectrometer (ESI TOF)",
+  "instruments1": "ESI TOF",
+  "instruments": "Electrospray Ionization Time-of-Flight Mass Spectrometer (ESI TOF)",
   "acronym": "ESI, TOF",
   "image_link": "/assets/instrument/inst_100691_image_link.webp",
   "district": "Trivandrum",

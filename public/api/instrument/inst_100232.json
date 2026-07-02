@@ -1,7 +1,7 @@
 {
   "id": "inst_100232",
-  "instruments": "Reversed Phase - High Performance Liquid Chromatography (RP-HPLC)",
-  "column_3": "Reversed Phase High Performance Liquid Chromatography",
+  "instruments1": "Reversed Phase - High Performance Liquid Chromatography (RP-HPLC)",
+  "instruments": "Reversed Phase High Performance Liquid Chromatography",
   "acronym": "RP-HPLC",
   "image_link": "/assets/instrument/inst_100232_image_link.webp",
   "district": "Thrissur",

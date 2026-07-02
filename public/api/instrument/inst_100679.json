@@ -1,7 +1,7 @@
 {
   "id": "inst_100679",
-  "instruments": "Bruker Axs Kappa Apex II SC-XRD",
-  "column_3": "Single Crystal X-ray Diffractometer (Bruker AXS Kappa APEX II, Germany)",
+  "instruments1": "Bruker Axs Kappa Apex II SC-XRD",
+  "instruments": "Single Crystal X-ray Diffractometer (Bruker AXS Kappa APEX II, Germany)",
   "acronym": "SC-XRD",
   "image_link": "",
   "district": "Trivandrum",

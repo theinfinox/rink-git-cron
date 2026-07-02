@@ -1,7 +1,7 @@
 {
   "id": "inst_100637",
-  "instruments": "Gamma counter (RIA) – T3,T4,FT4,FT3,TSH,Cortisol, Corticosterone, Insulin, Estrogen, Progesterone, Testosterone",
-  "column_3": "Gamma Counter (RIA)",
+  "instruments1": "Gamma counter (RIA) – T3,T4,FT4,FT3,TSH,Cortisol, Corticosterone, Insulin, Estrogen, Progesterone, Testosterone",
+  "instruments": "Gamma Counter (RIA)",
   "acronym": "RIA, T3, T4, FT4, FT3, TSH",
   "image_link": "",
   "district": "Thrissur",

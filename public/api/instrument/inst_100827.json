@@ -1,7 +1,7 @@
 {
   "id": "inst_100827",
-  "instruments": "FT/IR Spectrometer",
-  "column_3": "Fourier Transform Infrared Spectrometer",
+  "instruments1": "FT/IR Spectrometer",
+  "instruments": "Fourier Transform Infrared Spectrometer",
   "acronym": "",
   "image_link": "/assets/instrument/inst_100827_image_link.webp",
   "district": "Wayanad",

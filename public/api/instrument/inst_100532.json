@@ -1,7 +1,7 @@
 {
   "id": "inst_100532",
-  "instruments": "Synapt G2 HDMS Q-TOF connected with nanoAquity UPLC system (Waters)",
-  "column_3": "High Definition Mass Spectrometry Q-TOF Connected with NanoAquity UPLC System (Waters Synapt G2 HDMS)",
+  "instruments1": "Synapt G2 HDMS Q-TOF connected with nanoAquity UPLC system (Waters)",
+  "instruments": "High Definition Mass Spectrometry Q-TOF Connected with NanoAquity UPLC System (Waters Synapt G2 HDMS)",
   "acronym": "HDMS, Q-TOF, UPLC",
   "image_link": "",
   "district": "Trivandrum",

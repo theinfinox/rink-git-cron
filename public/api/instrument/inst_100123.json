@@ -1,7 +1,7 @@
 {
   "id": "inst_100123",
-  "instruments": "Fourier Transformed Infra - Red Spectrophotometer",
-  "column_3": "Fourier Transform Infrared Spectrophotometer",
+  "instruments1": "Fourier Transformed Infra - Red Spectrophotometer",
+  "instruments": "Fourier Transform Infrared Spectrophotometer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100123_image_link.webp",
   "district": "Palakkad",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100215",
-  "instruments": "UV VIS SPECTROPHOTOMETER WITH MICROCELL HOLDER",
-  "column_3": "Ultraviolet Visible Spectrophotometer With Microcell Holder",
+  "instruments1": "UV VIS SPECTROPHOTOMETER WITH MICROCELL HOLDER",
+  "instruments": "Ultraviolet Visible Spectrophotometer With Microcell Holder",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100215_image_link.webp",
   "district": "Trivandrum",

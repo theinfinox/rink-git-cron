@@ -1,7 +1,7 @@
 {
   "id": "inst_100171",
-  "instruments": "Manual DC Probe Station",
-  "column_3": "Manual Direct Current Probe Station",
+  "instruments1": "Manual DC Probe Station",
+  "instruments": "Manual Direct Current Probe Station",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100171_image_link.webp",
   "district": "Palakkad",

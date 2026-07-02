@@ -1,7 +1,7 @@
 {
   "id": "inst_100556",
-  "instruments": "Training on WLL spectral imaging",
-  "column_3": "Spectral Imaging System (WLL)",
+  "instruments1": "Training on WLL spectral imaging",
+  "instruments": "Spectral Imaging System (WLL)",
   "acronym": "WLL",
   "image_link": "",
   "district": "Trivandrum",

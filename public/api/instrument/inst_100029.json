@@ -1,7 +1,7 @@
 {
   "id": "inst_100029",
-  "instruments": "X-Ray Photoelectron Spectrometer (XPS)",
-  "column_3": "X-Ray Photoelectron Spectrometer",
+  "instruments1": "X-Ray Photoelectron Spectrometer (XPS)",
+  "instruments": "X-Ray Photoelectron Spectrometer",
   "acronym": "XPS",
   "image_link": "/assets/instrument/inst_100029_image_link.webp",
   "district": "Trivandrum",

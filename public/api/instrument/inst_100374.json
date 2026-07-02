@@ -1,7 +1,7 @@
 {
   "id": "inst_100374",
-  "instruments": "Echo sounder (TAMAYA TDM 9000B, Japan)",
-  "column_3": "Echo Sounder (TAMAYA TDM 9000B, Japan)",
+  "instruments1": "Echo sounder (TAMAYA TDM 9000B, Japan)",
+  "instruments": "Echo Sounder (TAMAYA TDM 9000B, Japan)",
   "acronym": "TDM",
   "image_link": "",
   "district": "Kozhikode",

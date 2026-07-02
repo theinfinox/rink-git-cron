@@ -1,7 +1,7 @@
 {
   "id": "inst_100690",
-  "instruments": "TEM 120 kV",
-  "column_3": "Transmission Electron Microscope (TEM 120 kV)",
+  "instruments1": "TEM 120 kV",
+  "instruments": "Transmission Electron Microscope (TEM 120 kV)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100690_image_link.webp",
   "district": "Trivandrum",

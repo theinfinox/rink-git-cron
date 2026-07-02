@@ -1,7 +1,7 @@
 {
   "id": "inst_100565",
-  "instruments": "microtome (Leica RM2255)",
-  "column_3": "Automated Rotary Microtome (Leica RM2255)",
+  "instruments1": "microtome (Leica RM2255)",
+  "instruments": "Automated Rotary Microtome (Leica RM2255)",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100172",
-  "instruments": "Manual RF Probe Station",
-  "column_3": "Manual Radio Frequency Probe Station",
+  "instruments1": "Manual RF Probe Station",
+  "instruments": "Manual Radio Frequency Probe Station",
   "acronym": "RF",
   "image_link": "/assets/instrument/inst_100172_image_link.webp",
   "district": "Palakkad",

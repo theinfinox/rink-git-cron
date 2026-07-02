@@ -1,7 +1,7 @@
 {
   "id": "inst_100373",
-  "instruments": "Echosounder (ECHOTRAC, Teledyne Marine, USA)",
-  "column_3": "Echosounder (Teledyne Marine ECHOTRAC, USA)",
+  "instruments1": "Echosounder (ECHOTRAC, Teledyne Marine, USA)",
+  "instruments": "Echosounder (Teledyne Marine ECHOTRAC, USA)",
   "acronym": "USA",
   "image_link": "",
   "district": "Kozhikode",

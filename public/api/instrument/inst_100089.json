@@ -1,7 +1,7 @@
 {
   "id": "inst_100089",
-  "instruments": "Thermoscientific Nanodrop Spectrophotometer",
-  "column_3": "Spectrophotometer (Thermo Scientific Nanodrop)",
+  "instruments1": "Thermoscientific Nanodrop Spectrophotometer",
+  "instruments": "Spectrophotometer (Thermo Scientific Nanodrop)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100089_image_link.webp",
   "district": "Ernakulam",

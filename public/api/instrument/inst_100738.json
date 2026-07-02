@@ -1,7 +1,7 @@
 {
   "id": "inst_100738",
-  "instruments": "SE detectors",
-  "column_3": "Secondary Electron Detector",
+  "instruments1": "SE detectors",
+  "instruments": "Secondary Electron Detector",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

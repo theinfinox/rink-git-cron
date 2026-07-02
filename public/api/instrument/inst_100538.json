@@ -1,7 +1,7 @@
 {
   "id": "inst_100538",
-  "instruments": "High Speed Flowcytometer Sorter System: (FACSAria II)",
-  "column_3": "High Speed Flow Cytometer Sorter System (BD FACSAria II)",
+  "instruments1": "High Speed Flowcytometer Sorter System: (FACSAria II)",
+  "instruments": "High Speed Flow Cytometer Sorter System (BD FACSAria II)",
   "acronym": "FACSAria II",
   "image_link": "",
   "district": "Trivandrum",

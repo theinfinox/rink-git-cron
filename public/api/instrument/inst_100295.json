@@ -1,7 +1,7 @@
 {
   "id": "inst_100295",
-  "instruments": "Spectrophotometer, NOVA-60 and 60A (E-Merck-Germany)",
-  "column_3": "Spectrophotometer (E-Merck-Germany NOVA-60 and 60A)",
+  "instruments1": "Spectrophotometer, NOVA-60 and 60A (E-Merck-Germany)",
+  "instruments": "Spectrophotometer (E-Merck-Germany NOVA-60 and 60A)",
   "acronym": "None",
   "image_link": "",
   "district": "Kozhikode",

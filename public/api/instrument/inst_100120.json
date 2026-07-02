@@ -1,7 +1,7 @@
 {
   "id": "inst_100120",
-  "instruments": "Inductively Coupled Plasma Optical Emission Spectrometry",
-  "column_3": "Inductively Coupled Plasma Optical Emission Spectrometer",
+  "instruments1": "Inductively Coupled Plasma Optical Emission Spectrometry",
+  "instruments": "Inductively Coupled Plasma Optical Emission Spectrometer",
   "acronym": "None",
   "image_link": "",
   "district": "Ernakulam",

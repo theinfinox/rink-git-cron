@@ -1,7 +1,7 @@
 {
   "id": "inst_100241",
-  "instruments": "Testing of coir pith for NPK, Salinity, Electrical Conductivity, pH, Lignin, Moisture, Cation Exchange Capacity(CEC), E.coli and Salmonella",
-  "column_3": "Coir Pith Testing Analysis Service",
+  "instruments1": "Testing of coir pith for NPK, Salinity, Electrical Conductivity, pH, Lignin, Moisture, Cation Exchange Capacity(CEC), E.coli and Salmonella",
+  "instruments": "Coir Pith Testing Analysis Service",
   "acronym": "CEC",
   "image_link": "",
   "district": "Alappuzha",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100540",
-  "instruments": "Confocal Laser scanning Microscope with high sensitivity spectral detector (Olympus FV3000)",
-  "column_3": "Confocal Laser Scanning Microscope (Olympus FV3000, Japan)",
+  "instruments1": "Confocal Laser scanning Microscope with high sensitivity spectral detector (Olympus FV3000)",
+  "instruments": "Confocal Laser Scanning Microscope (Olympus FV3000, Japan)",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

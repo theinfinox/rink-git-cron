@@ -1,7 +1,7 @@
 {
   "id": "inst_100208",
-  "instruments": "INVERTED FLURESCENCE MICROSCOPE",
-  "column_3": "Inverted Fluorescence Microscope",
+  "instruments1": "INVERTED FLURESCENCE MICROSCOPE",
+  "instruments": "Inverted Fluorescence Microscope",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100208_image_link.webp",
   "district": "Trivandrum",

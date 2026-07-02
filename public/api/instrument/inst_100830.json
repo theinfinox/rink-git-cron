@@ -1,7 +1,7 @@
 {
   "id": "inst_100830",
-  "instruments": "Real Time PCR",
-  "column_3": "Real Time Polymerase Chain Reaction",
+  "instruments1": "Real Time PCR",
+  "instruments": "Real Time Polymerase Chain Reaction",
   "acronym": "",
   "image_link": "/assets/instrument/inst_100830_image_link.webp",
   "district": "Wayanad",

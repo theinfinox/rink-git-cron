@@ -1,7 +1,7 @@
 {
   "id": "inst_100043",
-  "instruments": "Single Crystal XRD (Bruker AXS)",
-  "column_3": "Single Crystal X-Ray Diffractometer (Bruker AXS)",
+  "instruments1": "Single Crystal XRD (Bruker AXS)",
+  "instruments": "Single Crystal X-Ray Diffractometer (Bruker AXS)",
   "acronym": "XRD, AXS",
   "image_link": "/assets/instrument/inst_100043_image_link.webp",
   "district": "Kottayam",

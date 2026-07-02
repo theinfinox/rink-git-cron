@@ -1,7 +1,7 @@
 {
   "id": "inst_100802",
-  "instruments": "S4 Pioneer:SPECTRAplus software",
-  "column_3": "Wavelength Dispersive X-ray Fluorescence Spectrometer (Bruker S4 Pioneer, Germany)",
+  "instruments1": "S4 Pioneer:SPECTRAplus software",
+  "instruments": "Wavelength Dispersive X-ray Fluorescence Spectrometer (Bruker S4 Pioneer, Germany)",
   "acronym": "",
   "image_link": "",
   "district": "Trivandrum",

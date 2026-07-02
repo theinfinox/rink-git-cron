@@ -1,7 +1,7 @@
 {
   "id": "inst_100022",
-  "instruments": "Nuclear Magnetic Resonance Spectrometer [NMR including 1H and 13 C NMR]",
-  "column_3": "Nuclear Magnetic Resonance Spectrometer",
+  "instruments1": "Nuclear Magnetic Resonance Spectrometer [NMR including 1H and 13 C NMR]",
+  "instruments": "Nuclear Magnetic Resonance Spectrometer",
   "acronym": "NMR",
   "image_link": "/assets/instrument/inst_100022_image_link.webp",
   "district": "Trivandrum",

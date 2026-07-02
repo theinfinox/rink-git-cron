@@ -1,7 +1,7 @@
 {
   "id": "inst_100602",
-  "instruments": "ICPMS",
-  "column_3": "Inductively Coupled Plasma Mass Spectrometry",
+  "instruments1": "ICPMS",
+  "instruments": "Inductively Coupled Plasma Mass Spectrometry",
   "acronym": "None",
   "image_link": "",
   "district": "Malappuram",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100045",
-  "instruments": "Confocal Raman Microscope with AFM (Alpha 300RA, WiTec, Germany)",
-  "column_3": "Confocal Raman Microscope With Atomic Force Microscope (Witec Alpha 300RA)",
+  "instruments1": "Confocal Raman Microscope with AFM (Alpha 300RA, WiTec, Germany)",
+  "instruments": "Confocal Raman Microscope With Atomic Force Microscope (Witec Alpha 300RA)",
   "acronym": "AFM",
   "image_link": "/assets/instrument/inst_100045_image_link.webp",
   "district": "Kottayam",

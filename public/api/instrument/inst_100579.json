@@ -1,7 +1,7 @@
 {
   "id": "inst_100579",
-  "instruments": "ECG machine",
-  "column_3": "ECG Machine",
+  "instruments1": "ECG machine",
+  "instruments": "ECG Machine",
   "acronym": "ECG",
   "image_link": "",
   "district": "Trivandrum",

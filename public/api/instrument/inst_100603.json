@@ -1,7 +1,7 @@
 {
   "id": "inst_100603",
-  "instruments": "FESEM / EDX",
-  "column_3": "Field Emission Scanning Electron Microscope / Energy Dispersive X-ray Spectroscopy (FESEM / EDX)",
+  "instruments1": "FESEM / EDX",
+  "instruments": "Field Emission Scanning Electron Microscope / Energy Dispersive X-ray Spectroscopy (FESEM / EDX)",
   "acronym": "None",
   "image_link": "",
   "district": "Malappuram",

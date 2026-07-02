@@ -1,7 +1,7 @@
 {
   "id": "inst_100600",
-  "instruments": "TGA DTA SYSTEM",
-  "column_3": "Thermogravimetric Analysis Differential Thermal Analysis System (TGA DTA)",
+  "instruments1": "TGA DTA SYSTEM",
+  "instruments": "Thermogravimetric Analysis Differential Thermal Analysis System (TGA DTA)",
   "acronym": "TGA, DTA",
   "image_link": "",
   "district": "Malappuram",

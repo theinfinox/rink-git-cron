@@ -1,7 +1,7 @@
 {
   "id": "inst_100585",
-  "instruments": "Fourier Transform Infra Red Spectrometer (FTIR)",
-  "column_3": "Fourier Transform Infrared Spectrometer (FTIR)",
+  "instruments1": "Fourier Transform Infra Red Spectrometer (FTIR)",
+  "instruments": "Fourier Transform Infrared Spectrometer (FTIR)",
   "acronym": "FTIR",
   "image_link": "",
   "district": "Trivandrum",

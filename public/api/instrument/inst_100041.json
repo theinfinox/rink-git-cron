@@ -1,7 +1,7 @@
 {
   "id": "inst_100041",
-  "instruments": "ICP-MS (ICAP QC Quadrupole ICP-Mass Spectrometer, Thermo Fisher)",
-  "column_3": "Quadrupole Inductively Coupled Plasma Mass Spectrometer (Thermo Fisher Icap Qc)",
+  "instruments1": "ICP-MS (ICAP QC Quadrupole ICP-Mass Spectrometer, Thermo Fisher)",
+  "instruments": "Quadrupole Inductively Coupled Plasma Mass Spectrometer (Thermo Fisher Icap Qc)",
   "acronym": "ICP-MS, ICAP QC",
   "image_link": "/assets/instrument/inst_100041_image_link.webp",
   "district": "Kottayam",

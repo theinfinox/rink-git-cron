@@ -1,7 +1,7 @@
 {
   "id": "inst_100219",
-  "instruments": "HIGH SPEED CENTRIGUGE",
-  "column_3": "High Speed Centrifuge",
+  "instruments1": "HIGH SPEED CENTRIGUGE",
+  "instruments": "High Speed Centrifuge",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100219_image_link.webp",
   "district": "Trivandrum",

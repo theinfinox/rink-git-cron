@@ -1,7 +1,7 @@
 {
   "id": "inst_100796",
-  "instruments": "S8 Tiger :Collimators",
-  "column_3": "Wavelength Dispersive X-Ray Fluorescence Spectrometer (Bruker S8 TIGER, Germany)",
+  "instruments1": "S8 Tiger :Collimators",
+  "instruments": "Wavelength Dispersive X-Ray Fluorescence Spectrometer (Bruker S8 TIGER, Germany)",
   "acronym": "",
   "image_link": "",
   "district": "Trivandrum",

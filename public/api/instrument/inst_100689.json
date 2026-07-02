@@ -1,7 +1,7 @@
 {
   "id": "inst_100689",
-  "instruments": "TEM 300 kV",
-  "column_3": "Transmission Electron Microscope (TEM 300 kV)",
+  "instruments1": "TEM 300 kV",
+  "instruments": "Transmission Electron Microscope (TEM 300 kV)",
   "acronym": "TEM",
   "image_link": "/assets/instrument/inst_100689_image_link.webp",
   "district": "Trivandrum",

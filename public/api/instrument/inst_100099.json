@@ -1,7 +1,7 @@
 {
   "id": "inst_100099",
-  "instruments": "Rapid Food Pathogens Detection Gene Detection System - QIAGEN",
-  "column_3": "Rapid Food Pathogens Gene Detection System (Qiagen)",
+  "instruments1": "Rapid Food Pathogens Detection Gene Detection System - QIAGEN",
+  "instruments": "Rapid Food Pathogens Gene Detection System (Qiagen)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100099_image_link.webp",
   "district": "Ernakulam",

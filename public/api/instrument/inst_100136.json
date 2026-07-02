@@ -1,7 +1,7 @@
 {
   "id": "inst_100136",
-  "instruments": "CONFOCAL LASER SCANNING MICROSCOPE",
-  "column_3": "Confocal Laser Scanning Microscope",
+  "instruments1": "CONFOCAL LASER SCANNING MICROSCOPE",
+  "instruments": "Confocal Laser Scanning Microscope",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100136_image_link.webp",
   "district": "Palakkad",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100270",
-  "instruments": "GCMS Analysis 1000.00",
-  "column_3": "Gas Chromatography Mass Spectrometry Analysis (1000.00)",
+  "instruments1": "GCMS Analysis 1000.00",
+  "instruments": "Gas Chromatography Mass Spectrometry Analysis (1000.00)",
   "acronym": "GCMS",
   "image_link": "",
   "district": "Alappuzha",

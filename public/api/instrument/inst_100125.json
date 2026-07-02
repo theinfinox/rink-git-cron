@@ -1,7 +1,7 @@
 {
   "id": "inst_100125",
-  "instruments": "Thermogravimetric Analyzer - Differential Thermal Analyzer coupled to Mass Spectrophotometer",
-  "column_3": "Thermogravimetric Analyzer Differential Thermal Analyzer Coupled To Mass Spectrophotometer",
+  "instruments1": "Thermogravimetric Analyzer - Differential Thermal Analyzer coupled to Mass Spectrophotometer",
+  "instruments": "Thermogravimetric Analyzer Differential Thermal Analyzer Coupled To Mass Spectrophotometer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100125_image_link.webp",
   "district": "Palakkad",

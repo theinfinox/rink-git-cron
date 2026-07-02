@@ -1,7 +1,7 @@
 {
   "id": "inst_100034",
-  "instruments": "ATR-FTIR (Shimadzu, IR Prestige 21)",
-  "column_3": "Attenuated Total Reflectance Fourier Transform Infrared Spectrometer (Shimadzu IR Prestige 21)",
+  "instruments1": "ATR-FTIR (Shimadzu, IR Prestige 21)",
+  "instruments": "Attenuated Total Reflectance Fourier Transform Infrared Spectrometer (Shimadzu IR Prestige 21)",
   "acronym": "ATR-FTIR, IR",
   "image_link": "/assets/instrument/inst_100034_image_link.webp",
   "district": "Kottayam",

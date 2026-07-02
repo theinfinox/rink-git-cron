@@ -1,7 +1,7 @@
 {
   "id": "inst_100681",
-  "instruments": "SEM-I",
-  "column_3": "Scanning Electron Microscope (SEM-I)",
+  "instruments1": "SEM-I",
+  "instruments": "Scanning Electron Microscope (SEM-I)",
   "acronym": "SEM",
   "image_link": "/assets/instrument/inst_100681_image_link.webp",
   "district": "Trivandrum",

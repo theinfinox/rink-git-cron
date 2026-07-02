@@ -1,7 +1,7 @@
 {
   "id": "inst_100023",
-  "instruments": "CHN(S)/O Analyser",
-  "column_3": "Carbon Hydrogen Nitrogen Sulfur Oxygen Analyzer",
+  "instruments1": "CHN(S)/O Analyser",
+  "instruments": "Carbon Hydrogen Nitrogen Sulfur Oxygen Analyzer",
   "acronym": "CHN(S)/O",
   "image_link": "/assets/instrument/inst_100023_image_link.webp",
   "district": "Trivandrum",

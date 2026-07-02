@@ -1,7 +1,7 @@
 {
   "id": "inst_100747",
-  "instruments": "GPS station",
-  "column_3": "Global Positioning System Station",
+  "instruments1": "GPS station",
+  "instruments": "Global Positioning System Station",
   "acronym": "GPS",
   "image_link": "",
   "district": "Trivandrum",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100742",
-  "instruments": "digitiser",
-  "column_3": "Digitizer",
+  "instruments1": "digitiser",
+  "instruments": "Digitizer",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

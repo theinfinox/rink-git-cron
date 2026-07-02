@@ -1,7 +1,7 @@
 {
   "id": "inst_100205",
-  "instruments": "FLUORESCENCE-ACTIVATED CELL SORTING (FACS)",
-  "column_3": "Fluorescence Activated Cell Sorter",
+  "instruments1": "FLUORESCENCE-ACTIVATED CELL SORTING (FACS)",
+  "instruments": "Fluorescence Activated Cell Sorter",
   "acronym": "FACS",
   "image_link": "/assets/instrument/inst_100205_image_link.webp",
   "district": "Trivandrum",

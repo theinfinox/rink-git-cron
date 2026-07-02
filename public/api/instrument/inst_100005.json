@@ -1,7 +1,7 @@
 {
   "id": "inst_100005",
-  "instruments": "Single Crystal XRD",
-  "column_3": "Single Crystal X-ray Diffractometer",
+  "instruments1": "Single Crystal XRD",
+  "instruments": "Single Crystal X-ray Diffractometer",
   "acronym": "XRD",
   "image_link": "/assets/instrument/inst_100005_image_link.webp",
   "district": "Ernakulam",

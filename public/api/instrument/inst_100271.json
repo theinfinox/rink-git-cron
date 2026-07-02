@@ -1,7 +1,7 @@
 {
   "id": "inst_100271",
-  "instruments": "TGA/DSC Analysis",
-  "column_3": "Thermogravimetric Analysis / Differential Scanning Calorimetry",
+  "instruments1": "TGA/DSC Analysis",
+  "instruments": "Thermogravimetric Analysis / Differential Scanning Calorimetry",
   "acronym": "TGA, DSC",
   "image_link": "",
   "district": "Alappuzha",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100608",
-  "instruments": "GC - MS",
-  "column_3": "Gas Chromatography - Mass Spectrometry (GC-MS)",
+  "instruments1": "GC - MS",
+  "instruments": "Gas Chromatography - Mass Spectrometry (GC-MS)",
   "acronym": "GC, MS",
   "image_link": "",
   "district": "Malappuram",

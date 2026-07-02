@@ -1,7 +1,7 @@
 {
   "id": "inst_100001",
-  "instruments": "High resolution Transmission Electron Microscope (HRTEM)",
-  "column_3": "High Resolution Transmission Electron Microscope",
+  "instruments1": "High resolution Transmission Electron Microscope (HRTEM)",
+  "instruments": "High Resolution Transmission Electron Microscope",
   "acronym": "HRTEM",
   "image_link": "/assets/instrument/inst_100001_image_link.webp",
   "district": "Ernakulam",

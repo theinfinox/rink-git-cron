@@ -1,7 +1,7 @@
 {
   "id": "inst_100684",
-  "instruments": "NMR-500",
-  "column_3": "Nuclear Magnetic Resonance Spectrometer (Bruker AVANCE III HD, Switzerland)",
+  "instruments1": "NMR-500",
+  "instruments": "Nuclear Magnetic Resonance Spectrometer (Bruker AVANCE III HD, Switzerland)",
   "acronym": "NMR",
   "image_link": "/assets/instrument/inst_100684_image_link.webp",
   "district": "Trivandrum",

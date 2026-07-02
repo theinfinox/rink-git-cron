@@ -1,7 +1,7 @@
 {
   "id": "inst_100197",
-  "instruments": "HPLC",
-  "column_3": "High Performance Liquid Chromatography",
+  "instruments1": "HPLC",
+  "instruments": "High Performance Liquid Chromatography",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100197_image_link.webp",
   "district": "Trivandrum",

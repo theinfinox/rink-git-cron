@@ -1,7 +1,7 @@
 {
   "id": "inst_100686",
-  "instruments": "NMR -500 SOLID",
-  "column_3": "Nuclear Magnetic Resonance Spectrometer (NMR -500 SOLID)",
+  "instruments1": "NMR -500 SOLID",
+  "instruments": "Nuclear Magnetic Resonance Spectrometer (NMR -500 SOLID)",
   "acronym": "NMR",
   "image_link": "",
   "district": "Trivandrum",

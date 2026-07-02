@@ -1,7 +1,7 @@
 {
   "id": "inst_100820",
-  "instruments": "Soil Hydraulic Property Estimation setup – HYPROP, KSAT",
-  "column_3": "Soil Hydraulic Property Measurement System (HYPROP, KSAT)",
+  "instruments1": "Soil Hydraulic Property Estimation setup – HYPROP, KSAT",
+  "instruments": "Soil Hydraulic Property Measurement System (HYPROP, KSAT)",
   "acronym": "",
   "image_link": "",
   "district": "Trivandrum",

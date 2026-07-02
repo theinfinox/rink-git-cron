@@ -1,7 +1,7 @@
 {
   "id": "inst_100831",
-  "instruments": "UV-Visible visible spectrophotometer",
-  "column_3": "Ultraviolet-Visible Spectrophotometer",
+  "instruments1": "UV-Visible visible spectrophotometer",
+  "instruments": "Ultraviolet-Visible Spectrophotometer",
   "acronym": "",
   "image_link": "/assets/instrument/inst_100831_image_link.webp",
   "district": "Wayanad",

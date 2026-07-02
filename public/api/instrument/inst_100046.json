@@ -1,7 +1,7 @@
 {
   "id": "inst_100046",
-  "instruments": "Fluorescence Spectrometer with Life Time Detector (Fluorolog 3 TCSPC, Horiba)",
-  "column_3": "Fluorescence Spectrometer With Life Time Detector (Horiba Fluorolog 3)",
+  "instruments1": "Fluorescence Spectrometer with Life Time Detector (Fluorolog 3 TCSPC, Horiba)",
+  "instruments": "Fluorescence Spectrometer With Life Time Detector (Horiba Fluorolog 3)",
   "acronym": "TCSPC",
   "image_link": "/assets/instrument/inst_100046_image_link.webp",
   "district": "Kottayam",

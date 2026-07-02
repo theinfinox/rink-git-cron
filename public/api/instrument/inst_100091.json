@@ -1,7 +1,7 @@
 {
   "id": "inst_100091",
-  "instruments": "Automatic Colony Counter - Interscience scan 1200",
-  "column_3": "Automatic Colony Counter (Interscience Scan 1200)",
+  "instruments1": "Automatic Colony Counter - Interscience scan 1200",
+  "instruments": "Automatic Colony Counter (Interscience Scan 1200)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100091_image_link.webp",
   "district": "Ernakulam",

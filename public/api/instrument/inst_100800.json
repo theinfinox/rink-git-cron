@@ -1,7 +1,7 @@
 {
   "id": "inst_100800",
-  "instruments": "S4 Pioneer: X-ray tube",
-  "column_3": "X-ray Fluorescence Spectrometer (Bruker S4 Pioneer, Germany)",
+  "instruments1": "S4 Pioneer: X-ray tube",
+  "instruments": "X-ray Fluorescence Spectrometer (Bruker S4 Pioneer, Germany)",
   "acronym": "",
   "image_link": "",
   "district": "Trivandrum",

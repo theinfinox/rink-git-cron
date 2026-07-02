@@ -1,7 +1,7 @@
 {
   "id": "inst_100004",
-  "instruments": "Powder XRD",
-  "column_3": "Powder X-Ray Diffractometer",
+  "instruments1": "Powder XRD",
+  "instruments": "Powder X-Ray Diffractometer",
   "acronym": "XRD",
   "image_link": "/assets/instrument/inst_100004_image_link.webp",
   "district": "Ernakulam",

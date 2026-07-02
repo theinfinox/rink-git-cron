@@ -1,7 +1,7 @@
 {
   "id": "inst_100709",
-  "instruments": "Aquameter, Grab sampler",
-  "column_3": "Aquameter and Grab Sampler",
+  "instruments1": "Aquameter, Grab sampler",
+  "instruments": "Aquameter and Grab Sampler",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

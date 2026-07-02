@@ -1,7 +1,7 @@
 {
   "id": "inst_100032",
-  "instruments": "Milli Q water purification system",
-  "column_3": "Water Purification System (Milli Q)",
+  "instruments1": "Milli Q water purification system",
+  "instruments": "Water Purification System (Milli Q)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100032_image_link.webp",
   "district": "Trivandrum",

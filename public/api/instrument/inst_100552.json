@@ -1,7 +1,7 @@
 {
   "id": "inst_100552",
-  "instruments": "FRET acceptor Bleaching /FRAP expt using WLL",
-  "column_3": "FRET Acceptor Bleaching / FRAP Experiment using WLL",
+  "instruments1": "FRET acceptor Bleaching /FRAP expt using WLL",
+  "instruments": "FRET Acceptor Bleaching / FRAP Experiment using WLL",
   "acronym": "FRET, FRAP, WLL",
   "image_link": "",
   "district": "Trivandrum",

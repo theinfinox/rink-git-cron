@@ -1,7 +1,7 @@
 {
   "id": "inst_100745",
-  "instruments": "ERDAS",
-  "column_3": "Earth Resources Data Analysis System (Hexagon ERDAS)",
+  "instruments1": "ERDAS",
+  "instruments": "Earth Resources Data Analysis System (Hexagon ERDAS)",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

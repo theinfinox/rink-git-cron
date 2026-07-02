@@ -1,7 +1,7 @@
 {
   "id": "inst_100094",
-  "instruments": "ThermoScientific OrbitrapExploris 120 HRMS",
-  "column_3": "High Resolution Mass Spectrometer (Thermo Scientific Orbitrap Exploris 120)",
+  "instruments1": "ThermoScientific OrbitrapExploris 120 HRMS",
+  "instruments": "High Resolution Mass Spectrometer (Thermo Scientific Orbitrap Exploris 120)",
   "acronym": "HRMS",
   "image_link": "/assets/instrument/inst_100094_image_link.webp",
   "district": "Ernakulam",

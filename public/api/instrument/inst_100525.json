@@ -1,7 +1,7 @@
 {
   "id": "inst_100525",
-  "instruments": "Spectrophotometer (UV/Vis) Thermo Spectronic,\nGenesys-10",
-  "column_3": "Spectrophotometer (Thermo Spectronic GENESYS-10)",
+  "instruments1": "Spectrophotometer (UV/Vis) Thermo Spectronic,\nGenesys-10",
+  "instruments": "Spectrophotometer (Thermo Spectronic GENESYS-10)",
   "acronym": "UV/Vis",
   "image_link": "",
   "district": "Ernakulam",

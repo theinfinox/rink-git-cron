@@ -1,7 +1,7 @@
 {
   "id": "inst_100200",
-  "instruments": "Ref.Index",
-  "column_3": "Refractive Index Detector (Ref.index)",
+  "instruments1": "Ref.Index",
+  "instruments": "Refractive Index Detector (Ref.index)",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

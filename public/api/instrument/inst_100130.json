@@ -1,7 +1,7 @@
 {
   "id": "inst_100130",
-  "instruments": "Raman spectrophotometer",
-  "column_3": "Raman Spectrophotometer",
+  "instruments1": "Raman spectrophotometer",
+  "instruments": "Raman Spectrophotometer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100130_image_link.webp",
   "district": "Palakkad",

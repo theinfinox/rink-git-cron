@@ -1,7 +1,7 @@
 {
   "id": "inst_100008",
-  "instruments": "FT Nuclear Magnetic Resonance spectrometer (FTNMR)",
-  "column_3": "Fourier Transform Nuclear Magnetic Resonance Spectrometer",
+  "instruments1": "FT Nuclear Magnetic Resonance spectrometer (FTNMR)",
+  "instruments": "Fourier Transform Nuclear Magnetic Resonance Spectrometer",
   "acronym": "FTNMR",
   "image_link": "",
   "district": "Ernakulam",

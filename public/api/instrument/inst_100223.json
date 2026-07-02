@@ -1,7 +1,7 @@
 {
   "id": "inst_100223",
-  "instruments": "CHNS Analyzer",
-  "column_3": "Carbon Hydrogen Nitrogen Sulfur Analyzer",
+  "instruments1": "CHNS Analyzer",
+  "instruments": "Carbon Hydrogen Nitrogen Sulfur Analyzer",
   "acronym": "CHNS",
   "image_link": "/assets/instrument/inst_100223_image_link.webp",
   "district": "Thrissur",

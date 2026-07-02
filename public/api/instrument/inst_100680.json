@@ -1,7 +1,7 @@
 {
   "id": "inst_100680",
-  "instruments": "Bruker D8 Quest - Microfocus SC-XRD",
-  "column_3": "Single Crystal X-Ray Diffractometer (Bruker D8 QUEST)",
+  "instruments1": "Bruker D8 Quest - Microfocus SC-XRD",
+  "instruments": "Single Crystal X-Ray Diffractometer (Bruker D8 QUEST)",
   "acronym": "SC-XRD",
   "image_link": "",
   "district": "Trivandrum",

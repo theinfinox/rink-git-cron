@@ -1,7 +1,7 @@
 {
   "id": "inst_100529",
-  "instruments": "Microscope : Leica, DMLS\nCompound microscope\nwith DFC 295 camera",
-  "column_3": "Compound Microscope (Leica DMLS, DFC 295 Camera)",
+  "instruments1": "Microscope : Leica, DMLS\nCompound microscope\nwith DFC 295 camera",
+  "instruments": "Compound Microscope (Leica DMLS, DFC 295 Camera)",
   "acronym": "DMLS, DFC",
   "image_link": "",
   "district": "Ernakulam",

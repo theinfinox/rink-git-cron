@@ -1,7 +1,7 @@
 {
   "id": "inst_100613",
-  "instruments": "FPLC",
-  "column_3": "Fast Protein Liquid Chromatography (FPLC)",
+  "instruments1": "FPLC",
+  "instruments": "Fast Protein Liquid Chromatography (FPLC)",
   "acronym": "FPLC",
   "image_link": "",
   "district": "Malappuram",

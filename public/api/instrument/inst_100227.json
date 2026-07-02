@@ -1,7 +1,7 @@
 {
   "id": "inst_100227",
-  "instruments": "Gas chromatograph(GC)",
-  "column_3": "Gas Chromatograph",
+  "instruments1": "Gas chromatograph(GC)",
+  "instruments": "Gas Chromatograph",
   "acronym": "GC",
   "image_link": "",
   "district": "Thrissur",

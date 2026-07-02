@@ -1,7 +1,7 @@
 {
   "id": "inst_100204",
-  "instruments": "DNA CAPPILLARY SEQUENCER",
-  "column_3": "DNA Capillary Sequencer",
+  "instruments1": "DNA CAPPILLARY SEQUENCER",
+  "instruments": "DNA Capillary Sequencer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100204_image_link.webp",
   "district": "Trivandrum",

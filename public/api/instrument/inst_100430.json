@@ -1,7 +1,7 @@
 {
   "id": "inst_100430",
-  "instruments": "Spectrophotometer (UV/Vis)  Hitachi, U-2010",
-  "column_3": "Spectrophotometer (UV/Vis) (Hitachi U-2010, Japan)",
+  "instruments1": "Spectrophotometer (UV/Vis)  Hitachi, U-2010",
+  "instruments": "Spectrophotometer (UV/Vis) (Hitachi U-2010, Japan)",
   "acronym": "UV/Vis[source: 1]",
   "image_link": "",
   "district": "Ernakulam",

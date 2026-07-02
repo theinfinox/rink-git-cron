@@ -1,7 +1,7 @@
 {
   "id": "inst_100087",
-  "instruments": "Boiler unit (diesel)",
-  "column_3": "Diesel Boiler Unit",
+  "instruments1": "Boiler unit (diesel)",
+  "instruments": "Diesel Boiler Unit",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100087_image_link.webp",
   "district": "Ernakulam",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100497",
-  "instruments": "Spectrophotometer (UV/Vis) Thermo Fisher",
-  "column_3": "Spectrophotometer UV/Vis (Thermo Fisher)",
+  "instruments1": "Spectrophotometer (UV/Vis) Thermo Fisher",
+  "instruments": "Spectrophotometer UV/Vis (Thermo Fisher)",
   "acronym": "UV/Vis",
   "image_link": "",
   "district": "Ernakulam",

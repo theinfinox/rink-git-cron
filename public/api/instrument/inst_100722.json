@@ -1,7 +1,7 @@
 {
   "id": "inst_100722",
-  "instruments": "Synspec Alpha 115 GC",
-  "column_3": "Gas Chromatograph (Synspec Alpha 115 GC, Netherlands)",
+  "instruments1": "Synspec Alpha 115 GC",
+  "instruments": "Gas Chromatograph (Synspec Alpha 115 GC, Netherlands)",
   "acronym": "GC",
   "image_link": "",
   "district": "Trivandrum",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100090",
-  "instruments": "Ion chromatography Dionex ICS 5000 plus SP",
-  "column_3": "Ion Chromatography (Dionex ICS 5000 Plus SP)",
+  "instruments1": "Ion chromatography Dionex ICS 5000 plus SP",
+  "instruments": "Ion Chromatography (Dionex ICS 5000 Plus SP)",
   "acronym": "ICS, SP",
   "image_link": "/assets/instrument/inst_100090_image_link.webp",
   "district": "Ernakulam",

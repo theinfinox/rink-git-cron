@@ -1,7 +1,7 @@
 {
   "id": "inst_100606",
-  "instruments": "AFM",
-  "column_3": "Atomic Force Microscope",
+  "instruments1": "AFM",
+  "instruments": "Atomic Force Microscope",
   "acronym": "AFM",
   "image_link": "",
   "district": "Malappuram",

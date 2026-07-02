@@ -1,7 +1,7 @@
 {
   "id": "inst_100762",
-  "instruments": "pulse field magnetometer",
-  "column_3": "Pulsed Field Magnetometer",
+  "instruments1": "pulse field magnetometer",
+  "instruments": "Pulsed Field Magnetometer",
   "acronym": "None",
   "image_link": "",
   "district": "Trivandrum",

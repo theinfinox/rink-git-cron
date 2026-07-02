@@ -1,7 +1,7 @@
 {
   "id": "inst_100102",
-  "instruments": "Thermoscientific GC-MSMS TSQ 9000",
-  "column_3": "Gas Chromatograph Triple Quadrupole Mass Spectrometer (Thermoscientific TSQ 9000)",
+  "instruments1": "Thermoscientific GC-MSMS TSQ 9000",
+  "instruments": "Gas Chromatograph Triple Quadrupole Mass Spectrometer (Thermoscientific TSQ 9000)",
   "acronym": "GC-MSMS, TSQ",
   "image_link": "/assets/instrument/inst_100102_image_link.webp",
   "district": "Ernakulam",

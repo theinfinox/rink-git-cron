@@ -1,7 +1,7 @@
 {
   "id": "inst_100534",
-  "instruments": "TSQ Altis Plus Triple Quadrupole MS connected with vanquish UHPLC system (Thermo Fisher Scientific)",
-  "column_3": "Triple Quadrupole MS Connected with Vanquish UHPLC System (Thermo Fisher Scientific TSQ Altis Plus)",
+  "instruments1": "TSQ Altis Plus Triple Quadrupole MS connected with vanquish UHPLC system (Thermo Fisher Scientific)",
+  "instruments": "Triple Quadrupole MS Connected with Vanquish UHPLC System (Thermo Fisher Scientific TSQ Altis Plus)",
   "acronym": "MS, UHPLC[source: 1]",
   "image_link": "",
   "district": "Trivandrum",

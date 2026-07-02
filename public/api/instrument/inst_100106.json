@@ -1,7 +1,7 @@
 {
   "id": "inst_100106",
-  "instruments": "TA plus Texture Analyser",
-  "column_3": "Texture Analyser (TA Plus)",
+  "instruments1": "TA plus Texture Analyser",
+  "instruments": "Texture Analyser (TA Plus)",
   "acronym": "TA",
   "image_link": "/assets/instrument/inst_100106_image_link.webp",
   "district": "Ernakulam",

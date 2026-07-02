@@ -1,7 +1,7 @@
 {
   "id": "inst_100014",
-  "instruments": "Differential Thermal analysis (DTA)",
-  "column_3": "Differential Thermal Analyzer",
+  "instruments1": "Differential Thermal analysis (DTA)",
+  "instruments": "Differential Thermal Analyzer",
   "acronym": "DTA",
   "image_link": "",
   "district": "Ernakulam",

@@ -1,7 +1,7 @@
 {
   "id": "inst_100145",
-  "instruments": "Wire Thermionic Bonder",
-  "column_3": "Thermionic Wire Bonder",
+  "instruments1": "Wire Thermionic Bonder",
+  "instruments": "Thermionic Wire Bonder",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100145_image_link.webp",
   "district": "Palakkad",

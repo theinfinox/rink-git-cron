@@ -1,7 +1,7 @@
 {
   "id": "inst_100751",
-  "instruments": "Atmospheric Electric Field Mill (EFM)",
-  "column_3": "Atmospheric Electric Field Mill",
+  "instruments1": "Atmospheric Electric Field Mill (EFM)",
+  "instruments": "Atmospheric Electric Field Mill",
   "acronym": "EFM",
   "image_link": "/assets/instrument/inst_100751_image_link.webp",
   "district": "Trivandrum",

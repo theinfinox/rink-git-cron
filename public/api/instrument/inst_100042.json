@@ -1,7 +1,7 @@
 {
   "id": "inst_100042",
-  "instruments": "Spectroscopic Ellipsometer (M-2000V, J. A. Woollam Co.)",
-  "column_3": "Spectroscopic Ellipsometer (J. A. Woollam Co. M-2000V)",
+  "instruments1": "Spectroscopic Ellipsometer (M-2000V, J. A. Woollam Co.)",
+  "instruments": "Spectroscopic Ellipsometer (J. A. Woollam Co. M-2000V)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100042_image_link.webp",
   "district": "Kottayam",
