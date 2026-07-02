@@ -1,6 +1,7 @@
 {
   "id": "inst_100101",
   "instruments": "AB Sciex 6500 QTRAP LC-MS-MS system",
+  "column_3": "Liquid Chromatography Tandem Mass Spectrometry System (AB Sciex 6500 Qtrap)",
   "acronym": "QTRAP, LC-MS-MS",
   "image_link": "/assets/instrument/inst_100101_image_link.webp",
   "district": "Ernakulam",

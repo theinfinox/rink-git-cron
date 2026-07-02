@@ -1,6 +1,7 @@
 {
   "id": "inst_100019",
   "instruments": "Spectral Confocal Microscope (SCM)",
+  "column_3": "Spectral Confocal Microscope",
   "acronym": "SCM[source: 1]",
   "image_link": "/assets/instrument/inst_100019_image_link.webp",
   "district": "Trivandrum",

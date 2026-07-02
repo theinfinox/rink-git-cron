@@ -1,6 +1,7 @@
 {
   "id": "inst_100675",
   "instruments": "LC HRMS",
+  "column_3": "Liquid Chromatography-High Resolution Mass Spectrometry (LC-HRMS)",
   "acronym": "LC, HRMS",
   "image_link": "/assets/instrument/inst_100675_image_link.webp",
   "district": "Trivandrum",

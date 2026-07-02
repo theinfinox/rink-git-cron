@@ -1,6 +1,7 @@
 {
   "id": "inst_100016",
   "instruments": "UV-VIS-NIR",
+  "column_3": "Ultraviolet Visible Near Infrared Spectrophotometer",
   "acronym": "UV-VIS-NIR",
   "image_link": "/assets/instrument/inst_100016_image_link.webp",
   "district": "Trivandrum",

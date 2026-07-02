@@ -1,6 +1,7 @@
 {
   "id": "inst_100020",
   "instruments": "Scanning Electron Microscopy [SEM] includes Energy Dispersive X-Ray Analyser [EDX]",
+  "column_3": "Scanning Electron Microscopy With Energy Dispersive X-Ray Analyser",
   "acronym": "SEM, EDX",
   "image_link": "/assets/instrument/inst_100020_image_link.webp",
   "district": "Trivandrum",

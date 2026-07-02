@@ -1,7 +1,8 @@
 {
   "id": "inst_100094",
   "instruments": "ThermoScientific OrbitrapExploris 120 HRMS",
-  "acronym": "HRMS[source: 1]",
+  "column_3": "High Resolution Mass Spectrometer (Thermo Scientific Orbitrap Exploris 120)",
+  "acronym": "HRMS",
   "image_link": "/assets/instrument/inst_100094_image_link.webp",
   "district": "Ernakulam",
   "name_of_facility": "sophisticated analytical instrument facilities (SAIF)",

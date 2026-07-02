@@ -1,6 +1,7 @@
 {
   "id": "inst_100111",
   "instruments": "Hitachi HPLC-Amino Acid Analyser",
+  "column_3": "High Performance Liquid Chromatography Amino Acid Analyzer (Hitachi)",
   "acronym": "HPLC",
   "image_link": "/assets/instrument/inst_100111_image_link.webp",
   "district": "Ernakulam",

@@ -1,6 +1,7 @@
 {
   "id": "inst_100015",
   "instruments": "Scanning Probe Microscopy (SPM)",
+  "column_3": "Scanning Probe Microscope",
   "acronym": "SPM",
   "image_link": "/assets/instrument/inst_100015_image_link.webp",
   "district": "Trivandrum",

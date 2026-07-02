@@ -1,6 +1,7 @@
 {
   "id": "inst_100202",
   "instruments": "RT-PCR",
+  "column_3": "Real Time Polymerase Chain Reaction",
   "acronym": "RT-PCR",
   "image_link": "/assets/instrument/inst_100202_image_link.webp",
   "district": "Trivandrum",

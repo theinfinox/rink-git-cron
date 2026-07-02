@@ -1,6 +1,7 @@
 {
   "id": "inst_100108",
   "instruments": "Perkin Elmer Auto System XL Gas Chromatograph",
+  "column_3": "Gas Chromatograph (Perkin Elmer Auto System XL)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100108_image_link.webp",
   "district": "Ernakulam",

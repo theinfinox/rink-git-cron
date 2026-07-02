@@ -1,6 +1,7 @@
 {
   "id": "inst_100036",
   "instruments": "LC-Q-ToF (Xevo, G2 Q-ToF MS System, Waters)",
+  "column_3": "Liquid Chromatography Quadrupole Time Of Flight Mass Spectrometry System (Waters Xevo G2)",
   "acronym": "Q-ToF MS",
   "image_link": "/assets/instrument/inst_100036_image_link.webp",
   "district": "Kottayam",

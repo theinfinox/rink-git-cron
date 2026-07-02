@@ -1,11 +1,20 @@
 [
   {
-    "timestamp": "2026-07-02T01:02:08.218Z",
+    "timestamp": "2026-07-02T06:39:19.093Z",
     "sheet_name": "instrument",
     "status": "SUCCESS",
     "error_code": null,
     "rows_total": 892,
     "rows_exported": 892
+  },
+  {
+    "timestamp": "2026-07-02T06:38:46.515Z",
+    "sheet_name": "instrument",
+    "status": "SUCCESS",
+    "error_code": null,
+    "rows_total": 893,
+    "rows_exported": 892,
+    "rows_dropped": null
   },
   {
     "timestamp": "2026-07-01T01:06:27.020Z",

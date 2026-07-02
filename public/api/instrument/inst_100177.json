@@ -1,6 +1,7 @@
 {
   "id": "inst_100177",
   "instruments": "64-channel Electroencephalograph (EEG) Data Acquisition System",
+  "column_3": "64-channel Electroencephalograph Data Acquisition System",
   "acronym": "EEG",
   "image_link": "/assets/instrument/inst_100177_image_link.webp",
   "district": "Palakkad",

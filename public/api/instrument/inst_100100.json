@@ -1,6 +1,7 @@
 {
   "id": "inst_100100",
   "instruments": "Dionex Ultimate 3000 HPLC",
+  "column_3": "High Performance Liquid Chromatograph (Dionex Ultimate 3000)",
   "acronym": "HPLC",
   "image_link": "/assets/instrument/inst_100100_image_link.webp",
   "district": "Ernakulam",

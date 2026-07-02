@@ -1,6 +1,7 @@
 {
   "id": "inst_100109",
   "instruments": "Varian CP-3800 Gas Chromatograph",
+  "column_3": "Gas Chromatograph (Varian CP-3800)",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100109_image_link.webp",
   "district": "Ernakulam",

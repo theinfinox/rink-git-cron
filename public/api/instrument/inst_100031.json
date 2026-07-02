@@ -1,6 +1,7 @@
 {
   "id": "inst_100031",
   "instruments": "Bet Surface Area Analyzer (BET)",
+  "column_3": "Brunauer Emmett Teller Surface Area Analyzer",
   "acronym": "BET",
   "image_link": "/assets/instrument/inst_100031_image_link.webp",
   "district": "Trivandrum",

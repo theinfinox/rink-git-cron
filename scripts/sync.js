@@ -557,6 +557,39 @@ async function runSync() {
             }
             if (deletedCount > 0) console.log(`🧹 Deleted ${deletedCount} orphaned API files.`);
 
+            // Image Garbage Collection: delete orphaned .webp files
+            const validImageFilenames = new Set();
+            const scanImagesFromData = (data) => {
+                if (Array.isArray(data)) {
+                    for (const row of data) {
+                        for (const key of Object.keys(row)) {
+                            if (typeof row[key] === 'string' && row[key].startsWith(`/assets/${snakeCaseName}/`) && row[key].endsWith('.webp')) {
+                                const filename = row[key].split('/').pop();
+                                validImageFilenames.add(filename);
+                            }
+                        }
+                    }
+                } else if (typeof data === 'object' && data !== null) {
+                    for (const key of Object.keys(data)) {
+                        scanImagesFromData(data[key]);
+                    }
+                }
+            };
+            scanImagesFromData(finalData);
+
+            const imageAssetsDir = `${PUBLIC_DIR}/assets/${snakeCaseName}`;
+            if (fs.existsSync(imageAssetsDir)) {
+                const existingImages = fs.readdirSync(imageAssetsDir).filter(f => f.endsWith('.webp'));
+                let deletedImageCount = 0;
+                for (const oldImg of existingImages) {
+                    if (!validImageFilenames.has(oldImg)) {
+                        fs.unlinkSync(`${imageAssetsDir}/${oldImg}`);
+                        deletedImageCount++;
+                    }
+                }
+                if (deletedImageCount > 0) console.log(`🗑️  Deleted ${deletedImageCount} orphaned image files from ${imageAssetsDir}.`);
+            }
+
             // Save the LIVE API file safely using atomic write
             const tempMaster = `${MASTER_JSON}.tmp`;
             fs.writeFileSync(tempMaster, JSON.stringify(finalData, null, 2));

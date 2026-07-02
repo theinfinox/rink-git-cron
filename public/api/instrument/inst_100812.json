@@ -1,6 +1,7 @@
 {
   "id": "inst_100812",
   "instruments": "Acoustic Doppler Current Profiler (ADCP)",
+  "column_3": "Acoustic Doppler Current Profiler",
   "acronym": "",
   "image_link": "/assets/instrument/inst_100812_image_link.webp",
   "district": "Trivandrum",

@@ -1,6 +1,7 @@
 {
   "id": "inst_100049",
   "instruments": "GC-MS (Thermo Fisher Scientific, Austria)",
+  "column_3": "Gas Chromatography Mass Spectrometry (Thermo Fisher Scientific)",
   "acronym": "GC-MS[source: 1]",
   "image_link": "/assets/instrument/inst_100049_image_link.webp",
   "district": "Kottayam",

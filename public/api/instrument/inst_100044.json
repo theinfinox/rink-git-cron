@@ -1,6 +1,7 @@
 {
   "id": "inst_100044",
   "instruments": "Torque Rheometer (Prescott Instruments Rheoline Moving Die Rheometer (MDR))",
+  "column_3": "Moving Die Rheometer (Prescott Instruments Rheoline)",
   "acronym": "MDR",
   "image_link": "/assets/instrument/inst_100044_image_link.webp",
   "district": "Kottayam",

@@ -1,6 +1,7 @@
 {
   "id": "inst_100017",
   "instruments": "FTIR",
+  "column_3": "Fourier Transform Infrared Spectrometer",
   "acronym": "FTIR",
   "image_link": "/assets/instrument/inst_100017_image_link.webp",
   "district": "Trivandrum",

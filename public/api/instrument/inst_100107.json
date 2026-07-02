@@ -1,6 +1,7 @@
 {
   "id": "inst_100107",
   "instruments": "Perkin Elmer® Clarus® 580 Gas Chromatograph (GC)",
+  "column_3": "Gas Chromatograph (Perkin Elmer Clarus 580)",
   "acronym": "GC",
   "image_link": "/assets/instrument/inst_100107_image_link.webp",
   "district": "Ernakulam",

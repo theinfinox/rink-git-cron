@@ -1,6 +1,7 @@
 {
   "id": "inst_100028",
   "instruments": "Genetic Analyser (DNA Sequencer)",
+  "column_3": "Genetic Analyser (Dna Sequencer)",
   "acronym": "DNA",
   "image_link": "/assets/instrument/inst_100028_image_link.webp",
   "district": "Trivandrum",

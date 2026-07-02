@@ -1,6 +1,7 @@
 {
   "id": "inst_100756",
   "instruments": "Particle Size Analyser (PSA)",
+  "column_3": "Particle Size Analyser",
   "acronym": "PSA",
   "image_link": "/assets/instrument/inst_100756_image_link.webp",
   "district": "Trivandrum",

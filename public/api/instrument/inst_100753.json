@@ -1,6 +1,7 @@
 {
   "id": "inst_100753",
   "instruments": "Ceilometer",
+  "column_3": "Ceilometer",
   "acronym": "None",
   "image_link": "/assets/instrument/inst_100753_image_link.webp",
   "district": "Trivandrum",

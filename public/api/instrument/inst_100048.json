@@ -1,6 +1,7 @@
 {
   "id": "inst_100048",
   "instruments": "FESEM (Tescan)",
+  "column_3": "Field Emission Scanning Electron Microscope (Tescan)",
   "acronym": "FESEM",
   "image_link": "/assets/instrument/inst_100048_image_link.webp",
   "district": "Kottayam",

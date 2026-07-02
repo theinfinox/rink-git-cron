@@ -1,6 +1,7 @@
 {
   "id": "inst_100035",
   "instruments": "HPLC (LC-20 AD Prominence, Shimadzu)",
+  "column_3": "High Performance Liquid Chromatograph (Shimadzu LC-20 AD Prominence)",
   "acronym": "HPLC, LC",
   "image_link": "/assets/instrument/inst_100035_image_link.webp",
   "district": "Kottayam",

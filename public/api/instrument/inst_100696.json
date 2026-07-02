@@ -1,6 +1,7 @@
 {
   "id": "inst_100696",
   "instruments": "Agilent 7800 Quadruple ICPMS:",
+  "column_3": "Quadrupole Inductively Coupled Plasma Mass Spectrometry (Agilent 7800, USA)",
   "acronym": "ICPMS",
   "image_link": "/assets/instrument/inst_100696_image_link.webp",
   "district": "Trivandrum",

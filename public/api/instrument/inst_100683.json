@@ -1,6 +1,7 @@
 {
   "id": "inst_100683",
   "instruments": "PANalytical PXRD",
+  "column_3": "Powder X-Ray Diffractometer (PANalytical PXRD, Netherlands)",
   "acronym": "PXRD",
   "image_link": "/assets/instrument/inst_100683_image_link.webp",
   "district": "Trivandrum",

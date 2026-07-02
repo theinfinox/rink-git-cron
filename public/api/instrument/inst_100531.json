@@ -1,6 +1,7 @@
 {
   "id": "inst_100531",
   "instruments": "UltraFlextreme MALDI-TOF/TOF (Bruker Daltonics)",
+  "column_3": "MALDI-TOF/TOF Mass Spectrometer (Bruker Daltonics UltrafleXtreme)",
   "acronym": "MALDI-TOF/TOF",
   "image_link": "",
   "district": "Trivandrum",

@@ -1,7 +1,8 @@
 {
   "id": "inst_100090",
   "instruments": "Ion chromatography Dionex ICS 5000 plus SP",
-  "acronym": "ICS, SP[source: 1]",
+  "column_3": "Ion Chromatography (Dionex ICS 5000 Plus SP)",
+  "acronym": "ICS, SP",
   "image_link": "/assets/instrument/inst_100090_image_link.webp",
   "district": "Ernakulam",
   "name_of_facility": "sophisticated analytical instrument facilities (SAIF)",

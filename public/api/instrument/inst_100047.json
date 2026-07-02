@@ -1,6 +1,7 @@
 {
   "id": "inst_100047",
   "instruments": "LCMSMS (Shimadzu)",
+  "column_3": "Liquid Chromatograph Mass Spectrometer (Shimadzu)",
   "acronym": "LCMSMS",
   "image_link": "/assets/instrument/inst_100047_image_link.webp",
   "district": "Kottayam",

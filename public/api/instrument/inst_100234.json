@@ -1,6 +1,7 @@
 {
   "id": "inst_100234",
   "instruments": "X-Ray Diffractometer (XRD)",
+  "column_3": "X-Ray Diffractometer",
   "acronym": "XRD",
   "image_link": "/assets/instrument/inst_100234_image_link.webp",
   "district": "Thrissur",

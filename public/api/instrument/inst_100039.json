@@ -1,6 +1,7 @@
 {
   "id": "inst_100039",
   "instruments": "Gas Chromatography Tandem Mass Spectrometer (7010C GC/TQ, Agilent Technologies)",
+  "column_3": "Gas Chromatography Tandem Mass Spectrometer (Agilent Technologies 7010C)",
   "acronym": "GC/TQ",
   "image_link": "/assets/instrument/inst_100039_image_link.webp",
   "district": "Kottayam",

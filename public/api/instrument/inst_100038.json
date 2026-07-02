@@ -1,6 +1,7 @@
 {
   "id": "inst_100038",
   "instruments": "Thermogravimetric Analysis (SDT Q600, TA instruments)",
+  "column_3": "Thermogravimetric Analyzer (TA Instruments SDT Q600)",
   "acronym": "SDT, TA",
   "image_link": "/assets/instrument/inst_100038_image_link.webp",
   "district": "Kottayam",

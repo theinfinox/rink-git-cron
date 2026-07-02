@@ -1,6 +1,7 @@
 {
   "id": "inst_100027",
   "instruments": "Sophisticated Fluorescence Spectrometer (SFS)",
+  "column_3": "Sophisticated Fluorescence Spectrometer",
   "acronym": "SFS",
   "image_link": "/assets/instrument/inst_100027_image_link.webp",
   "district": "Trivandrum",

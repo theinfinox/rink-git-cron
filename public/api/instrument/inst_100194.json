@@ -1,6 +1,7 @@
 {
   "id": "inst_100194",
   "instruments": "GC-MS",
+  "column_3": "Gas Chromatograph Mass Spectrometer",
   "acronym": "GC-MS",
   "image_link": "/assets/instrument/inst_100194_image_link.webp",
   "district": "Trivandrum",
