@@ -1,20 +1,40 @@
 version: '3.8'
 
 services:
-  rink-sync-engine:
-    build: .
-    container_name: rink-sync-engine
+  web:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: rink-sync-web
     restart: unless-stopped
     ports:
       - "127.0.0.1:8300:3000"
     environment:
       - NODE_ENV=production
       - PORT=3000
-    # Volumes guarantee fail-safe persistent storage. 
-    # If the container crashes, your data survives.
     volumes:
       - rink-public-data:/app/public
       - rink-internal-data:/app/data
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  cron-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.cron
+    container_name: rink-sync-cron
+    restart: unless-stopped
+    volumes:
+      - rink-public-data:/app/public
+      - rink-internal-data:/app/data
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
 volumes:
   rink-public-data:

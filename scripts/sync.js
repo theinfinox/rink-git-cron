@@ -1,8 +1,18 @@
+process.on('uncaughtException', (err) => {
+    console.error('FATAL: Uncaught Exception:', err);
+    process.exit(1);
+});
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('FATAL: Unhandled Rejection at:', promise, 'reason:', reason);
+    process.exit(1);
+});
+
 import fs from 'fs';
 import Papa from 'papaparse';
 import yaml from 'yaml';
 import crypto from 'crypto';
 import { marked } from 'marked';
+import { FailSafeStore } from './FailSafeStore.js';
 
 const DATA_DIR = './data';
 const PUBLIC_DIR = './public';
@@ -590,10 +600,8 @@ async function runSync() {
                 if (deletedImageCount > 0) console.log(`🗑️  Deleted ${deletedImageCount} orphaned image files from ${imageAssetsDir}.`);
             }
 
-            // Save the LIVE API file safely using atomic write
-            const tempMaster = `${MASTER_JSON}.tmp`;
-            fs.writeFileSync(tempMaster, JSON.stringify(finalData, null, 2));
-            fs.renameSync(tempMaster, MASTER_JSON); // Atomic replacement prevents corruption if process crashes
+            // Save the LIVE API file safely using atomic write via FailSafeStore
+            FailSafeStore.save(MASTER_JSON, finalData);
             
             // Keep the backups hidden safely in the data folder
             const safeTime = timestamp.replace(/:/g, '-');

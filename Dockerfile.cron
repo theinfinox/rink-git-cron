@@ -1,0 +1,22 @@
+FROM node:18-alpine
+
+# Install alpine cron
+RUN apk add --no-cache dcron
+
+WORKDIR /app
+
+# Install production dependencies first (caching layer)
+COPY package*.json ./
+RUN npm ci --only=production
+
+# Copy application code
+COPY . .
+
+# Create log file for cron
+RUN touch /var/log/cron.log
+
+# Configure crontab
+COPY config/crontab /etc/crontabs/root
+
+# Run the cron daemon in the foreground
+CMD ["crond", "-f", "-l", "2"]

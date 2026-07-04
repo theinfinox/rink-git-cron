@@ -1,0 +1,1 @@
+0 0 * * * cd /app && npm run sync && npm run download-images >> /var/log/cron.log 2>&1

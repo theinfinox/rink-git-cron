@@ -9,13 +9,12 @@
     "download-images": "node scripts/downloadImages.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
-    "axios": "^1.18.1",
-    "express": "^5.2.1",
-    "marked": "^18.0.5",
-    "node-cron": "^4.5.0",
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "marked": "^14.1.0",
     "papaparse": "^5.4.1",
-    "sharp": "^0.35.2",
-    "yaml": "^2.9.0"
+    "sharp": "^0.33.5",
+    "yaml": "^2.5.1"
   }
 }

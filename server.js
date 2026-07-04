@@ -1,6 +1,13 @@
+process.on('uncaughtException', (err) => {
+    console.error('FATAL: Uncaught Exception:', err);
+    process.exit(1);
+});
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('FATAL: Unhandled Rejection at:', promise, 'reason:', reason);
+    process.exit(1);
+});
+
 import express from 'express';
-import cron from 'node-cron';
-import { exec } from 'child_process';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -10,30 +17,10 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// 1. Web Server: Serve the generated JSON and images to the public
+// Web Server: Serve the generated JSON and images to the public
 app.use(express.static(path.join(__dirname, 'public')));
-
-function runSync() {
-    console.log('[CRON] Starting scheduled RINK data sync...');
-    exec('npm run sync && npm run download-images', (error, stdout, stderr) => {
-        if (error) {
-            console.error(`[CRON] Error executing sync: ${error.message}`);
-            return;
-        }
-        if (stderr) console.error(`[CRON] stderr: ${stderr}`);
-        console.log(`[CRON] Sync Output:\n${stdout}`);
-        console.log('[CRON] Sync complete.');
-    });
-}
-
-// Run immediately on boot
-runSync();
-
-// 2. Cron Job: Run the sync and download scripts every 1 hour (at minute 0)
-cron.schedule('0 * * * *', runSync);
 
 app.listen(PORT, () => {
     console.log(`🚀 RINK Universal Data API running on port ${PORT}`);
     console.log(`📂 Serving static files from ./public`);
-    console.log(`⏳ Cron scheduler initialized (Runs every hour)`);
 });

@@ -1,3 +1,12 @@
+process.on('uncaughtException', (err) => {
+    console.error('FATAL: Uncaught Exception in Image Downloader:', err);
+    process.exit(1);
+});
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('FATAL: Unhandled Rejection in Image Downloader at:', promise, 'reason:', reason);
+    process.exit(1);
+});
+
 import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
