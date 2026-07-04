@@ -1,7 +1,11 @@
 FROM node:18-alpine
 
-# Install alpine cron
-RUN apk add --no-cache dcron
+# Install alpine cron and timezone data
+RUN apk add --no-cache dcron tzdata
+ENV TZ=Asia/Kolkata
+
+# Security: Create a non-root user
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 
 WORKDIR /app
 
@@ -12,11 +16,13 @@ RUN npm ci --only=production
 # Copy application code
 COPY . .
 
-# Create log file for cron
-RUN touch /var/log/cron.log
+# Create log file and grant ownership of critical dirs
+RUN touch /var/log/cron.log && \
+    mkdir -p public data && \
+    chown -R appuser:appgroup /app /var/log/cron.log
 
-# Configure crontab
-COPY config/crontab /etc/crontabs/root
+# Register crontab specifically for appuser (drops privileges when executing)
+COPY config/crontab /etc/crontabs/appuser
 
 # Run the cron daemon in the foreground
 CMD ["crond", "-f", "-l", "2"]

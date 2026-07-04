@@ -113,7 +113,7 @@ async function runSync() {
                 const csvUrl = `https://docs.google.com/spreadsheets/d/${sheet.spreadsheetId}/export?format=csv&gid=${gid}`;
                 console.log(`📥 Fetching data for ${sheet.name} (Tab: ${tab.name}) from Google Sheets...`);
                 
-                const response = await fetch(csvUrl);
+                const response = await fetch(csvUrl, { signal: AbortSignal.timeout(15000) });
                 if (!response.ok) {
                     throw { code: 'ERR_FETCH_FAILED', message: `HTTP Error ${response.status}: Failed to download CSV for tab ${tab.name}.` };
                 }

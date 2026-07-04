@@ -12,6 +12,8 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3000
+    env_file:
+      - .env
     volumes:
       - rink-public-data:/app/public
       - rink-internal-data:/app/data
@@ -27,6 +29,8 @@ services:
       dockerfile: Dockerfile.cron
     container_name: rink-sync-cron
     restart: unless-stopped
+    env_file:
+      - .env
     volumes:
       - rink-public-data:/app/public
       - rink-internal-data:/app/data

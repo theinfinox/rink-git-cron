@@ -22,7 +22,6 @@ jobs:
         with:
           node-version: '24'
 
-      # FIX: Removed the working-directory line so it installs from the root
       - name: Install Dependencies
         run: npm install
 
@@ -38,8 +37,12 @@ jobs:
           git config --global user.name "${GITHUB_REPOSITORY_OWNER} Automated Pipeline"
           git config --global user.email "${GITHUB_REPOSITORY_OWNER}@users.noreply.github.com"
           
-          # Stage BOTH the data directory AND the public directory
+          # Stage the directories
           git add data/ public/
+          
+          # UNSTAGE redundant backup files to prevent repository bloat
+          git reset HEAD data/backups/ || true
+          find public data -name "*.bak" -type f -exec git reset HEAD {} + || true
           
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data & Image Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           
