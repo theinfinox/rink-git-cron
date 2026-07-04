@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  rink-sync-engine:
+    build: .
+    container_name: rink-sync-engine
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    # Volumes guarantee fail-safe persistent storage. 
+    # If the container crashes, your data survives.
+    volumes:
+      - rink-public-data:/app/public
+      - rink-internal-data:/app/data
+
+volumes:
+  rink-public-data:
+  rink-internal-data:

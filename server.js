@@ -13,24 +13,24 @@ const PORT = process.env.PORT || 3000;
 // 1. Web Server: Serve the generated JSON and images to the public
 app.use(express.static(path.join(__dirname, 'public')));
 
-// 2. Cron Job: Run the sync and download scripts every 1 hour (at minute 0)
-// This will only execute if running via PM2, Docker, or raw node on a persistent server
-cron.schedule('0 * * * *', () => {
+function runSync() {
     console.log('[CRON] Starting scheduled RINK data sync...');
-    
-    // Execute both the sync script and the image downloader sequentially
     exec('npm run sync && npm run download-images', (error, stdout, stderr) => {
         if (error) {
             console.error(`[CRON] Error executing sync: ${error.message}`);
             return;
         }
-        if (stderr) {
-            console.error(`[CRON] stderr: ${stderr}`);
-        }
+        if (stderr) console.error(`[CRON] stderr: ${stderr}`);
         console.log(`[CRON] Sync Output:\n${stdout}`);
         console.log('[CRON] Sync complete.');
     });
-});
+}
+
+// Run immediately on boot
+runSync();
+
+// 2. Cron Job: Run the sync and download scripts every 1 hour (at minute 0)
+cron.schedule('0 * * * *', runSync);
 
 app.listen(PORT, () => {
     console.log(`🚀 RINK Universal Data API running on port ${PORT}`);

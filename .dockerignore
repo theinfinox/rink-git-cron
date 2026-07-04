@@ -1,0 +1,9 @@
+node_modules
+public
+data
+Dockerfile
+docker-compose.yml
+.git
+.github
+.env
+.env.*

@@ -23,30 +23,14 @@ Vercel is great for free, global CDN delivery. Because Vercel containers are eph
 Docker is perfect if you want to deploy to AWS, DigitalOcean, or a self-hosted server cluster. 
 
 **Setup Instructions:**
-1. Create a standard `Dockerfile` in the root of the project:
-   ```dockerfile
-   FROM node:18-alpine
-   WORKDIR /app
-   COPY package*.json ./
-   RUN npm install
-   COPY . .
-   EXPOSE 3000
-   CMD ["npm", "start"]
-   ```
-2. Build the Docker image:
+1. A production-ready `docker-compose.yml` and `Dockerfile` are already included in the repository.
+2. The `docker-compose.yml` is pre-configured with named volumes (`rink-public-data`) to guarantee that your JSON and image downloads survive any container restarts or server crashes.
+3. Simply run:
    ```bash
-   docker build -t rink-sync-engine .
-   ```
-3. **CRITICAL STEP:** When you run the container, you MUST mount a Docker Volume to the `/app/public` directory. If you don't do this, all downloaded JSON files and images will be permanently deleted the moment the container restarts!
-   ```bash
-   docker run -d \
-     -p 3000:3000 \
-     -v /path/on/your/server/rink-data:/app/public \
-     --name rink-api \
-     rink-sync-engine
+   docker-compose up -d --build
    ```
 
-*Note: The container will immediately start serving files on port 3000 and the internal Node Cron will automatically pull new Google Sheets data every hour.*
+*Note: The container will immediately start serving files on port 3000. It will instantly run a full data sync on boot to generate the initial JSON files, and then the internal Node Cron will automatically pull new Google Sheets data every hour.*
 
 ---
 
