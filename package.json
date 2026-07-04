@@ -4,13 +4,16 @@
   "description": "Serverless data pipeline for the RINK Portal",
   "type": "module",
   "scripts": {
+    "start": "node server.js",
     "sync": "node scripts/sync.js",
     "download-images": "node scripts/downloadImages.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
     "axios": "^1.18.1",
+    "express": "^5.2.1",
     "marked": "^18.0.5",
+    "node-cron": "^4.5.0",
     "papaparse": "^5.4.1",
     "sharp": "^0.35.2",
     "yaml": "^2.9.0"
