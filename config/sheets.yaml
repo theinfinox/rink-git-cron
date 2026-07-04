@@ -53,3 +53,18 @@ sheets:
           groupByDelimiter: ','
           autoDiscover: true
         groups: {}
+  - name: rink_tech
+    spreadsheetId: 1HXlzT504-AhqzfU6Nm3bktAspIjaQm2l1z45qROZrFc
+    tabs:
+      - name: technologies
+        gid: 0
+        excludeRowsWhere:
+          - column: technology_id
+            equals: technology_id
+        splitColumns:
+          - column: keywords
+            delimiter: ','
+        imageColumns: image_url
+      - name: institutions
+        gid: 1979443544
+        imageColumns: institution_logo_url
