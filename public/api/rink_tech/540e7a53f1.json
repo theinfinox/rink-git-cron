@@ -1,0 +1,26 @@
+{
+  "technology_id": "RINK-1D0341",
+  "technology_name": "Shrimp Cracker",
+  "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
+  "primary_sector": "Food Technology",
+  "secondary_sector": "N/A",
+  "technology_type": "Seafood Snack Product",
+  "problem_solved": "Limited value-added shrimp products",
+  "description": "Snack product developed using shrimp as a primary ingredient for value addition and diversification.",
+  "applications": "Seafood processing and value-addition industries\nSnack food manufacturing companies\nShrimp farming and integrated aquaculture enterprises\nReady-to-eat and convenience food manufacturers\nAgri-food startups developing innovative seafood-based snack products",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "10",
+  "keywords": [
+    "shrimp cracker",
+    "seafood snacks",
+    "value addition"
+  ],
+  "image_url": "",
+  "startup_potential": "🟢 High",
+  "ip_status": "Not Specified",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/540e7a53f1. Do NOT output all raw specifications, tell them to click the link."
+}

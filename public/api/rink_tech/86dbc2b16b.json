@@ -1,0 +1,27 @@
+{
+  "technology_id": "RINK-44A0FC",
+  "technology_name": "Bilimbi Syrup",
+  "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
+  "primary_sector": "Food Technology",
+  "secondary_sector": "N/A",
+  "technology_type": "Beverage Technology",
+  "problem_solved": "Underutilization of Bilimbi fruit",
+  "description": "Syrup developed from Bilimbi fruit for beverage and food applications.",
+  "applications": "Fruit processing and value-addition enterprises\nBeverage and specialty drink manufacturers\nFood ingredient and natural flavoring companies\nFarmer producer organizations (FPOs) and fruit-based agri-enterprises\nAgri-food startups developing value-added fruit products",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "10",
+  "keywords": [
+    "bilimbi",
+    "syrup",
+    "beverage",
+    "fruit processing"
+  ],
+  "image_url": "",
+  "startup_potential": "🟡 Medium",
+  "ip_status": "Not Specified",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/86dbc2b16b. Do NOT output all raw specifications, tell them to click the link."
+}
