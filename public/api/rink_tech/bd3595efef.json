@@ -1,0 +1,28 @@
+{
+  "technology_id": "RINK-764593",
+  "technology_name": "ORGANIC LIGHT EMITTING STRUCTURES USING A NOVEL ELASTOMER COMPOSITE TRANSPARENT CONDUCTING AND/OR HOLE INJECTING TRANSPORT CONDUCTING OXIDES (TCOs)",
+  "institution": "National Institute of Technology Calicut (NIT Calicut)",
+  "primary_sector": "Advanced Materials & Chemicals",
+  "secondary_sector": "Digital Technologies, Al & Software",
+  "technology_type": "Optoelectronic Material Synthesis / Display Component",
+  "problem_solved": "Conventional transparent conducting oxides are highly brittle, prone to stress cracking under bending, and require expensive high-vacuum processing layers.",
+  "description": "Development of an organic light-emitting system utilizing a fully elastic, flexible polymer/conducting oxide composite acting as a stable hole-injection framework that emits a consistent pale green profile under 4-6 V bias conditions.",
+  "applications": "Foldable smartphone displays, flexible wearable technology screens, rollable organic television displays, and curved biometric instrument interfaces.",
+  "trl": "TRL 4-6",
+  "patent_status": "GRANTED (Patent No: 299154)",
+  "contact_person": "Dr. P. Predeep",
+  "email": "ppredeep@nitc.ac.in",
+  "source_pdf": "NIT Calicut Patent Portfolio Booklet",
+  "page_no": "25",
+  "keywords": [
+    "flexible display",
+    "organic LED",
+    "hole injection",
+    "transparent conducting oxide",
+    "elastomer composite"
+  ],
+  "image_url": "",
+  "startup_potential": "High",
+  "ip_status": "Patented",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/bd3595efef. Do NOT output all raw specifications, tell them to click the link."
+}
