@@ -1,0 +1,24 @@
+{
+  "technology_id": "RINK-6CE94D",
+  "technology_name": "Coconut Embryo Culture Technology",
+  "institution": "ICAR-CPCRI Kasaragod",
+  "primary_sector": "Biotechnology & Life Sciences",
+  "secondary_sector": "N/A",
+  "technology_type": "Agricultural Biotechnology",
+  "problem_solved": "Safe exchange and propagation of special coconut germplasm.",
+  "description": "The Coconut Embryo Culture protocol permits safe germplasm exchange and enables the propagation of special types of coconut (soft and sweet endosperm type).",
+  "applications": "Coconut breeding and germplasm conservation programs\nPlant tissue culture and micropropagation laboratories\nAgricultural research institutions and universities\nCoconut seedling production nurseries\nCoconut development agencies and plantation sector organizations",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "2",
+  "keywords": [
+    "embryo culture"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/da7e31ea9d. Do NOT output all raw specifications, tell them to click the link."
+}
