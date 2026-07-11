@@ -1,7 +1,7 @@
 {
   "technologies": [
     {
-      "technology_id": "RINK-1B558D",
+      "technology_id": "RINK-FE3A34",
       "technology_name": "Coconut Sap Chiller for Hygienic and Unfermented Neera/Kalparasa Collection",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -27,7 +27,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1E16E1",
+      "technology_id": "RINK-5FD3FF",
       "technology_name": "Virgin Coconut Oil Production Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Food Technology",
@@ -53,7 +53,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-50E12E",
+      "technology_id": "RINK-682F53",
       "technology_name": "Technology for Production of Coconut Chips",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Food Technology",
@@ -78,7 +78,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-670262",
+      "technology_id": "RINK-AAA44B",
       "technology_name": "Coconut Leaf Vermicomposting Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Water, Environment & Waste Management",
@@ -102,7 +102,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3C0423",
+      "technology_id": "RINK-AFA146",
       "technology_name": "Urea-Free Coir Pith Composting Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Water, Environment & Waste Management",
@@ -126,7 +126,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D92B3F",
+      "technology_id": "RINK-C4A6DF",
       "technology_name": "Liquid Organic Fertilizer from Coconut Leaf Vermicompost",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -150,7 +150,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1843DD",
+      "technology_id": "RINK-27F5AE",
       "technology_name": "Microbial Biofertilizer for Healthy Coconut Seedlings",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -174,7 +174,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A19BA6",
+      "technology_id": "RINK-6CE94D",
       "technology_name": "Coconut Embryo Culture Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -197,7 +197,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-588443",
+      "technology_id": "RINK-97F80E",
       "technology_name": "Coconut Pollen Cryopreservation",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -220,7 +220,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-85513A",
+      "technology_id": "RINK-7253B7",
       "technology_name": "Coconut Inflorescence Tissue Culture",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -243,7 +243,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C7E501",
+      "technology_id": "RINK-7CE860",
       "technology_name": "Immature Inflorescence Tissue Culture Technology in Arecanut",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -267,7 +267,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C86D60",
+      "technology_id": "RINK-91715A",
       "technology_name": "Coconut Hybrid Identification (Molecular Marker-Based)",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -291,7 +291,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F61AE0",
+      "technology_id": "RINK-3D6421",
       "technology_name": "Biological Pest Control Technology for Arecanut Farms",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -314,7 +314,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5483DE",
+      "technology_id": "RINK-C4184F",
       "technology_name": "Trichoderma-Coir Pith Cake Biocontrol Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -337,7 +337,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6B8438",
+      "technology_id": "RINK-F5A00E",
       "technology_name": "Trichoderma Mass Production Technology Using Areca Leaf Sheath",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -361,7 +361,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B1D1E8",
+      "technology_id": "RINK-EA66DA",
       "technology_name": "Technology for Fried Snacks and Chips from Cassava",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -385,7 +385,7 @@
       "original_image_url": "https://drive.google.com/file/d/18k5da58rgVPZQzMpIgEpe-pyQJXQqt01/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-1EB097",
+      "technology_id": "RINK-53A126",
       "technology_name": "Functional Noodles from Cassava and Sweet Potato",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -410,7 +410,7 @@
       "original_image_url": "https://drive.google.com/file/d/1EZmUdfKdBz6lhkbdP6XcqZozGOxeoO8o/view?usp=sharing"
     },
     {
-      "technology_id": "RINK-899286",
+      "technology_id": "RINK-14E8E3",
       "technology_name": "Functional Pasta from Cassava (Gluten free)",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -435,7 +435,7 @@
       "original_image_url": "https://drive.google.com/file/d/1suQEvA-P7tWwrPBd1Cg5rCBOSslnhoXF/view?usp=sharing"
     },
     {
-      "technology_id": "RINK-4173C3",
+      "technology_id": "RINK-3AF6CA",
       "technology_name": "Nutrient Enriched Pasta from Orange-Fleshed Sweet Potato",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -460,7 +460,7 @@
       "original_image_url": "https://drive.google.com/file/d/1E13Kf90gua9FQeP53cbIyv496KcteN9Z/view?usp=sharing"
     },
     {
-      "technology_id": "RINK-DA353B",
+      "technology_id": "RINK-9E0D33",
       "technology_name": "Cassava Resistant Starch Technology",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -484,7 +484,7 @@
       "original_image_url": "https://drive.google.com/file/d/140oqYWgwKX9A181M4wd4WKnT4-nNwPwU/view?usp=sharing"
     },
     {
-      "technology_id": "RINK-868EC6",
+      "technology_id": "RINK-42D1A2",
       "technology_name": "Wax Coating Technology for Cassava Tubers",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -508,7 +508,7 @@
       "original_image_url": "https://drive.google.com/file/d/11K7r3G5yxc4wRwdbuy5TNArGVRWAhhO8/view?usp=sharing"
     },
     {
-      "technology_id": "RINK-9E7C43",
+      "technology_id": "RINK-BC2C08",
       "technology_name": "Super Absorbent Polymer from Cassava Starch",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -533,7 +533,7 @@
       "original_image_url": "https://drive.google.com/file/d/1q5CNKf9Besd8O_DwDMh435IjzBhHMy8R/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-D8EB4C",
+      "technology_id": "RINK-20DFBA",
       "technology_name": "Micronutrient Foliar Formulations for Tuber Crop Management",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Agriculture",
@@ -556,7 +556,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F8C524",
+      "technology_id": "RINK-24CADD",
       "technology_name": "IoT-Based Crop Monitoring and Agro-Advisory System",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -580,7 +580,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-CB8196",
+      "technology_id": "RINK-7F8194",
       "technology_name": "SPOTCOMS: Crop Monitoring and Yield Prediction System",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -604,7 +604,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A7042F",
+      "technology_id": "RINK-A9D0CF",
       "technology_name": "Multipurpose Mobile Starch Extractor",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -633,7 +633,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6D3459",
+      "technology_id": "RINK-29E23D",
       "technology_name": "Cassava Chipping Machine",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Food Technology",
@@ -662,7 +662,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7A1698",
+      "technology_id": "RINK-BF0EEB",
       "technology_name": "Biofortified Varieties of Tuber Crops",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -691,7 +691,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E8E36E",
+      "technology_id": "RINK-1E293A",
       "technology_name": "CTCRI Bioformulations with Pesticidal Action",
       "institution": "ICAR-Central Tuber Crops Research Institute (CTCRI) Thiruvananthapuram",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -719,7 +719,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B48A17",
+      "technology_id": "RINK-5BA489",
       "technology_name": "Ready to Cook Tubers, Starchy Vegetables and Pulse",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -750,7 +750,7 @@
       "original_image_url": "https://drive.google.com/file/d/11oU89lmp8Rd9yvO83eiHGOdKSVqAMBbZ/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-811AC6",
+      "technology_id": "RINK-820CEA",
       "technology_name": "Value Added Syrups from Palm Neera and Coconut Neera",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -778,7 +778,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2F2186",
+      "technology_id": "RINK-19ED6C",
       "technology_name": "Modular Onsite Wastewater Treatment Cum Resource Recovery Unit",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -806,7 +806,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F44212",
+      "technology_id": "RINK-13EA5F",
       "technology_name": "Biodegradable Cutleries, Cups, Glass and Plates from Agricultural Residues",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -835,7 +835,7 @@
       "original_image_url": "https://drive.google.com/file/d/19dUseGXZ6XJTUKNvaxr-5aMb-HfMAEHw/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-B23ED5",
+      "technology_id": "RINK-591997",
       "technology_name": "Fresh Ginger Processing Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -864,7 +864,7 @@
       "original_image_url": "https://drive.google.com/file/d/1rl9K59pAD9OfPGL0dzZ0ZV_3kBkLsxur/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-ACF7AE",
+      "technology_id": "RINK-7860C8",
       "technology_name": "Weather Resistant Coir for Construction Applications",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -892,7 +892,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C5C091",
+      "technology_id": "RINK-2559F4",
       "technology_name": "Biodegradable Lignocellulose Fibre-Based Mulching Mats and Sheets",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -920,7 +920,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C7F9E5",
+      "technology_id": "RINK-CF2E99",
       "technology_name": "Process for Preparation of White Pepper",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -947,7 +947,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9857BE",
+      "technology_id": "RINK-637C8D",
       "technology_name": "Bio Filter Technology for Industrial Odour Control",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -975,7 +975,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F2191B",
+      "technology_id": "RINK-E96122",
       "technology_name": "Cost-Effective Tilapia Feed Using Cashew Nut Meal",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Agriculture",
@@ -1003,7 +1003,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D42E0C",
+      "technology_id": "RINK-9073C3",
       "technology_name": "Marine Fibre-Enriched Bread",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1031,7 +1031,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2C4FA6",
+      "technology_id": "RINK-CD38CE",
       "technology_name": "Marine Fibre Rich Biscuit",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1059,7 +1059,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-41F085",
+      "technology_id": "RINK-56E12D",
       "technology_name": "Multi Millet Cookies",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1087,7 +1087,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1834E5",
+      "technology_id": "RINK-12A05B",
       "technology_name": "Fish Gelatin Based Marshmallow",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1115,7 +1115,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-62C399",
+      "technology_id": "RINK-D762D9",
       "technology_name": "Fish Gelatin Based Sugar Coated Gummy",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1138,12 +1138,13 @@
         "fish skin",
         "fish bones"
       ],
-      "image_url": "",
-      "startup_potential": "Not Specified",
-      "ip_status": "Not Specified"
+      "image_url": "/assets/rink_tech/1nTBJFqXBno_ftpYLVVZ8c2VaPUPxloi7.webp",
+      "startup_potential": "High",
+      "ip_status": "Not Specified",
+      "original_image_url": "https://drive.google.com/file/d/1nTBJFqXBno_ftpYLVVZ8c2VaPUPxloi7/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-443D06",
+      "technology_id": "RINK-8DA863",
       "technology_name": "Seaweed Pasta",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1167,12 +1168,13 @@
         "minerals",
         "pasta"
       ],
-      "image_url": "",
-      "startup_potential": "Not Specified",
-      "ip_status": "Not Specified"
+      "image_url": "/assets/rink_tech/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB.webp",
+      "startup_potential": "High",
+      "ip_status": "Not Specified",
+      "original_image_url": "https://drive.google.com/file/d/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-93D6F0",
+      "technology_id": "RINK-93DC72",
       "technology_name": "Backyard Hatchery Technology for Karimeen",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1198,7 +1200,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BD011A",
+      "technology_id": "RINK-15CE13",
       "technology_name": "Backyard Hatchery Technology for Olive Barb",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Agriculture",
@@ -1224,7 +1226,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DE8DCC",
+      "technology_id": "RINK-EAD15E",
       "technology_name": "Cashew Nut Waste Based Feed for Tilapia",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1250,7 +1252,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A1507B",
+      "technology_id": "RINK-52587C",
       "technology_name": "Farm Made Feed for Indian Major Carps (IMCs)",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1276,7 +1278,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-CA87BA",
+      "technology_id": "RINK-236D2A",
       "technology_name": "Insect Based Feed for Pangasius",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Agriculture",
@@ -1302,7 +1304,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D2F84E",
+      "technology_id": "RINK-B9F70E",
       "technology_name": "Seed Production of Malabar Dwarf Puffer",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Agriculture",
@@ -1327,7 +1329,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7C112C",
+      "technology_id": "RINK-DB18BB",
       "technology_name": "Ultra Violet Assisted Vertical Recirculatory Depuration System",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Agriculture",
@@ -1353,7 +1355,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-89ACA8",
+      "technology_id": "RINK-28F1A0",
       "technology_name": "Battered and Breaded Products from Farmed Basa",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1379,7 +1381,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B33015",
+      "technology_id": "RINK-2D406B",
       "technology_name": "Calcium Incorporated Gluten-Free Cookies",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1405,7 +1407,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-72BC3E",
+      "technology_id": "RINK-8B533A",
       "technology_name": "Fish Based Pasta and Noodles",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1430,7 +1432,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4BEA00",
+      "technology_id": "RINK-28C5D0",
       "technology_name": "Fish Jelly Powder Mola Carpet",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1456,7 +1458,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-CC5FC9",
+      "technology_id": "RINK-3BF02C",
       "technology_name": "Fish Gelatine Based Jelly",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1481,7 +1483,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A69311",
+      "technology_id": "RINK-5CCB53",
       "technology_name": "Shrimp Cracker",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1506,7 +1508,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3A7515",
+      "technology_id": "RINK-852A23",
       "technology_name": "Bilimbi Syrup",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1532,7 +1534,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9ABC36",
+      "technology_id": "RINK-89238B",
       "technology_name": "Fibre Rich Biscuits",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1552,12 +1554,13 @@
         "bakery products",
         "nutrition"
       ],
-      "image_url": "",
-      "startup_potential": "Not Specified",
-      "ip_status": "Not Specified"
+      "image_url": "/assets/rink_tech/1FfISzW2rDBolXSsQ-0rP8Kqq2lR6kKkq.webp",
+      "startup_potential": "",
+      "ip_status": "Not Specified",
+      "original_image_url": "https://drive.google.com/file/d/1FfISzW2rDBolXSsQ-0rP8Kqq2lR6kKkq/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-8AF776",
+      "technology_id": "RINK-8ACDF1",
       "technology_name": "Diet Chocolate",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1582,7 +1585,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B53E60",
+      "technology_id": "RINK-837F64",
       "technology_name": "Jackfruit Leather",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1607,7 +1610,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7FF7C3",
+      "technology_id": "RINK-16024D",
       "technology_name": "Nutrient Bar",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1632,7 +1635,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9B34D4",
+      "technology_id": "RINK-800765",
       "technology_name": "Thermally Processed Ready-to-Eat Tomato Paste",
       "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
       "primary_sector": "Food Technology",
@@ -1657,7 +1660,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-13611C",
+      "technology_id": "RINK-AC6959",
       "technology_name": "Liquid Jaggery Processing Without Any Chemical Additives",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1686,7 +1689,7 @@
       "original_image_url": "https://drive.google.com/file/d/1FQWmKzameszjpgcGMVbqBw_NWyMuINal/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-C285CA",
+      "technology_id": "RINK-15AAE8",
       "technology_name": "Powder Jaggery Processing from Sugarcane Juice with Organic Clarificants",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1714,7 +1717,7 @@
       "original_image_url": "https://drive.google.com/file/d/1_jexWfq3AZaz9D-_6Tv9PvdH9TfUJ5er/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-E569B9",
+      "technology_id": "RINK-CC7BC7",
       "technology_name": "Freeze Preservation of Sugarcane Juice with Natural Additives",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1742,7 +1745,7 @@
       "original_image_url": "https://drive.google.com/file/d/129O44nAlXYmO2GlySEEJBzPMrc0rrwiR/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-8BAA44",
+      "technology_id": "RINK-D82703",
       "technology_name": "Ice Cream Preparation Using Sugarcane Syrup and Powder Jaggery",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1770,7 +1773,7 @@
       "original_image_url": "https://drive.google.com/file/d/1KK6lw5P8I9kXXs5n6csQEKYvv4NQLn0r/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-F2D39A",
+      "technology_id": "RINK-43B081",
       "technology_name": "Production of Sugarcane Wine with Different Fruit Blends",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1798,7 +1801,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-EF48AD",
+      "technology_id": "RINK-EC62B3",
       "technology_name": "Powder Jaggery-Based Fortified Cookies and Cakes",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1827,7 +1830,7 @@
       "original_image_url": "https://drive.google.com/file/d/1GVobXhM9slzuOemwrSJeKRazq4lrQWU7/view?usp=drive_link"
     },
     {
-      "technology_id": "RINK-DC8477",
+      "technology_id": "RINK-42E255",
       "technology_name": "Cane Jam Production from Sugarcane Juice",
       "institution": "ICAR-Sugarcane Breeding Institute Research Centre, Kannur",
       "primary_sector": "Food Technology",
@@ -1853,7 +1856,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C934EE",
+      "technology_id": "RINK-80CA75",
       "technology_name": "Recycling of Human Hair Waste into Liquid Fertilizer",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -1878,7 +1881,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A1AA54",
+      "technology_id": "RINK-45028E",
       "technology_name": "Banana Bunch Covering Device",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -1903,7 +1906,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6E90FF",
+      "technology_id": "RINK-411EAE",
       "technology_name": "Vertical Axial Flow Propeller Pump",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -1928,7 +1931,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-32873C",
+      "technology_id": "RINK-20AF99",
       "technology_name": "Pineapple Harvester Attachment for Backpack Type Brush Cutter",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -1953,7 +1956,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4FE569",
+      "technology_id": "RINK-CABA62",
       "technology_name": "Microbial Consortium for Aerobic Composting (Liquid Formulation)",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -1978,7 +1981,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-48C61E",
+      "technology_id": "RINK-52A5BC",
       "technology_name": "Microbial Consortium for Aerobic Composting (Coir Pith Base Formulation)",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2003,7 +2006,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2CA714",
+      "technology_id": "RINK-2F7E7F",
       "technology_name": "Novel Puttupodi",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2028,7 +2031,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7E514E",
+      "technology_id": "RINK-63E194",
       "technology_name": "VCO Based Face Cream",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -2053,7 +2056,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3309BA",
+      "technology_id": "RINK-86D587",
       "technology_name": "VCO Based Mouth Wash",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -2078,7 +2081,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7B346A",
+      "technology_id": "RINK-D01C72",
       "technology_name": "VCO Based Hair Cream",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -2103,7 +2106,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9541A1",
+      "technology_id": "RINK-9EF7B9",
       "technology_name": "Dehydrated Jackfruit Flakes",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2128,7 +2131,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1B0B1B",
+      "technology_id": "RINK-B835E8",
       "technology_name": "Osmo Dehydrated Ripe Flakes",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2152,7 +2155,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A13EEB",
+      "technology_id": "RINK-76C4EA",
       "technology_name": "Seed Flour for Cattle Feed",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2177,7 +2180,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-62890B",
+      "technology_id": "RINK-270FBE",
       "technology_name": "Banana Flour-Based Ethnic Mix",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2202,7 +2205,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DF054D",
+      "technology_id": "RINK-D8FAED",
       "technology_name": "Extruded RTE Snack from Starch-Based Food Products",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2227,7 +2230,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5C30B6",
+      "technology_id": "RINK-50062A",
       "technology_name": "Bed Former Suitable Minitractor",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2254,7 +2257,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3E5873",
+      "technology_id": "RINK-53D224",
       "technology_name": "KAU Bed Former Attachable to Tractor",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2280,7 +2283,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2982F3",
+      "technology_id": "RINK-44F1A1",
       "technology_name": "Bioreactor for Energy Conversion of Organic Effluents",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -2307,7 +2310,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E19335",
+      "technology_id": "RINK-5068FA",
       "technology_name": "Motorized Cocoa Pod Breaker",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2334,7 +2337,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6BBBF7",
+      "technology_id": "RINK-79ADBB",
       "technology_name": "Processing Protocol for Garcinia Powder",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2360,7 +2363,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-40F2AF",
+      "technology_id": "RINK-68EF17",
       "technology_name": "Black Pepper Decorticator",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2386,7 +2389,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F74051",
+      "technology_id": "RINK-F66587",
       "technology_name": "Designing Low-Cost Organic Fertigation System for Homestead Vegetable Production",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2413,7 +2416,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4FF1C5",
+      "technology_id": "RINK-ECFE08",
       "technology_name": "Rotary Banana Slicer",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2439,7 +2442,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E898A8",
+      "technology_id": "RINK-9D0D74",
       "technology_name": "Process Protocol for Banana Flour Production",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2465,7 +2468,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A2D1F1",
+      "technology_id": "RINK-CB8A7A",
       "technology_name": "Retort Pouch Packed Thermally Processed Tender Jackfruit",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2491,7 +2494,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9D7263",
+      "technology_id": "RINK-34E93E",
       "technology_name": "Process Protocol for Kokum Juice Powder",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2517,7 +2520,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1B2748",
+      "technology_id": "RINK-48A383",
       "technology_name": "Wax Applicator",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2542,7 +2545,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A27916",
+      "technology_id": "RINK-46ED90",
       "technology_name": "RTC Tuber Fortified Cold Extruded Pasta/Noodles Products",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2569,7 +2572,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-91FB63",
+      "technology_id": "RINK-92D89B",
       "technology_name": "RTE Hot Extruded Expanded Products",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2595,7 +2598,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E5AD68",
+      "technology_id": "RINK-DC24EE",
       "technology_name": "Jackfruit Bulb Slicer",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2621,7 +2624,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-30697D",
+      "technology_id": "RINK-D56673",
       "technology_name": "Vacuum Frying System for Fruits and Vegetables",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2647,7 +2650,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-288D7B",
+      "technology_id": "RINK-8BAA32",
       "technology_name": "Nutrient Enriched Spray Dried Banana Pseudo Stem Juice Powder",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2673,7 +2676,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7CC135",
+      "technology_id": "RINK-76C3B0",
       "technology_name": "Tractor Operated Ginger Planter",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Agriculture",
@@ -2699,7 +2702,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1D1D0E",
+      "technology_id": "RINK-7EB444",
       "technology_name": "Coconut Wood Preservation - Inorganic Treatment",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -2725,7 +2728,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-CB51B1",
+      "technology_id": "RINK-691B9D",
       "technology_name": "Spray Dried Coconut Toddy Powder",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2750,7 +2753,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4A8C88",
+      "technology_id": "RINK-27C2E3",
       "technology_name": "Spray Dried Neera Powder",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2776,7 +2779,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1CC76A",
+      "technology_id": "RINK-4EC31B",
       "technology_name": "Coconut Milk Based Ready-to-Serve Beverage",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2802,7 +2805,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8A91B4",
+      "technology_id": "RINK-362757",
       "technology_name": "Jamun Nectar",
       "institution": "Kerala Agricultural University",
       "primary_sector": "Food Technology",
@@ -2828,7 +2831,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8F10A0",
+      "technology_id": "RINK-2F86CA",
       "technology_name": "A Novel Method of Storing and Delivering PGPR Microbes Through Biocapsule",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2855,7 +2858,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A6E77B",
+      "technology_id": "RINK-AB916B",
       "technology_name": "A Seed Coating Composition and Process for Its Preparation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2881,7 +2884,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7C52AE",
+      "technology_id": "RINK-2D6505",
       "technology_name": "Trichoderma harzianum, a Biocontrol Agent Against Phytophthora Foot Rot – Talc Formulation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2908,7 +2911,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3106F0",
+      "technology_id": "RINK-4F6598",
       "technology_name": "Pochonia chlamydosporia, a Biocontrol Agent Against Nematodes – Talc Formulation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2934,7 +2937,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B9A98B",
+      "technology_id": "RINK-452688",
       "technology_name": "Pochonia chlamydosporia, a Biocontrol Agent Against Nematodes – Liquid Formulation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2960,7 +2963,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1DF024",
+      "technology_id": "RINK-5F986B",
       "technology_name": "PGPR Microbial Consortium for Growth Promotion in Black Pepper",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -2986,7 +2989,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-45FE86",
+      "technology_id": "RINK-4F61A7",
       "technology_name": "PGPR Talc Formulation for Seed Spices",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3012,7 +3015,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B06FA7",
+      "technology_id": "RINK-4B8921",
       "technology_name": "PGPR Talc Formulation for Ginger",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3038,7 +3041,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B9C7E4",
+      "technology_id": "RINK-9B91D5",
       "technology_name": "A Micronutrient Composition for Ginger and a Process for Its Preparation (Soils with pH Above Seven)",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3064,7 +3067,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F02335",
+      "technology_id": "RINK-98860B",
       "technology_name": "A Micronutrient Composition for Ginger and a Process for Its Preparation (Soils with pH Below Seven)",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3090,7 +3093,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E1444B",
+      "technology_id": "RINK-749BAB",
       "technology_name": "A Micronutrient Composition for Turmeric and a Process for Its Preparation (Soils with pH Above Seven)",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3116,7 +3119,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BFC029",
+      "technology_id": "RINK-55B4E0",
       "technology_name": "A Micronutrient Composition for Turmeric and a Process for Its Preparation (Soils with pH Below Seven)",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3142,7 +3145,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-EACEEC",
+      "technology_id": "RINK-94A10C",
       "technology_name": "A Micronutrient Composition for Black Pepper and a Process for Its Preparation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3168,7 +3171,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-CDB537",
+      "technology_id": "RINK-453325",
       "technology_name": "A Micronutrient Composition for Cardamom and a Process for Its Preparation",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Agriculture",
@@ -3194,7 +3197,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9E0842",
+      "technology_id": "RINK-FE7CF9",
       "technology_name": "Golden Milk Mix",
       "institution": "ICAR-Indian Institute of Spices Research (IISR)",
       "primary_sector": "Food Technology",
@@ -3221,7 +3224,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6DDAA2",
+      "technology_id": "RINK-1853DD",
       "technology_name": "AI-Based Cervical Cancer Screening System(CerviSCAN)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "MedTech & Health Care",
@@ -3248,7 +3251,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BB4EA1",
+      "technology_id": "RINK-EB6771",
       "technology_name": "Maxillofacial Surgery Planning and Simulation Software-(MaxSim)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "MedTech & Health Care",
@@ -3274,7 +3277,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-EEEC91",
+      "technology_id": "RINK-3D934C",
       "technology_name": "Medical Imaging and Implant Design Platform (SRISTI-3D)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "MedTech & Health Care",
@@ -3301,7 +3304,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7EAE3F",
+      "technology_id": "RINK-B9AB60",
       "technology_name": "Digital Programmable Hearing Aid (TARANG)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "MedTech & Health Care",
@@ -3328,7 +3331,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-632E47",
+      "technology_id": "RINK-579C15",
       "technology_name": "Virtual Endoscopy Visualization Software (VIEW)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "MedTech & Health Care",
@@ -3354,7 +3357,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F81564",
+      "technology_id": "RINK-B94EC5",
       "technology_name": "Env-Intelligent Traffic Signal Optimization System (CoSiCoSt)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3380,7 +3383,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4FBEF6",
+      "technology_id": "RINK-1FB60F",
       "technology_name": "IoT Middleware for Smart Transportation Systems (CoSMiC)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3407,7 +3410,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DB0321",
+      "technology_id": "RINK-791C6A",
       "technology_name": "Adaptive Urban Traffic Signal Controller (CUTE/WiTrac)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3433,7 +3436,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-43859D",
+      "technology_id": "RINK-141B3D",
       "technology_name": "Emergency Service Vehicle Priority System (EmSerV)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3459,7 +3462,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-31A1AC",
+      "technology_id": "RINK-5A7239",
       "technology_name": "Pedestrian Safety Enhancement Controller (PeSCo)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3485,7 +3488,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1D94A1",
+      "technology_id": "RINK-27A5D4",
       "technology_name": "Adaptive Traffic Monitoring and Management Platform (TraMM-EnV)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3510,7 +3513,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5E9495",
+      "technology_id": "RINK-6E1BCA",
       "technology_name": "Power System Simulation and Training Platform-(FSS Mini)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3535,7 +3538,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6EAC42",
+      "technology_id": "RINK-A67FD1",
       "technology_name": "Grid-Interactive Solar Power Management System (GISPV)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -3561,7 +3564,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A2C335",
+      "technology_id": "RINK-26A229",
       "technology_name": "High-Speed Power Electronics Controller (HSRPEC)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3587,7 +3590,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2BFFB5",
+      "technology_id": "RINK-481CB0",
       "technology_name": "MicroGrid for Remote Villages-Rural Microgrid Power Supply System",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -3613,7 +3616,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8ADC83",
+      "technology_id": "RINK-43E3B5",
       "technology_name": "Smart Energy Metering System (SMART METER)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -3639,7 +3642,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-274085",
+      "technology_id": "RINK-75BCCC",
       "technology_name": "Power Quality Improvement and Grid Stabilization System (STATCOM)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -3665,7 +3668,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D5C6F5",
+      "technology_id": "RINK-6445F2",
       "technology_name": "IoT-Based Red Palm Weevil Detection System (ARPWD)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Agriculture",
@@ -3692,7 +3695,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8CA234",
+      "technology_id": "RINK-6CB39B",
       "technology_name": "Remote Water and Wastewater Monitoring System (NIRCHHARI)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -3718,7 +3721,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D8F171",
+      "technology_id": "RINK-65F293",
       "technology_name": "Hearing Aid Configuration and Audiology Software (SHRUTHI)",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -3744,7 +3747,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-193145",
+      "technology_id": "RINK-3A126B",
       "technology_name": "Underwater Drone-Tethered Underwater Inspection Robot",
       "institution": "Centre for Development of Advanced Computing (C-DAC)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -3771,7 +3774,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-819552",
+      "technology_id": "RINK-779D56",
       "technology_name": "Chitosan-Based Polymeric Wound Dressing for Chronic and Infected Wounds",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3798,7 +3801,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8F68D4",
+      "technology_id": "RINK-7A5C5B",
       "technology_name": "Synthetic Dura Substitute for Duramater Repair",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3825,7 +3828,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E73956",
+      "technology_id": "RINK-CE5568",
       "technology_name": "Intracranial Electrodes for Epilepsy Monitoring",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3852,7 +3855,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-351463",
+      "technology_id": "RINK-72725D",
       "technology_name": "UV-Protected Bioink for 3D Bioprinting Applications",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3880,7 +3883,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-89B5DF",
+      "technology_id": "RINK-BBAEB8",
       "technology_name": "Recombinant Growth Factor-Based Wound Healing Scaffold",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3907,7 +3910,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BAAD2A",
+      "technology_id": "RINK-B8A28E",
       "technology_name": "Programmable Implantable Micro Infusion Pump for Targeted Drug Delivery",
       "institution": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
       "primary_sector": "MedTech & Health Care",
@@ -3934,7 +3937,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DDE823",
+      "technology_id": "RINK-44AA42",
       "technology_name": "Fibre Optic Probe for Portable Sensors (Gas or bio-sensors)",
       "institution": "C-MET Kerala",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -3962,7 +3965,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7AAE30",
+      "technology_id": "RINK-6621C0",
       "technology_name": "Fast Response Thermal Sensors",
       "institution": "C-MET Kerala",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -3989,7 +3992,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-833815",
+      "technology_id": "RINK-8A7BA0",
       "technology_name": "Graphene Supercapacitors",
       "institution": "C-MET Kerala",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -4016,7 +4019,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B6BD78",
+      "technology_id": "RINK-9D5C2F",
       "technology_name": "Portable Biosensor for Detection of Food Borne Bacteria",
       "institution": "C-MET Kerala",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -4043,7 +4046,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-50DF7D",
+      "technology_id": "RINK-F7AA2A",
       "technology_name": "Solar Lanterns",
       "institution": "C-MET Kerala",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -4069,7 +4072,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BBAE3B",
+      "technology_id": "RINK-826741",
       "technology_name": "Digital Clinical Thermometer",
       "institution": "C-MET Kerala",
       "primary_sector": "MedTech & Health Care",
@@ -4096,7 +4099,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BD0C5B",
+      "technology_id": "RINK-1FE0E5",
       "technology_name": "Transparent Conducting Lines on Glass",
       "institution": "C-MET Kerala",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -4123,7 +4126,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-35B489",
+      "technology_id": "RINK-8D1DF0",
       "technology_name": "Wearable Device for Breast Cancer Screening",
       "institution": "C-MET Kerala",
       "primary_sector": "MedTech & Health Care",
@@ -4151,7 +4154,7 @@
       "ip_status": "Registration Filed"
     },
     {
-      "technology_id": "RINK-EED0ED",
+      "technology_id": "RINK-3195D8",
       "technology_name": "Anti-Fog Transparent Heating Film",
       "institution": "C-MET Kerala",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -4179,7 +4182,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-97D1D6",
+      "technology_id": "RINK-DB7FCF",
       "technology_name": "Millet-Based Functional Food Formulations",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4207,7 +4210,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DC64BE",
+      "technology_id": "RINK-A5D3D4",
       "technology_name": "Dehumidified Dryer Technology for Agricultural Crops",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Agriculture",
@@ -4235,7 +4238,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DF77FA",
+      "technology_id": "RINK-C4F3DB",
       "technology_name": "Microbial White Pepper Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4262,7 +4265,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-844FFC",
+      "technology_id": "RINK-13ECAD",
       "technology_name": "Red Palmolein (RPO) Functional Food Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4290,7 +4293,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7548B4",
+      "technology_id": "RINK-910036",
       "technology_name": "Raw Banana Composite Mix Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4318,7 +4321,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7540C6",
+      "technology_id": "RINK-D979C0",
       "technology_name": "Raw Banana Peel Powder Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4345,7 +4348,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8A1F4C",
+      "technology_id": "RINK-DD8A7F",
       "technology_name": "Raw Banana Grits for Porridges Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4373,7 +4376,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3DCD90",
+      "technology_id": "RINK-486129",
       "technology_name": "Raw Banana and Cereal-Based Instant Drink Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4401,7 +4404,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D36407",
+      "technology_id": "RINK-303605",
       "technology_name": "Natural Fibre Production Bioprocess from Agro Waste",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -4430,7 +4433,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D453AE",
+      "technology_id": "RINK-F6E34C",
       "technology_name": "Fresh Ginger Value Addition and Dry Powder Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4458,7 +4461,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-48F21D",
+      "technology_id": "RINK-4D2125",
       "technology_name": "Spice-Fortified Coconut and Palm Sap Syrup Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4486,7 +4489,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8541E5",
+      "technology_id": "RINK-3C0A6D",
       "technology_name": "Trikatu Syrup Production Technology from Palm Neera",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4514,7 +4517,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6A4476",
+      "technology_id": "RINK-5B061E",
       "technology_name": "Process Development and Optimization Service for Fruit and Vegetable Value Addition",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4542,7 +4545,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-320080",
+      "technology_id": "RINK-E500E5",
       "technology_name": "Coconut Residue Dietary Fiber Recovery Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4569,7 +4572,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6F97F8",
+      "technology_id": "RINK-EC4956",
       "technology_name": "Essential Oil Recovery Technology for Spices and Aromatic Plants",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -4597,7 +4600,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-379697",
+      "technology_id": "RINK-D65DF9",
       "technology_name": "Coconut and Palm Sap Syrup Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4625,7 +4628,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-48674E",
+      "technology_id": "RINK-473354",
       "technology_name": "Dehydration Technology for Nutmeg and Cardamom Value Addition",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Agriculture",
@@ -4653,7 +4656,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7E335C",
+      "technology_id": "RINK-94B1B4",
       "technology_name": "Dehydrated Unripe Jackfruit Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4681,7 +4684,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1BFFFE",
+      "technology_id": "RINK-D9A425",
       "technology_name": "Honey-Preserved Dehydrated Ripe Jackfruit Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4709,7 +4712,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7AAE00",
+      "technology_id": "RINK-5F892D",
       "technology_name": "Ready-to-Cook Dehydrated Vegetables Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4738,7 +4741,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-969F4F",
+      "technology_id": "RINK-F8E371",
       "technology_name": "Raw Banana-Based Functional Food Products Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4767,7 +4770,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B26B4C",
+      "technology_id": "RINK-3C9A74",
       "technology_name": "Osmo-Dehydrated Dry Fruit Production Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4796,7 +4799,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3FF2EF",
+      "technology_id": "RINK-7A798E",
       "technology_name": "Ready-to-Cook Dehydrated Leafy Vegetables Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4826,7 +4829,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B73163",
+      "technology_id": "RINK-214DD5",
       "technology_name": "Health Management Spice Seasoning Mix Formulation",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4855,7 +4858,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1C3175",
+      "technology_id": "RINK-1BA506",
       "technology_name": "Microencapsulated Functional Beverage Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4884,7 +4887,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5A5419",
+      "technology_id": "RINK-9FBD95",
       "technology_name": "Spice-Based Green Tea Bag Dips Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4912,7 +4915,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9B2DC9",
+      "technology_id": "RINK-713251",
       "technology_name": "Endophytic Bacterial Formulation for Plant Tonic",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Agriculture",
@@ -4941,7 +4944,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-711B37",
+      "technology_id": "RINK-FA912D",
       "technology_name": "Millet-Based Ready-to-Eat (RTE) Porridge Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4969,7 +4972,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-177A18",
+      "technology_id": "RINK-3F246D",
       "technology_name": "Dehydrated Coconut Gravy Technology",
       "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
       "primary_sector": "Food Technology",
@@ -4997,7 +5000,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9BDB66",
+      "technology_id": "RINK-1E99F6",
       "technology_name": "Organic Potting Filler Formulation (COCONURTURE)",
       "institution": "National Coir Research & Management Institute (NCRMI)",
       "primary_sector": "Agriculture",
@@ -5025,7 +5028,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-104F84",
+      "technology_id": "RINK-B768A7",
       "technology_name": "Coir Pith Carbon Bio-Briquette (PEATKOL Dots) Technology",
       "institution": "National Coir Research & Management Institute (NCRMI)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -5054,7 +5057,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-AF3EF3",
+      "technology_id": "RINK-C058B0",
       "technology_name": "éCoir Bag (Treated Coir Grow Bag) Technology",
       "institution": "National Coir Research & Management Institute (NCRMI)",
       "primary_sector": "Agriculture",
@@ -5083,7 +5086,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B3AACB",
+      "technology_id": "RINK-502A4D",
       "technology_name": "Kalpa Vermiwash Liquid Organic Fertilizer Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5109,7 +5112,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A5B885",
+      "technology_id": "RINK-51E1A5",
       "technology_name": "Coconut Embryo Culture Protocol",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5135,7 +5138,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F9D02B",
+      "technology_id": "RINK-D77039",
       "technology_name": "Coconut Pollen Cryopreservation Protocol",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5161,7 +5164,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C4DBC1",
+      "technology_id": "RINK-1EFC27",
       "technology_name": "Coconut Immature Inflorescence Tissue Culture Protocol",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5187,7 +5190,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A1DD55",
+      "technology_id": "RINK-2B6A0E",
       "technology_name": "Arecanut Immature Inflorescence Tissue Culture Protocol",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5214,7 +5217,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-FEEA5F",
+      "technology_id": "RINK-AAA60C",
       "technology_name": "Molecular-Marker Based Coconut Hybrid Confirmation Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -5240,7 +5243,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-60A3CC",
+      "technology_id": "RINK-68E1A5",
       "technology_name": "Kalpa EPN (CPCRI - SC1) Aqua Formulation Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5266,7 +5269,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-509371",
+      "technology_id": "RINK-2BE03D",
       "technology_name": "Trichoderma harzianum (CPTD28) Coir Pith Cake Technology",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5294,7 +5297,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A2E423",
+      "technology_id": "RINK-BE1299",
       "technology_name": "Trichoderma harzianum Mass Production on Areca Leaf Sheath",
       "institution": "ICAR-CPCRI Kasaragod",
       "primary_sector": "Agriculture",
@@ -5322,7 +5325,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7ABACB",
+      "technology_id": "RINK-5E22CE",
       "technology_name": "Cryopreservation Protocol for Pollen and Spores",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Agriculture",
@@ -5351,7 +5354,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-241786",
+      "technology_id": "RINK-D4E20E",
       "technology_name": "Bark Stripping Equipment for Jiggat-Yielding Plants",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Agriculture",
@@ -5379,7 +5382,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E1EB10",
+      "technology_id": "RINK-2B190E",
       "technology_name": "Aqua Flora-Infuse: Caffeine-Free Herbal Beverage",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Food Technology",
@@ -5407,7 +5410,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1FEC99",
+      "technology_id": "RINK-BFFFBE",
       "technology_name": "LAMP Diagnostic Kit for Sandalwood Spike Disease: Field-Deployable Diagnostic Tool",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Agriculture",
@@ -5435,7 +5438,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-9362BB",
+      "technology_id": "RINK-8B1CDB",
       "technology_name": "Decision Support System for Soil Erosion: Web-Based Digital Tool",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Agriculture",
@@ -5464,7 +5467,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-81E331",
+      "technology_id": "RINK-E18AF6",
       "technology_name": "Plant Tissue Culture Protocols for High-Value Crops: Disease-Free Mass Propagation Method",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Agriculture",
@@ -5494,7 +5497,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-11C67F",
+      "technology_id": "RINK-74E00A",
       "technology_name": "Endemic Species Conservation with Ecological Niche Modelling (ENM): Habitat Suitability Mapping Tool",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5523,7 +5526,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BA3399",
+      "technology_id": "RINK-ACD6AA",
       "technology_name": "Anoxic-Oxic Sequential Batch Biofilm Reactor: Wastewater Treatment System",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5552,7 +5555,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E1769C",
+      "technology_id": "RINK-1C16F9",
       "technology_name": "Smart Rainwater Sampling System: Automated Time-Integrated Sampler",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5580,7 +5583,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-BE55E4",
+      "technology_id": "RINK-D802E3",
       "technology_name": "Biochar from Bamboo Waste: Sustainable Carbon Sequestration Solution",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5608,7 +5611,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C31C76",
+      "technology_id": "RINK-B4D483",
       "technology_name": "Coir Fibre Root Trainers: Biodegradable Plant Nursery Container",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5637,7 +5640,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1DB8A9",
+      "technology_id": "RINK-DC43C6",
       "technology_name": "Killimangalam Kora Grass Mats: Traditional Woven Craft",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -5667,7 +5670,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-6FCE49",
+      "technology_id": "RINK-BC6935",
       "technology_name": "Organo Clay from Waste Mica: Sustainable Pollution Control Material",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5696,7 +5699,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5EEFC9",
+      "technology_id": "RINK-C68312",
       "technology_name": "Nanocomposite Beads for Efficient Nitrate Removal: Ternary Nanocomposite Technology",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5725,7 +5728,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A76C3D",
+      "technology_id": "RINK-208A59",
       "technology_name": "Rainfall Insights Dashboard: HYDRAH Data Visualization Tool",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5754,7 +5757,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-E00814",
+      "technology_id": "RINK-55FC61",
       "technology_name": "ML-Based Rainfall Nowcasting: Short-Term Precipitation Forecasting System",
       "institution": "KSCSTE-Institute for Climate Change Studies",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -5782,7 +5785,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-3AA7EE",
+      "technology_id": "RINK-869499",
       "technology_name": "Copper-Nickel Nanocomposite: Bimetallic Water Purification Material",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5811,7 +5814,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1DA7A7",
+      "technology_id": "RINK-86B2B0",
       "technology_name": "Microbial Consortium for Composting: High-Altitude Biowaste Management",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5839,7 +5842,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-764A95",
+      "technology_id": "RINK-4BF611",
       "technology_name": "Microbial Consortia for Sustainable Waste Management: Tropical Waste Processing Blend",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5867,7 +5870,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4AE061",
+      "technology_id": "RINK-9C1286",
       "technology_name": "Rooftop Rainwater Calculator: Web-Based Harvesting Estimation Tool",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -5895,7 +5898,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-AD5141",
+      "technology_id": "RINK-AFF882",
       "technology_name": "Nature-Inspired Neurotoxins from Nepenthes: Insecticidal and Therapeutic Compounds",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -5926,7 +5929,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-508663",
+      "technology_id": "RINK-516BE3",
       "technology_name": "Nutritious Bamboo-based Food Products: Shoot Powder and Flakes",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Food Technology",
@@ -5955,7 +5958,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B8A718",
+      "technology_id": "RINK-C0D1C1",
       "technology_name": "Sustainable &amp; High-Potency Dried Mushrooms Powder for the Future",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Food Technology",
@@ -5984,9 +5987,9 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-22A38B",
+      "technology_id": "RINK-B59559",
       "technology_name": "Probiotic Chocolate with Prebiotic Fibres from Kerala's Seasonal Fruits",
-      "institution": "Centre of Excellence in Nutraceuticals (CoEN)",
+      "institution": "KSCSTE- Centre of Excellence in Microbiome (CoEM)",
       "primary_sector": "Food Technology",
       "secondary_sector": "N/A",
       "technology_type": "Material/Formulation",
@@ -6013,7 +6016,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-ABAE6F",
+      "technology_id": "RINK-F15AF9",
       "technology_name": "Next-Generation Starter Culture for Kerala&#39;s Traditional Fermented Food",
       "institution": "KSCSTE- Centre of Excellence in Microbiome (CoEM)",
       "primary_sector": "Food Technology",
@@ -6042,7 +6045,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F82F00",
+      "technology_id": "RINK-232B18",
       "technology_name": "Fungus-Derived Antimicrobial for Pharma and Agri Use: Diethyl Phthalate Extraction",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "MedTech & Health Care",
@@ -6071,7 +6074,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-A73787",
+      "technology_id": "RINK-E2222E",
       "technology_name": "Gene-to-Structure Platform for Rapid Antiviral Discovery",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6100,7 +6103,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-723053",
+      "technology_id": "RINK-F46466",
       "technology_name": "Point-of-Care Prognostic Device for Dengue Severity",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "MedTech & Health Care",
@@ -6129,7 +6132,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B4821A",
+      "technology_id": "RINK-94816F",
       "technology_name": "Pathogen Enrichment Method for Accurate Microbiome Sequencing",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6157,7 +6160,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-70555D",
+      "technology_id": "RINK-4814E4",
       "technology_name": "Monoclonal Antibodies for Detecting and Blocking Viral Infections",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6186,7 +6189,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-97C253",
+      "technology_id": "RINK-2E8F82",
       "technology_name": "Rapid Point-of-Care Diagnostics for Viral Infections: Lateral Flow &amp; RT-LAMP Assays",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "MedTech & Health Care",
@@ -6215,7 +6218,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-58EC07",
+      "technology_id": "RINK-C38833",
       "technology_name": "Recombinant Viral Antigens for Diagnostics and Vaccines",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6244,7 +6247,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-5E65C8",
+      "technology_id": "RINK-156342",
       "technology_name": "Affordable Advanced Wound Care Using Herbal-Based Nanopad",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "MedTech & Health Care",
@@ -6273,7 +6276,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B71222",
+      "technology_id": "RINK-F3AAE7",
       "technology_name": "Safe & Scalable Sweet Flag Clones for Pharma Use: In Vitro Acorus calamus",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6304,7 +6307,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DECDCD",
+      "technology_id": "RINK-7350EE",
       "technology_name": "Herbal Drug for Comprehensive Wellness: Multi-Therapeutic Single-Herb Formulation",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6334,7 +6337,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-84712D",
+      "technology_id": "RINK-3F4E85",
       "technology_name": "Probiotic from Infant Microbiome for Infection Prevention: Prophylactic/Adjuvant Formulation",
       "institution": "KSCSTE- Centre of Excellence in Microbiome (CoEM)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6364,7 +6367,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2BEE2A",
+      "technology_id": "RINK-594B59",
       "technology_name": "Eco-Friendly Innovation in Incense Stick Production: Sustainable Binding Matrix",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6393,7 +6396,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2B6E39",
+      "technology_id": "RINK-CEF404",
       "technology_name": "Biopesticide Innovation for Sustainable Teak Protection: HpNPV Formulation",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6422,7 +6425,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D28556",
+      "technology_id": "RINK-C5F6A4",
       "technology_name": "Eco-Friendly Blood Stain Removal: Bio-based Protease Enzyme",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6451,7 +6454,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-C58363",
+      "technology_id": "RINK-CDD4AB",
       "technology_name": "Tropical Soil Scent: Bottling the Aroma of Rain (Petrichor)",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6481,7 +6484,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-138292",
+      "technology_id": "RINK-1F8A4D",
       "technology_name": "Eco-Friendly Dry Flower Hamper (Aqua Florea)",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6510,7 +6513,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-206C30",
+      "technology_id": "RINK-180859",
       "technology_name": "GI Registered Kannadippaya (Bamboo Mat): From Mats to Wall Hangings",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6541,7 +6544,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-D071F5",
+      "technology_id": "RINK-156982",
       "technology_name": "Advanced Electrode Platform for Fast-Charging Supercapacitors: TiO2 Nanotube Arrays",
       "institution": "KSCSTE - Srinivasa Ramanujan Institute for Basic Sciences",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -6570,7 +6573,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CF94DB",
+      "technology_id": "RINK-C59633",
       "technology_name": "Smart Traffic Signal System for Emergency Vehicle Priority",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6599,7 +6602,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8CFAFE",
+      "technology_id": "RINK-4E2672",
       "technology_name": "Kerala Transportation Database Management System (KTDMS)",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6629,7 +6632,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F041EB",
+      "technology_id": "RINK-C79D4D",
       "technology_name": "Smart Speed Display Boards for Safer Roads at Critical Locations",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6659,7 +6662,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-99EFB0",
+      "technology_id": "RINK-5203D1",
       "technology_name": "Sustainable Construction Materials from Industrial Waste (CLSM)",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6688,7 +6691,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7B55D3",
+      "technology_id": "RINK-48026E",
       "technology_name": "Compact Wind Energy Solution for Residential Power Needs (2.5 kW VAWT)",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -6717,7 +6720,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-422415",
+      "technology_id": "RINK-794324",
       "technology_name": "Evaluation of Traffic Calming Techniques for Safer Roads",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6747,7 +6750,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1B60F7",
+      "technology_id": "RINK-C45A1D",
       "technology_name": "Evaluating Road Safety Using Surrogate Measures on Two-Lane Highways",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6776,7 +6779,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-EB1507",
+      "technology_id": "RINK-41B274",
       "technology_name": "High-Performance Concrete Enhanced with Hybrid Fibres (HFRHPC)",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6806,7 +6809,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-F7726A",
+      "technology_id": "RINK-20071E",
       "technology_name": "Plant Authentication Service",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6836,7 +6839,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1FD478",
+      "technology_id": "RINK-FDC4B4",
       "technology_name": "DNA Tools for Timber Forensics (DNA Barcoding & Fingerprinting)",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -6866,7 +6869,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1057F3",
+      "technology_id": "RINK-886942",
       "technology_name": "JNTBGRI&#39;s Eco-Tourism: Nature, Knowledge, and Conservation",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -6897,7 +6900,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4D0DED",
+      "technology_id": "RINK-1F99F0",
       "technology_name": "Bamboo Innovation Hub: Art, Ecology, and Enterprise (Bamboo Crafts)",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -6926,7 +6929,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-2ECF28",
+      "technology_id": "RINK-2FEAAB",
       "technology_name": "Testing and Calibration Services for Instruments, Food, Water & Materials",
       "institution": "KSCSTE - Sophisticated Test and Instrumentation Centre (STIC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -6957,7 +6960,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-DB4AC2",
+      "technology_id": "RINK-1F0259",
       "technology_name": "Reviving Native Ecosystems: A Sustainable Restoration Initiative",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -6987,7 +6990,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-8C835B",
+      "technology_id": "RINK-F3E713",
       "technology_name": "EcoScape Solution - For Urban &amp; Rural Land Use",
       "institution": "KSCSTE- Malabar Botanical Garden &amp; Institute for Plant Sciences (MBGIPS)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -7018,7 +7021,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7FB7B1",
+      "technology_id": "RINK-C6C69F",
       "technology_name": "DNA Vaccine Platform for Emerging Viruses",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -7047,7 +7050,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4140AD",
+      "technology_id": "RINK-A6BC49",
       "technology_name": "Antiviral Screening for Dengue & Chikungunya",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -7077,7 +7080,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-AB17A5",
+      "technology_id": "RINK-1C2387",
       "technology_name": "Molecular Tools for Authentication of Plant Varieties",
       "institution": "KSCSTE- Jawaharlal Nehru Tropical Botanic Garden &amp; Research Institute (JNTBGRI)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -7108,7 +7111,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-B9F027",
+      "technology_id": "RINK-A67A03",
       "technology_name": "The Centre of Excellence in Nutraceuticals (CoEN) Services & Formulations",
       "institution": "Centre of Excellence in Nutraceuticals (CoEN)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -7140,7 +7143,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7E971B",
+      "technology_id": "RINK-3CFB80",
       "technology_name": "Recirculatory Aquaculture System (RAS) with Aquaponics & MBBR",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Agriculture",
@@ -7171,7 +7174,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-FAE6CE",
+      "technology_id": "RINK-B40C65",
       "technology_name": "Native Plant-Based Riverbank Restoration Techniques (Bioengineering)",
       "institution": "KSCSTE- Kerala Forest Research Institute (KFRI)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7201,7 +7204,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-13E36D",
+      "technology_id": "RINK-641207",
       "technology_name": "Forecasting Viral Outbreaks Using AI & Climate Data",
       "institution": "Institute of Advanced Virology (IAV)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -7231,7 +7234,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-84BE8D",
+      "technology_id": "RINK-C38CD7",
       "technology_name": "Multi-Criteria Decision System for Streamlining Urban Mobility",
       "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -7262,7 +7265,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-7B0E33",
+      "technology_id": "RINK-4DBEED",
       "technology_name": "Autonomous AI-Powered Drone for Disaster Response &amp; Search Operations",
       "institution": "Integrated Rural Technology centre (IRTC)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -7293,7 +7296,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-1EFF9B",
+      "technology_id": "RINK-108BBD",
       "technology_name": "Unified Digital Platform for Carbon Credit Estimation & Reporting",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -7323,7 +7326,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-4FEA5F",
+      "technology_id": "RINK-8EB62E",
       "technology_name": "Specialized Water Resource and Environmental Services",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7352,7 +7355,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-59BF50",
+      "technology_id": "RINK-174F36",
       "technology_name": "Decision Support System for Technology Valuation",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -7382,7 +7385,7 @@
       "ip_status": "Not Specified"
     },
     {
-      "technology_id": "RINK-590312",
+      "technology_id": "RINK-E650B3",
       "technology_name": "POLYMER CONJUGATE AND A PROCESS FOR PREPARING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7409,7 +7412,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-AD3293",
+      "technology_id": "RINK-F39B86",
       "technology_name": "METHOD FOR SELECTIVE AND SENSITIVE QUANTIFICATION OF HYDROGEN SULFIDE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7435,7 +7438,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-141747",
+      "technology_id": "RINK-3F7EA0",
       "technology_name": "NOVEL 4-DIPHENYLAMINO 3-IODO COUMARIN AND A METHOD FOR ITS ISOLATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -7462,7 +7465,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-28F1FD",
+      "technology_id": "RINK-6ECCFC",
       "technology_name": "NOVEL BODIPY BASED REUSABLE TEST PAPER STRIP AND METHOD OF COLORIMETRIC DETECTION OF FLUORIDE ION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7489,7 +7492,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-1BF506",
+      "technology_id": "RINK-F940CF",
       "technology_name": "ONE POT SYNTHESIS OF ETHYLENE GLYCOL/CARBON QUANTUM DOT (EG/C-DOT) NANOFLUID FOR HEAT TRANSFER APPLICATIONS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7516,7 +7519,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C40078",
+      "technology_id": "RINK-B0C4FB",
       "technology_name": "AN INTEGRATED BEAM CHOPPING AND STEERING SYSTEM USING A LINEAR OPTICAL CHOPPER AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -7543,7 +7546,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B72F9F",
+      "technology_id": "RINK-B000EF",
       "technology_name": "SYSTEM FOR INSCRIBING PATTERNS ON METALLIC NANOPARTICLES LAYER AT LIQUID-LIQUID INTERFACE AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7570,7 +7573,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-90F673",
+      "technology_id": "RINK-EB189F",
       "technology_name": "A REGIOSELECTIVE SYNTHESIS OF 1,2-DISUBSTITUTED BENZIMIDAZOLE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7597,7 +7600,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-60C988",
+      "technology_id": "RINK-4BEA4A",
       "technology_name": "A REGIOSELECTIVE SYNTHESIS OF 2-SUBSTITUTED BENZIMIDAZOLE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7624,7 +7627,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-983026",
+      "technology_id": "RINK-6C7AB5",
       "technology_name": "METHOD FOR SIMULTANEOUS FABRICATION AND COLLECTION OF ULTRA-LOW VOLUME JANUS LIQUID MARBLES AND PICKERING LIQUID MARBLES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7651,7 +7654,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-76909D",
+      "technology_id": "RINK-D9CC7D",
       "technology_name": "METHOD FOR FORMULATION OF PHENOLIC-FORMALDEHYDE RESOLE RESINS WITH MULTISTAGE REACTORS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7678,7 +7681,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-44700F",
+      "technology_id": "RINK-86B114",
       "technology_name": "COVALENT ORGANIC FRAMEWORK INCORPORATED THIN FILM NANOCOMPOSITE MEMBRANES FOR FORWARD OSMOSIS AND THEIR PREPARATION METHODS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7705,7 +7708,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-BC664A",
+      "technology_id": "RINK-71217C",
       "technology_name": "METHOD OF PREPARATION OF DUAL LAYERED HYDROPHILIC/HYDROPHOBIC JANUS MEMBRANE FOR WATER RECOVERY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7732,7 +7735,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A7BCB4",
+      "technology_id": "RINK-ED7232",
       "technology_name": "IN-SITU GENERATION OF TRANSITION METAL DOPED MANGANESE OXIDE CONDUCTING POLYMER COMPOSITES AND A METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7759,7 +7762,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B088A2",
+      "technology_id": "RINK-FC5503",
       "technology_name": "BIO-FILLER BASED BIO-EPOXY COMPOSITE WITH IMPROVED WEAR AND MECHANICAL PROPERTIES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7786,7 +7789,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-97C4ED",
+      "technology_id": "RINK-DCF78E",
       "technology_name": "ENCAPSULATED COMPOSITE PHASE CHANGE MATERIAL BASED NANOFLUIDS FOR HEAT TRANSFER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7813,7 +7816,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C079D2",
+      "technology_id": "RINK-AAF12D",
       "technology_name": "A METHOD FOR DEVELOPING MAGNESIUM-BASED MULTIFUNCTIONAL COMPOSITE COATING FOR METALLIC BONE IMPLANTS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -7840,7 +7843,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-86F560",
+      "technology_id": "RINK-F74FE6",
       "technology_name": "A METHOD OF IN-SITU SYNTHESIZING POLYMER/METAL OXIDE ULTRA-THIN COMPOSITE SHEETS AT A LIQUID-LIQUID INTERFACE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7867,7 +7870,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-1E644F",
+      "technology_id": "RINK-AF2620",
       "technology_name": "HYDROPHOBIC MEMBRANES INCORPORATING IRON (OXY)HYDROXIDE FOR MEMBRANE DISTILLATION AND PREPARATION METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7894,7 +7897,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-648F8B",
+      "technology_id": "RINK-45B574",
       "technology_name": "SUPERHYDROPHOBIC-OLEOPHOBIC MEMBRANES FOR MEMBRANE DISTILLATION WITH ENHANCED SCALING, WETTING AND FOULING RESISTANCE AND PREPARATION METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -7921,7 +7924,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-EE9FF0",
+      "technology_id": "RINK-C94DE5",
       "technology_name": "ORGANIC LIGHT EMITTING STRUCTURES USING A NOVEL ELASTOMER COMPOSITE TRANSPARENT CONDUCTING AND/OR HOLE INJECTING TRANSPORT CONDUCTING OXIDES (TCOs)",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7948,7 +7951,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-982B8E",
+      "technology_id": "RINK-444C31",
       "technology_name": "TRANSPARENT CONDUCTING HOLE INJECTING (HI) POLYMER ELASTOMER COMPOSITE MATERIAL FOR ORGANIC ELECTRONIC APPLICATIONS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -7975,7 +7978,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2FD2BB",
+      "technology_id": "RINK-A15D3D",
       "technology_name": "FLEXIBLE AND PRINTABLE ELASTOMERIC MEMORY DEVICE STRUCTURES FROM ELASTOMER FULLERENE DERIVATIVE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8002,7 +8005,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D0853F",
+      "technology_id": "RINK-325EFA",
       "technology_name": "NEW ORGANIC FULLERENE DERIVATIVES FROM ELASTOMERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8029,7 +8032,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-965B78",
+      "technology_id": "RINK-3D32CB",
       "technology_name": "A DARK-CURRENT FREE AND CHARGE CARRIER-DIFFUSION BASED SELF-POWERED PHOTODETECTOR AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8056,7 +8059,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E97743",
+      "technology_id": "RINK-EDE3AD",
       "technology_name": "A NIOBIUM DISULFIDE BASED SELF-POWERED PHOTODETECTOR",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8083,7 +8086,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-F6500E",
+      "technology_id": "RINK-55B347",
       "technology_name": "A CHARGE CARRIER-DIFFUSION BASED SELF-POWERED MICRODETECTOR BASED ON HAFNIUM DISULFIDE-SILVER HETEROSTRUCTURES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8110,7 +8113,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-577FD2",
+      "technology_id": "RINK-6FEAB0",
       "technology_name": "A BENDABLE PIEZOELECTRIC SOL-GEL MOSFET-BASED TOUCH SENSOR FABRICATED ON AN ULTRA-THIN SILICON DIAPHRAGM AND METHOD OF PREPARING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8137,7 +8140,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-3C2AA5",
+      "technology_id": "RINK-2EA77A",
       "technology_name": "A LARGE-AREA DEPOSITION OF PIEZOELECTRIC LAYERS DIRECTLY ON A DIAMOND SUBSTRATE USING SOL-GEL METHOD",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8164,7 +8167,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-28C67B",
+      "technology_id": "RINK-B09118",
       "technology_name": "A ZERO-BIAS RETINOMORPHIC PHOTODETECTOR ON A PAPER-BASED SUBSTRATE AND METHOD OF FABRICATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8191,7 +8194,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-61D1F6",
+      "technology_id": "RINK-C62B77",
       "technology_name": "FABRICATION OF A SELF-POWERED PHOTODETECTOR OPERATING BASED ON THERMO-DIFFUSION EFFECT IN IONIC LIQUID",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8218,7 +8221,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-6BC4A6",
+      "technology_id": "RINK-DEC26A",
       "technology_name": "THREE-WHEELED VEHICLE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8245,7 +8248,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-374779",
+      "technology_id": "RINK-50BA2E",
       "technology_name": "A UNIVERSAL MULTI-FUNCTIONAL PLUG-AND-PLAY HEADLAMP SYSTEM FOR AUTOMOBILES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8272,7 +8275,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-9C97BC",
+      "technology_id": "RINK-83FB54",
       "technology_name": "A CONTROLLING SYSTEM FOR SWIVELLING HEADLAMP AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8299,7 +8302,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D7FD53",
+      "technology_id": "RINK-93C8B2",
       "technology_name": "A MAGNETORHEOLOGICAL FLUID DAMPER FOR VARIABLE VALVE ACTUATION TO IMPROVE ENGINE PERFORMANCE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8326,7 +8329,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C48FCF",
+      "technology_id": "RINK-8A7DE7",
       "technology_name": "MUDRA PRABHA",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -8353,7 +8356,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-F07180",
+      "technology_id": "RINK-10859C",
       "technology_name": "A VENTILATED DISC BRAKE COATED WITH GRAPHENE-WRAPPED RUTILE-TiO2 INFUSED ALUMINUM ALLOY AND METHOD OF MANUFACTURING",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8380,7 +8383,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C76C44",
+      "technology_id": "RINK-9FEDCC",
       "technology_name": "DEPLOYABLE RETRACTABLE PREFABRICATED BUILDING STRUCTURE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -8407,7 +8410,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CCB86B",
+      "technology_id": "RINK-AD76BB",
       "technology_name": "GROUND GRANULATED BLAST FURNACE SLAG-DOLOMITE GEOPOLYMER CONCRETE BLOCKS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8434,7 +8437,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-69556B",
+      "technology_id": "RINK-7CC393",
       "technology_name": "STEEL FIBRE REINFORCED RUBCRETE PRESTRESSED CONCRETE RAILWAY SLEEPERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -8461,7 +8464,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-266A5A",
+      "technology_id": "RINK-D3E5DF",
       "technology_name": "STEEL FIBRE REINFORCED CONCRETE CRASH BARRIERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -8488,7 +8491,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7D2A2A",
+      "technology_id": "RINK-16DDAA",
       "technology_name": "STEEL FIBRE REINFORCED RUBCRETE CRASH BARRIERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -8515,7 +8518,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-95F91F",
+      "technology_id": "RINK-2DA0B2",
       "technology_name": "BINARY BLENDED ENGINEERED GEOPOLYMER COMPOSITES INCORPORATING IRON ORE TAILINGS AND STEEL FIBRES FOR MAKING PRESTRESSED RAILWAY SLEEPERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8542,7 +8545,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B017AE",
+      "technology_id": "RINK-21D7BF",
       "technology_name": "NI-TI SMA-STEEL-POLYPROPYLENE FIBER-BASED UPCYCLED CEMENTITIOUS COMPOSITION AND METHOD OF PREPARING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8569,7 +8572,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-649A66",
+      "technology_id": "RINK-B98BDC",
       "technology_name": "MICROBIAL CONSORTIUM BASED CEMENT COMPOSITES FOR SUSTAINABLE SELF-HEALING AND IMPROVED STRUCTURAL PROPERTIES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -8596,7 +8599,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-EC52EB",
+      "technology_id": "RINK-60AA2C",
       "technology_name": "AN INERTER-BASED BASE ISOLATION SYSTEM USING LINEAR MOTION GUIDE AND TENSION SPRINGS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8623,7 +8626,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-4D3A61",
+      "technology_id": "RINK-3FBA31",
       "technology_name": "DESIGN OF LOW COST, HIGHLY SOPHISTICATED PIEZO, TRIBO, PEZO-TRIBO HYBRID ELECTRIC CHARACTERIZATION INSTRUMENT",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -8650,7 +8653,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-FE9BF7",
+      "technology_id": "RINK-CA0EBD",
       "technology_name": "A CASCADED MODULAR EQUALIZER FOR BALANCING AN ULTRACAPACITOR BANK",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -8677,7 +8680,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-1D9EEF",
+      "technology_id": "RINK-FEAA77",
       "technology_name": "A DEVICE AND METHOD FOR POWER MANAGEMENT IN A DC NANOGRID POWER DISTRIBUTION SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -8704,7 +8707,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B11E9C",
+      "technology_id": "RINK-A3B298",
       "technology_name": "A THERMAL MANAGEMENT SYSTEM FOR LITHIUM-ION BATTERY MODULES BASED ON VARIABLE THERMAL CONDUCTIVITY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -8731,7 +8734,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-AF1072",
+      "technology_id": "RINK-FE4C70",
       "technology_name": "A METHOD FOR DETERMINING JOINTLY THE CARRIER FREQUENCY OFFSET (CFO), TIMING OFFSET, AND CHANNEL CO-EFFICIENTS IN AN ORTHOGONAL FREQUENCY DIVISION MULTIPLE ACCESS (OFDMA) UPLINK WIRELESS COMMUNICATION SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -8758,7 +8761,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-49354B",
+      "technology_id": "RINK-F1822C",
       "technology_name": "A SYSTEM FOR REMOTE REAL TIME CONDITION MONITORING OF MULTI-LEVEL INVERTERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -8785,7 +8788,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-3E4F3D",
+      "technology_id": "RINK-B684F7",
       "technology_name": "N-STAGE OTA BUFFER AMPLIFIERS WITH UNITY GAIN AND HIGH INPUT DYNAMIC RANGE AND TUNABLE GAIN FOR DRIVING LARGE RESISTANCE LOADS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -8812,7 +8815,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-F6384F",
+      "technology_id": "RINK-AF4803",
       "technology_name": "ACTIVE BALANCING METHOD FOR STRINGS OF ULTRA CAPACITORS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -8839,7 +8842,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8CDF22",
+      "technology_id": "RINK-46E4C7",
       "technology_name": "HYDROCARBON BASED REFRIGERANT MIXTURE FOR A SOLAR ASSISTED HEAT PUMP SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -8866,7 +8869,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7646A5",
+      "technology_id": "RINK-DF15E9",
       "technology_name": "A METHOD FOR THE VISIBLE LIGHT-INDUCED SELECTIVE DEGRADATION OF POLY(PROPYLENE CARBONATE) TO ITS MONOMER PROPYLENE CARBONATE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -8893,7 +8896,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CE11E8",
+      "technology_id": "RINK-6DB203",
       "technology_name": "MULTI-UTILITY PLOGGING BAG",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -8920,7 +8923,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-6E03DA",
+      "technology_id": "RINK-D0ED76",
       "technology_name": "PCM-INTEGRATED SOLAR DRIVEN MULTI-STAGE INTERFACIAL EVAPORATION ASSISTED HIGHLY EFFICIENT DESALINATION SYSTEM AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -8947,7 +8950,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-EDC189",
+      "technology_id": "RINK-FB8DF9",
       "technology_name": "FABRICATION OF IN-SITU MICROALGAL SHEET FOR CARBON DIOXIDE SEQUESTRATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -8974,7 +8977,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-BB8B66",
+      "technology_id": "RINK-6D04F2",
       "technology_name": "A METHOD FOR SUPPRESSING LEIDENFROST EFFECT AND INCREASING HEAT TRANSFER RATE IN IMMERSION COOLING USING ELECTROPHORESIS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -9001,7 +9004,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-3F27D1",
+      "technology_id": "RINK-A5F28E",
       "technology_name": "METHOD OF FABRICATING AN ELECTROCHEMICAL REACTOR WITH A NOVEL ELECTRODE FOR THE REMOVAL OF HEAVY METALS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -9028,7 +9031,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D0018E",
+      "technology_id": "RINK-A5C4B6",
       "technology_name": "PREPARATION OF A GRAPHITIC CARBON NITRIDE AND HEMATITE COMPOSITE (g-C3N4-a-Fe2O3) COATED MELAMINE FOAM FOR TREATING OILY WASTEWATER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -9055,7 +9058,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7A3E99",
+      "technology_id": "RINK-51499D",
       "technology_name": "NANO HYDROXYAPATITE EMBEDDED POLY (LACTIC ACID) AND ETHYLENE-CO-VINYL ACETATE BASED BIODEGRADABLE AND BIOCOMPATIBLE TRANSDERMAL PATCHES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9082,7 +9085,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-F9A057",
+      "technology_id": "RINK-E7DAAD",
       "technology_name": "A NATURAL FIBER REINFORCED POLYMER COMPOSITE FOR ORTHODONTIC APPLICATIONS AND METHOD OF PREPARING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -9109,7 +9112,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-ECDE1A",
+      "technology_id": "RINK-F00819",
       "technology_name": "A METHOD FOR DEVELOPING MAGNESIUM-BASED MULTIFUNCTIONAL COMPOSITE COATING FOR METALLIC BONE IMPLANTS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -9136,7 +9139,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D01020",
+      "technology_id": "RINK-32F219",
       "technology_name": "A LOW-COST PORTABLE ELECTROCHEMICAL BIOSENSOR FOR RAPID DETECTION OF ENDOTOXIN AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -9163,7 +9166,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8271D7",
+      "technology_id": "RINK-104B0C",
       "technology_name": "GSK-2126458 AND ROTTLERIN BASED COMPOSITION TO MIMIC THE EFFECTS OF CALORIE RESTRICTION FOR NEUROLOGICAL DISORDERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9190,7 +9193,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7B3396",
+      "technology_id": "RINK-34E8E5",
       "technology_name": "TORIN-2 WITH TWS119 FORMULATIONS TO MIMIC THE EFFECTS OF CALORIE RESTRICTION FOR NEUROLOGICAL DISORDERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9217,7 +9220,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-BE6483",
+      "technology_id": "RINK-1701A3",
       "technology_name": "LDN193189 AND QL-XII-47 BASED COMPOSITION TO MIMIC THE EFFECTS OF ISCHEMIC PRECONDITIONING AGAINST CEREBRAL STROKE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9244,7 +9247,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E8F92A",
+      "technology_id": "RINK-9AADC1",
       "technology_name": "NARCICLASINE AND ROSIGLITAZONE BASED COMPOSITION TO MIMIC THE EFFECTS OF ISCHEMIC PRECONDITIONING AGAINST CEREBRAL STROKE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9271,7 +9274,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-87DBB0",
+      "technology_id": "RINK-FD8132",
       "technology_name": "6-FLUORO-4-HYDROXY-2-OXO-1,2-DIHYDROQUINOLINE-3-CARBOXAMIDE DERIVATIVES AS CHEMOTHERAPEUTIC AGENTS AND SYNTHETIC METHODS THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9298,7 +9301,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-AFADC9",
+      "technology_id": "RINK-2EF6E0",
       "technology_name": "AN EFFERVESCENT TABLET FORMULATION BY A 3D PRINTING PROCESS AND METHOD OF PREPARATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -9325,7 +9328,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2B518A",
+      "technology_id": "RINK-2402B5",
       "technology_name": "METHOD FOR PREPARING A POTENT COPPER (II) COMPLEX AS AN APOPTOSIS INDUCER IN LUNG CANCER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -9352,7 +9355,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-50E0AB",
+      "technology_id": "RINK-E024AC",
       "technology_name": "A DIABETIC-FRIENDLY TAPIOCA-BASED EDIBLE CUTLERY AND A METHOD FOR MAKING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Food Technology",
@@ -9379,7 +9382,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2318C0",
+      "technology_id": "RINK-D548A2",
       "technology_name": "A HYPERMETROPIC CONVOLUTIONAL NEURAL NETWORK DEVICE FOR SMALL SIZE OBJECT DETECTION AND A METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -9406,7 +9409,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-DD12FF",
+      "technology_id": "RINK-BF11F2",
       "technology_name": "A SYSTEM AND METHOD FOR TRUST BASED INTRUSION DETECTION IN A DISTRIBUTED IOT SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -9433,7 +9436,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A2A9B0",
+      "technology_id": "RINK-BA93D5",
       "technology_name": "CNN BASED METHOD AND SYSTEM FOR REAL-TIME OBJECT DETECTION WITH FEATURE REUSE AND CSPNET TO REDUCE COMPUTATIONS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -9460,7 +9463,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-64DBE6",
+      "technology_id": "RINK-BA37E2",
       "technology_name": "A METHOD FOR MAKING AUTHENTICATION ENCRYPTION SCHEMES ROBUST AGAINST DIFFERENTIAL FAULT ATTACKS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -9487,7 +9490,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-124B66",
+      "technology_id": "RINK-CCEB4C",
       "technology_name": "LOW-COST CUTTER FOR CUTTING HOT BILLETS AND HOT PIPES WHILE IN MOTION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9514,7 +9517,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-9A45A0",
+      "technology_id": "RINK-B813F3",
       "technology_name": "MULTI-MODE FRICTION STIR WELDING TOOL",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9541,7 +9544,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-368B3B",
+      "technology_id": "RINK-1C17D6",
       "technology_name": "A LINEAR SORTING TABLE WITH MANUALLY MOVABLE PALLETS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9568,7 +9571,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C91FF3",
+      "technology_id": "RINK-94943D",
       "technology_name": "VACUUM-BASED SELF-HOLDING DRILLING MACHINE WITH AUTOMATIC DETECTION SYSTEM FOR DRILLING AND CONTROLLING METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9595,7 +9598,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-770F14",
+      "technology_id": "RINK-7BDF39",
       "technology_name": "A MODULAR MAGNETO-RHEOLOGICAL FLUID CLUTCH APPARATUS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9622,7 +9625,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-49C1C0",
+      "technology_id": "RINK-959FDE",
       "technology_name": "A DEVICE FOR DEMONSTRATING STRESS STIFFENING EFFECT AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -9649,7 +9652,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-6D6BE1",
+      "technology_id": "RINK-550D57",
       "technology_name": "A METHOD AND TOOL FOR SIMULATING ROLE PLAY BASED SUPPLY CHAIN OPERATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -9676,7 +9679,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B4E471",
+      "technology_id": "RINK-6F890D",
       "technology_name": "AN AIR ACTUATED RADIAL ROBOTIC GRIPPER ATTACHABLE TO A ROBOT MANIPULATOR ARM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9703,7 +9706,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-9A58AB",
+      "technology_id": "RINK-5681A5",
       "technology_name": "MULTIPURPOSE WASTE PICKER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Consumer & Lifestyle Products",
@@ -9730,7 +9733,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-755343",
+      "technology_id": "RINK-B3011D",
       "technology_name": "RADIALLY CONTRACTING TOROIDAL PNEUMATIC ARTIFICIAL MUSCLE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9757,7 +9760,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C621B4",
+      "technology_id": "RINK-204FD5",
       "technology_name": "AN AUTOMATIC SCRAP CLEANING SYSTEM FOR LATHE AND CLEANING METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9784,7 +9787,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E442B3",
+      "technology_id": "RINK-E17014",
       "technology_name": "DYNAMIC HEAD LOAD REDISTRIBUTING WEARABLE ROBOT",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9811,7 +9814,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B1B34C",
+      "technology_id": "RINK-7A57E1",
       "technology_name": "ROBOT FOR HIGH VOLTAGE ELECTRICAL TRANSMISSION LINE INSPECTION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9838,7 +9841,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A5352A",
+      "technology_id": "RINK-FB85C7",
       "technology_name": "AUTOMATIC BOOK RETURNING SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9865,7 +9868,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-75BCB1",
+      "technology_id": "RINK-8B97AF",
       "technology_name": "ROBOTIC TREE CLIMBER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9892,7 +9895,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8705C4",
+      "technology_id": "RINK-306523",
       "technology_name": "AUTOMATED ROBOTIC SYSTEM FOR CLEANING OF RAILWAY TRACKS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -9919,7 +9922,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8BD4FE",
+      "technology_id": "RINK-AFAB54",
       "technology_name": "COMPOSITION AND PREPARATION METHOD OF TUBULAR GRAPHITIC CARBON NITRIDE NANOTUBE USING EMILIA SONCHIFOLIA PAPPUS AS A BIO-TEMPLATE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -9946,7 +9949,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-487469",
+      "technology_id": "RINK-BC9838",
       "technology_name": "A COMPOSITE HEAT SPREADER WITH ENHANCED THERMAL PERFORMANCE AND METHOD OF FABRICATION THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -9973,7 +9976,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2D8251",
+      "technology_id": "RINK-FD0482",
       "technology_name": "AN EDIBLE EVENT-RESPONSIVE PHOTODETECTOR FOR LIGHT INTENSITY DETECTION AND METHOD OF OPERATION THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10000,7 +10003,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-198BAA",
+      "technology_id": "RINK-B077C7",
       "technology_name": "A METHOD FOR FABRICATING BIODEGRADABLE MAGNESIUM-BASED IMPLANTS USING A 3D-PRINTING PROCESS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "MedTech & Health Care",
@@ -10027,7 +10030,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8A9283",
+      "technology_id": "RINK-C5A204",
       "technology_name": "A METHOD FOR FABRICATION OF PRISTINE VANADIUM MONOCARBIDE QUANTUM DOTS FOR REDUCTION OF NITROBENZENE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10054,7 +10057,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-115CAF",
+      "technology_id": "RINK-22086C",
       "technology_name": "A MULTI-LAYERED GRAPHENE ENCAPSULATED HIGH-ENTROPY ALLOY REINFORCED METAL MATRIX COMPOSITE AND METHODS OF FABRICATION THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10081,7 +10084,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-9C287D",
+      "technology_id": "RINK-53892F",
       "technology_name": "A SYNTHESIS OF NON-EDIBLE OIL BASED MAGNETORHEOLOGICAL FLUID WITH ENHANCED LUBRICITY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10108,7 +10111,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-148445",
+      "technology_id": "RINK-E96D61",
       "technology_name": "FABRICATION OF PIEZORESISTIVE SENSORS USING PYROLYZED COCONUT FIBER AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10135,7 +10138,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-55C5C5",
+      "technology_id": "RINK-ECC0FB",
       "technology_name": "A TEMPLATE-FREE METHOD FOR SYNTHESIZING BIOCOMPATIBLE NANOPOROUS MICROSTRUCTURES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10162,7 +10165,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-37216F",
+      "technology_id": "RINK-2EA169",
       "technology_name": "A METHOD FOR SYNTHESIS OF BIO-SOURCED EPOXY VITRIMER FOR ENHANCED TOUGHNESS AND RECYCLABILITY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10189,7 +10192,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-BFB947",
+      "technology_id": "RINK-BB9D00",
       "technology_name": "A MAGNETORHEOLOGICAL FLUID-BASED BRAKING SYSTEM FOR TWO WHEELERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10216,7 +10219,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D98620",
+      "technology_id": "RINK-EF9608",
       "technology_name": "AN AUTO-DIMMING SYSTEM FOR HEADLAMPS OF VEHICLES AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10243,7 +10246,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-8DC632",
+      "technology_id": "RINK-F011F5",
       "technology_name": "A SWITCHED-INDUCTOR WITH CURRENT-SHARED NETWORK DC-DC CONVERTER FOR ON-BOARD ELECTRIC VEHICLES CHARGER",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10270,7 +10273,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CDE19A",
+      "technology_id": "RINK-B6532F",
       "technology_name": "MAGNETORHEOLOGICAL FLUID-BASED ROTARY DAMPER FOR REAL-TIME SUSPENSION DAMPING ADJUSTMENT AND METHOD OF OPERATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10297,7 +10300,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7D54C8",
+      "technology_id": "RINK-76A132",
       "technology_name": "DOUBLE SWITCHING CAPACITOR NETWORK (DSCN)-BASED DC-DC CONVERTER FOR CHARGING ON-BOARD ELECTRIC VEHICLE AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10324,7 +10327,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-451DAC",
+      "technology_id": "RINK-452294",
       "technology_name": "A MAGNETORHEOLOGICAL FLUID BASED DYNAMIC VIBRATION ABSORBER SYSTEM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10351,7 +10354,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-449E6B",
+      "technology_id": "RINK-C6F1AF",
       "technology_name": "A SYSTEM FOR EVALUATING HUMAN RELATION MANAGEMENT IN AN ORGANIZATION USING SCANNER AND SMART DEVICES AND WORKING METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -10378,7 +10381,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B79067",
+      "technology_id": "RINK-5BE57C",
       "technology_name": "BOF & IOT BASED ENGINEERED GEOPOLYMER COMPOSITE (EGC) FOR MAINLINE PRESTRESSED RAILWAY SLEEPERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10405,7 +10408,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D15277",
+      "technology_id": "RINK-4DF660",
       "technology_name": "EXTERNAL BEAM-COLUMN JOINT CONFIGURATION FOR A STEEL REINFORCED CONCRETE COLUMN AND A REINFORCED CONCRETE BEAM FOR ENHANCED SEISMIC BEHAVIOUR",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -10432,7 +10435,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-9B2726",
+      "technology_id": "RINK-84D63B",
       "technology_name": "QUATERNARY BLENDED ENGINEERED GEOPOLYMER COMPOSITE (EGC) PAVER BLOCKS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10459,7 +10462,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-AB36A9",
+      "technology_id": "RINK-C0D838",
       "technology_name": "AN ENGINEERED GEOPOLYMER COMPOSITE (EGC) INTEGRATED WITH COLD-FORMED STEEL FOR SUSTAINABLE CONSTRUCTION APPLICATIONS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10486,7 +10489,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-43397F",
+      "technology_id": "RINK-6A53D3",
       "technology_name": "STEEL PLATED GROOVED BOX SECTION (SPGBS) ANCHORAGE SYSTEM AND METHOD FOR ENHANCING RAILWAY SLEEPER STABILITY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -10513,7 +10516,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-550F6F",
+      "technology_id": "RINK-CAC914",
       "technology_name": "A RAIL SLEEPER ANCHORAGE SYSTEM AND METHOD FOR ENHANCING STABILITY AND STIFFNESS OF RAIL SLEEPERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Infrastructure, Construction & Smart Cities",
@@ -10540,7 +10543,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-27EFA5",
+      "technology_id": "RINK-43DA0E",
       "technology_name": "A COMPOSITION OF SUSTAINABLE CONCRETE CONTAINING STAINLESS STEEL MILL SCALE FINE AGGREGATES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10567,7 +10570,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-FB3735",
+      "technology_id": "RINK-A138A5",
       "technology_name": "COMPOSITION AND METHOD FOR FABRICATING TERNARY BLEND GEOPOLYMER CONCRETE BLOCKS FOR HIGH-TEMPERATURE APPLICATIONS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10594,7 +10597,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E482F3",
+      "technology_id": "RINK-E19F0F",
       "technology_name": "QUALITATIVE METHOD FOR SELF-HEALING OF PROPAGATING VOLTAGE DISTURBANCES IN POWER GRIDS PROLIFERATED WITH CONVERTER-INTERFACED RESOURCES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -10621,7 +10624,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-6002F1",
+      "technology_id": "RINK-7128F8",
       "technology_name": "METHOD OF IMPROVING RETENTION CHARACTERISTICS IN AMORPHOUS OXIDE SEMICONDUCTOR BASED OPTOELECTRONIC SYNAPTIC DEVICE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10648,7 +10651,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-5FC59C",
+      "technology_id": "RINK-76E4CB",
       "technology_name": "SYSTEM AND METHOD OF SOLAR PV-T HEAT PUMP BASED WATER HEATING WITH UNIFORM PV COOLING AND ENHANCED HOT WATER OUTPUT",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10675,7 +10678,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E7724D",
+      "technology_id": "RINK-93E18C",
       "technology_name": "REMOTE POSITIONING SYSTEM FOR UNDERGROUND COAL MINES USING VISIBLE LIGHT AND LORA COMMUNICATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10702,7 +10705,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-133B6C",
+      "technology_id": "RINK-F80D05",
       "technology_name": "A HIGH-GAIN SINGLE-STAGE BUCK-BOOST INVERTER WITH ENHANCED DC UTILIZATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10729,7 +10732,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-2F7E8C",
+      "technology_id": "RINK-1809EF",
       "technology_name": "HIGH-EFFICIENCY FIELD-ORIENTED CONTROL SYSTEM WITH ASYMMETRICAL CASCADED H-BRIDGE MULTILEVEL INVERTER FOR ENHANCED PMSM PERFORMANCE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -10756,7 +10759,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-3F4D35",
+      "technology_id": "RINK-86D556",
       "technology_name": "BACK-STEPPING CONTROLLER BASED DROOP-FREE CONTROL SYSTEM FOR PARALLEL DC DISTRIBUTION WITH IMPROVED STABILITY AND TRANSIENT RESPONSE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10783,7 +10786,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B330E5",
+      "technology_id": "RINK-C2139C",
       "technology_name": "LED BASED SPHERICAL INTEGRATING NEPHELOMETER WITH MINIMIZED TRUNCATION ERROR FOR AEROSOL LIGHT SCATTERING MEASUREMENTS AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -10810,7 +10813,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-5A2ED0",
+      "technology_id": "RINK-C37A6F",
       "technology_name": "A FOLDED BROADBAND OPTICAL RESONATOR SPECTROMETER FOR TRACE GAS DETECTION WITH HIGH SENSITIVITY AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -10837,7 +10840,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C3CB46",
+      "technology_id": "RINK-585A84",
       "technology_name": "MICROHEATERS DESIGN AND FABRICATON USING TWO-STEP LASER GRAPHITIZATION METHOD FOR SUPERIOR THERMAL PERFORMANCE AND DURABILITY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10864,7 +10867,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-4118F1",
+      "technology_id": "RINK-A24A3A",
       "technology_name": "A METAL HYDRIDE-BASED REACTOR SYSTEM WITH OPTIMIZED GAS DISTRIBUTION FOR ENHANCED HYDROGEN PURIFICATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10891,7 +10894,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CCC992",
+      "technology_id": "RINK-2DCFBC",
       "technology_name": "A COAGULATION REACTOR FOR DAIRY WASTEWATER TREATMENT AND METHOD OF OPERATING THE SAME WITH PRODUCT DEVELOPMENT",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Water, Environment & Waste Management",
@@ -10918,7 +10921,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-C567E2",
+      "technology_id": "RINK-1A8F9E",
       "technology_name": "SOLAR-POWERED ROTATING FLASK OSCILLATORY FLOW REACTOR FOR BIODIESEL PRODUCTION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -10945,7 +10948,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-E22127",
+      "technology_id": "RINK-736714",
       "technology_name": "METHOD FOR PREPARING GRASS-DERIVED MULTIFUNCTIONAL NANOMATERIAL REINFORCING AGENTS IN BIOPOLYMER PACKING",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -10972,7 +10975,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-98B2D9",
+      "technology_id": "RINK-ACAC9D",
       "technology_name": "PSEUDOMONAS AERUGINOSA MEDIATED SYNTHESIS OF WATER SOLUBLE COLLOIDAL QUANTUM DOTS FOR PHOTOCATALYTIC REDUCTION OF CHROMIUM",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -10999,7 +11002,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-89750F",
+      "technology_id": "RINK-E3AA09",
       "technology_name": "METHOD FOR FABRICATING A HIGH-PERFORMANCE COMPOSITE DESALINATION MEMBRANE WITH ENHANCED WATER FLUX AND SALT REJECTION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11026,7 +11029,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-EA712A",
+      "technology_id": "RINK-53543E",
       "technology_name": "METHOD FOR PREPARING HYDROPHOBIC GRAPHITIC CARBON NITRIDE-COATED NATURAL RUBBER FOAM FOR OIL-WATER SEPARATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11053,7 +11056,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-99428C",
+      "technology_id": "RINK-7C4CFD",
       "technology_name": "A METHOD FOR FABRICATING BIOMASS-DERIVED ELECTRODES FOR ELECTROCHEMICAL ADVANCED OXIDATION PROCESSES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11080,7 +11083,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A86EAB",
+      "technology_id": "RINK-BF90F5",
       "technology_name": "MULTI-STAGE PARALLEL DESALINATION SYSTEM WITH INTEGRATED THERMAL MANAGEMENT FOR WASTE HEAT RECOVERY AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -11107,7 +11110,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-175FB3",
+      "technology_id": "RINK-8BBB20",
       "technology_name": "AN INTERNET OF UNDERWATER THINGS (IoUT)-BASED WATER QUALITY MONITORING SYSTEM AND METHOD OF OPERATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11134,7 +11137,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-811382",
+      "technology_id": "RINK-93CAA0",
       "technology_name": "A METHOD FOR SYNTHESIZING BIODEGRADABLE HYDROGEL FERTILIZER FOR CONTROLLED RELEASE AND EFFICIENT MATRIX NUTRIENT UTILIZATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -11161,7 +11164,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-32509B",
+      "technology_id": "RINK-414D4C",
       "technology_name": "METHOD TO PREPARE A HYDROPHOBIC MEMBRANE FOR RESOURCE RECOVERY USING COUNTER-CURRENT FLOW MEMBRANE DISTILLATION MODULE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11188,7 +11191,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-B6096B",
+      "technology_id": "RINK-A93BF1",
       "technology_name": "FABRICATION METHOD OF VANADIUM MONOCARBIDE NANOSHEETS AS EFFICIENT ANODE CATALYSTS FOR SINGLE-CHAMBER MICROBIAL FUEL CELLS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Energy, Climate & Sustainability",
@@ -11215,7 +11218,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-478337",
+      "technology_id": "RINK-881500",
       "technology_name": "AN ADVANCED SYSTEM AND METHOD FOR DIAGNOSING MENTAL HEALTH CONDITIONS USING ELECTROENCEPHALOGRAM SIGNAL ANALYSIS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11242,7 +11245,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-F07CB5",
+      "technology_id": "RINK-21E6D5",
       "technology_name": "A DEVICE WITH AI INTERFACE FOR PREDICTING DOSAGE OF VITAMIN K ANTAGONISTS FOR MANAGING ORAL ANTICOAGULANT DRUGS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11269,7 +11272,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-A0BA31",
+      "technology_id": "RINK-E85A35",
       "technology_name": "BIO-ADHESIVE ARTIFICIAL MEMBRANE GRAFT FOR TYMPANIC MEMBRANE PERFORATION THERAPY",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -11296,7 +11299,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-DA46A3",
+      "technology_id": "RINK-DA85E6",
       "technology_name": "A CERVICAL CANCER SCREENING SYSTEM WITH A GUIDED VISUAL ASSISTANT USING ARTIFICIAL INTELLIGENCE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11323,7 +11326,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-82E032",
+      "technology_id": "RINK-526CF4",
       "technology_name": "ECO-FRIENDLY SYNTHESIS OF SILVER NANOPARTICLES WITH COFFEE LEAVES EXTRACT FOR CYSTEINE DETECTION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11350,7 +11353,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-93A484",
+      "technology_id": "RINK-426204",
       "technology_name": "A VOICE ALERT AGRICULTURAL MONITORING SYSTEM FOR ALERTING USERS OF AGRICULTURAL PARAMETERS AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11377,7 +11380,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-4AF2C6",
+      "technology_id": "RINK-9E46C9",
       "technology_name": "A SYSTEM FOR ASSESSING SUSTAINABILITY OF TROPICAL ABODES AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11404,7 +11407,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-1967C6",
+      "technology_id": "RINK-6F432D",
       "technology_name": "ARTIFICIAL INTELLIGENCE-ASSISTED CONTOURING SYSTEM AND METHOD FOR ORGANS AT RISK IN COMPUTED TOMOGRAPHY IMAGES",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Digital Technologies, AI & Software",
@@ -11431,7 +11434,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-263AAA",
+      "technology_id": "RINK-BB77E1",
       "technology_name": "A MULTI-BIO COATING ORTHOPEDIC IMPLANT WITH ENHANCED CELL ADHESION AND METHOD FOR PREPARING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11458,7 +11461,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-983279",
+      "technology_id": "RINK-F19666",
       "technology_name": "TYRPHOSTIN AG 1478 AND KINETIN RIBOSIDE BASED COMPOSITION TO MIMIC THE EFFECTS OF CALORIE RESTRICTION FOR NEUROLOGICAL DISORDERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -11485,7 +11488,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-89EA80",
+      "technology_id": "RINK-A98C31",
       "technology_name": "RUTIN AND LINOLENIC ACID BASED COMPOSITION TO MIMIC THE EFFECTS OF CALORIE RESTRICTION FOR NEUROLOGICAL DISORDERS",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -11512,7 +11515,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-CD860D",
+      "technology_id": "RINK-56C3C9",
       "technology_name": "SMALL MOLECULES WITH AZACYCLONOL AND PIOGLITAZONE COMBINATIONS TO MIMIC THE EFFECTS OF ISCHEMIC PRECONDITIONING AGAINST CEREBRAL STROKE",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -11539,7 +11542,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-6C8911",
+      "technology_id": "RINK-4CC258",
       "technology_name": "AN AUTOMONOUS DRONE-BASED INTELLIGENT SYSTEM FOR COCONUT HARVESTING AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11566,7 +11569,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-1D12E6",
+      "technology_id": "RINK-A6BC31",
       "technology_name": "ROBOTIC SYSTEM FOR HARVESTING CROPS IN VERTICAL FARMS AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11593,7 +11596,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-AF0CF4",
+      "technology_id": "RINK-78A3EA",
       "technology_name": "MULTI-ROTOR UNMANNED AERIAL VEHICLE (UAV) FOR PERFORMING SMART FARMING TO INCREASE AGRICULTURAL PRODUCTION AND METHOD THEREOF",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11620,7 +11623,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-608329",
+      "technology_id": "RINK-7DE8B3",
       "technology_name": "AN AUTONOMOUS SWAB SAMPLING ROBOTIC SYSTEM AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11647,7 +11650,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-D2D11B",
+      "technology_id": "RINK-A999C3",
       "technology_name": "A COMPLIANT ROBOTIC END-EFFECTOR WITH FORCE MULTIPLICATION MECHANISM FOR EFFICIENT OBJECT MANIPULATION",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11674,7 +11677,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-195569",
+      "technology_id": "RINK-708BE2",
       "technology_name": "A ROBOTIC EXOSKELETON DEVICE FOR WRIST HAND REHABILITATION AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11701,7 +11704,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-DFD7EC",
+      "technology_id": "RINK-808248",
       "technology_name": "A MULTI-FUNCTIONAL RECONFIGURABLE PROTECTION DEVICE AND METHOD OF OPERATING THE SAME",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11728,7 +11731,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-51713A",
+      "technology_id": "RINK-79B93D",
       "technology_name": "AN EFFECTIVE METHOD FOR DESIGN OPTIMIZATION AND FABRICATION OF CUTTING TOOLS USING ADDITIVE MANUFACTURING",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Advanced Materials & Chemicals",
@@ -11755,7 +11758,7 @@
       "ip_status": "Patented"
     },
     {
-      "technology_id": "RINK-7839C9",
+      "technology_id": "RINK-94E821",
       "technology_name": "A METHOD FOR PREPARING A STARTER CONCENTRATE OF LCB. RHAMNOSUS AND A STARTER CONCENTRATE PREPARED",
       "institution": "College of Dairy Science and Technology, Thiruvananthapuram (CDST Trivandrum)",
       "primary_sector": "Food Technology",
@@ -11782,7 +11785,7 @@
       "ip_status": ""
     },
     {
-      "technology_id": "RINK-E8DB64",
+      "technology_id": "RINK-327647",
       "technology_name": "IMPROVED METHOD OF FISH CURING",
       "institution": "ICAR-Central Institute of Fisheries Technology (ICAR-CIFT Cochin)",
       "primary_sector": "Food Technology",
@@ -11809,7 +11812,7 @@
       "ip_status": ""
     },
     {
-      "technology_id": "RINK-C2E786",
+      "technology_id": "RINK-E1C8B3",
       "technology_name": "PROCESS FOR PRODUCTION OF EDIBLE GRADE MARINE COLLAGEN CONCENTRATE FROM FISH FIN WASTE",
       "institution": "ICAR-Central Institute of Fisheries Technology (ICAR-CIFT Cochin)",
       "primary_sector": "Food Technology",
@@ -11836,7 +11839,7 @@
       "ip_status": ""
     },
     {
-      "technology_id": "RINK-B8FE58",
+      "technology_id": "RINK-704ED5",
       "technology_name": "MODERN AND HYGIENIC MOBILE FISH VENDING KIOSK",
       "institution": "ICAR-Central Institute of Fisheries Technology (ICAR-CIFT Cochin)",
       "primary_sector": "Robotics, Automation & Drones",
@@ -11863,7 +11866,7 @@
       "ip_status": ""
     },
     {
-      "technology_id": "RINK-CAA5FD",
+      "technology_id": "RINK-78AF9C",
       "technology_name": "METHOD FOR PRODUCTION OF ABSORBABLE SURGICAL SUTURES FROM FISH GUT COLLAGEN",
       "institution": "ICAR-Central Institute of Fisheries Technology (ICAR-CIFT Cochin)",
       "primary_sector": "Biotechnology & Life Sciences",
@@ -12093,17 +12096,19 @@
     },
     {
       "institution": "College of Dairy Science and Technology, Thiruvananthapuram (CDST Trivandrum)",
-      "institution_logo_url": "",
+      "institution_logo_url": "/assets/rink_tech/1N7jXIzDb-92EeRHpg3D0oHsgvdLP4tRS.webp",
       "location": "temporary campus at BSNL-RTTC, Kaimanam / Keltron Equipment Complex, Karakulam, Thiruvananthapuram",
       "district": "Thiruvananthapuram",
-      "website": "https://www.kvasu.ac.in/"
+      "website": "https://www.kvasu.ac.in/",
+      "original_institution_logo_url": "https://drive.google.com/file/d/1N7jXIzDb-92EeRHpg3D0oHsgvdLP4tRS/view?usp=drive_link"
     },
     {
-      "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
-      "institution_logo_url": "",
+      "institution": "ICAR-Central Institute of Fisheries Technology (ICAR-CIFT Cochin)",
+      "institution_logo_url": "/assets/rink_tech/1IiRsm-Sxq6rcRPhskDrBb6QOHDadqIED.webp",
       "location": "",
       "district": "",
-      "website": ""
+      "website": "",
+      "original_institution_logo_url": "https://drive.google.com/file/d/1IiRsm-Sxq6rcRPhskDrBb6QOHDadqIED/view?usp=drive_link"
     }
   ]
 }
