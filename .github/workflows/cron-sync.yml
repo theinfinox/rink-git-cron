@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
 
@@ -40,9 +40,9 @@ jobs:
           # Stage the directories
           git add data/ public/
           
-          # UNSTAGE redundant backup files to prevent repository bloat
-          git reset HEAD data/backups/ || true
-          find public data -name "*.bak" -type f -exec git reset HEAD {} + || true
+          # UNSTAGE redundant backup files to prevent repository bloat.
+          # Restore both index and worktree to avoid unstaged changes before rebase.
+          git restore --staged --worktree -- data/backups/ ':(glob)public/**/*.bak' ':(glob)data/**/*.bak' || true
           
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated Data & Image Sync: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           
