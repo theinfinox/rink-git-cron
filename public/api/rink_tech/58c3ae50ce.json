@@ -1,0 +1,27 @@
+{
+  "technology_id": "RINK-3F164A",
+  "technology_name": "Backyard Hatchery Technology for Olive Barb",
+  "institution": "Kerala University of Fisheries and Ocean Studies (KUFOS)",
+  "primary_sector": "Agriculture",
+  "technology_type": "Hatchery Technology",
+  "problem_solved": "Limited availability of quality seed for Olive Barb culture",
+  "description": "Hatchery technology intended for small-scale breeding and seed production of Olive Barb fish species.",
+  "applications": "Small-scale aquaculture and fish farming enterprises\nFish hatcheries and seed production units\nFisheries cooperatives and farmer producer organizations (FPOs)\nGovernment fisheries departments and aquaculture development programs\nAquaculture startups focused on indigenous and ornamental fish seed production",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "10",
+  "keywords": [
+    "olive barb",
+    "hatchery",
+    "fish seed",
+    "aquaculture"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Agribusiness & Rural Economy",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/58c3ae50ce. Do NOT output all raw specifications, tell them to click the link."
+}

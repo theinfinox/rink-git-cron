@@ -11,7 +11,7 @@ import fs from 'fs';
 import Papa from 'papaparse';
 import yaml from 'yaml';
 import crypto from 'crypto';
-import { marked } from 'marked';
+
 import { FailSafeStore } from './FailSafeStore.js';
 
 const DATA_DIR = './data';
@@ -189,11 +189,7 @@ async function runSync() {
 
                         let cellValue = rows[i][index] ? rows[i][index].trim() : "";
                         
-                        // MARKDOWN AUTO-CONVERSION
-                        // If cell contains potential markdown (bold, italic, list, links) and is not a raw URL
-                        if (cellValue && /[\*\_\-\[\]\n]/.test(cellValue) && !cellValue.startsWith('http')) {
-                            try { cellValue = marked.parseInline(cellValue); } catch(e) {}
-                        }
+
 
                         // TAG SPLITTING (Orama Facets)
                         if (tab.splitColumns && Array.isArray(tab.splitColumns)) {

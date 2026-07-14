@@ -8,7 +8,7 @@
   "name_of_facility": "Central Instrumentation Facility",
   "institution_name": "Indian Institute of Technology Palakkad",
   "address": "04923 226 554",
-  "enquiry_contact_number": "<a href=\"mailto:cif-cmff@iitpkd.ac.in\">cif-cmff@iitpkd.ac.in</a>",
+  "enquiry_contact_number": "cif-cmff@iitpkd.ac.in",
   "enquiry_mail": "https://iitpkd.ac.in/",
   "website_booking_link": "https://cif.iitpkd.ac.in/node/22",
   "website_booking_link_fallback": "",
