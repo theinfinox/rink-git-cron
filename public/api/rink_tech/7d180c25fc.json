@@ -1,9 +1,5 @@
 {
-<<<<<<<< HEAD:public/api/rink_tech/7d180c25fc.json
   "technology_id": "RINK-5A5537",
-========
-  "technology_id": "RINK-CD0029",
->>>>>>>> b9679830b305bf9fb65cac035f5f14ddec2da134:public/api/rink_tech/92d1510837.json
   "technology_name": "Arecanut Immature Inflorescence Tissue Culture Protocol",
   "institution": "ICAR-CPCRI Kasaragod",
   "primary_sector": "Agriculture",
@@ -27,10 +23,6 @@
   "image_url": "Not Specified",
   "startup_potential": "Not Specified",
   "ip_status": "Not Specified",
-<<<<<<<< HEAD:public/api/rink_tech/7d180c25fc.json
   "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/7d180c25fc. Do NOT output all raw specifications, tell them to click the link."
-========
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/92d1510837. Do NOT output all raw specifications, tell them to click the link."
->>>>>>>> b9679830b305bf9fb65cac035f5f14ddec2da134:public/api/rink_tech/92d1510837.json
 }
