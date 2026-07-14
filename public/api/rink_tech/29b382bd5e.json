@@ -1,0 +1,28 @@
+{
+  "technology_id": "RINK-81CCA8",
+  "technology_name": "Bed Former Suitable Minitractor",
+  "institution": "Kerala Agricultural University",
+  "primary_sector": "Agriculture",
+  "secondary_sector": "N/A",
+  "technology_type": "Farm Equipment",
+  "problem_solved": "Difficulty in preparing uniform planting beds using small tractors",
+  "description": "Bed-forming equipment designed for use with mini tractors to support field preparation and crop cultivation operations. The technology is intended to improve the efficiency of bed preparation in small and medium-sized farms. Limited technical details are provided in the source document.",
+  "applications": "Small and medium-scale farming enterprises\nMini tractor and farm machinery manufacturers\nCustom hiring centers and farm mechanization service providers\nFarmer producer organizations (FPOs) and agricultural cooperatives\nGovernment agriculture departments and farm mechanization programs",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "13",
+  "keywords": [
+    "bed former",
+    "minitractor",
+    "farm equipment",
+    "field preparation",
+    "agriculture"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/29b382bd5e. Do NOT output all raw specifications, tell them to click the link."
+}
