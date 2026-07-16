@@ -24,7 +24,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "#REF!"
+      "secondary_sector": "#REF!",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100002",
@@ -50,7 +51,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100003",
@@ -75,7 +77,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100004",
@@ -99,7 +102,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100005",
@@ -123,7 +127,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Climate & Sustainability"
+      "secondary_sector": "Agribusiness & Rural Economy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100006",
@@ -147,7 +152,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100007",
@@ -171,7 +177,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100008",
@@ -194,7 +201,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100009",
@@ -217,7 +225,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100010",
@@ -240,7 +249,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100011",
@@ -264,7 +274,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100012",
@@ -288,7 +299,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100013",
@@ -311,7 +323,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100014",
@@ -334,7 +347,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100015",
@@ -358,7 +372,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100016",
@@ -382,6 +397,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/18k5da58rgVPZQzMpIgEpe-pyQJXQqt01/view?usp=drive_link"
     },
     {
@@ -407,6 +423,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1EZmUdfKdBz6lhkbdP6XcqZozGOxeoO8o/view?usp=sharing"
     },
     {
@@ -432,6 +449,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1suQEvA-P7tWwrPBd1Cg5rCBOSslnhoXF/view?usp=sharing"
     },
     {
@@ -457,6 +475,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1E13Kf90gua9FQeP53cbIyv496KcteN9Z/view?usp=sharing"
     },
     {
@@ -481,6 +500,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/140oqYWgwKX9A181M4wd4WKnT4-nNwPwU/view?usp=sharing"
     },
     {
@@ -505,6 +525,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/11K7r3G5yxc4wRwdbuy5TNArGVRWAhhO8/view?usp=sharing"
     },
     {
@@ -530,6 +551,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1q5CNKf9Besd8O_DwDMh435IjzBhHMy8R/view?usp=drive_link"
     },
     {
@@ -553,7 +575,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100024",
@@ -577,7 +600,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Agribusiness & Rural Economy, Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100025",
@@ -601,7 +625,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100026",
@@ -630,7 +655,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100027",
@@ -659,7 +685,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100028",
@@ -688,7 +715,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "Food Technology, MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100029",
@@ -716,7 +744,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100030",
@@ -747,6 +776,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/11oU89lmp8Rd9yvO83eiHGOdKSVqAMBbZ/view?usp=drive_link"
     },
     {
@@ -775,7 +805,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100032",
@@ -803,7 +834,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100033",
@@ -832,6 +864,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/19dUseGXZ6XJTUKNvaxr-5aMb-HfMAEHw/view?usp=drive_link"
     },
     {
@@ -861,6 +894,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, MedTech & Health Care",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1rl9K59pAD9OfPGL0dzZ0ZV_3kBkLsxur/view?usp=drive_link"
     },
     {
@@ -889,7 +923,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100036",
@@ -917,7 +952,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100037",
@@ -944,7 +980,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100038",
@@ -972,7 +1009,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100039",
@@ -1000,7 +1038,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100040",
@@ -1028,7 +1067,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100041",
@@ -1056,7 +1096,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100042",
@@ -1084,7 +1125,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100043",
@@ -1112,7 +1154,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100044",
@@ -1141,6 +1184,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1nTBJFqXBno_ftpYLVVZ8c2VaPUPxloi7/view?usp=drive_link"
     },
     {
@@ -1171,6 +1215,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB/view?usp=drive_link"
     },
     {
@@ -1197,7 +1242,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100047",
@@ -1223,7 +1269,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100048",
@@ -1249,7 +1296,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100049",
@@ -1275,7 +1323,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100050",
@@ -1301,7 +1350,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100051",
@@ -1326,7 +1376,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100052",
@@ -1352,7 +1403,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100053",
@@ -1378,7 +1430,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100054",
@@ -1404,7 +1457,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100055",
@@ -1429,7 +1483,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100056",
@@ -1455,7 +1510,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100057",
@@ -1480,7 +1536,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100058",
@@ -1505,7 +1562,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100059",
@@ -1531,7 +1589,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100060",
@@ -1557,6 +1616,7 @@
       "startup_potential": "",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1FfISzW2rDBolXSsQ-0rP8Kqq2lR6kKkq/view?usp=drive_link"
     },
     {
@@ -1582,7 +1642,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100062",
@@ -1607,7 +1668,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100063",
@@ -1632,7 +1694,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100064",
@@ -1657,7 +1720,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100065",
@@ -1686,6 +1750,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1FQWmKzameszjpgcGMVbqBw_NWyMuINal/view?usp=drive_link"
     },
     {
@@ -1714,6 +1779,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1_jexWfq3AZaz9D-_6Tv9PvdH9TfUJ5er/view?usp=drive_link"
     },
     {
@@ -1742,6 +1808,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/129O44nAlXYmO2GlySEEJBzPMrc0rrwiR/view?usp=drive_link"
     },
     {
@@ -1770,6 +1837,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1KK6lw5P8I9kXXs5n6csQEKYvv4NQLn0r/view?usp=drive_link"
     },
     {
@@ -1798,7 +1866,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100070",
@@ -1827,6 +1896,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1GVobXhM9slzuOemwrSJeKRazq4lrQWU7/view?usp=drive_link"
     },
     {
@@ -1853,7 +1923,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100072",
@@ -1878,7 +1949,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100073",
@@ -1903,7 +1975,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100074",
@@ -1928,7 +2001,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100075",
@@ -1953,7 +2027,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100076",
@@ -1978,7 +2053,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100077",
@@ -2003,7 +2079,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100078",
@@ -2028,7 +2105,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100079",
@@ -2053,7 +2131,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100080",
@@ -2078,7 +2157,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100081",
@@ -2103,7 +2183,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100082",
@@ -2128,7 +2209,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100083",
@@ -2152,7 +2234,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100084",
@@ -2177,7 +2260,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100085",
@@ -2202,7 +2286,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100086",
@@ -2227,7 +2312,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100087",
@@ -2254,7 +2340,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100088",
@@ -2280,7 +2367,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100089",
@@ -2307,7 +2395,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100090",
@@ -2334,7 +2423,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100091",
@@ -2360,7 +2450,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100092",
@@ -2386,7 +2477,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Agribusiness & Rural Economy"
+      "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100093",
@@ -2413,7 +2505,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100094",
@@ -2439,7 +2532,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100095",
@@ -2465,7 +2559,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100096",
@@ -2491,7 +2586,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100097",
@@ -2517,7 +2613,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100098",
@@ -2542,7 +2639,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100099",
@@ -2569,7 +2667,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100100",
@@ -2595,7 +2694,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100101",
@@ -2621,7 +2721,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100102",
@@ -2647,7 +2748,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100103",
@@ -2673,7 +2775,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100104",
@@ -2699,7 +2802,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Robotics, Automation & Drones"
+      "secondary_sector": "Agribusiness & Rural Economy, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100105",
@@ -2725,7 +2829,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy"
+      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100106",
@@ -2750,7 +2855,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100107",
@@ -2776,7 +2882,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100108",
@@ -2802,7 +2909,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100109",
@@ -2828,7 +2936,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100110",
@@ -2855,7 +2964,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100111",
@@ -2881,7 +2991,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy, Biotechnology & Life Sciences"
+      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100112",
@@ -2908,7 +3019,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100113",
@@ -2934,7 +3046,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100114",
@@ -2960,7 +3073,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100115",
@@ -2986,7 +3100,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100116",
@@ -3012,7 +3127,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100117",
@@ -3038,7 +3154,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100118",
@@ -3064,7 +3181,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100119",
@@ -3090,7 +3208,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100120",
@@ -3116,7 +3235,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100121",
@@ -3142,7 +3262,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100122",
@@ -3168,7 +3289,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100123",
@@ -3194,7 +3316,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100124",
@@ -3221,7 +3344,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100125",
@@ -3248,7 +3372,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100126",
@@ -3274,7 +3399,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100127",
@@ -3301,7 +3427,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100128",
@@ -3328,7 +3455,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products"
+      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100129",
@@ -3354,7 +3482,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100130",
@@ -3380,7 +3509,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100131",
@@ -3407,7 +3537,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100132",
@@ -3433,7 +3564,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100133",
@@ -3459,7 +3591,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100134",
@@ -3485,7 +3618,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100135",
@@ -3510,7 +3644,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100136",
@@ -3535,7 +3670,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy"
+      "secondary_sector": "Energy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100137",
@@ -3561,7 +3697,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100138",
@@ -3587,7 +3724,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100139",
@@ -3613,7 +3751,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100140",
@@ -3639,7 +3778,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100141",
@@ -3665,7 +3805,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100142",
@@ -3692,7 +3833,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy"
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100143",
@@ -3718,7 +3860,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100144",
@@ -3744,7 +3887,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care"
+      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100145",
@@ -3771,7 +3915,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100146",
@@ -3798,7 +3943,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences"
+      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100147",
@@ -3825,7 +3971,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences"
+      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100148",
@@ -3852,7 +3999,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100149",
@@ -3880,7 +4028,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical"
+      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100150",
@@ -3907,7 +4056,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100151",
@@ -3934,7 +4084,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100152",
@@ -3962,7 +4113,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care, Digital Technologies, AI & Software"
+      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100153",
@@ -3989,7 +4141,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100154",
@@ -4016,7 +4169,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products"
+      "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100155",
@@ -4043,7 +4197,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, MedTech & Health Care"
+      "secondary_sector": "Food Technology, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100156",
@@ -4069,7 +4224,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100157",
@@ -4096,7 +4252,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Digital Technologies, AI & Software"
+      "secondary_sector": "Consumer & Lifestyle Products, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100158",
@@ -4123,7 +4280,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100159",
@@ -4151,7 +4309,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Registration Filed",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products"
+      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100160",
@@ -4179,7 +4338,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products"
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100161",
@@ -4207,7 +4367,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100162",
@@ -4235,7 +4396,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Agribusiness & Rural Economy"
+      "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100163",
@@ -4262,7 +4424,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100164",
@@ -4290,7 +4453,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100165",
@@ -4318,7 +4482,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100166",
@@ -4345,7 +4510,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Water, Environment & Waste Management, MedTech & Health Care, Biotechnology & Life Sciences"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Water, Environment & Waste Management, MedTech & Health Care, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100167",
@@ -4373,7 +4539,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100168",
@@ -4401,7 +4568,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100169",
@@ -4430,7 +4598,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy, Advanced Materials & Chemical"
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy, Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100170",
@@ -4458,7 +4627,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100171",
@@ -4486,7 +4656,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100172",
@@ -4514,7 +4685,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100173",
@@ -4542,7 +4714,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100174",
@@ -4569,7 +4742,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100175",
@@ -4597,7 +4771,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100176",
@@ -4625,7 +4800,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100177",
@@ -4653,7 +4829,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Agribusiness & Rural Economy, Energy, Climate & Sustainability"
+      "secondary_sector": "Food Technology, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100178",
@@ -4681,7 +4858,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100179",
@@ -4709,7 +4887,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100180",
@@ -4738,7 +4917,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100181",
@@ -4767,7 +4947,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100182",
@@ -4796,7 +4977,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100183",
@@ -4826,7 +5008,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100184",
@@ -4855,7 +5038,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100185",
@@ -4884,7 +5068,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100186",
@@ -4912,7 +5097,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100187",
@@ -4941,7 +5127,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100188",
@@ -4969,7 +5156,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100189",
@@ -4997,7 +5185,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100190",
@@ -5025,7 +5214,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100191",
@@ -5054,7 +5244,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100192",
@@ -5083,7 +5274,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100193",
@@ -5109,7 +5301,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100194",
@@ -5135,7 +5328,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100195",
@@ -5161,7 +5355,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100196",
@@ -5187,7 +5382,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100197",
@@ -5214,7 +5410,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100198",
@@ -5240,7 +5437,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100199",
@@ -5266,7 +5464,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100200",
@@ -5294,7 +5493,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100201",
@@ -5322,7 +5522,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100202",
@@ -5351,7 +5552,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100203",
@@ -5379,7 +5581,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100204",
@@ -5407,7 +5610,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100205",
@@ -5435,7 +5639,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Digital Technologies, AI & Software, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100206",
@@ -5464,7 +5669,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software, Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100207",
@@ -5494,7 +5700,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100208",
@@ -5523,7 +5730,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Digital Technologies, AI & Software"
+      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100209",
@@ -5552,7 +5760,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100210",
@@ -5580,7 +5789,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100211",
@@ -5608,7 +5818,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100212",
@@ -5637,7 +5848,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100213",
@@ -5667,7 +5879,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100214",
@@ -5696,7 +5909,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100215",
@@ -5725,7 +5939,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100216",
@@ -5754,7 +5969,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software"
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100217",
@@ -5782,7 +5998,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy"
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100218",
@@ -5811,7 +6028,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100219",
@@ -5839,7 +6057,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100220",
@@ -5867,7 +6086,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability"
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100221",
@@ -5895,7 +6115,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100222",
@@ -5926,7 +6147,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100223",
@@ -5955,7 +6177,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100224",
@@ -5984,7 +6207,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100225",
@@ -6013,7 +6237,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100226",
@@ -6042,7 +6267,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100227",
@@ -6071,7 +6297,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100228",
@@ -6100,7 +6327,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100229",
@@ -6129,7 +6357,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software"
+      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100230",
@@ -6157,7 +6386,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100231",
@@ -6186,7 +6416,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100232",
@@ -6215,7 +6446,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100233",
@@ -6244,7 +6476,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100234",
@@ -6273,7 +6506,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100235",
@@ -6304,7 +6538,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100236",
@@ -6334,7 +6569,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100237",
@@ -6364,7 +6600,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100238",
@@ -6393,7 +6630,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100239",
@@ -6422,7 +6660,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100240",
@@ -6451,7 +6690,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Food Technology, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Food Technology, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100241",
@@ -6481,7 +6721,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences"
+      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100242",
@@ -6510,7 +6751,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100243",
@@ -6541,7 +6783,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100244",
@@ -6570,7 +6813,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences, MedTech & Health Care Systems"
+      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences, MedTech & Health Care Systems",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100245",
@@ -6599,7 +6843,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care"
+      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100246",
@@ -6629,7 +6874,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100247",
@@ -6659,7 +6905,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100248",
@@ -6688,7 +6935,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100249",
@@ -6717,7 +6965,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100250",
@@ -6747,7 +6996,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100251",
@@ -6776,7 +7026,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100252",
@@ -6806,7 +7057,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100253",
@@ -6836,7 +7088,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100254",
@@ -6866,7 +7119,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100255",
@@ -6897,7 +7151,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100256",
@@ -6926,7 +7181,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100257",
@@ -6956,7 +7212,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100258",
@@ -6987,7 +7244,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100259",
@@ -7016,7 +7274,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100260",
@@ -7046,7 +7305,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100261",
@@ -7077,7 +7337,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100262",
@@ -7109,7 +7370,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100263",
@@ -7140,7 +7402,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100264",
@@ -7170,7 +7433,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100265",
@@ -7200,7 +7464,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care"
+      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100266",
@@ -7231,7 +7496,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100267",
@@ -7262,7 +7528,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, MedTech & Health Care"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100268",
@@ -7292,7 +7559,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy, Water, Environment & Waste Management"
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100269",
@@ -7321,7 +7589,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy, Digital Technologies, AI & Software"
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100270",
@@ -7351,7 +7620,8 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100271",
@@ -7378,7 +7648,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products"
+      "secondary_sector": "Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100272",
@@ -7404,7 +7675,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management"
+      "secondary_sector": "Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100273",
@@ -7431,7 +7703,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy"
+      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100274",
@@ -7458,7 +7731,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100275",
@@ -7485,7 +7759,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100276",
@@ -7512,7 +7787,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100277",
@@ -7539,7 +7815,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100278",
@@ -7566,7 +7843,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100279",
@@ -7593,7 +7871,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100280",
@@ -7620,7 +7899,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software"
+      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100281",
@@ -7647,7 +7927,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products"
+      "secondary_sector": "Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100282",
@@ -7674,7 +7955,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100283",
@@ -7701,7 +7983,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100284",
@@ -7728,7 +8011,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100285",
@@ -7755,7 +8039,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100286",
@@ -7782,7 +8067,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100287",
@@ -7809,7 +8095,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100288",
@@ -7836,7 +8123,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Consumer & Lifestyle Products"
+      "secondary_sector": "Energy, Climate & Sustainability, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100289",
@@ -7863,7 +8151,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100290",
@@ -7890,7 +8179,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100291",
@@ -7917,7 +8207,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products"
+      "secondary_sector": "Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100292",
@@ -7944,7 +8235,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100293",
@@ -7971,7 +8263,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100294",
@@ -7998,7 +8291,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management"
+      "secondary_sector": "Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100295",
@@ -8025,7 +8319,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100296",
@@ -8052,7 +8347,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100297",
@@ -8079,7 +8375,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones"
+      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100298",
@@ -8106,7 +8403,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100299",
@@ -8133,7 +8431,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products"
+      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100300",
@@ -8160,7 +8459,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Robotics, Automation & Drones"
+      "secondary_sector": "Biotechnology & Life Sciences, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100301",
@@ -8187,7 +8487,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100302",
@@ -8214,7 +8515,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100303",
@@ -8241,7 +8543,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100304",
@@ -8268,7 +8571,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100305",
@@ -8295,7 +8599,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100306",
@@ -8322,7 +8627,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100307",
@@ -8349,7 +8655,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100308",
@@ -8376,7 +8683,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care"
+      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100309",
@@ -8403,7 +8711,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100310",
@@ -8430,7 +8739,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100311",
@@ -8457,7 +8767,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100312",
@@ -8484,7 +8795,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100313",
@@ -8511,7 +8823,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100314",
@@ -8538,7 +8851,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100315",
@@ -8565,7 +8879,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100316",
@@ -8592,7 +8907,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100317",
@@ -8619,7 +8935,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones"
+      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100318",
@@ -8646,7 +8963,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100319",
@@ -8673,7 +8991,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100320",
@@ -8700,7 +9019,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100321",
@@ -8727,7 +9047,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100322",
@@ -8754,7 +9075,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100323",
@@ -8781,7 +9103,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100324",
@@ -8808,7 +9131,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100325",
@@ -8835,7 +9159,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100326",
@@ -8862,7 +9187,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100327",
@@ -8889,7 +9215,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care"
+      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100328",
@@ -8916,7 +9243,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical"
+      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100329",
@@ -8943,7 +9271,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100330",
@@ -8970,7 +9299,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones"
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100331",
@@ -8997,7 +9327,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100332",
@@ -9024,7 +9355,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical"
+      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100333",
@@ -9051,7 +9383,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100334",
@@ -9078,7 +9411,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100335",
@@ -9105,7 +9439,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100336",
@@ -9132,7 +9467,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100337",
@@ -9159,7 +9495,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100338",
@@ -9186,7 +9523,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy"
+      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100339",
@@ -9213,7 +9551,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100340",
@@ -9240,7 +9579,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100341",
@@ -9267,7 +9607,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100342",
@@ -9294,7 +9635,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical"
+      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100343",
@@ -9321,7 +9663,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100344",
@@ -9348,7 +9691,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, Water, Environment & Waste Management"
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100345",
@@ -9375,7 +9719,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100346",
@@ -9402,7 +9747,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100347",
@@ -9429,7 +9775,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100348",
@@ -9456,7 +9803,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100349",
@@ -9483,7 +9831,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100350",
@@ -9510,7 +9859,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100351",
@@ -9537,7 +9887,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100352",
@@ -9564,7 +9915,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100353",
@@ -9591,7 +9943,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100354",
@@ -9618,7 +9971,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Robotics, Automation & Drones, Digital Technologies, AI & Software"
+      "secondary_sector": "Robotics, Automation & Drones, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100355",
@@ -9645,7 +9999,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100356",
@@ -9672,7 +10027,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100357",
@@ -9699,7 +10055,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100358",
@@ -9726,7 +10083,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care"
+      "secondary_sector": "MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100359",
@@ -9753,7 +10111,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100360",
@@ -9780,7 +10139,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100361",
@@ -9807,7 +10167,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100362",
@@ -9834,7 +10195,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100363",
@@ -9861,7 +10223,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software"
+      "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100364",
@@ -9888,7 +10251,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software"
+      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100365",
@@ -9915,7 +10279,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences"
+      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100366",
@@ -9942,7 +10307,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100367",
@@ -9969,7 +10335,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100368",
@@ -9996,7 +10363,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100369",
@@ -10023,7 +10391,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100370",
@@ -10050,7 +10419,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100371",
@@ -10077,7 +10447,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100372",
@@ -10104,7 +10475,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy"
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100373",
@@ -10131,7 +10503,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Energy, Climate & Sustainability"
+      "secondary_sector": "MedTech & Health Care, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100374",
@@ -10158,7 +10531,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Consumer & Lifestyle Products"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100375",
@@ -10185,7 +10559,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100376",
@@ -10212,7 +10587,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100377",
@@ -10239,7 +10615,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100378",
@@ -10266,7 +10643,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100379",
@@ -10293,7 +10671,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100380",
@@ -10320,7 +10699,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100381",
@@ -10347,7 +10727,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100382",
@@ -10374,7 +10755,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100383",
@@ -10401,7 +10783,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100384",
@@ -10428,7 +10811,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100385",
@@ -10455,7 +10839,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100386",
@@ -10482,7 +10867,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100387",
@@ -10509,7 +10895,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100388",
@@ -10536,7 +10923,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management"
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100389",
@@ -10563,7 +10951,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100390",
@@ -10590,7 +10979,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100391",
@@ -10617,7 +11007,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100392",
@@ -10644,7 +11035,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management"
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100393",
@@ -10671,7 +11063,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100394",
@@ -10698,7 +11091,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100395",
@@ -10725,7 +11119,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100396",
@@ -10752,7 +11147,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities"
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100397",
@@ -10779,7 +11175,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100398",
@@ -10806,7 +11203,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100399",
@@ -10833,7 +11231,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100400",
@@ -10860,7 +11259,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100401",
@@ -10887,7 +11287,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy, Food Technology, Climate & Sustainability"
+      "secondary_sector": "Agribusiness & Rural Economy, Food Technology, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100402",
@@ -10914,7 +11315,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100403",
@@ -10941,7 +11343,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy"
+      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100404",
@@ -10968,7 +11371,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability"
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100405",
@@ -10995,7 +11399,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100406",
@@ -11022,7 +11427,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100407",
@@ -11049,7 +11455,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100408",
@@ -11076,7 +11483,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management"
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100409",
@@ -11103,7 +11511,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100410",
@@ -11130,7 +11539,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100411",
@@ -11157,7 +11567,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100412",
@@ -11184,7 +11595,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences"
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100413",
@@ -11211,7 +11623,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100414",
@@ -11238,7 +11651,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100415",
@@ -11265,7 +11679,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100416",
@@ -11292,7 +11707,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100417",
@@ -11319,7 +11735,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care"
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100418",
@@ -11346,7 +11763,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100419",
@@ -11373,7 +11791,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability"
+      "secondary_sector": "Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100420",
@@ -11400,7 +11819,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100421",
@@ -11427,7 +11847,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100422",
@@ -11454,7 +11875,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100423",
@@ -11481,7 +11903,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100424",
@@ -11508,7 +11931,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100425",
@@ -11535,7 +11959,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy"
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100426",
@@ -11562,7 +11987,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software"
+      "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100427",
@@ -11589,7 +12015,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy"
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100428",
@@ -11616,7 +12043,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software"
+      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100429",
@@ -11643,7 +12071,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100430",
@@ -11670,7 +12099,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences"
+      "secondary_sector": "Biotechnology & Life Sciences",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100431",
@@ -11697,7 +12127,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software"
+      "secondary_sector": "Digital Technologies, AI & Software",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100432",
@@ -11724,7 +12155,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified"
+      "secondary_sector": "Not Specified",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100433",
@@ -11751,7 +12183,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Agribusiness & Rural Economy"
+      "secondary_sector": "Agribusiness & Rural Economy",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100434",
@@ -11778,7 +12211,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products"
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100435",
@@ -11805,7 +12239,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy, MedTech & Health Care, Consumer & Lifestyle Products"
+      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy, MedTech & Health Care, Consumer & Lifestyle Products",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100436",
@@ -11832,7 +12267,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Food Technology, Energy, Climate & Sustainability"
+      "secondary_sector": "Food Technology, Energy, Climate & Sustainability",
+      "column_1": ""
     },
     {
       "technology_id": "RINK-100437",
@@ -11859,7 +12295,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Advanced Materials & Chemical"
+      "secondary_sector": "Advanced Materials & Chemical",
+      "column_1": ""
     }
   ],
   "institutions": [
