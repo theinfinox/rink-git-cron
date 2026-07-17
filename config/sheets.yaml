@@ -68,3 +68,11 @@ sheets:
       - name: institutions
         gid: 1979443544
         imageColumns: institution_logo_url
+  - name: services
+    spreadsheetId: 1E9Pk8ZvWxlVju4H-rJ9KtbrbWKwuSZnreDhuezXbnoE
+    tabs:
+      - name: main_services
+        gid: 0
+        excludeColumns:
+          - added_time
+          - ip_address

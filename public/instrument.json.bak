@@ -22576,186 +22576,117 @@
   ],
   "instituitiion_list": [
     {
-      "institution_id": "INSTITUTE-100001",
       "institution_name": "Cochin University of Science and Technology",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_univ",
       "reason_classification": "Kerala State Public University"
     },
     {
-      "institution_id": "INSTITUTE-100002",
       "institution_name": "Kerala University",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_univ",
       "reason_classification": "Kerala State Public University"
     },
     {
-      "institution_id": "INSTITUTE-100003",
       "institution_name": "Mahatma Gandhi University",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_univ",
       "reason_classification": "Kerala State Public University"
     },
     {
-      "institution_id": "INSTITUTE-100004",
       "institution_name": "ICAR-Central Institute of Fisheries Technology",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "icar_lab",
       "reason_classification": "ICAR (Indian Council of Agricultural Research)"
     },
     {
-      "institution_id": "INSTITUTE-100005",
       "institution_name": "Indian Institute of Technology Palakkad",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "ini_iit",
       "reason_classification": "Institute of National Importance (IIT)"
     },
     {
-      "institution_id": "INSTITUTE-100006",
       "institution_name": "ICAR-Indian Institute of Spices Research",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "icar_lab",
       "reason_classification": "ICAR"
     },
     {
-      "institution_id": "INSTITUTE-100007",
       "institution_name": "Jawaharlal Nehru Tropical Botanical Garden...",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "kscste_center",
       "reason_classification": "Under KSCSTE (Kerala State Council)"
     },
     {
-      "institution_id": "INSTITUTE-100008",
       "institution_name": "Institute of Advanced VIrology",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_gov_other",
       "reason_classification": "Autonomous body under Govt of Kerala"
     },
     {
-      "institution_id": "INSTITUTE-100009",
       "institution_name": "Kerala Forest Research Institute (KSCSTE-KFRI)",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "kscste_center",
       "reason_classification": "Under KSCSTE"
     },
     {
-      "institution_id": "INSTITUTE-100010",
       "institution_name": "Central Coir Research Institute",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "industry_board",
       "reason_classification": "Under Coir Board (Ministry of MSME, Govt of India)"
     },
     {
-      "institution_id": "INSTITUTE-100011",
       "institution_name": "National Institute of Technology Calicut (NITC)",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "ini_nit",
       "reason_classification": "Institute of National Importance (NIT)"
     },
     {
-      "institution_id": "INSTITUTE-100012",
       "institution_name": "Centre for Water Resources Development...",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "kscste_center",
       "reason_classification": "Under KSCSTE (CWRDM)"
     },
     {
-      "institution_id": "INSTITUTE-100013",
       "institution_name": "ICAR -Central Tuber Crops ResearchInstitute...",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "icar_lab",
       "reason_classification": "ICAR"
     },
     {
-      "institution_id": "INSTITUTE-100014",
       "institution_name": "ICAR -Central Plantation Crops Research...",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "icar_lab",
       "reason_classification": "ICAR"
     },
     {
-      "institution_id": "INSTITUTE-100015",
       "institution_name": "ICAR-Central Marine Fisheries Research Institute",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "icar_lab",
       "reason_classification": "ICAR"
     },
     {
-      "institution_id": "INSTITUTE-100016",
       "institution_name": "Rajiv Gandhi Centre, for Bio-Technology",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "central_gov_other",
       "reason_classification": "Under Dept of Biotechnology (Govt of India)"
     },
     {
-      "institution_id": "INSTITUTE-100017",
       "institution_name": "Sree Chitra Tirunal Institute for Medical Sciences...",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "ini_sctimst",
       "reason_classification": "Institute of National Importance (Medical)"
     },
     {
-      "institution_id": "INSTITUTE-100018",
       "institution_name": "University of Calicut",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_univ",
       "reason_classification": "Kerala State Public University"
     },
     {
-      "institution_id": "INSTITUTE-100019",
       "institution_name": "Kerala Veterinary and Animal Sciences University",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "state_univ",
       "reason_classification": "Kerala State Public University"
     },
     {
-      "institution_id": "INSTITUTE-100020",
       "institution_name": "Indian Institute of Science Education and Research",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "ini_iiser",
       "reason_classification": "Institute of National Importance (IISER)"
     },
     {
-      "institution_id": "INSTITUTE-100021",
       "institution_name": "National Centre for Earth Science Studies",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "central_gov_other",
       "reason_classification": "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014"
     },
     {
-      "institution_id": "INSTITUTE-100022",
       "institution_name": "Dr. Moopen's iNEST",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "pvt_incubator",
       "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College"
     },
     {
-      "institution_id": "INSTITUTE-100023",
       "institution_name": "CEPCI Laboratory & Research Institute",
-      "latitude": "",
-      "longitude": "",
       "correct_provider_key": "industry_board",
       "reason_classification": "Cashew Export Promotion Council of India"
     }
