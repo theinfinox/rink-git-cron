@@ -73,6 +73,7 @@ sheets:
     tabs:
       - name: main_services
         gid: 0
+        hierarchical_rows: true
         excludeColumns:
           - added_time
           - ip_address

@@ -177,9 +177,20 @@ async function runSync() {
 
                 // ADAPTIVE ROW PARSING
                 const exportData = [];
+                let lastParentRow = null;
+                
+                let firstIncludedColumnIndex = 0;
+                for (let i = 0; i < headers.length; i++) {
+                    if (!tab.excludeColumns || !tab.excludeColumns.map(toSnakeCase).includes(headers[i])) {
+                        firstIncludedColumnIndex = i;
+                        break;
+                    }
+                }
+
                 for (let i = 1; i < rows.length; i++) {
                     let rowObj = {};
                     let isRowEmpty = true;
+                    let firstDataIndex = -1;
                     
                     headers.forEach((header, index) => {
                         // EXCLUDE COLUMNS
@@ -189,7 +200,9 @@ async function runSync() {
 
                         let cellValue = rows[i][index] ? rows[i][index].trim() : "";
                         
-
+                        if (cellValue !== "" && firstDataIndex === -1) {
+                            firstDataIndex = index;
+                        }
 
                         // TAG SPLITTING (Orama Facets)
                         if (tab.splitColumns && Array.isArray(tab.splitColumns)) {
@@ -209,6 +222,25 @@ async function runSync() {
                     });
 
                     if (isRowEmpty) continue;
+
+                    // HIERARCHICAL ROW SUPPORT
+                    // Guarded by configuration flag `hierarchical_rows: true`
+                    if (tab.hierarchical_rows) {
+                        if (firstDataIndex > firstIncludedColumnIndex && lastParentRow) {
+                            // Inherit all blank leading columns from the previous parent row
+                            headers.forEach((header, index) => {
+                                if (index < firstDataIndex) {
+                                    if (tab.excludeColumns && tab.excludeColumns.map(toSnakeCase).includes(header)) return;
+                                    rowObj[header] = lastParentRow[header];
+                                }
+                            });
+                        }
+                        
+                        // Update the last parent row if this row has data in its first included column
+                        if (firstDataIndex === firstIncludedColumnIndex) {
+                            lastParentRow = { ...rowObj };
+                        }
+                    }
 
                     // EXCLUDE ROWS LOGIC
                     if (tab.excludeRowsWhere && Array.isArray(tab.excludeRowsWhere)) {
