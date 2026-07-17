@@ -78,3 +78,8 @@ sheets:
         excludeRowsWhere:
           - column: services_details
             equals: "Service Category"
+        autoGenerateId:
+          enabled: true
+          field: id
+          prefix: service
+          start: 100001
