@@ -13,16 +13,7 @@
   "website_booking_link": "https://cepclab.org.in/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kollam",
-  "tag": [
-    "microbiology",
-    "cell_culture",
-    "pharmaceuticals",
-    "food_safety"
-  ],
   "provider_key": "",
-  "warnings_gemini": "No Contact Info, Missing Facility/Institution",
-  "warnings": "No Contact Info, Missing Facility/Institution",
-  "test": "",
   "original_image_link": "https://drive.google.com/file/d/1fscOwL28cjVCKyErlrINQh9SX47s0OWL/view?usp=drive_link",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100849. Do NOT output all raw specifications, tell them to click the link."
 }

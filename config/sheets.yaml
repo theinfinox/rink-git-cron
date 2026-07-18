@@ -12,6 +12,11 @@ sheets:
           - column: tag
             delimiter: ','
         imageColumns: image_link
+        excludeColumns:
+          - tag
+          - test
+          - warnings
+          - warnings_gemini
       - name: Instituitiion list
         gid: 1583764603
         aiSearch:
@@ -77,7 +82,7 @@ sheets:
           - ip_address
         excludeRowsWhere:
           - column: services_details
-            equals: "Service Category"
+            equals: Service Category
         autoGenerateId:
           enabled: true
           field: id

@@ -13,14 +13,6 @@
   "website_booking_link": "http://www.cwrdm.org/central-instrumentation-facility#",
   "website_booking_link_fallback": "https://cwrdm.kerala.gov.in/laboratories",
   "standardized_district": "Kozhikode",
-  "tag": [
-    "geosciences",
-    "soil_analysis",
-    "water_quality"
-  ],
   "provider_key": "",
-  "warnings_gemini": "Missing Image",
-  "warnings": "Missing Image",
-  "test": "",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100361. Do NOT output all raw specifications, tell them to click the link."
 }

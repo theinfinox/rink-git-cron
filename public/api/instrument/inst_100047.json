@@ -13,15 +13,7 @@
   "website_booking_link": "https://iuic.mgu.ac.in/sample-analysis/",
   "website_booking_link_fallback": "",
   "standardized_district": "Kottayam",
-  "tag": [
-    "food_safety",
-    "pharmaceuticals",
-    "analytical_chem"
-  ],
   "provider_key": "",
-  "warnings_gemini": "CLEAN",
-  "warnings": "CLEAN",
-  "test": "",
   "original_image_link": "https://drive.google.com/file/d/18qApNDwDdm6pXhJHBtMWe2Nt1gW4b8-i/view?usp=sharing",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100047. Do NOT output all raw specifications, tell them to click the link."
 }

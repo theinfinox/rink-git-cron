@@ -13,16 +13,7 @@
   "website_booking_link": "https://www.iisertvm.ac.in/pages/facilities",
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/45",
   "standardized_district": "Thiruvananthapuram",
-  "tag": [
-    "nanotech",
-    "metallurgy",
-    "analytical_chem",
-    "geosciences"
-  ],
   "provider_key": "",
-  "warnings_gemini": "CLEAN",
-  "warnings": "CLEAN",
-  "test": "",
   "original_image_link": "https://drive.google.com/file/d/17H6Xq4avs7RntB7c6NG9XIs5S6jml7k1/view?usp=drive_link",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100687. Do NOT output all raw specifications, tell them to click the link."
 }

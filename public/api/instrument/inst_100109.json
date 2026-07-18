@@ -13,16 +13,7 @@
   "website_booking_link": "https://cift.res.in/how-to-use-the-facility",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": [
-    "analytical_chem",
-    "food_safety",
-    "pharmaceuticals",
-    "water_quality"
-  ],
   "provider_key": "",
-  "warnings_gemini": "CLEAN",
-  "warnings": "CLEAN",
-  "test": "",
   "original_image_link": "https://drive.google.com/file/d/1t6-gkA56yoIrTyVgPLOUbBcBQNs6e6Md/view?usp=sharing",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100109. Do NOT output all raw specifications, tell them to click the link."
 }

@@ -13,15 +13,6 @@
   "website_booking_link": "https://cift.res.in/how-to-use-the-facility",
   "website_booking_link_fallback": "",
   "standardized_district": "Ernakulam",
-  "tag": [
-    "polymers",
-    "pharmaceuticals",
-    "analytical_chem",
-    "battery_tech"
-  ],
   "provider_key": "",
-  "warnings_gemini": "Missing Image",
-  "warnings": "Missing Image",
-  "test": "",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100105. Do NOT output all raw specifications, tell them to click the link."
 }
