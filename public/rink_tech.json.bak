@@ -102,7 +102,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -152,7 +152,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -347,7 +347,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Not Specified",
       "column_1": ""
     },
     {
@@ -422,7 +422,7 @@
       "image_url": "/assets/rink_tech/1EZmUdfKdBz6lhkbdP6XcqZozGOxeoO8o.webp",
       "startup_potential": "High",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1EZmUdfKdBz6lhkbdP6XcqZozGOxeoO8o/view?usp=sharing"
     },
@@ -805,7 +805,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -923,7 +923,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -980,7 +980,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1009,7 +1009,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -1038,7 +1038,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1067,7 +1067,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1096,7 +1096,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1125,7 +1125,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -1154,7 +1154,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -1214,7 +1214,7 @@
       "image_url": "/assets/rink_tech/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB.webp",
       "startup_potential": "High",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB/view?usp=drive_link"
     },
@@ -1242,7 +1242,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -1269,7 +1269,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -1350,7 +1350,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1376,7 +1376,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1403,7 +1403,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -1430,7 +1430,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -1457,7 +1457,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1510,7 +1510,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1536,7 +1536,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1642,7 +1642,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1668,7 +1668,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1694,7 +1694,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1720,7 +1720,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -1749,7 +1749,7 @@
       "image_url": "/assets/rink_tech/1FQWmKzameszjpgcGMVbqBw_NWyMuINal.webp",
       "startup_potential": "High",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/1FQWmKzameszjpgcGMVbqBw_NWyMuINal/view?usp=drive_link"
     },
@@ -1807,7 +1807,7 @@
       "image_url": "/assets/rink_tech/129O44nAlXYmO2GlySEEJBzPMrc0rrwiR.webp",
       "startup_potential": "High",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": "",
       "original_image_url": "https://drive.google.com/file/d/129O44nAlXYmO2GlySEEJBzPMrc0rrwiR/view?usp=drive_link"
     },
@@ -1866,7 +1866,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1923,7 +1923,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -1949,7 +1949,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2001,7 +2001,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -2027,7 +2027,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2053,7 +2053,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2079,7 +2079,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2286,7 +2286,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2367,7 +2367,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2395,7 +2395,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -2423,7 +2423,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Robotics, Automation & Drones, Food Technology, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2532,7 +2532,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Agribusiness & Rural Economy, Robotics, Automation & Drones, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -2559,7 +2559,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -2613,7 +2613,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -2639,7 +2639,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Food Technology",
       "column_1": ""
     },
     {
@@ -2667,7 +2667,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -2721,7 +2721,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2775,7 +2775,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -2802,7 +2802,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Robotics, Automation & Drones",
+      "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2855,7 +2855,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -2882,7 +2882,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2936,7 +2936,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -2991,7 +2991,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy, Biotechnology & Life Sciences",
+      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -3046,7 +3046,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -3316,7 +3316,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -3344,7 +3344,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -3372,7 +3372,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -3399,7 +3399,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -3670,7 +3670,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy",
+      "secondary_sector": "Energy, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -3751,7 +3751,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -3833,7 +3833,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -3860,7 +3860,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -3887,7 +3887,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care",
+      "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -3915,7 +3915,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -3943,7 +3943,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemicals, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -3971,7 +3971,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -4028,7 +4028,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical",
+      "secondary_sector": "Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -4113,7 +4113,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care, Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, MedTech & Health Care, Water, Environment & Waste Management, Energy, Climate & Sustainability, Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -4141,7 +4141,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
+      "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software, Robotics, Automation & Drones, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -4169,7 +4169,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products",
+      "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Automotive, Mobility & Aerospace, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -4197,7 +4197,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, MedTech & Health Care",
+      "secondary_sector": "Water, Environment & Waste Management, Food Technology, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4224,7 +4224,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4280,7 +4280,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Energy",
       "column_1": ""
     },
     {
@@ -4309,7 +4309,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Registration Filed",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products",
+      "secondary_sector": "Digital Technologies, AI & Software, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -4338,7 +4338,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -4367,7 +4367,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4424,7 +4424,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4453,7 +4453,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -4482,7 +4482,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4510,7 +4510,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Water, Environment & Waste Management, MedTech & Health Care, Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4568,7 +4568,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4598,7 +4598,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy, Advanced Materials & Chemical",
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4685,7 +4685,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4742,7 +4742,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -4771,7 +4771,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Food Technology, Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4800,7 +4800,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4829,7 +4829,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Food Technology, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4858,7 +4858,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -4947,7 +4947,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5008,7 +5008,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5038,7 +5038,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5127,7 +5127,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5185,7 +5185,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5214,7 +5214,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5244,7 +5244,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5274,7 +5274,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Advanced Materials & Chemical, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5522,7 +5522,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5552,7 +5552,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy, Energy, Climate & Sustainability, Food Technology",
       "column_1": ""
     },
     {
@@ -5581,7 +5581,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -5610,7 +5610,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5639,7 +5639,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -5669,7 +5669,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -5730,7 +5730,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5760,7 +5760,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Food Technology",
       "column_1": ""
     },
     {
@@ -5789,7 +5789,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5818,7 +5818,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5848,7 +5848,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5879,7 +5879,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -5939,7 +5939,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -5969,7 +5969,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -6057,7 +6057,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6086,7 +6086,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability",
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6115,7 +6115,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -6177,7 +6177,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6327,7 +6327,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care",
+      "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -6446,7 +6446,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6506,7 +6506,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -6569,7 +6569,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -6600,7 +6600,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -6630,7 +6630,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6660,7 +6660,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6690,7 +6690,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Food Technology, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -6721,7 +6721,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -6751,7 +6751,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -6783,7 +6783,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -6813,7 +6813,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences, MedTech & Health Care Systems",
+      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -6843,7 +6843,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -6965,7 +6965,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
+      "secondary_sector": "Agribusiness & Rural Economy, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -6996,7 +6996,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -7057,7 +7057,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -7088,7 +7088,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7119,7 +7119,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -7151,7 +7151,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Digital Technologies, AI & Software, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -7181,7 +7181,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7244,7 +7244,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -7370,7 +7370,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7402,7 +7402,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Food Technology, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7433,7 +7433,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7464,7 +7464,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -7496,7 +7496,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -7528,7 +7528,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, MedTech & Health Care",
+      "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -7559,7 +7559,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7589,7 +7589,7 @@
       "image_url": "Not Specified",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy, Digital Technologies, AI & Software",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -7648,7 +7648,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -7675,7 +7675,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -7703,7 +7703,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -7731,7 +7731,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care",
+      "secondary_sector": "Water, Environment & Waste Management, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -7759,7 +7759,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -7787,7 +7787,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -7815,7 +7815,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -7843,7 +7843,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -7871,7 +7871,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -7899,7 +7899,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -7927,7 +7927,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -7955,7 +7955,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -7983,7 +7983,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8011,7 +8011,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8039,7 +8039,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Consumer & Lifestyle Products Engineering",
       "column_1": ""
     },
     {
@@ -8067,7 +8067,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8095,7 +8095,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemicals",
       "column_1": ""
     },
     {
@@ -8151,7 +8151,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8179,7 +8179,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8207,7 +8207,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8235,7 +8235,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -8263,7 +8263,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care",
+      "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -8291,7 +8291,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8319,7 +8319,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8347,7 +8347,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability, Consumer & Lifestyle Products, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -8375,7 +8375,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8403,7 +8403,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -8431,7 +8431,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8459,7 +8459,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software, Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -8487,7 +8487,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -8515,7 +8515,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8543,7 +8543,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -8571,7 +8571,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -8599,7 +8599,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8627,7 +8627,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8683,7 +8683,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -8711,7 +8711,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8739,7 +8739,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -8767,7 +8767,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -8795,7 +8795,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -8823,7 +8823,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8851,7 +8851,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8879,7 +8879,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -8907,7 +8907,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -8935,7 +8935,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -8991,7 +8991,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9019,7 +9019,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9047,7 +9047,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9075,7 +9075,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -9131,7 +9131,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9159,7 +9159,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9187,7 +9187,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -9215,7 +9215,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care",
+      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9243,7 +9243,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9271,7 +9271,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9299,7 +9299,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+      "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9327,7 +9327,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -9355,7 +9355,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -9383,7 +9383,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -9411,7 +9411,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -9439,7 +9439,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Advanced Materials & Chemicals, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -9523,7 +9523,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -9551,7 +9551,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -9579,12 +9579,12 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
       "technology_id": "RINK-100341",
-      "technology_name": "6-FLUORO-4-HYDROXY-2-OXO-1,2-DIHYDROQUINOLINE-3-CARBOXAMIDE DERIVATIVES AS CHEMOTHERAPEUTIC AGENTS AND SYNTHETIC METHODS THEREOF",
+      "technology_name": "Precision-Fluorinated Cancer Drug Platform",
       "institution": "National Institute of Technology Calicut (NIT Calicut)",
       "primary_sector": "Biotechnology & Life Sciences",
       "technology_type": "Chemical Synthesis / Chemotherapeutic Formulation",
@@ -9607,7 +9607,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -9635,7 +9635,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -9663,7 +9663,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "MedTech & Health Care, Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -9691,7 +9691,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, Water, Environment & Waste Management",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -9719,7 +9719,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9747,7 +9747,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -9775,7 +9775,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -9803,7 +9803,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -9831,7 +9831,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9859,7 +9859,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -9887,7 +9887,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9943,7 +9943,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -9971,7 +9971,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Robotics, Automation & Drones, Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -9999,7 +9999,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -10027,7 +10027,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Food Technology",
       "column_1": ""
     },
     {
@@ -10055,7 +10055,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
+      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10083,7 +10083,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care",
+      "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10111,7 +10111,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -10139,7 +10139,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10167,7 +10167,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -10195,7 +10195,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10251,7 +10251,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10279,7 +10279,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -10307,7 +10307,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -10335,7 +10335,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Food Technology, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -10363,7 +10363,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Advanced Materials & Chemical, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -10391,7 +10391,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -10447,7 +10447,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -10475,7 +10475,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
+      "secondary_sector": "MedTech & Health Care, Robotics, Automation & Drones, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -10503,7 +10503,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "MedTech & Health Care, Energy, Climate & Sustainability",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -10531,7 +10531,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Consumer & Lifestyle Products",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -10559,7 +10559,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
+      "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -10587,7 +10587,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10615,7 +10615,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -10643,7 +10643,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Advanced Materials & Chemicals, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10671,7 +10671,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10699,7 +10699,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10727,7 +10727,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10755,7 +10755,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10811,7 +10811,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10839,7 +10839,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10867,7 +10867,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Advanced Materials & Chemical, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -10895,7 +10895,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -10923,7 +10923,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10951,7 +10951,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -10979,7 +10979,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11007,7 +11007,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
+      "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
       "column_1": ""
     },
     {
@@ -11035,7 +11035,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
+      "secondary_sector": "Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11063,7 +11063,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
+      "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11091,7 +11091,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11119,7 +11119,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -11147,7 +11147,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Infrastructure, Construction & Smart Cities",
+      "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11175,7 +11175,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11203,7 +11203,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11231,7 +11231,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -11259,7 +11259,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11287,7 +11287,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy, Food Technology, Climate & Sustainability",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -11315,7 +11315,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -11343,7 +11343,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
+      "secondary_sector": "Food Technology, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy, Biotechnology & Life Sciences, Water, Environment & Waste Management, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -11371,7 +11371,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -11399,7 +11399,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11427,7 +11427,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
       "column_1": ""
     },
     {
@@ -11455,7 +11455,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -11483,7 +11483,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
+      "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11511,7 +11511,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -11539,7 +11539,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
+      "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -11567,7 +11567,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11595,7 +11595,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
+      "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -11623,7 +11623,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11651,7 +11651,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "MedTech & Health Care, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -11679,7 +11679,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11707,7 +11707,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11735,7 +11735,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management, Energy, Climate & Sustainability",
       "column_1": ""
     },
     {
@@ -11763,7 +11763,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -11791,7 +11791,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Energy, Climate & Sustainability",
+      "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
       "column_1": ""
     },
     {
@@ -11819,7 +11819,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11847,7 +11847,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11875,7 +11875,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11903,7 +11903,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -11931,7 +11931,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "MedTech & Health Care",
       "column_1": ""
     },
     {
@@ -11987,7 +11987,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software",
+      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -12015,7 +12015,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
+      "secondary_sector": "Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -12043,7 +12043,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -12071,7 +12071,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Not Specified",
+      "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products",
       "column_1": ""
     },
     {
@@ -12099,7 +12099,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Biotechnology & Life Sciences",
+      "secondary_sector": "MedTech & Health Care, Biotechnology & Life Sciences",
       "column_1": ""
     },
     {
@@ -12127,7 +12127,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
-      "secondary_sector": "Digital Technologies, AI & Software",
+      "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
       "column_1": ""
     },
     {
@@ -12183,7 +12183,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Agribusiness & Rural Economy",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -12211,7 +12211,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
+      "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Advanced Materials & Chemical",
       "column_1": ""
     },
     {
@@ -12239,7 +12239,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy, MedTech & Health Care, Consumer & Lifestyle Products",
+      "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -12267,7 +12267,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Food Technology, Energy, Climate & Sustainability",
+      "secondary_sector": "Food Technology, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
       "column_1": ""
     },
     {
@@ -12295,7 +12295,7 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "",
-      "secondary_sector": "Advanced Materials & Chemical",
+      "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
       "column_1": ""
     }
   ],
