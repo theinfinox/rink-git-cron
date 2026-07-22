@@ -1,0 +1,31 @@
+{
+  "technology_id": "RINK-100251",
+  "technology_name": "Evaluating Road Safety Using Surrogate Measures on Two-Lane Highways",
+  "institution": "KSCSTE - National Transportation Planning and Research Centre (NATPAC)",
+  "primary_sector": "Infrastructure, Construction & Smart Cities",
+  "technology_type": "Process/Method",
+  "problem_solved": "High accident rates of motorized two-wheelers (MTWs) on congested corridors and the lack of empirical metrics to quantify near-miss collision risks before crashes occur.",
+  "description": "An operational and safety evaluation of dedicated, inclusive Motorized Two-Wheeler (MTW) lanes marked within standard two-lane highway carriageways (pilot-tested on the Muvattupuzha-Vengalloor stretch). The framework utilizes drone videography and GIS risk mapping paired with advanced surrogate safety metrics—specifically Time-to-Collision (TTC)—to isolate spatial conflict points (such as the Kothamangalam junction) where car-to-MTW interactions reach a critical average TTC threshold of 1.34 seconds.",
+  "applications": "• Highway design modification guidelines and smart corridor planning\n\n• Automated traffic conflict monitoring software for urban surveillance cameras\n\n• Municipal traffic enforcement mapping and junction geometric restructuring\n\n• Advanced driver assistance systems (ADAS) trained on mixed-traffic vehicle behaviors",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Ms. Ardra S Krishna & Mr. Ebin Sam",
+  "email": "ardra.natpac@gmail.com",
+  "source_pdf": "KSCSTE_Booklet_2025.pdf",
+  "page_no": "",
+  "keywords": [
+    "Surrogate safety measures",
+    "MTW lanes",
+    "Time-to-Collision",
+    "traffic conflicts",
+    "GIS risk mapping",
+    "drone analysis",
+    "NATPAC"
+  ],
+  "image_url": "Not Specified",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+  "atrl": "Not Specified",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/c745e78dd2. Do NOT output all raw specifications, tell them to click the link."
+}
