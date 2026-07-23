@@ -24,8 +24,8 @@
       "image_url": "",
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
-      "secondary_sector": "#REF!",
-      "column_1": ""
+      "secondary_sector": "Palmyra & Date Palm Cultivation, Agro-Processing & Food Manufacturing, Functional Beverage Industry, Plastics & Polymer Molding, Cold Chain & Thermal Equipment Manufacturing, Farm Mechanization & Agri-Equipment, Nutraceuticals & Bio-Extracts",
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100002",
@@ -52,7 +52,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100003",
@@ -78,7 +78,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100004",
@@ -103,7 +103,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100005",
@@ -128,7 +128,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100006",
@@ -153,7 +153,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100007",
@@ -178,7 +178,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100008",
@@ -202,7 +202,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100009",
@@ -226,7 +226,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100010",
@@ -250,7 +250,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100011",
@@ -275,7 +275,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100012",
@@ -300,7 +300,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100013",
@@ -324,7 +324,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100014",
@@ -348,7 +348,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Not Specified",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100015",
@@ -373,7 +373,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100016",
@@ -397,7 +397,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/18k5da58rgVPZQzMpIgEpe-pyQJXQqt01/view?usp=drive_link"
     },
     {
@@ -423,7 +423,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1EZmUdfKdBz6lhkbdP6XcqZozGOxeoO8o/view?usp=sharing"
     },
     {
@@ -449,7 +449,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1suQEvA-P7tWwrPBd1Cg5rCBOSslnhoXF/view?usp=sharing"
     },
     {
@@ -475,7 +475,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1E13Kf90gua9FQeP53cbIyv496KcteN9Z/view?usp=sharing"
     },
     {
@@ -500,7 +500,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/140oqYWgwKX9A181M4wd4WKnT4-nNwPwU/view?usp=sharing"
     },
     {
@@ -525,7 +525,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/11K7r3G5yxc4wRwdbuy5TNArGVRWAhhO8/view?usp=sharing"
     },
     {
@@ -551,7 +551,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1q5CNKf9Besd8O_DwDMh435IjzBhHMy8R/view?usp=drive_link"
     },
     {
@@ -576,7 +576,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100024",
@@ -601,7 +601,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100025",
@@ -626,7 +626,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100026",
@@ -656,7 +656,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100027",
@@ -686,7 +686,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100028",
@@ -716,7 +716,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100029",
@@ -745,7 +745,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100030",
@@ -776,7 +776,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/11oU89lmp8Rd9yvO83eiHGOdKSVqAMBbZ/view?usp=drive_link"
     },
     {
@@ -806,7 +806,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100032",
@@ -835,7 +835,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100033",
@@ -864,7 +864,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/19dUseGXZ6XJTUKNvaxr-5aMb-HfMAEHw/view?usp=drive_link"
     },
     {
@@ -894,7 +894,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, MedTech & Health Care",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1rl9K59pAD9OfPGL0dzZ0ZV_3kBkLsxur/view?usp=drive_link"
     },
     {
@@ -924,7 +924,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100036",
@@ -953,7 +953,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100037",
@@ -981,7 +981,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100038",
@@ -1010,7 +1010,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100039",
@@ -1039,7 +1039,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100040",
@@ -1068,7 +1068,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100041",
@@ -1097,7 +1097,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100042",
@@ -1126,7 +1126,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100043",
@@ -1155,7 +1155,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100044",
@@ -1184,7 +1184,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1nTBJFqXBno_ftpYLVVZ8c2VaPUPxloi7/view?usp=drive_link"
     },
     {
@@ -1215,7 +1215,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/16YWqI0nLO7WvhEb1pUPU0zoCISDxo2LB/view?usp=drive_link"
     },
     {
@@ -1243,7 +1243,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100047",
@@ -1270,7 +1270,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100048",
@@ -1297,7 +1297,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100049",
@@ -1324,7 +1324,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100050",
@@ -1351,7 +1351,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100051",
@@ -1377,7 +1377,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100052",
@@ -1404,7 +1404,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100053",
@@ -1431,7 +1431,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100054",
@@ -1458,7 +1458,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100055",
@@ -1484,7 +1484,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100056",
@@ -1511,7 +1511,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100057",
@@ -1537,7 +1537,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100058",
@@ -1563,7 +1563,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100059",
@@ -1590,7 +1590,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100060",
@@ -1616,7 +1616,7 @@
       "startup_potential": "",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1FfISzW2rDBolXSsQ-0rP8Kqq2lR6kKkq/view?usp=drive_link"
     },
     {
@@ -1643,7 +1643,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100062",
@@ -1669,7 +1669,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100063",
@@ -1695,7 +1695,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100064",
@@ -1721,7 +1721,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100065",
@@ -1750,7 +1750,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1FQWmKzameszjpgcGMVbqBw_NWyMuINal/view?usp=drive_link"
     },
     {
@@ -1779,7 +1779,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1_jexWfq3AZaz9D-_6Tv9PvdH9TfUJ5er/view?usp=drive_link"
     },
     {
@@ -1808,7 +1808,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/129O44nAlXYmO2GlySEEJBzPMrc0rrwiR/view?usp=drive_link"
     },
     {
@@ -1837,7 +1837,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1KK6lw5P8I9kXXs5n6csQEKYvv4NQLn0r/view?usp=drive_link"
     },
     {
@@ -1867,7 +1867,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100070",
@@ -1896,7 +1896,7 @@
       "startup_potential": "High",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": "",
+      "atrl": "Not Specified",
       "original_image_url": "https://drive.google.com/file/d/1GVobXhM9slzuOemwrSJeKRazq4lrQWU7/view?usp=drive_link"
     },
     {
@@ -1924,7 +1924,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100072",
@@ -1950,7 +1950,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100073",
@@ -1976,7 +1976,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100074",
@@ -2002,7 +2002,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100075",
@@ -2028,7 +2028,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100076",
@@ -2054,7 +2054,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100077",
@@ -2080,7 +2080,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100078",
@@ -2106,7 +2106,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100079",
@@ -2132,7 +2132,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100080",
@@ -2158,7 +2158,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100081",
@@ -2184,7 +2184,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100082",
@@ -2210,7 +2210,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100083",
@@ -2235,7 +2235,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100084",
@@ -2261,7 +2261,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100085",
@@ -2287,7 +2287,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100086",
@@ -2313,7 +2313,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100087",
@@ -2341,7 +2341,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100088",
@@ -2368,7 +2368,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100089",
@@ -2396,7 +2396,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100090",
@@ -2424,7 +2424,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Robotics, Automation & Drones, Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100091",
@@ -2451,7 +2451,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100092",
@@ -2478,7 +2478,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100093",
@@ -2506,7 +2506,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100094",
@@ -2533,7 +2533,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Robotics, Automation & Drones, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100095",
@@ -2560,7 +2560,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100096",
@@ -2587,7 +2587,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100097",
@@ -2614,7 +2614,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100098",
@@ -2640,7 +2640,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Food Technology",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100099",
@@ -2668,7 +2668,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100100",
@@ -2695,7 +2695,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100101",
@@ -2722,7 +2722,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100102",
@@ -2749,7 +2749,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100103",
@@ -2776,7 +2776,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Biotechnology & Life Sciences, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100104",
@@ -2803,7 +2803,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100105",
@@ -2830,7 +2830,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100106",
@@ -2856,7 +2856,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100107",
@@ -2883,7 +2883,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100108",
@@ -2910,7 +2910,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100109",
@@ -2937,7 +2937,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100110",
@@ -2965,7 +2965,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100111",
@@ -2992,7 +2992,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100112",
@@ -3020,7 +3020,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100113",
@@ -3047,7 +3047,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100114",
@@ -3074,7 +3074,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100115",
@@ -3101,7 +3101,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100116",
@@ -3128,7 +3128,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100117",
@@ -3155,7 +3155,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100118",
@@ -3182,7 +3182,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100119",
@@ -3209,7 +3209,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100120",
@@ -3236,7 +3236,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100121",
@@ -3263,7 +3263,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100122",
@@ -3290,7 +3290,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100123",
@@ -3317,7 +3317,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100124",
@@ -3345,7 +3345,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy, MedTech & Health Care, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100125",
@@ -3373,7 +3373,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100126",
@@ -3400,7 +3400,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100127",
@@ -3428,7 +3428,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100128",
@@ -3456,7 +3456,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100129",
@@ -3483,7 +3483,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100130",
@@ -3510,7 +3510,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100131",
@@ -3538,7 +3538,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100132",
@@ -3565,7 +3565,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100133",
@@ -3592,7 +3592,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100134",
@@ -3619,7 +3619,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100135",
@@ -3645,7 +3645,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100136",
@@ -3671,7 +3671,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100137",
@@ -3698,7 +3698,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100138",
@@ -3725,7 +3725,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100139",
@@ -3752,7 +3752,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100140",
@@ -3779,7 +3779,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100141",
@@ -3806,7 +3806,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100142",
@@ -3834,7 +3834,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100143",
@@ -3861,7 +3861,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100144",
@@ -3888,7 +3888,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100145",
@@ -3916,7 +3916,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100146",
@@ -3944,7 +3944,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemicals, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100147",
@@ -3972,7 +3972,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100148",
@@ -4000,7 +4000,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100149",
@@ -4029,7 +4029,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100150",
@@ -4057,7 +4057,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100151",
@@ -4085,7 +4085,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100152",
@@ -4114,7 +4114,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, MedTech & Health Care, Water, Environment & Waste Management, Energy, Climate & Sustainability, Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100153",
@@ -4142,7 +4142,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software, Robotics, Automation & Drones, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100154",
@@ -4170,7 +4170,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Automotive, Mobility & Aerospace, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100155",
@@ -4198,7 +4198,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Food Technology, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100156",
@@ -4225,7 +4225,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100157",
@@ -4253,7 +4253,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100158",
@@ -4281,7 +4281,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Energy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100159",
@@ -4310,7 +4310,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Registration Filed",
       "secondary_sector": "Digital Technologies, AI & Software, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100160",
@@ -4339,7 +4339,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100161",
@@ -4368,7 +4368,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100162",
@@ -4397,7 +4397,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100163",
@@ -4425,7 +4425,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100164",
@@ -4454,7 +4454,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100165",
@@ -4483,7 +4483,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100166",
@@ -4511,7 +4511,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100167",
@@ -4540,7 +4540,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100168",
@@ -4569,7 +4569,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100169",
@@ -4599,7 +4599,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100170",
@@ -4628,7 +4628,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100171",
@@ -4657,7 +4657,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100172",
@@ -4686,7 +4686,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100173",
@@ -4715,7 +4715,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100174",
@@ -4743,7 +4743,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100175",
@@ -4772,7 +4772,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Consumer & Lifestyle Products, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100176",
@@ -4801,7 +4801,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100177",
@@ -4830,7 +4830,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100178",
@@ -4859,7 +4859,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100179",
@@ -4888,7 +4888,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100180",
@@ -4918,7 +4918,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100181",
@@ -4948,7 +4948,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100182",
@@ -4978,7 +4978,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100183",
@@ -5009,7 +5009,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100184",
@@ -5039,7 +5039,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100185",
@@ -5069,7 +5069,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100186",
@@ -5098,7 +5098,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100187",
@@ -5128,7 +5128,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100188",
@@ -5157,7 +5157,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100189",
@@ -5186,7 +5186,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100190",
@@ -5215,7 +5215,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100191",
@@ -5245,7 +5245,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100192",
@@ -5275,7 +5275,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Advanced Materials & Chemical, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100193",
@@ -5302,7 +5302,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100194",
@@ -5329,7 +5329,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100195",
@@ -5356,7 +5356,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100196",
@@ -5383,7 +5383,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100197",
@@ -5411,7 +5411,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100198",
@@ -5438,7 +5438,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100199",
@@ -5465,7 +5465,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100200",
@@ -5494,7 +5494,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100201",
@@ -5523,7 +5523,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100202",
@@ -5553,7 +5553,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy, Energy, Climate & Sustainability, Food Technology",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100203",
@@ -5582,7 +5582,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100204",
@@ -5611,7 +5611,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100205",
@@ -5640,7 +5640,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100206",
@@ -5670,7 +5670,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100207",
@@ -5701,7 +5701,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100208",
@@ -5731,7 +5731,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100209",
@@ -5761,7 +5761,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Biotechnology & Life Sciences, Food Technology",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100210",
@@ -5790,7 +5790,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100211",
@@ -5819,7 +5819,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100212",
@@ -5849,7 +5849,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100213",
@@ -5880,7 +5880,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100214",
@@ -5910,7 +5910,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100215",
@@ -5940,7 +5940,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100216",
@@ -5970,7 +5970,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100217",
@@ -5999,7 +5999,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100218",
@@ -6029,7 +6029,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100219",
@@ -6058,7 +6058,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100220",
@@ -6087,7 +6087,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100221",
@@ -6116,7 +6116,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100222",
@@ -6148,7 +6148,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100223",
@@ -6178,7 +6178,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100224",
@@ -6208,7 +6208,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100225",
@@ -6238,7 +6238,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100226",
@@ -6268,7 +6268,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100227",
@@ -6298,7 +6298,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "3"
     },
     {
       "technology_id": "RINK-100228",
@@ -6328,7 +6328,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100229",
@@ -6358,7 +6358,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100230",
@@ -6387,7 +6387,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100231",
@@ -6417,7 +6417,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100232",
@@ -6447,7 +6447,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100233",
@@ -6477,7 +6477,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100234",
@@ -6507,7 +6507,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100235",
@@ -6539,7 +6539,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100236",
@@ -6570,7 +6570,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100237",
@@ -6601,7 +6601,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100238",
@@ -6631,7 +6631,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100239",
@@ -6661,7 +6661,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100240",
@@ -6691,7 +6691,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Water, Environment & Waste Management, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100241",
@@ -6722,7 +6722,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100242",
@@ -6752,7 +6752,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100243",
@@ -6784,7 +6784,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100244",
@@ -6814,7 +6814,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100245",
@@ -6844,7 +6844,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100246",
@@ -6875,7 +6875,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100247",
@@ -6906,7 +6906,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100248",
@@ -6936,7 +6936,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100249",
@@ -6966,7 +6966,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100250",
@@ -6997,7 +6997,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100251",
@@ -7027,7 +7027,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100252",
@@ -7058,7 +7058,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100253",
@@ -7089,7 +7089,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100254",
@@ -7120,7 +7120,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100255",
@@ -7152,7 +7152,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100256",
@@ -7182,7 +7182,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100257",
@@ -7213,7 +7213,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100258",
@@ -7245,7 +7245,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100259",
@@ -7275,7 +7275,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100260",
@@ -7306,7 +7306,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100261",
@@ -7338,7 +7338,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100262",
@@ -7371,7 +7371,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "MedTech & Health Care, Food Technology, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100263",
@@ -7403,7 +7403,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "7"
     },
     {
       "technology_id": "RINK-100264",
@@ -7434,7 +7434,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100265",
@@ -7465,7 +7465,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100266",
@@ -7497,7 +7497,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100267",
@@ -7529,7 +7529,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100268",
@@ -7560,11 +7560,11 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "7"
     },
     {
       "technology_id": "RINK-100269",
-      "technology_name": "Specialized Water Resource and Environmental Services",
+      "technology_name": "Specialized Water Resource and Environmental",
       "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
       "primary_sector": "Water, Environment & Waste Management",
       "technology_type": "Service/Consultancy, Process/Method",
@@ -7590,7 +7590,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "7"
     },
     {
       "technology_id": "RINK-100270",
@@ -7621,7 +7621,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Not Specified",
       "secondary_sector": "Not Specified",
-      "column_1": ""
+      "atrl": "7"
     },
     {
       "technology_id": "RINK-100271",
@@ -7649,7 +7649,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100272",
@@ -7676,7 +7676,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100273",
@@ -7704,7 +7704,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100274",
@@ -7732,7 +7732,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100275",
@@ -7760,7 +7760,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100276",
@@ -7788,7 +7788,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100277",
@@ -7816,7 +7816,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100278",
@@ -7844,7 +7844,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100279",
@@ -7872,7 +7872,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100280",
@@ -7900,7 +7900,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100281",
@@ -7928,7 +7928,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100282",
@@ -7956,7 +7956,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100283",
@@ -7984,7 +7984,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100284",
@@ -8012,7 +8012,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100285",
@@ -8040,7 +8040,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Consumer & Lifestyle Products Engineering",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100286",
@@ -8068,7 +8068,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100287",
@@ -8096,7 +8096,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, Advanced Materials & Chemicals",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100288",
@@ -8124,7 +8124,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100289",
@@ -8152,7 +8152,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100290",
@@ -8180,7 +8180,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100291",
@@ -8208,7 +8208,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100292",
@@ -8236,7 +8236,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100293",
@@ -8264,7 +8264,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100294",
@@ -8292,7 +8292,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100295",
@@ -8320,7 +8320,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100296",
@@ -8348,7 +8348,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability, Consumer & Lifestyle Products, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100297",
@@ -8376,7 +8376,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100298",
@@ -8404,7 +8404,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100299",
@@ -8432,7 +8432,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100300",
@@ -8460,7 +8460,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100301",
@@ -8488,7 +8488,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100302",
@@ -8516,7 +8516,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100303",
@@ -8544,7 +8544,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100304",
@@ -8572,7 +8572,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100305",
@@ -8600,7 +8600,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100306",
@@ -8628,7 +8628,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100307",
@@ -8656,7 +8656,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100308",
@@ -8684,7 +8684,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100309",
@@ -8712,7 +8712,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100310",
@@ -8740,7 +8740,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100311",
@@ -8768,7 +8768,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100312",
@@ -8796,7 +8796,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100313",
@@ -8824,7 +8824,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100314",
@@ -8852,7 +8852,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100315",
@@ -8880,7 +8880,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100316",
@@ -8908,7 +8908,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100317",
@@ -8936,7 +8936,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100318",
@@ -8964,7 +8964,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Not Specified",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100319",
@@ -8992,7 +8992,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100320",
@@ -9020,7 +9020,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100321",
@@ -9048,7 +9048,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100322",
@@ -9076,7 +9076,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100323",
@@ -9104,7 +9104,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100324",
@@ -9132,7 +9132,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100325",
@@ -9160,7 +9160,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100326",
@@ -9188,7 +9188,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100327",
@@ -9216,7 +9216,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100328",
@@ -9244,7 +9244,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100329",
@@ -9272,7 +9272,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100330",
@@ -9300,7 +9300,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100331",
@@ -9328,7 +9328,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100332",
@@ -9356,7 +9356,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100333",
@@ -9384,7 +9384,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100334",
@@ -9412,7 +9412,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100335",
@@ -9440,7 +9440,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemicals, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100336",
@@ -9468,7 +9468,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100337",
@@ -9496,7 +9496,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100338",
@@ -9524,7 +9524,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100339",
@@ -9552,7 +9552,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100340",
@@ -9580,7 +9580,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100341",
@@ -9608,7 +9608,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100342",
@@ -9636,7 +9636,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Biotechnology & Life Sciences, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100343",
@@ -9664,7 +9664,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100344",
@@ -9692,7 +9692,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100345",
@@ -9720,7 +9720,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100346",
@@ -9748,7 +9748,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100347",
@@ -9776,7 +9776,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100348",
@@ -9804,7 +9804,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100349",
@@ -9832,7 +9832,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100350",
@@ -9860,7 +9860,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100351",
@@ -9888,7 +9888,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100352",
@@ -9916,7 +9916,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100353",
@@ -9944,7 +9944,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100354",
@@ -9972,7 +9972,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100355",
@@ -10000,7 +10000,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100356",
@@ -10028,7 +10028,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Food Technology",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100357",
@@ -10056,7 +10056,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100358",
@@ -10084,7 +10084,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100359",
@@ -10112,7 +10112,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100360",
@@ -10140,7 +10140,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100361",
@@ -10168,7 +10168,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100362",
@@ -10196,7 +10196,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100363",
@@ -10224,7 +10224,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Agribusiness & Rural Economy, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100364",
@@ -10252,7 +10252,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100365",
@@ -10280,7 +10280,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100366",
@@ -10308,7 +10308,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100367",
@@ -10336,7 +10336,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Food Technology, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100368",
@@ -10364,7 +10364,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100369",
@@ -10375,7 +10375,7 @@
       "problem_solved": "Industrial chemical separation steps face steep energy barriers and low catalytic conversions when striving to reduce toxic nitrobenzene compounds without generating harmful secondary by-products.",
       "description": "A high-yield chemical synthesis methodology to produce uniform vanadium monocarbide quantum dots ($VC\\ QDs$) by exposing a bulk vanadium precursor to a $750^\\circ\\text{C}$ thermal profile, followed by ultra-fast cooling within 100 milliseconds and an acetone bath sonication step to isolate unaggregated crystalline dots.",
       "applications": "Industrial nitrobenzene effluent treatment, fine chemical manufacturing catalysts, pharmaceutical intermediate processing, and advanced environmental analytical assays.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441040453)",
       "contact_person": "Dr. AJITHA ANAPPARA",
       "email": "anappara@nitc.ac.in",
@@ -10392,7 +10392,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100370",
@@ -10403,7 +10403,7 @@
       "problem_solved": "Standard aluminum components used in extreme structural settings face severe friction wear, low fatigue lifespans, structural cracking under high impact, and elevated thermal degradation boundaries.",
       "description": "An advanced metallurgical manufacturing method to produce high-strength AA7075 metal matrix structural profiles reinforced with multi-layered graphene-encapsulated high-entropy alloy (HEA) particles, improving tensile strength, impact margins, and chemical corrosion resistance.",
       "applications": "Aerospace structural airframe components, high-load automotive chassis parts, specialized military vehicle protective paneling, and heavy industrial machinery structural links.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441051671)",
       "contact_person": "B. SIBIN",
       "email": "sibin@nitc.ac.in",
@@ -10420,7 +10420,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100371",
@@ -10431,7 +10431,7 @@
       "problem_solved": "Standard magnetorheological damping fluids based on synthetic oils exhibit high particle friction wear, rapid settling issues, and limited thermal stability across severe shear stresses.",
       "description": "The formulation of a green, high-lubricity magnetorheological (MR) fluid composite utilizing a non-edible organic seed oil base, tailored magnetic iron particles, and structural shear-thinning additives to optimize fluid-to-solid transitions under localized magnetic excitation fields.",
       "applications": "Variable vehicle shock absorbers, industrial automated vibration dampers, smart prosthetic knee control elements, and heavy seismic structural isolation setups.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441052096)",
       "contact_person": "T. JAGADEESHA",
       "email": "jagadesht@nitc.ac.in",
@@ -10448,7 +10448,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, MedTech & Health Care, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100372",
@@ -10459,7 +10459,7 @@
       "problem_solved": "Conventional piezoresistive pressure and flex sensors depend on expensive metal foils or non-renewable synthetic polymer layers that elevate manufacturing overhead and ignore organic agricultural waste streams.",
       "description": "A green production method for engineering lightweight flexible piezoresistive sensors by subjecting natural coconut fiber strands to a customized, multi-temperature pyrolytic carbonization sequence, followed by embedding the conductive carbonized fibers cleanly inside flexible elastic polymer substrates.",
       "applications": "Wearable human motion tracking garments, biomedical pulse respiration wraps, industrial robot grip tactile sensors, and flexible electronic vehicle instrument control surfaces.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441050683)",
       "contact_person": "Dr. C. N. SHYAM KUMAR",
       "email": "shyamkumar@nitc.ac.in",
@@ -10476,7 +10476,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Robotics, Automation & Drones, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100373",
@@ -10487,7 +10487,7 @@
       "problem_solved": "Conventional synthesis of nanoporous microstructures relies heavily on toxic organic surfactants, hazardous chemical templates, or energy-intensive extraction loops.",
       "description": "A green Surfactant-Free and Template-Free synthesis pathway that utilizes green coffee leaf extract coupled with specific amino acids to induce self-polymerization into highly stable biocompatible nanoporous frameworks.",
       "applications": "Antimicrobial surface coatings, targeted drug delivery capsules, biomedical scaffolding matrices, and advanced bio-sensing diagnostic arrays.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441058121)",
       "contact_person": "HARSHA HARIDAS ELLATHVEETTIL SWAMINATHAN",
       "email": "harshaharidas@nitc.ac.in",
@@ -10504,7 +10504,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100374",
@@ -10515,7 +10515,7 @@
       "problem_solved": "Standard industrial epoxy resins are completely unrecyclable cross-linked networks that suffer from brittle mechanical fractures and generate substantial landfill overhead.",
       "description": "An eco-friendly material synthesis method that replaces petrochemical monomers with sustainable bio-sourced alternatives to build an advanced epoxy vitrimer network utilizing dynamic covalent bond exchanges.",
       "applications": "Recyclable aerospace composites, eco-friendly automotive body panels, sustainable consumer electronics casings, and high-toughness industrial coatings.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441071493)",
       "contact_person": "Dr. K. SEKAR",
       "email": "rsekar@nitc.ac.in",
@@ -10532,7 +10532,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100375",
@@ -10543,7 +10543,7 @@
       "problem_solved": "Conventional mechanical friction disc brakes suffer from high pad wear, thermal fading under sustained load, and display slow electronic integration responses during anti-lock braking events.",
       "description": "An innovative automotive braking assembly comprising a dual-lip wheel-hub housing packed with an active magnetorheological (MR) fluid, wrapped circumferentially with an electromagnetic coil winding managed by a bobbin assembly.",
       "applications": "High-performance electric motorcycle braking arrays, automated automated guided vehicle (AGV) decelerators, micro-mobility safety components, and smart industrial brake systems.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241038680)",
       "contact_person": "Dr. JAGADEESHA T",
       "email": "jagadesht@nitc.ac.in",
@@ -10560,7 +10560,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100376",
@@ -10571,7 +10571,7 @@
       "problem_solved": "High-beam glare from oncoming vehicles temporarily blinds drivers on dark single-lane roads, which sharply spikes nighttime collision risk factors.",
       "description": "An intelligent automotive lighting control setup integrating a forward-facing optical sensing unit, an automated anti-glare dimming network, and a time-delay logic engine that intelligently triggers transitions between high-beam and low-beam headlight states.",
       "applications": "Adaptive automotive headlight systems, commercial transport driver assistance suites, night-vision safety equipment, and autonomous delivery vehicle lighting panels.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341067741)",
       "contact_person": "Dr. MITHUN MUTHIAH SAKTHIVEL",
       "email": "sakthivel@nitc.ac.in",
@@ -10588,7 +10588,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100377",
@@ -10599,7 +10599,7 @@
       "problem_solved": "Conventional on-board EV chargers suffer from low voltage step-down ratios, thermal losses across switching elements, and require bulky component footprints that violate space constraints.",
       "description": "A highly compact power electronics converter topology utilizing a switched-inductor with a current-shared network (SICSN) DC-DC architecture, configured with optimized switching elements, shared inductors, and balancing diodes.",
       "applications": "On-board electric vehicle fast chargers, aerospace compact power management systems, micro-mobility charging docks, and distributed renewable energy storage grids.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441051670)",
       "contact_person": "MAHI TEJA TALLURI",
       "email": "mahiteja@nitc.ac.in",
@@ -10616,7 +10616,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100378",
@@ -10627,7 +10627,7 @@
       "problem_solved": "Standard vehicle shock absorbers utilize fixed fluid orifices that cannot adjust stiffness in real-time, resulting in poor ride comfort and high mechanical chassis wear across varied terrains.",
       "description": "An active rotary dampening assembly consisting of a robust outer casing, a dynamic central rotating disk flanked by a series of structured static disks, and an internal magnetorheological (MR) fluid cavity regulated by integrated electromagnetic induction coils.",
       "applications": "Adaptive automotive suspension tracking loops, military all-terrain vehicle chassis dampening, high-speed rail car stabilizers, and active robotic limb joint absorption.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441060028)",
       "contact_person": "Dr. JAGADEESHA T",
       "email": "jagadesht@nitc.ac.in",
@@ -10644,7 +10644,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemicals, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100379",
@@ -10655,7 +10655,7 @@
       "problem_solved": "High-power EV battery charging subsystems struggle with extreme voltage step-up requirements, low power transmission efficiencies, and severe weight limitations.",
       "description": "The architectural design of an ultra-compact DC-DC converter operating via an integrated Double Switching Capacitor Network (DSCN) setup that drives high power-conversion metrics while minimizing the absolute spatial layout requirements of active switches and inductors.",
       "applications": "High-voltage EV powertrain links, rapid public car charging infrastructure, airborne drone power distribution systems, and industrial micro-grid regulation arrays.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441074580)",
       "contact_person": "Dr. V. KARTHIKEYAN",
       "email": "karthikeyanv@nitc.ac.in",
@@ -10672,7 +10672,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100380",
@@ -10683,7 +10683,7 @@
       "problem_solved": "Industrial precision mills and high-load production assembly frames experience variable frequency tremors that lead to mechanical tool fatigue or critical processing errors.",
       "description": "An adaptive mechanical dampening rig containing a cylindrical housing, a high-pressure gas charge chamber, an active magnetorheological (MR) fluid cavity, and a custom pistons-and-rods assembly designed to change dynamic shear limits instantly under magnetic control fields.",
       "applications": "CNC industrial milling machine stabilization arrays, high-speed automated robotic manufacturing work cells, aerospace precision instrumentation frames, and large-bore pipeline pressure pulse limiters.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241026485)",
       "contact_person": "Dr. JAGADEESHA T",
       "email": "jagadesht@nitc.ac.in",
@@ -10700,7 +10700,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100381",
@@ -10711,7 +10711,7 @@
       "problem_solved": "Traditional organizational human resource frameworks rely on manual surveys and decentralized feedback loops that fail to track relational cross-team friction or workplace sentiment trends in real time.",
       "description": "An automated organizational evaluation framework equipped with digital scanning modules and mobile client interfaces linked to a master database aggregation engine running dynamic query reconciliation algorithms to map human relation metrics.",
       "applications": "Corporate enterprise resource planning (ERP) platforms, smart workplace management dashboards, remote team performance tracking tools, and institutional operations analytics.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241061993)",
       "contact_person": "Dr. HARISH J",
       "email": "harishj@nitc.ac.in",
@@ -10728,7 +10728,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100382",
@@ -10739,7 +10739,7 @@
       "problem_solved": "Standard prestressed concrete railway sleepers rely strictly on carbon-heavy Ordinary Portland Cement (OPC), leading to massive greenhouse emissions and vulnerability to cyclic structural fatigue.",
       "description": "An eco-friendly Engineered Geopolymer Composite (EGC) formulation specifically engineered for mainline railway sleepers by blending Fly Ash (FA) and Basic Oxygen Furnace (BOF) slag reinforced with high-tensile steel fibers and iron ore tailings.",
       "applications": "High-speed railway track structural bases, heavy freight rail line infrastructure, prestressed urban transit sleepers, and industrial foundation pads.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241000716)",
       "contact_person": "SARAVANAN S",
       "email": "saravanans@nitc.ac.in",
@@ -10756,7 +10756,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100383",
@@ -10767,7 +10767,7 @@
       "problem_solved": "Conventional beam-column connections in high-rise buildings suffer from extreme stress localization and rebar congestion during seismic shifting, causing catastrophic joint shearing failures.",
       "description": "An exterior structural joint assembly optimized for steel reinforced concrete (SRC) column configurations and reinforced concrete (RC) beams, minimizing internal column rebar clutter to enhance load-carrying capacity and dynamic energy dissipation.",
       "applications": "Earthquake-resistant high-rise building cores, smart city highway overpass pillars, heavy industrial facility frameworks, and coastal infrastructure retrofitting.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341028325)",
       "contact_person": "USMAN ARSHAD P J",
       "email": "usman_arshad@nitc.ac.in",
@@ -10784,7 +10784,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100384",
@@ -10795,7 +10795,7 @@
       "problem_solved": "Standard concrete interlocking paver blocks fracture easily under recurring heavy vehicle shear stresses and consume non-renewable natural resources during baseline assembly.",
       "description": "A durable, carbon-neutral quaternary blended Engineered Geopolymer Composite (EGC) composition combining precise concentrations of dynamic industrial by-products activated via Potassium Hydroxide ($KOH$) and Potassium Silicate ($K_2SiO_3$) solutions, further reinforced with specialized discrete fibers.",
       "applications": "Heavy-duty industrial port paving, urban smart city pedestrian walkways, sustainable municipal road intersections, and eco-friendly parking deck surfaces.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341074687)",
       "contact_person": "SARAVANAN S",
       "email": "saravanans@nitc.ac.in",
@@ -10812,7 +10812,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100385",
@@ -10823,7 +10823,7 @@
       "problem_solved": "Traditional reinforced concrete flexural members require heavy, expensive hot-rolled steel rebar assemblies that take extended field labor durations and exhibit low corrosion lifespans.",
       "description": "An innovative high-performance flexural system integrating a sustainable, industrial waste-derived cementless Engineered Geopolymer Composite (EGC) shell with a prefabricated structural cage mechanism forged entirely out of cold-formed steel ($CFS$).",
       "applications": "Prefabricated modular building modules, low-cost sustainable housing panels, high-durability highway retaining walls, and lightweight civil infrastructure decking.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441022992)",
       "contact_person": "SARAVANAN S",
       "email": "saravanans@nitc.ac.in",
@@ -10840,7 +10840,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100386",
@@ -10851,7 +10851,7 @@
       "problem_solved": "Ballasted railway track sleepers experience lateral alignment shifting and ballast migration under high-speed dynamic train braking forces, creating high derailment hazards.",
       "description": "A heavy-duty track stabilizing assembly comprising a steel-plated grooved box section ($SPGBS$) anchor layout configured to bolt detachably to both terminal sides of concrete sleepers, providing a high cross-sectional area to disperse stress and resist ballast movement.",
       "applications": "High-speed passenger rail tracks, heavy industrial bulk cargo rail networks, urban metro track curves, and narrow-to-broad gauge railway structural updates.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441036992)",
       "contact_person": "Dr. SHARAN KUMAR GOUDAR",
       "email": "sharankumar@nitc.ac.in",
@@ -10868,7 +10868,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100387",
@@ -10879,7 +10879,7 @@
       "problem_solved": "Temperature-induced track expansion and poor fastening retention cause standard rail lines to shift laterally, triggering premature track alignment maintenance loops.",
       "description": "An integrated railway sleeper anchoring system designed to attach securely to transit ties, utilizing a combination of steel-plated grooved sections ($SPGS$) anchors to maximize soil lateral shear resistance and lock line geometries securely under severe wheel forces.",
       "applications": "Mainline commuter rail paths, extreme-temperature desert railway systems, sharp-radius mountain transit loops, and heavy freight terminal track lines.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441036993)",
       "contact_person": "Dr. SHARAN KUMAR GOUDAR",
       "email": "sharankumar@nitc.ac.in",
@@ -10896,7 +10896,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100388",
@@ -10907,7 +10907,7 @@
       "problem_solved": "The intensive illegal dredging of natural river sand for civil construction fine aggregates collapses riparian river ecosystems and drives building material costs upward.",
       "description": "An advanced, eco-friendly green concrete mix architecture formulated by replacing up to 25% of standard fine natural sand aggregates with processed, non-hazardous industrial stainless steel mill scale particles, maintaining an M30 strength class and a 0.45 water-to-cement balance.",
       "applications": "Structural building concrete slabs, sustainable commercial foundations, urban storm drainage culverts, and pre-cast utility piping infrastructure.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241038590)",
       "contact_person": "Dr. BLESSEN SKARIAH THOMAS",
       "email": "blessen@nitc.ac.in",
@@ -10924,7 +10924,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100389",
@@ -10935,7 +10935,7 @@
       "problem_solved": "Conventional structural concrete blocks lose structural stability, crack, and undergo mechanical failure when exposed to high-temperature processing loops or demanding refractory environments.",
       "description": "A geopolymer concrete composition comprising a ternary blend of 45% to 52% Ground Granulated Blast Furnace Slag (GGBS), 35% to 45% fly ash, and 5% to 15% silica fume tailored to display enhanced thermal and mechanical properties under extreme heat.",
       "applications": "Refractory industrial linings, foundry floor construction, high-temperature processing plant structural blocks, and thermal insulation shielding panels.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441009121)",
       "contact_person": "Dr. PRAVEEN NAGARAJAN",
       "email": "praveen@nitc.ac.in",
@@ -10952,7 +10952,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100390",
@@ -10963,7 +10963,7 @@
       "problem_solved": "The proliferation of converter-interfaced renewable resources creates complex, fast-propagating voltage disturbances that legacy grid protections fail to detect or isolate in real time.",
       "description": "A self-healing system for a bulk electrical power grid containing a master processing module, local computing units, and communication interfaces configured to detect, monitor, and mitigate voltage anomalies via a multi-tiered coordinated resource execution architecture.",
       "applications": "Smart grid distribution automation, renewable energy power plant integration, substation protection management, and microgrid control networks.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341039909)",
       "contact_person": "Ms. NAJDA VADAKKEYVEETTIL MOHAMED ANWAR",
       "email": "najda@nitc.ac.in",
@@ -10980,7 +10980,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100391",
@@ -10991,7 +10991,7 @@
       "problem_solved": "Amorphous oxide semiconductor optoelectronic synaptic devices exhibit poor charge retention and volatile short-term memory (STM) traits that hinder long-term potentiation efficiency.",
       "description": "An optimization methodology that applies specialized gate voltage sequences coupled with pre-synaptic UV light stimuli onto a synaptic device layered with a gate terminal, insulating barrier, and photoconductive thin film to smoothly tune long-term memory (LTM) retention.",
       "applications": "Neuromorphic computing hardware architectures, optoelectronic artificial brains, bio-inspired optical sensors, and advanced machine learning edge accelerators.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341040569)",
       "contact_person": "Dr. ASWATHI R. NAIR",
       "email": "aswathi@nitc.ac.in",
@@ -11008,7 +11008,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100392",
@@ -11019,7 +11019,7 @@
       "problem_solved": "Photovoltaic panels overheat under heavy insulation, which sharply degrades their solar electrical power conversion efficiency and wastes structural heat output.",
       "description": "An integrated solar photovoltaic-thermal (PV-T) water heating system equipped with a PV module array, a bottom absorber plate, a variable frequency drive (VFD) compressor loop, a condenser tank, and active uniform cooling micro-channels.",
       "applications": "Residential solar cogeneration installations, commercial building hot water networks, eco-friendly district heating systems, and industrial pre-heating utilities.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441026089)",
       "contact_person": "ALBIN JAMES",
       "email": "albin@nitc.ac.in",
@@ -11036,7 +11036,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100393",
@@ -11047,7 +11047,7 @@
       "problem_solved": "Standard RF tracking networks encounter signal blockage, interference, and battery limits inside deep underground coal mine tunnels, preventing safe real-time tracking of personnel.",
       "description": "A hybrid remote positioning architecture comprising an array of visible light transmitter nodes distributed along mine paths and a helmet-mounted receiver kit utilizing integrated photodiode lenses paired with an active long-range (LoRa) wireless telemetry link.",
       "applications": "Underground mine safety tracking networks, subterranean rescue logistics, tunnel construction location systems, and industrial high-security facility tracking.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441028230)",
       "contact_person": "Dr. SAIKAT CHANDRA BAKSHI",
       "email": "saikat@nitc.ac.in",
@@ -11064,7 +11064,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100394",
@@ -11075,7 +11075,7 @@
       "problem_solved": "Conventional single-stage high-gain inverters require huge inductive filters, operate with high input current ripples, and suffer from poor DC voltage utilization boundaries.",
       "description": "A high-gain single-stage buck-boost inverter circuit configuration built with an input source rail, a single boost inductor, an active switching network matrix, a localized filtering circuit, and an optimized controller loop to streamline DC-to-AC conversion.",
       "applications": "Solar PV inverter arrays, electric vehicle drivetrain power converters, residential backup battery systems, and industrial variable frequency drives.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441062017)",
       "contact_person": "Dr. NIKHIL SASIDHARAN",
       "email": "nikhil@nitc.ac.in",
@@ -11092,7 +11092,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100395",
@@ -11103,7 +11103,7 @@
       "problem_solved": "Permanent Magnet Synchronous Motors (PMSMs) experience high torque ripples and voltage stresses when driven by basic multi-level structures without real-time tracking.",
       "description": "An advanced Field-Oriented Control (FOC) system engineered around an asymmetrical cascaded H-bridge multi-level inverter setup, integrated with bidirectional DC-DC converters, current sensors, a speed encoder, and proportional-integral (PI) regulators.",
       "applications": "Electric vehicle traction powertrains, industrial robotic joint motors, high-speed automated assembly drives, and precision CNC servo systems.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441063614)",
       "contact_person": "Dr. NIKHIL SASIDHARAN",
       "email": "nikhil@nitc.ac.in",
@@ -11120,7 +11120,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100396",
@@ -11131,7 +11131,7 @@
       "problem_solved": "Parallel DC power distribution links experience poor load sharing and voltage droops under heavy fluctuations when managed by standard droop controllers.",
       "description": "An intelligent droop-free parallel power distribution network control architecture running a non-linear mathematical back-stepping controller loop that actively modulates inverter duty cycles matching a centralized Lyapunov stability equation.",
       "applications": "Electric vehicle charging infrastructure, localized residential DC microgrids, server data center power distribution blocks, and aerospace electrical grids.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441064971)",
       "contact_person": "Dr. NIKHIL SASIDHARAN",
       "email": "nikhil@nitc.ac.in",
@@ -11148,7 +11148,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100397",
@@ -11159,7 +11159,7 @@
       "problem_solved": "Legacy integrating nephelometers exhibit severe geometric truncation errors at extreme forward and backward angles, reducing the precision of aerosol light scattering coefficients.",
       "description": "An LED-based spherical integrating nephelometer architecture optimized to capture scattering coefficients accurately across a wide angular spectrum ranging from 0.65 to 179.61 degrees while maintaining a compact instrument layout.",
       "applications": "Climate research stations, urban air quality monitoring arrays, meteorological sensor networks, and environmental safety nodes.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441056402)",
       "contact_person": "Dr. M. K. RAVI VARMA",
       "email": "ramavarma@nitc.ac.in",
@@ -11176,7 +11176,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100398",
@@ -11187,7 +11187,7 @@
       "problem_solved": "Conventional trace gas detection systems require long, unmanageable physical gas cells to achieve high sensitivity thresholds, limiting field portability and deployment speed.",
       "description": "A compact, folded broadband optical resonator spectrometer utilizing an integrated multi-mirror reflection matrix to expand optical interaction path lengths inside an ultra-compact sampling chamber.",
       "applications": "Industrial greenhouse gas tracking, public safety toxic leak detection, atmospheric trace gas research, and portable stack emission monitors.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441056681)",
       "contact_person": "Dr. M. K. RAVI VARMA",
       "email": "ramavarma@nitc.ac.in",
@@ -11204,7 +11204,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100399",
@@ -11215,7 +11215,7 @@
       "problem_solved": "Traditional microheaters rely on expensive metal-deposition cleanroom processing steps that exhibit poor structural durability and face trace delamination failure at high open-air temperatures.",
       "description": "A low-cost, multi-environment durable microheater array fabricated via a streamlined two-step laser graphitization method that achieves stable operating metrics exceeding 405°C in open air and up to 500°C in inert settings.",
       "applications": "Microfluidic lab-on-a-chip thermal blocks, smart wearable sensor heating strips, aerospace component de-icing micro-grids, and gas sensor activation setups.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441072106)",
       "contact_person": "Dr. C. N. SHYAM KUMAR",
       "email": "shyamkumar@nitc.ac.in",
@@ -11232,7 +11232,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100400",
@@ -11243,7 +11243,7 @@
       "problem_solved": "Standard metal hydride storage beds encounter extreme localized thermal blockages during fast hydrogen absorption cycles, which limits gas purification throughput metrics.",
       "description": "An advanced hydrogen purification reactor system containing a robust metal hydride containment frame, an internal optimized gas distribution central duct array, and high-density heat exchange fins to maintain uniform temperature bounds.",
       "applications": "Green hydrogen purification stations, industrial fuel cell supply arrays, renewable energy storage infrastructure, and specialized metallurgy gas feeds.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441073002)",
       "contact_person": "Dr. VINOD KUMAR SHARMA",
       "email": "vinod@nitc.ac.in",
@@ -11260,7 +11260,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100401",
@@ -11271,7 +11271,7 @@
       "problem_solved": "Dairy processing plants discard high volumes of nutrient-dense wastewater that overloads local aquatic systems while generating high volumes of unrecyclable sludge waste.",
       "description": "An integrated circular economy wastewater treatment plant design introducing a multi-stage coagulation reactor running completely organic, bio-derived natural coagulants to cleanly separate residual waste dairy solids into high-protein animal feeds.",
       "applications": "Industrial dairy wastewater treatment facilities, commercial farm waste recycling hubs, green fertilizer production plants, and circular agricultural operations.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341050843)",
       "contact_person": "ADHISHIK C R",
       "email": "bhuvaneswari@nitc.ac.in",
@@ -11288,7 +11288,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100402",
@@ -11299,7 +11299,7 @@
       "problem_solved": "Conventional continuous-flow biodiesel synthesis lines require high external grid power footprints for constant mechanical mechanical stirring loops, raising overall carbon generation levels.",
       "description": "A green, highly efficient bio-reactor design featuring a solar-powered rotating flask framework operating via an automatic zero-grid-electricity oscillatory flow mechanism to achieve vigorous mixing frequencies.",
       "applications": "Decentralized commercial biodiesel manufacturing plants, off-grid agricultural fuel generation grids, sustainable community energy hubs, and organic chemical processing loops.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441013120)",
       "contact_person": "MUHAMMED NIYAS M",
       "email": "shaija@nitc.ac.in",
@@ -11316,7 +11316,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100403",
@@ -11327,7 +11327,7 @@
       "problem_solved": "Standard biodegradable food packaging films display weak mechanical puncture limits, let oxygen penetrate easily, and fail to block harmful UV light pathways that spoil items.",
       "description": "A multi-functional green composite film manufacturing method utilizing natural Darbha grass extracts to cleanly biosynthesize a functional matrix layer containing fluorescent carbon dots, cellulose nanofibers, and silver nanoparticles ($AgNPs$) inside a PVA array.",
       "applications": "Smart food freshness wrap manufacturing, secure pharmaceutical blister packs, biodegradable protective commodity liners, and UV-shielded agricultural storage covers.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441040895)",
       "contact_person": "HARSHA HARIDAS ELLATHVEETTIL SWAMINATHAN",
       "email": "harshaharidas@nitc.ac.in",
@@ -11344,7 +11344,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Food Technology, MedTech & Health Care, Consumer & Lifestyle Products, Agribusiness & Rural Economy, Biotechnology & Life Sciences, Water, Environment & Waste Management, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100404",
@@ -11355,7 +11355,7 @@
       "problem_solved": "Synthesizing heavy-metal water treatment catalysts typically requires harsh, toxic organic chemical stabilizing compounds that generate secondary environment pollution risks.",
       "description": "A single-step, bio-mediated synthesis protocol leveraging active Pseudomonas aeruginosa bacterial strains to grow completely water-soluble cadmium sulfide colloidal quantum dots ($CdS\\text{-}QDs$) optimized to reduce toxic $Cr(VI)$ into safe $Cr(III)$ under visible light.",
       "applications": "Industrial electroplating wastewater remediation, heavy metal effluent processing nodes, municipal chemical filtration basins, and toxic chemical reclamation zones.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441046266)",
       "contact_person": "DR. SIVASUBRAMANIAN VELMURUGAN",
       "email": "sivasubramanian@nitc.ac.in",
@@ -11372,7 +11372,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100405",
@@ -11383,7 +11383,7 @@
       "problem_solved": "Conventional desalinating membranes exhibit low chemical durability and endure trade-offs between water volumetric flux rates and absolute salt rejection metrics.",
       "description": "Fabrication of a composite multi-walled carbon nanotube-nanographene membrane engineered to optimize internal water channel placement, supplying high permeation flux alongside elevated salt rejection tolerances.",
       "applications": "Industrial seawater reverse osmosis facilities, clean drinking water supply infrastructure, wastewater filtration setups, and portable military survival filters.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441026167)",
       "contact_person": "DR. S. K. PRAMADA",
       "email": "pramada@nitc.ac.in",
@@ -11400,7 +11400,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100406",
@@ -11411,7 +11411,7 @@
       "problem_solved": "Standard synthetic chemical sorbent booms are difficult to recycle, show low oil selectivity in volatile waters, and generate microplastic environmental pollutants.",
       "description": "A porous oil-absorbent matrix prepared by coating a natural rubber sponge substrate with a superhydrophobic, superoleophilic graphitic carbon nitride ($g\\text{-}C_3N_4$) layer to enable efficient chemical absorption.",
       "applications": "Marine oil spill cleanup kits, industrial machinery wash basin filters, petroleum storage facility emergency kits, and maritime harbor bilge cleaners.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441064205)",
       "contact_person": "DR. MANEESH CHANDRAN",
       "email": "maneesh@nitc.ac.in",
@@ -11428,7 +11428,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100407",
@@ -11439,7 +11439,7 @@
       "problem_solved": "Advanced oxidation electrodes relying on noble platinum-group coatings require cost-prohibitive processing steps and experience early thermal degradation limits.",
       "description": "A low-temperature pyrolysis manufacturing process to transform organic wood biomass waste streams (such as raw teak wood variants) into durable, high-efficiency graphite-structured carbon electrodes for electrochemical oxidation.",
       "applications": "Industrial toxic chemical treatment plants, pharmaceutical effluent degradation units, landfill leachate mitigation filters, and commercial water purifiers.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341069929)",
       "contact_person": "DR. ANANTHA SINGH THANGAPPAN SARASVATHY",
       "email": "ananthasingh@nitc.ac.in",
@@ -11456,7 +11456,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100408",
@@ -11467,7 +11467,7 @@
       "problem_solved": "Thermal processing plants release vast quantities of volatile stack gases and high-temperature steam directly into ambient airways, wasting recoverable clean energy.",
       "description": "An advanced multi-stage parallel desalination plant integration equipped with built-in phase change material (PCM) modules, specialized vapor evaporation loops, and localized cooling nodes to capture industrial thermal waste outputs.",
       "applications": "Thermal power generation facility upgrades, manufacturing plant cooling loop integrations, smart city sustainable utility systems, and chemical factory energy recovery networks.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441061356)",
       "contact_person": "SHANKER KRISHNAN",
       "email": "shanker@nitc.ac.in",
@@ -11484,7 +11484,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100409",
@@ -11495,7 +11495,7 @@
       "problem_solved": "Standard marine water diagnostic arrays depend on high-maintenance wired probes or localized manual collections that cannot output multi-parameter field data continuously.",
       "description": "An Internet of Underwater Things (IoUT) monitoring network comprising a primary floating solar-powered terminal buoy node, specialized subsea multi-parameter optical sensing pods, a localized sonar array, and long-range (LoRa) telemetry links.",
       "applications": "Marine sanctuary habitat tracking arrays, offshore aquaculture ocean farm telemetry, maritime harbor chemical monitoring networks, and municipal water reservoir defense arrays.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441044728)",
       "contact_person": "DR. SAIKAT CHANDRA BAKSHI",
       "email": "saikat@nitc.ac.in",
@@ -11512,7 +11512,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Water, Environment & Waste Management, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100410",
@@ -11523,7 +11523,7 @@
       "problem_solved": "Standard chemical crop fertilizers leach heavily into local groundwater tables during rainfall events, causing down-river eutrophication and massive material waste.",
       "description": "A chemical manufacturing process to synthesize a fully biodegradable, non-toxic bio-polymeric matrix hydrogel that locks in vital plant nutrients and releases them slowly matching crop growth cycles across 40 days.",
       "applications": "Sustainable commercial agriculture farms, specialized horticulture greenhouse matrices, topsoil erosion remediation plots, and drought-resistant crop cultivation zones.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441063913)",
       "contact_person": "DR. A. SUJITH",
       "email": "sujith@nitc.ac.in",
@@ -11540,7 +11540,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Energy, Climate & Sustainability, Water, Environment & Waste Management, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100411",
@@ -11551,7 +11551,7 @@
       "problem_solved": "Extracting concentrated chemical resources like pure ammonia from municipal or industrial wastewater grids suffers from low separation selectivities and early membrane fouling.",
       "description": "A chemical fabrication technique to prepare a robust hydrophobic polyvinylidene fluoride (PVDF) filtration layer integrated with active zinc-based ($ZnCO\\text{-}BTC$) metal-organic framework (MOF) nanoparticles to enhance flux limits.",
       "applications": "Industrial ammonia recovery systems, chemical fertilizer processing plants, toxic manufacturing wastewater remediation, and sustainable textile print line filters.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441048498)",
       "contact_person": "DR. NOEL JACOB KALELEKKAL",
       "email": "noel@nitc.ac.in",
@@ -11568,7 +11568,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100412",
@@ -11579,7 +11579,7 @@
       "problem_solved": "Single-chamber microbial fuel cells (MFCs) struggle with low power densities and high internal polarization resistances because standard anode configurations lack sufficient electrocatalytic properties.",
       "description": "An advanced liquid-phase exfoliation methodology to process bulk vanadium precursors into highly uniform, high-surface-area vanadium monocarbide ($VC$) nanosheets optimized to serve as anode catalysts within microbial fuel cells.",
       "applications": "Bio-electrical wastewater treatment arrays, off-grid low-power environmental sensor batteries, organic waste bio-refineries, and clean energy generation research lines.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441053423)",
       "contact_person": "DR. AJITHA ANAPPARA",
       "email": "anappara@nitc.ac.in",
@@ -11596,7 +11596,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Water, Environment & Waste Management, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100413",
@@ -11607,7 +11607,7 @@
       "problem_solved": "Standard clinical psychiatric profiling matches subjective patient symptom checks manually, causing high rates of early misdiagnosis windows for severe chronic disorders.",
       "description": "An advanced medical diagnostic assembly featuring an electroencephalogram (EEG) signal acquisition module, an analytical processing script core, a separate validation module, and a data visualization dashboard to detect schizophrenia and major depressive disorder trends.",
       "applications": "Clinical psychiatric diagnosis suites, mental health screening clinics, neuro-rehabilitation tracking centers, and digital health diagnostic platforms.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441055679)",
       "contact_person": "DR. SUDHA D PUTHANKATTIL",
       "email": "sudhadp@nitc.ac.in",
@@ -11624,7 +11624,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100414",
@@ -11635,7 +11635,7 @@
       "problem_solved": "Prescribing precision doses of oral Vitamin K anticoagulant therapies manually faces unstable metabolic variations that spike dangerous internal internal hemorrhaging risks.",
       "description": "A diagnostic device comprising a patient demographic input dashboard, a localized microprocessor module, an offline database tracking unit, and a calculated Support Vector Machine (SVM) regression calculation engine to display targeted dosage volumes.",
       "applications": "Point-of-care clinical tracking, cardiology medication monitoring blocks, automated pharmacy prescription desks, and decentralized healthcare diagnostic assets.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441037246)",
       "contact_person": "HARIKRISHNAN S",
       "email": "harikrishnans@nitc.ac.in",
@@ -11652,7 +11652,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100415",
@@ -11663,7 +11663,7 @@
       "problem_solved": "Resolving persistent structural eardrum tympanic membrane ruptures safely requires invasive, highly expensive grafting surgeries using patient autograft tissues under localized operating rooms.",
       "description": "An advanced biopolymer otologic membrane graft material comprising a multi-layered bio-adhesive template manufactured via micro-scale electrospinning and specialized freeze-drying loops to optimize mechanical elasticity parameters.",
       "applications": "Outpatient otolaryngology clinic packages, tympanoplasty surgical alternatives, acoustic tissue trauma repair assemblies, and bio-absorbable internal tissue matrices.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341036084)",
       "contact_person": "RAMESH PARAMESWARAN",
       "email": "unni@nitc.ac.in",
@@ -11680,7 +11680,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100416",
@@ -11691,7 +11691,7 @@
       "problem_solved": "Decentralized low-cost oncology checkpoints lack fast, automated tracking systems to detect early cervical abnormalities accurately without specialized laboratory pathologists.",
       "description": "A portable medical imaging framework integrating a high-resolution colposcopic capture lens array, an edge-computing deep learning processing engine running an automated Region of Interest (ROI) classifier block, and an integrated display monitor.",
       "applications": "Gyn-oncology field screening drives, community health clinic diagnostic tools, rural medical center accessibility units, and automated digital colposcopy systems.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241062921)",
       "contact_person": "DR. JAYARAJ P B",
       "email": "jayarajpb@nitc.ac.in",
@@ -11708,7 +11708,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100417",
@@ -11719,7 +11719,7 @@
       "problem_solved": "Detecting toxic systemic cysteine chemical spikes accurately normally requires destructive, high-overhead laboratory testing methodologies and toxic stabilizing chemical reagents.",
       "description": "An eco-friendly, single-step assay preparation protocol utilizing organic coffee leaves extract as an atom-economical reducing and capping matrix to synthesize highly stable colloidal silver nanoparticles ($AgNPs$) for colorimetric sensing.",
       "applications": "Water pollution monitoring kits, clinical biochemistry diagnostic strips, industrial effluent assay packs, and specialized laboratory chemical sensors.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441047164)",
       "contact_person": "HARSHA HARIDAS ELLATHVEETTIL SWAMINATHAN",
       "email": "harshaharidas@nitc.ac.in",
@@ -11736,7 +11736,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management, Energy, Climate & Sustainability",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100418",
@@ -11747,7 +11747,7 @@
       "problem_solved": "Legacy agricultural telemetry nodes output raw, non-intuitive database logs on obscure smartphone tracking dashboards, leaving non-technical farmers unaware of sudden crop stressors.",
       "description": "An autonomous smart farming telemetry module combining an array of local soil moisture/temperature sensors, a real-time rain gauge, an automated parsing script, and a micro-speaker speech generation unit to transmit local alerts in native languages.",
       "applications": "Smart precision farming networks, automated irrigation management boxes, smallholder farm optimization tools, and agricultural extension accessibility hardware.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441052925)",
       "contact_person": "DR. VINOD KUMAR SHARMA",
       "email": "vinod@nitc.ac.in",
@@ -11764,7 +11764,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Robotics, Automation & Drones, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100419",
@@ -11775,7 +11775,7 @@
       "problem_solved": "Architectural structural evaluations struggle to map the intersection of localized environmental, financial, and community metrics when auditing tropical building lifecycles.",
       "description": "An architectural software analysis suite built with a multi-tiered data capture module, a relational database tracking engine, an integrated computational weight processor, and an absolute sustainability vector visualization dashboard.",
       "applications": "Green building certification software systems, municipal smart city housing audits, tropical architectural design optimization suites, and structural engineering compliance tools.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341018559)",
       "contact_person": "DR. NINA LAZAR",
       "email": "ninalazar@nitc.ac.in",
@@ -11792,7 +11792,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100420",
@@ -11803,7 +11803,7 @@
       "problem_solved": "Manually tracing the boundaries of fragile organs-at-risk (OAR) across multi-slice computed tomography scans takes extended oncology hours and introduces dangerous high-variance human errors during planning.",
       "description": "A high-speed medical software application containing a DICOM image preprocessing script, an automated neural network segmentation engine, a localized multi-channel anatomical classification loop, and a post-processing verification display.",
       "applications": "Radiation therapy planning software suites, hospital radiology workflow engines, clinical oncology automation dashboards, and medical image segmentation networks.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341082005)",
       "contact_person": "DR. JAYARAJ P B",
       "email": "jayarajpb@nitc.ac.in",
@@ -11820,7 +11820,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100421",
@@ -11831,7 +11831,7 @@
       "problem_solved": "Conventional metallic orthopedic implants exhibit poor cell integration limits and suffer from weak bone bonding interfaces that lead to premature structural implant loosening.",
       "description": "An advanced manufacturing method to apply a specialized multi-bio coating composition onto orthopedic implants, enhancing epithelial cell attachment and optimizing long-term osseointegration properties.",
       "applications": "Orthopedic joint replacement components, bone fixation hardware configurations, custom dental implant coatings, and structural prosthetic interface linings.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441053541)",
       "contact_person": "MOHAMMED AHAD ANSARI",
       "email": "ansari@nitc.ac.in",
@@ -11848,7 +11848,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100422",
@@ -11859,7 +11859,7 @@
       "problem_solved": "Managing volatile neurodegenerative disorders and age-regulated central nervous system (CNS) conditions effectively requires micro-scale formulations that can safely upregulate neuroprotective pathways.",
       "description": "A synergistic small-molecule pharmaceutical composition blending Tyrphostin AG 1478 and Kinetin Riboside compounds, formulated to accurately mimic calorie restriction mechanisms and enhance cell survival bounds.",
       "applications": "Neurodegenerative disease clinical management (Alzheimer's/Parkinson's), neuro-oncology treatment pathways, age-related cognitive impairment therapies, and targeted neuroprotective supplements.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241075794)",
       "contact_person": "DR. RAJANIKANT G K",
       "email": "rajani@nitc.ac.in",
@@ -11876,7 +11876,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100423",
@@ -11887,7 +11887,7 @@
       "problem_solved": "Central nervous system tissue degradation from age-regulated disorders displays a lack of effective pharmaceutical interventions capable of supplying broad-spectrum neuroprotective protection.",
       "description": "A targeted pharmaceutical small-molecule composition combining rutin with linolenic acid components, structurally engineered to mimic calorie restriction benefits and maximize the expression of brain-protection genes.",
       "applications": "Clinical neurodegenerative therapies, anti-aging cognitive decline protocols, cerebrovascular condition management, and specialized neuro-intensive care pharmaceuticals.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241075901)",
       "contact_person": "DR. RAJANIKANT G K",
       "email": "rajani@nitc.ac.in",
@@ -11904,7 +11904,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100424",
@@ -11915,7 +11915,7 @@
       "problem_solved": "Ischemic damage from acute cerebral strokes causes rapid neuronal death, creating a bottleneck for effective preventative chemical preconditioning defenses.",
       "description": "An advanced small-molecule therapeutic composition combining azacyclonol and pioglitazone compounds, designed to induce artificial ischemic preconditioning cascades that mitigate cellular stroke injuries.",
       "applications": "Prophylactic stroke management for high-risk cohorts, post-ischemic neurological rehabilitation regimens, surgical cerebral protection protocols, and emergency stroke care medicine.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202241075990)",
       "contact_person": "DR. RAJANIKANT G K",
       "email": "rajani@nitc.ac.in",
@@ -11932,7 +11932,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100425",
@@ -11943,7 +11943,7 @@
       "problem_solved": "Manual harvesting of high-altitude coconut palms involves severe tree-fall injury risks, exhibits low operational speed, and encounters acute labor shortages.",
       "description": "An autonomous aerial harvesting system comprising an unmanned drone hardware base integrated with artificial intelligence (AI) computer vision tracking scripts and an active laser cutting attachment to execute automated bunch detachment.",
       "applications": "Automated plantation harvesting networks, precision agricultural drone fleets, commercial orchard management grids, and autonomous farming hardware platforms.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441026504)",
       "contact_person": "DR. PRANESH DAS Z",
       "email": "praneshdas@nitc.ac.in",
@@ -11960,7 +11960,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100426",
@@ -11971,7 +11971,7 @@
       "problem_solved": "Standard automated vertical farming facilities struggle to harvest dense, multi-tiered arrays cleanly without damaging fragile crops or requiring heavy manual labor.",
       "description": "A modular automated vertical farming system integration comprising a multi-tier structural crop framework, a high-precision robotic tracking manipulator arm, an optical crop scanner, and a centralized movement controller.",
       "applications": "Commercial indoor vertical farm facilities, urban hydroponic growing hubs, automated automated greenhouse sorting loops, and space-constrained agricultural cells.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441044723)",
       "contact_person": "DR. SUDHEER A P",
       "email": "apsudheer@nitc.ac.in",
@@ -11988,7 +11988,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Digital Technologies, AI & Software, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100427",
@@ -11999,7 +11999,7 @@
       "problem_solved": "Manual soil sampling and terrain mapping workflows across large agricultural spaces are slow, costly, and lack automated depth control to map localized field conditions.",
       "description": "A specialized smart farming multi-rotor unmanned aerial vehicle (UAV) configuration equipped with a retractable mechanical soil sampling probe, localized sensor nodes, and an autonomous depth controller to extract cores up to 20 cm deep.",
       "applications": "Precision agricultural soil mapping, automated farm fertilizer profiling arrays, large-scale terrain analysis grids, and autonomous crop health diagnostic workflows.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441044725)",
       "contact_person": "DR. SUDHEER A P",
       "email": "apsudheer@nitc.ac.in",
@@ -12016,7 +12016,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100428",
@@ -12027,7 +12027,7 @@
       "problem_solved": "Manual diagnostic swab collection forces high contagion transmission risks onto clinical staff and suffers from placement variance that skews laboratory assay readings.",
       "description": "An autonomous medical service robot architecture comprising a multi-axis patient alignment guide frame, a soft-touch robotic swab manipulator arm, a sterile storage collection cell, and an optical tracking system to map patient oral-nasal boundaries.",
       "applications": "Point-of-care infectious disease screening bays, hospital automated reception pods, pandemic emergency response setups, and decentralized clinical testing cells.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441044731)",
       "contact_person": "DR. SUDHEER A P",
       "email": "apsudheer@nitc.ac.in",
@@ -12044,7 +12044,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100429",
@@ -12055,7 +12055,7 @@
       "problem_solved": "Rigid mechanical grippers require heavy motor actuators to achieve high gripping forces, which increases payload mass and often crushes delicate handling objects.",
       "description": "An advanced compliant robotic end-effector structure engineered with a series of flexible links attached to a central base housing to combine double rocker inversion kinematics with built-in force magnification channels.",
       "applications": "Automated pick-and-place manufacturing cells, fragile consumer goods sorting loops, hazardous material handling systems, and adaptive robotic arm tools.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441040498)",
       "contact_person": "J. M. MALLIKARJUNA",
       "email": "apsudheer@nitc.ac.in",
@@ -12072,7 +12072,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Advanced Materials & Chemical, Consumer & Lifestyle Products",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100430",
@@ -12083,7 +12083,7 @@
       "problem_solved": "Standard neurological stroke or trauma rehabilitation devices focus purely on single-joint finger motions, failing to assist coordinated multi-axis wrist supination and pronation movements.",
       "description": "A therapeutic wearable robotic exoskeleton device comprising a rigid forearm brace, a custom hand plate, a multi-axis wrist hinge assembly, and an integrated dual-drive motor controller to provide customizable multi-degree-of-freedom flexion guidance.",
       "applications": "Clinical physical therapy units, post-stroke motor rehabilitation centers, home care assistive devices, and neuromuscular research engineering labs.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441040494)",
       "contact_person": "DR. A. P. SUDHEER",
       "email": "apsudheer@nitc.ac.in",
@@ -12100,7 +12100,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "MedTech & Health Care, Biotechnology & Life Sciences",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100431",
@@ -12111,7 +12111,7 @@
       "problem_solved": "Standard perimeter shield walls and emergency shelter dividers use completely rigid, heavy structures that demand intensive site transport labor and lack deployment flexibility against dynamic environmental threats.",
       "description": "A portable modular protective panel device designed around an origami-inspired folding frame configuration, driven via localized actuator components and a central microcontroller box to rapidly transition between defensive arrays.",
       "applications": "Rapid deployment field shelters, smart city emergency barricades, modular military outpost partitions, and disaster relief camp zoning.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202441054734)",
       "contact_person": "DR. SUDHEER A P",
       "email": "apsudheer@nitc.ac.in",
@@ -12128,7 +12128,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities, Digital Technologies, AI & Software",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100432",
@@ -12139,7 +12139,7 @@
       "problem_solved": "Traditional subtractive machining architectures cannot drill complex internal conformal cooling fluid loops into high-performance industrial cutting tools, resulting in severe heat accumulation and tool fracture.",
       "description": "An optimized additive manufacturing strategy utilizing layer-by-layer metal powder deposition to forge high-strength multipoint cutting inserts embedded with advanced internal lattice channels and tailored internal coolant outlets.",
       "applications": "CNC precision industrial milling setups, extreme-duty automotive tool production lines, high-speed aerospace component metal cutting, and specialized metallurgy manufacturing.",
-      "trl": "Not Specified",
+      "trl": "TRL 4-6",
       "patent_status": "PUBLISHED (Application No: 202341007025)",
       "contact_person": "DR. BASIL KURIACHEN",
       "email": "bkuriachen@nitc.ac.in",
@@ -12156,7 +12156,7 @@
       "startup_potential": "Not Specified",
       "ip_status": "Patented",
       "secondary_sector": "Not Specified",
-      "column_1": ""
+      "atrl": "4"
     },
     {
       "technology_id": "RINK-100433",
@@ -12167,7 +12167,7 @@
       "problem_solved": "Conventional starter culture manufacturing relies on standard anaerobic fermentation methods that yield limited cell densities, lower metabolic profiles, and short storage lifespans that complicate dairy logistics.",
       "description": "An advanced manufacturing process to cultivate highly active Lacticaseibacillus rhamnosus cultures under precisely modified aerobic respiratory conditions to accelerate cell growth cycles, enhance organic flavor compound profiles, and maximize structural stress tolerance boundaries.",
       "applications": "Industrial curd and yogurt manufacturing, functional probiotic food processing, starter culture production lines, commercial dairy fermentation operations, and automated food production systems.",
-      "trl": "TRL 4-6",
+      "trl": "Not Specified",
       "patent_status": "GRANTED",
       "contact_person": "Dr. REJEESH R",
       "email": "rejeeshrnair@kvasu.ac.in",
@@ -12182,9 +12182,9 @@
       ],
       "image_url": "",
       "startup_potential": "Not Specified",
-      "ip_status": "",
+      "ip_status": "Patented",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100434",
@@ -12210,9 +12210,9 @@
       ],
       "image_url": "",
       "startup_potential": "Not Specified",
-      "ip_status": "",
+      "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, Agribusiness & Rural Economy, Advanced Materials & Chemical",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100435",
@@ -12238,9 +12238,9 @@
       ],
       "image_url": "",
       "startup_potential": "Not Specified",
-      "ip_status": "",
+      "ip_status": "Not Specified",
       "secondary_sector": "Biotechnology & Life Sciences, MedTech & Health Care, Water, Environment & Waste Management, Consumer & Lifestyle Products, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100436",
@@ -12266,9 +12266,9 @@
       ],
       "image_url": "",
       "startup_potential": "Not Specified",
-      "ip_status": "",
+      "ip_status": "Not Specified",
       "secondary_sector": "Food Technology, Energy, Climate & Sustainability, Agribusiness & Rural Economy",
-      "column_1": ""
+      "atrl": "Not Specified"
     },
     {
       "technology_id": "RINK-100437",
@@ -12294,9 +12294,9 @@
       ],
       "image_url": "",
       "startup_potential": "Not Specified",
-      "ip_status": "",
+      "ip_status": "Not Specified",
       "secondary_sector": "Advanced Materials & Chemical, MedTech & Health Care",
-      "column_1": ""
+      "atrl": "Not Specified"
     }
   ],
   "institutions": [
