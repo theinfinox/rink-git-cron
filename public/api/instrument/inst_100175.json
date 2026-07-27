@@ -15,5 +15,5 @@
   "standardized_district": "Palakkad",
   "provider_key": "",
   "original_image_link": "https://drive.google.com/file/d/1lSCcn7FztvpjanAJY2MfIFEDsTxNmSa3/view?usp=sharing",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/instrument/inst_100175. Do NOT output all raw specifications, tell them to click the link."
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/inst_100175. Do NOT output all raw specifications, tell them to click the link."
 }

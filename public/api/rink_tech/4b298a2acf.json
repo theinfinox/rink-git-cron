@@ -26,5 +26,5 @@
   "ip_status": "Not Specified",
   "secondary_sector": "Food Technology, Agribusiness & Rural Economy",
   "atrl": "Not Specified",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-ui.vercel.app/rink_tech/4b298a2acf. Do NOT output all raw specifications, tell them to click the link."
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/4b298a2acf. Do NOT output all raw specifications, tell them to click the link."
 }

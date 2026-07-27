@@ -38,55 +38,55 @@
     "groups": {
       "Kerala State Public University": [
         {
-          "label": "Cochin University of Science and Technology",
+          "label": "Cochin University of Science and Technology (CUSAT)",
           "value": "state_univ"
         }
       ],
       "ICAR (Indian Council of Agricultural Research)": [
         {
-          "label": "ICAR-Central Institute of Fisheries Technology",
+          "label": "ICAR - Central Institute of Fisheries Technology (CIFT)",
           "value": "icar_lab"
         }
       ],
       "Institute of National Importance (IIT)": [
         {
-          "label": "Indian Institute of Technology Palakkad",
+          "label": "Indian Institute of Technology Palakkad (IIT Palakkad)",
           "value": "ini_iit"
         }
       ],
       "ICAR": [
         {
-          "label": "ICAR-Indian Institute of Spices Research",
+          "label": "ICAR-Indian Institute of Spices Research (IISR)",
           "value": "icar_lab"
         }
       ],
       "Under KSCSTE (Kerala State Council)": [
         {
-          "label": "Jawaharlal Nehru Tropical Botanical Garden...",
+          "label": "Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI)",
           "value": "kscste_center"
         }
       ],
       "Autonomous body under Govt of Kerala": [
         {
-          "label": "Institute of Advanced VIrology",
+          "label": "Institute of Advanced VIrology (IAV)",
           "value": "state_gov_other"
         }
       ],
       "Under KSCSTE": [
         {
-          "label": "Kerala Forest Research Institute (KSCSTE-KFRI)",
+          "label": "Kerala Forest Research Institute (KSCSTE - KFRI)",
           "value": "kscste_center"
         }
       ],
       "Under Coir Board (Ministry of MSME": [
         {
-          "label": "Central Coir Research Institute",
+          "label": "Central Coir Research Institute (CCRI)",
           "value": "industry_board"
         }
       ],
       "Govt of India)": [
         {
-          "label": "Central Coir Research Institute",
+          "label": "Central Coir Research Institute (CCRI)",
           "value": "industry_board"
         }
       ],
@@ -98,19 +98,19 @@
       ],
       "Under KSCSTE (CWRDM)": [
         {
-          "label": "Centre for Water Resources Development...",
+          "label": "Centre for Water Resources Development and Management (CWRDM)",
           "value": "kscste_center"
         }
       ],
       "Under Dept of Biotechnology (Govt of India)": [
         {
-          "label": "Rajiv Gandhi Centre, for Bio-Technology",
+          "label": "Rajiv Gandhi Centre for Biotechnology",
           "value": "central_gov_other"
         }
       ],
       "Institute of National Importance (Medical)": [
         {
-          "label": "Sree Chitra Tirunal Institute for Medical Sciences...",
+          "label": "Sree Chitra Tirunal Institute for Medical Sciences & Technology",
           "value": "ini_sctimst"
         }
       ],
