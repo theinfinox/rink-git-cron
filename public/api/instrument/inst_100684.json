@@ -14,6 +14,9 @@
   "website_booking_link_fallback": "https://www.kvasu.ac.in/researchcategory/21/42",
   "standardized_district": "Thiruvananthapuram",
   "provider_key": "",
+  "matched_institution": "Indian Institute of Science Education and Research",
+  "institution_id": "INSTITUTE-100020",
+  "match_score": "0.840336",
   "original_image_link": "https://drive.google.com/file/d/1jAnMGiM4eVlMxdOrWQO_W8sKgF9MQRY5/view?usp=sharing",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/inst_100684. Do NOT output all raw specifications, tell them to click the link."
 }

@@ -14,6 +14,9 @@
   "website_booking_link_fallback": "",
   "standardized_district": "Kollam",
   "provider_key": "",
+  "matched_institution": "CEPCI Laboratory & Research Institute",
+  "institution_id": "INSTITUTE-100023",
+  "match_score": "1",
   "original_image_link": "https://drive.google.com/file/d/1WKfuRmgLCnUtJwSbzxsxxCXTfpKS53L0/view?usp=drive_link",
   "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/inst_100863. Do NOT output all raw specifications, tell them to click the link."
 }
