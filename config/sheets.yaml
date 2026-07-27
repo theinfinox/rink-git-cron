@@ -1,4 +1,4 @@
-frontendBaseUrl: https://rink-ui.vercel.app
+frontendBaseUrl: https://rink-inst.vercel.app
 sheets:
   - name: instrument
     spreadsheetId: 1DMW9DfaLEMvNoL29Yvj7HR4e1SIGpn_QXvEhPdI4U8k
