@@ -104,13 +104,13 @@
       ],
       "Under Dept of Biotechnology (Govt of India)": [
         {
-          "label": "Rajiv Gandhi Centre for Biotechnology",
+          "label": "Rajiv Gandhi Centre for Biotechnology (RGCB)",
           "value": "central_gov_other"
         }
       ],
       "Institute of National Importance (Medical)": [
         {
-          "label": "Sree Chitra Tirunal Institute for Medical Sciences & Technology",
+          "label": "Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST)",
           "value": "ini_sctimst"
         }
       ],
@@ -122,7 +122,7 @@
       ],
       "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014": [
         {
-          "label": "National Centre for Earth Science Studies",
+          "label": "National Centre for Earth Science Studies (NCESS)",
           "value": "central_gov_other"
         }
       ],
