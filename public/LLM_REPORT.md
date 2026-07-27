@@ -1,5 +1,5 @@
 # 🧠 RINK LLM Integration Report
-*Auto-generated on: Sun, 26 Jul 2026 03:19:46 GMT*
+*Auto-generated on: Mon, 27 Jul 2026 03:29:28 GMT*
 
 This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.
 
