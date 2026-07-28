@@ -8,6 +8,7 @@
   "correct_provider_key": "state_univ",
   "reason_classification": "Kerala State Public University",
   "mou": "No",
-  "logo_link": "",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/855633e3a7. Do NOT output all raw specifications, tell them to click the link."
+  "logo_link": "/assets/instrument/1X1-pM4wP6StJg0fRoGDhkXU0wKnF05HY.webp",
+  "original_logo_link": "https://drive.google.com/file/d/1X1-pM4wP6StJg0fRoGDhkXU0wKnF05HY/view?usp=drive_link",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/adbb92949a. Do NOT output all raw specifications, tell them to click the link."
 }

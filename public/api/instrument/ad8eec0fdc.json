@@ -8,6 +8,7 @@
   "correct_provider_key": "icar_lab",
   "reason_classification": "ICAR (Indian Council of Agricultural Research)",
   "mou": "No",
-  "logo_link": "",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/59c5902f3c. Do NOT output all raw specifications, tell them to click the link."
+  "logo_link": "/assets/instrument/1IiRsm-Sxq6rcRPhskDrBb6QOHDadqIED.webp",
+  "original_logo_link": "https://drive.google.com/file/d/1IiRsm-Sxq6rcRPhskDrBb6QOHDadqIED/view?usp=drive_link",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/ad8eec0fdc. Do NOT output all raw specifications, tell them to click the link."
 }

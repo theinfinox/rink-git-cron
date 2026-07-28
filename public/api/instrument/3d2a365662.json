@@ -8,6 +8,7 @@
   "correct_provider_key": "kscste_center",
   "reason_classification": "Under KSCSTE (CWRDM)",
   "mou": "No",
-  "logo_link": "",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/64e3b0be69. Do NOT output all raw specifications, tell them to click the link."
+  "logo_link": "/assets/instrument/1193EUyBU2mx7SXuhOLCLfNmEXA05jQqD.webp",
+  "original_logo_link": "https://drive.google.com/file/d/1193EUyBU2mx7SXuhOLCLfNmEXA05jQqD/view?usp=drive_link",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/3d2a365662. Do NOT output all raw specifications, tell them to click the link."
 }
