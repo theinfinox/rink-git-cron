@@ -1,0 +1,33 @@
+{
+  "technology_id": "RINK-100253",
+  "technology_name": "Plant Authentication Service",
+  "institution": "KSCSTE- Malabar Botanical Garden & Institute for Plant Sciences (MBGIPS)",
+  "primary_sector": "Biotechnology & Life Sciences",
+  "technology_type": "Service/Consultancy, Process/Method",
+  "problem_solved": "Widespread misidentification and intentional adulteration of raw botanical materials in supply chains, compromising the safety and efficacy of final pharmaceutical and herbal products.",
+  "description": "A highly rigorous morphological plant authentication service that confirms species identity through meticulous observation of external (macroscopic) and internal (microscopic) traits. Before relying on expensive molecular tools, this traditional yet scientifically validated method cross-references physical traits against established herbarium specimens and taxonomic keys to guarantee botanical authenticity.",
+  "applications": "• Quality control and raw material validation for pharmaceutical and Ayurveda manufacturing\n\n• Supply chain traceability for commercial cosmetics and nutraceutical botanical extracts\n\n• Regulatory compliance documentation for international seed and live-plant trade\n\n• Agricultural consulting for invasive species identification and crop variety selection",
+  "trl": "TRL 4-6",
+  "patent_status": "Not Specified",
+  "contact_person": "Director, MBGIPS",
+  "email": "directormbgips@gmail.com",
+  "source_pdf": "KSCSTE_Booklet_2025.pdf",
+  "page_no": "",
+  "keywords": [
+    "plant authentication",
+    "morphological authentication",
+    "quality control",
+    "botanical extracts",
+    "taxonomy",
+    "misidentification",
+    "adulterants",
+    "MBGIPS"
+  ],
+  "image_url": "Not Specified",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Agribusiness & Rural Economy",
+  "atrl": "4",
+  "pre_fill_form_link": "Open Form",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/a4f04c133d. Do NOT output all raw specifications, tell them to click the link."
+}

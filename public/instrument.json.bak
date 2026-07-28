@@ -17621,7 +17621,8 @@
       "link": "https://www.google.com/maps?q=10.0443125,76.3278125",
       "plus_code": "28VH+P4 Kochi, Kerala",
       "correct_provider_key": "state_univ",
-      "reason_classification": "Kerala State Public University"
+      "reason_classification": "Kerala State Public University",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100002",
@@ -17631,7 +17632,8 @@
       "link": "https://www.google.com/maps?q=8.5031875,76.9473125",
       "plus_code": "GW3W+7W Thiruvananthapuram, Kerala",
       "correct_provider_key": "state_univ",
-      "reason_classification": "Kerala State Public University"
+      "reason_classification": "Kerala State Public University",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100003",
@@ -17641,7 +17643,8 @@
       "link": "https://www.google.com/maps?q=9.6598125,76.5309375",
       "plus_code": "MG5J+W9 Athirampuzha, Kerala",
       "correct_provider_key": "state_univ",
-      "reason_classification": "Kerala State Public University"
+      "reason_classification": "Kerala State Public University",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100004",
@@ -17651,7 +17654,8 @@
       "link": "https://www.google.com/maps?q=9.9392234,76.2688716",
       "plus_code": "W7Q9+MCM C.I.F.T Junction, CIFT Road Matsyapuri, Willingdon Island, Kochi, Kerala 682029",
       "correct_provider_key": "icar_lab",
-      "reason_classification": "ICAR (Indian Council of Agricultural Research)"
+      "reason_classification": "ICAR (Indian Council of Agricultural Research)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100005",
@@ -17661,7 +17665,8 @@
       "link": "https://www.google.com/maps?q=10.8048125,76.7289375",
       "plus_code": "RP3H+WH Kanjikode, Kerala",
       "correct_provider_key": "ini_iit",
-      "reason_classification": "Institute of National Importance (IIT)"
+      "reason_classification": "Institute of National Importance (IIT)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100006",
@@ -17671,7 +17676,8 @@
       "link": "https://www.google.com/maps?q=11.2961875,75.8428125",
       "plus_code": "7RWV+F4 Kozhikode, Kerala",
       "correct_provider_key": "icar_lab",
-      "reason_classification": "ICAR"
+      "reason_classification": "ICAR",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100007",
@@ -17681,7 +17687,8 @@
       "link": "https://www.google.com/maps?q=8.7543125,77.0246875",
       "plus_code": "Q23F+PV Palode, Kerala",
       "correct_provider_key": "kscste_center",
-      "reason_classification": "Under KSCSTE (Kerala State Council)"
+      "reason_classification": "Under KSCSTE (Kerala State Council)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100008",
@@ -17691,7 +17698,8 @@
       "link": "https://www.google.com/maps?q=8.6391125,76.8443906",
       "plus_code": "JRQV+JQR, Thonnakkal, Kerala 695317",
       "correct_provider_key": "state_gov_other",
-      "reason_classification": "Autonomous body under Govt of Kerala"
+      "reason_classification": "Autonomous body under Govt of Kerala",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100009",
@@ -17701,7 +17709,8 @@
       "link": "https://www.google.com/maps?q=10.5278977,76.3596368",
       "plus_code": "G8HX+W56, Peechi Rd, P.O, Peechi, Thrissur, Kerala 680653",
       "correct_provider_key": "kscste_center",
-      "reason_classification": "Under KSCSTE"
+      "reason_classification": "Under KSCSTE",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100010",
@@ -17711,7 +17720,8 @@
       "link": "https://www.google.com/maps?q=9.5637875,76.3284531",
       "plus_code": "H87H+G98, Apoor, Kalavoor, Alappuzha, Kerala 688522",
       "correct_provider_key": "industry_board",
-      "reason_classification": "Under Coir Board (Ministry of MSME, Govt of India)"
+      "reason_classification": "Under Coir Board (Ministry of MSME, Govt of India)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100011",
@@ -17721,7 +17731,8 @@
       "link": "https://www.google.com/maps?q=11.3203125,75.9330625",
       "plus_code": "8WCM+46 Kattangal, Kerala",
       "correct_provider_key": "ini_nit",
-      "reason_classification": "Institute of National Importance (NIT)"
+      "reason_classification": "Institute of National Importance (NIT)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100012",
@@ -17731,7 +17742,8 @@
       "link": "https://www.google.com/maps?q=8.4081662,77.0832721",
       "plus_code": "C35M+786, Cwrdm Sub centre, Neyyatinkara, Kerala, India, near PWD rest house, Kerala 695121",
       "correct_provider_key": "kscste_center",
-      "reason_classification": "Under KSCSTE (CWRDM)"
+      "reason_classification": "Under KSCSTE (CWRDM)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100013",
@@ -17741,7 +17753,8 @@
       "link": "https://www.google.com/maps?q=8.5453125,76.9149375",
       "plus_code": "GWW7+4X Thiruvananthapuram, Kerala",
       "correct_provider_key": "icar_lab",
-      "reason_classification": "ICAR"
+      "reason_classification": "ICAR",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100014",
@@ -17751,7 +17764,8 @@
       "link": "https://www.google.com/maps?q=12.5278625,74.9685156",
       "plus_code": "GXH9+4CR, Chowki, Kerala 671124",
       "correct_provider_key": "icar_lab",
-      "reason_classification": "ICAR"
+      "reason_classification": "ICAR",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100015",
@@ -17761,7 +17775,8 @@
       "link": "https://www.google.com/maps?q=9.9878125,76.2719375",
       "plus_code": "X7QC+4Q Kochi, Kerala",
       "correct_provider_key": "icar_lab",
-      "reason_classification": "ICAR"
+      "reason_classification": "ICAR",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100016",
@@ -17771,7 +17786,8 @@
       "link": "https://www.google.com/maps?q=8.4919375,76.9669375",
       "plus_code": "FXR8+QQ Thiruvananthapuram, Kerala",
       "correct_provider_key": "central_gov_other",
-      "reason_classification": "Under Dept of Biotechnology (Govt of India)"
+      "reason_classification": "Under Dept of Biotechnology (Govt of India)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100017",
@@ -17781,7 +17797,8 @@
       "link": "https://www.google.com/maps?q=8.5206875,76.9260625",
       "plus_code": "GWCG+7C Thiruvananthapuram, Kerala",
       "correct_provider_key": "ini_sctimst",
-      "reason_classification": "Institute of National Importance (Medical)"
+      "reason_classification": "Institute of National Importance (Medical)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100018",
@@ -17791,7 +17808,8 @@
       "link": "https://www.google.com/maps?q=11.1340625,75.8951875",
       "plus_code": "4VMW+J3 Thenhipalam, Kerala",
       "correct_provider_key": "state_univ",
-      "reason_classification": "Kerala State Public University"
+      "reason_classification": "Kerala State Public University",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100019",
@@ -17801,7 +17819,8 @@
       "link": "https://www.google.com/maps?q=10.5332125,76.2641719",
       "plus_code": "G7M7+7MM, Santosh Nagar, Mannuthy, Thrissur, Kerala 680651",
       "correct_provider_key": "state_univ",
-      "reason_classification": "Kerala State Public University"
+      "reason_classification": "Kerala State Public University",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100020",
@@ -17811,7 +17830,8 @@
       "link": "https://www.google.com/maps?q=8.6824375,77.1353125",
       "plus_code": "M4JP+X4 Vithura, Kerala",
       "correct_provider_key": "ini_iiser",
-      "reason_classification": "Institute of National Importance (IISER)"
+      "reason_classification": "Institute of National Importance (IISER)",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100021",
@@ -17821,7 +17841,8 @@
       "link": "https://www.google.com/maps?q=8.5223233,76.9099825",
       "plus_code": "GWF5+4WM, Ulloor - Akkulam Rd, Aakkulam, Thiruvananthapuram, Kerala 695011",
       "correct_provider_key": "central_gov_other",
-      "reason_classification": "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014"
+      "reason_classification": "Note: Transferred from KSCSTE to MoES (Govt of India) in 2014",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100022",
@@ -17831,7 +17852,8 @@
       "link": "https://www.google.com/maps?q=11.5623125,76.1616875",
       "plus_code": "H566+WM Meppadi, Kerala",
       "correct_provider_key": "pvt_incubator",
-      "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College"
+      "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College",
+      "mou": "No"
     },
     {
       "institution_id": "INSTITUTE-100023",
@@ -17841,7 +17863,378 @@
       "link": "https://www.google.com/maps?q=8.8783375,76.5945781",
       "plus_code": "VHHV+8RP, Sp office road, Mundakkal Village, Kollam, Kerala 691001",
       "correct_provider_key": "industry_board",
-      "reason_classification": "Cashew Export Promotion Council of India"
+      "reason_classification": "Cashew Export Promotion Council of India",
+      "mou": "No"
+    }
+  ],
+  "mou": [
+    {
+      "institution_id": "INSTITUTE-100001",
+      "institution_name": "Cochin University of Science and Technology (CUSAT)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Government R&D Institution User Fee Rates",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "Sophisticated Test & Instrumentation Centre (STIC)",
+      "ksum_discount_or_rate": "Government R&D Institution (Category II) user fee rates (inclusive of applicable taxes)",
+      "ksum_conditions": "Follow STIC payment procedure and submission guidelines",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "Official STIC Website",
+      "ksum_reference": "Analysis Charge document",
+      "ksum_notes": "None",
+      "ksum_mou_details": "Startups with a valid KSUM UID can avail access to instrumentation and testing services at Government R&D Institution (Category II) rates.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100002",
+      "institution_name": "Kerala University (KU)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100003",
+      "institution_name": "Mahatma Gandhi University (MG)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100004",
+      "institution_name": "ICAR - Central Institute of Fisheries Technology (CIFT)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100005",
+      "institution_name": "Indian Institute of Technology Palakkad (IIT Palakkad)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Subsidized Instrumentation Access",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "CIF; CMFF",
+      "ksum_discount_or_rate": "Subsidized Rates",
+      "ksum_conditions": "UID Certificate + Job Requisition Form",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "Submit Job Requisition Form",
+      "ksum_reference": "Official Facility Information",
+      "ksum_notes": "",
+      "ksum_mou_details": "Startups with a valid KSUM UID can avail subsidized access to CIF & CMFF.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100006",
+      "institution_name": "ICAR-Indian Institute of Spices Research (IISR)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100007",
+      "institution_name": "Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Subsidized Instrumentation Access",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "KSCSTE - JNTBGRI",
+      "ksum_discount_or_rate": "Up to 40% Discount",
+      "ksum_conditions": "Subject to KSCSTE conditions",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "Online Application",
+      "ksum_reference": "Analytical Charges & Online Application",
+      "ksum_notes": "Maximum 10 samples/month",
+      "ksum_mou_details": "Discounted access limited to 10 samples per month.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100008",
+      "institution_name": "Institute of Advanced VIrology (IAV)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "Institution mentioned but no policy details.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100009",
+      "institution_name": "Kerala Forest Research Institute (KSCSTE - KFRI)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Subsidized Instrumentation Access",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "KSCSTE - KFRI",
+      "ksum_discount_or_rate": "Up to 40% Discount",
+      "ksum_conditions": "Subject to KSCSTE conditions",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "Application Form",
+      "ksum_reference": "Analytical Charges",
+      "ksum_notes": "",
+      "ksum_mou_details": "Covered under KSCSTE startup support.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100010",
+      "institution_name": "Central Coir Research Institute (CCRI)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100011",
+      "institution_name": "National Institute of Technology Calicut (NITC)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100012",
+      "institution_name": "Centre for Water Resources Development and Management (CWRDM)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Incubation Centre Facility Access",
+      "ksum_eligible_for": "Incubatees associated with CWRDM Incubation Centre",
+      "ksum_facility": "KSCSTE - CWRDM",
+      "ksum_discount_or_rate": "As per KSCSTE policy",
+      "ksum_conditions": "Restricted to incubatees",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "Contact CWRDM",
+      "ksum_reference": "Official CWRDM",
+      "ksum_notes": "",
+      "ksum_mou_details": "Facilities available only to CWRDM incubatees.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100013",
+      "institution_name": "ICAR - CENTRAL TUBER CROPS RESEARCH INSTITUTE (CTCRI)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100014",
+      "institution_name": "ICAR - Central Plantation Crops Research Institute (CPCRI)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100015",
+      "institution_name": "ICAR - Central Marine Fisheries Research Institute",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100016",
+      "institution_name": "Rajiv Gandhi Centre for Biotechnology",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100017",
+      "institution_name": "Sree Chitra Tirunal Institute for Medical Sciences & Technology",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100018",
+      "institution_name": "University of Calicut",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "R&D Laboratory User Fee Rates",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "CSIF",
+      "ksum_discount_or_rate": "R&D Laboratory Rates",
+      "ksum_conditions": "Submit KSUM UID certificate and Sample Analysis Requisition Form",
+      "ksum_validity": "Five Years",
+      "ksum_application_method": "CSIF Procedure",
+      "ksum_reference": "Official CSIF",
+      "ksum_notes": "",
+      "ksum_mou_details": "R&D laboratory rates for five years.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100019",
+      "institution_name": "Kerala Veterinary and Animal Sciences University (KVASU CVAS)",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100020",
+      "institution_name": "Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM)",
+      "ksum_mou": "Yes",
+      "ksum_benefit_type": "Government R&D Institution User Fee Rates",
+      "ksum_eligible_for": "Startups with valid KSUM UID",
+      "ksum_facility": "Central Instrumentation Facility (CIF)",
+      "ksum_discount_or_rate": "Government R&D Institution Rates",
+      "ksum_conditions": "Login using KSUM UID",
+      "ksum_validity": "Not Specified",
+      "ksum_application_method": "CIF Booking Portal",
+      "ksum_reference": "Official CIF Website",
+      "ksum_notes": "",
+      "ksum_mou_details": "Access via CIF booking portal.",
+      "verification_status": "Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100021",
+      "institution_name": "National Centre for Earth Science Studies",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100022",
+      "institution_name": "Dr. Moopen's iNEST",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "Institution mentioned but no policy details.",
+      "verification_status": "Not Verified"
+    },
+    {
+      "institution_id": "INSTITUTE-100023",
+      "institution_name": "CEPCI Laboratory & Research Institute",
+      "ksum_mou": "Nil",
+      "ksum_benefit_type": "",
+      "ksum_eligible_for": "",
+      "ksum_facility": "",
+      "ksum_discount_or_rate": "",
+      "ksum_conditions": "",
+      "ksum_validity": "",
+      "ksum_application_method": "",
+      "ksum_reference": "",
+      "ksum_notes": "",
+      "ksum_mou_details": "No KSUM MoU information available in the supplied document.",
+      "verification_status": "Not Verified"
     }
   ]
 }

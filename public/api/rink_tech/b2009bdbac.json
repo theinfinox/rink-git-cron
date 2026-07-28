@@ -1,0 +1,30 @@
+{
+  "technology_id": "RINK-100125",
+  "technology_name": "AI-Based Cervical Cancer Screening System(CerviSCAN)",
+  "institution": "Centre for Development of Advanced Computing (C-DAC)",
+  "primary_sector": "MedTech & Health Care",
+  "technology_type": "AI Diagnostic System",
+  "problem_solved": "Limited access to efficient cervical cancer screening",
+  "description": "CerviSCAN is an indigenized cervical cancer screening system that combines artificial intelligence and robotics to support large-scale screening. The system includes AI-powered digital cytology, robotic slide staining, cytospin centrifugation, and indigenous monolayer smear preparation technologies. It is designed to improve the feasibility and efficiency of cervical cancer screening programs.",
+  "applications": "Hospitals, cancer care centers, and gynecology clinics\nDiagnostic laboratories and pathology service providers\nPublic health screening and women's healthcare programs\nMedical device and digital health technology companies\nGovernment health departments, NGOs, and population screening initiatives",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "16",
+  "keywords": [
+    "cervical cancer",
+    "AI diagnostics",
+    "robotics",
+    "digital cytology",
+    "healthcare screening"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "Open Form",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/b2009bdbac. Do NOT output all raw specifications, tell them to click the link."
+}

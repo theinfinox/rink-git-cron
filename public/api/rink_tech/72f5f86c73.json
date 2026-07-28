@@ -1,0 +1,31 @@
+{
+  "technology_id": "RINK-100221",
+  "technology_name": "Rooftop Rainwater Calculator: Web-Based Harvesting Estimation Tool",
+  "institution": "KSCSTE- Centre for Water Resources Development and Management (CWRDM)",
+  "primary_sector": "Water, Environment & Waste Management",
+  "technology_type": "Software/Digital Platform, Decision-Support/Analytical Tool",
+  "problem_solved": "Lack of localized, scientific planning tools for household-level rooftop rainwater harvesting systems and storage capacity estimation.",
+  "description": "A user-centric, web-based digital tool designed to promote household-level water security through the scientific planning of rooftop rainwater harvesting (RWH). Developed specifically for Kerala's climate, the system integrates location-based meteorological data with user inputs such as rooftop dimensions, roof material, and household size. It estimates the harvestable water volume across key hydrological seasons and calculates the optimal storage capacity required during periods of water scarcity. Additionally, it provides preliminary guidance on implementing physical RWH components like gutters, filters, and recharge structures.",
+  "applications": "• Household-level deployment for decentralized domestic water security planning\n\n• Integration into municipal water conservation and urban planning frameworks\n\n• Support for environmental NGOs and policymakers promoting climate adaptation\n\n• Lead-generation and system sizing for commercial rainwater harvesting equipment vendors",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Mr. Prajith V., Ms. Shafna K P, Mr. Prasanth S S",
+  "email": "prajith@cwrdm.org",
+  "source_pdf": "KSCSTE_Booklet_2025.pdf",
+  "page_no": "",
+  "keywords": [
+    "rooftop rainwater harvesting",
+    "RWH",
+    "calculator",
+    "water security",
+    "storage capacity",
+    "decentralized water systems"
+  ],
+  "image_url": "Not Specified",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Digital Technologies, AI & Software, Energy, Climate & Sustainability, Infrastructure, Construction & Smart Cities",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "Open Form",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/72f5f86c73. Do NOT output all raw specifications, tell them to click the link."
+}

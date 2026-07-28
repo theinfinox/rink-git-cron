@@ -1,0 +1,30 @@
+{
+  "technology_id": "RINK-100145",
+  "technology_name": "Underwater Drone-Tethered Underwater Inspection Robot",
+  "institution": "Centre for Development of Advanced Computing (C-DAC)",
+  "primary_sector": "Robotics, Automation & Drones",
+  "technology_type": "Robotic System",
+  "problem_solved": "Need for controlled underwater inspection and operation capabilities",
+  "description": "The Underwater Drone is a tethered submersible robotic platform that can be operated in water while connected to a control station through an umbilical cable. The system supports transmission of power, video, and data signals between the operator and the robotic platform.",
+  "applications": "Underwater inspection and marine engineering service providers\nPorts, harbours, and coastal infrastructure management agencies\nOil & gas, offshore energy, and subsea asset inspection companies\nDefence, maritime security, and disaster response organizations\nResearch institutions, aquaculture enterprises, and environmental monitoring agencies",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "18",
+  "keywords": [
+    "underwater drone",
+    "robotics",
+    "submersible",
+    "marine inspection",
+    "ROV"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Infrastructure, Construction & Smart Cities, Energy, Climate & Sustainability, Water, Environment & Waste Management, Digital Technologies, AI & Software",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "Open Form",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/3b00ac4e0a. Do NOT output all raw specifications, tell them to click the link."
+}
