@@ -8,5 +8,6 @@
   "correct_provider_key": "kscste_center",
   "reason_classification": "Under KSCSTE (CWRDM)",
   "mou": "No",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/6197bebc85. Do NOT output all raw specifications, tell them to click the link."
+  "logo_link": "",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/64e3b0be69. Do NOT output all raw specifications, tell them to click the link."
 }

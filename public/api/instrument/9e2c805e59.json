@@ -8,5 +8,6 @@
   "correct_provider_key": "pvt_incubator",
   "reason_classification": "BIRAC BioNEST Incubator at a Private Medical College",
   "mou": "No",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/3aaac12de9. Do NOT output all raw specifications, tell them to click the link."
+  "logo_link": "",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/9e2c805e59. Do NOT output all raw specifications, tell them to click the link."
 }
