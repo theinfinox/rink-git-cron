@@ -1,0 +1,32 @@
+{
+  "technology_id": "RINK-100034",
+  "technology_name": "Fresh Ginger Processing Technology",
+  "institution": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST)",
+  "primary_sector": "Food Technology",
+  "technology_type": "Process Technology",
+  "problem_solved": "Long processing time, high energy consumption, and quality loss during ginger processing",
+  "description": "This processing technology is suitable for fresh ginger harvested under North East Indian climatic conditions. It enables the production of high-quality ginger products with fresh aroma and improved flavour. The process reduces processing time and energy consumption while avoiding the use of toxic chemicals. It is intended to support efficient spice processing and value addition.",
+  "applications": "Spice processing and value-addition enterprises\nGinger producer companies and farmer producer organizations (FPOs)\nFood ingredient and seasoning manufacturers\nHerbal, nutraceutical, and wellness product companies\nAgri-food startups and export-oriented spice processing units",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "7",
+  "keywords": [
+    "ginger processing",
+    "spices",
+    "aroma retention",
+    "food processing",
+    "energy efficient",
+    "value addition"
+  ],
+  "image_url": "/assets/rink_tech/1rl9K59pAD9OfPGL0dzZ0ZV_3kBkLsxur.webp",
+  "startup_potential": "High",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Agribusiness & Rural Economy, Consumer & Lifestyle Products, MedTech & Health Care",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "https://docs.google.com/forms/d/e/1FAIpQLSeCDQQ-Qfzw-4N4CdxQFQMLYFT7IKXZZSUgGOGM-I23sPdvXg/viewform?usp=pp_url&entry.361920599=RINK-100034&entry.118765642=Fresh%20Ginger%20Processing%20Technology&entry.801969312=CSIR-National%20Institute%20for%20Interdisciplinary%20Science%20and%20Technology%20%28NIIST%29",
+  "original_image_url": "https://drive.google.com/file/d/1rl9K59pAD9OfPGL0dzZ0ZV_3kBkLsxur/view?usp=drive_link",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/b1bdf7ffbf. Do NOT output all raw specifications, tell them to click the link."
+}

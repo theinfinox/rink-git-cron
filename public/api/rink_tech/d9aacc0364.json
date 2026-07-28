@@ -1,0 +1,30 @@
+{
+  "technology_id": "RINK-100411",
+  "technology_name": "METHOD TO PREPARE A HYDROPHOBIC MEMBRANE FOR RESOURCE RECOVERY USING COUNTER-CURRENT FLOW MEMBRANE DISTILLATION MODULE",
+  "institution": "National Institute of Technology Calicut (NIT Calicut)",
+  "primary_sector": "Advanced Materials & Chemicals",
+  "technology_type": "Membrane Distillation / Resource Recovery Unit",
+  "problem_solved": "Extracting concentrated chemical resources like pure ammonia from municipal or industrial wastewater grids suffers from low separation selectivities and early membrane fouling.",
+  "description": "A chemical fabrication technique to prepare a robust hydrophobic polyvinylidene fluoride (PVDF) filtration layer integrated with active zinc-based ($ZnCO\\text{-}BTC$) metal-organic framework (MOF) nanoparticles to enhance flux limits.",
+  "applications": "Industrial ammonia recovery systems, chemical fertilizer processing plants, toxic manufacturing wastewater remediation, and sustainable textile print line filters.",
+  "trl": "TRL 4-6",
+  "patent_status": "PUBLISHED (Application No: 202441048498)",
+  "contact_person": "DR. NOEL JACOB KALELEKKAL",
+  "email": "noel@nitc.ac.in",
+  "source_pdf": "NIT Calicut Patent Portfolio Booklet",
+  "page_no": "169",
+  "keywords": [
+    "hydrophobic membrane",
+    "PVDF distillation",
+    "resource recovery",
+    "ammonia separation",
+    "MOF nanocomposite"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Patented",
+  "secondary_sector": "Energy, Climate & Sustainability, Water, Environment & Waste Management, Infrastructure, Construction & Smart Cities",
+  "atrl": "4",
+  "pre_fill_form_link": "https://docs.google.com/forms/d/e/1FAIpQLSeCDQQ-Qfzw-4N4CdxQFQMLYFT7IKXZZSUgGOGM-I23sPdvXg/viewform?usp=pp_url&entry.361920599=RINK-100411&entry.118765642=METHOD%20TO%20PREPARE%20A%20HYDROPHOBIC%20MEMBRANE%20FOR%20RESOURCE%20RECOVERY%20USING%20COUNTER-CURRENT%20FLOW%20MEMBRANE%20DISTILLATION%20MODULE&entry.801969312=National%20Institute%20of%20Technology%20Calicut%20%28NIT%20Calicut%29",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/d9aacc0364. Do NOT output all raw specifications, tell them to click the link."
+}

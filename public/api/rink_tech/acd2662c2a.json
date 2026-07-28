@@ -1,0 +1,30 @@
+{
+  "technology_id": "RINK-100142",
+  "technology_name": "IoT-Based Red Palm Weevil Detection System (ARPWD)",
+  "institution": "Centre for Development of Advanced Computing (C-DAC)",
+  "primary_sector": "Agriculture",
+  "technology_type": "IoT Monitoring System",
+  "problem_solved": "Difficulty in early detection of Red Palm Weevil infestation",
+  "description": "ARPWD is an IoT-based acoustic detection system that identifies sounds and vibrations associated with Red Palm Weevil activity. The system communicates alerts through LoRaWAN and web-based monitoring platforms to support pest management.",
+  "applications": "Coconut, date palm, and oil palm plantation enterprises\nAgricultural IoT and precision farming technology companies\nPest monitoring and crop protection service providers\nFarmer producer organizations (FPOs) and plantation grower cooperatives\nGovernment agriculture departments and integrated pest management programs",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Not Specified",
+  "email": "Not Specified",
+  "source_pdf": "RINK Technology Booklet",
+  "page_no": "18",
+  "keywords": [
+    "red palm weevil",
+    "IoT",
+    "LoRaWAN",
+    "pest monitoring",
+    "agriculture"
+  ],
+  "image_url": "",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "Digital Technologies, AI & Software, Robotics, Automation & Drones",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "https://docs.google.com/forms/d/e/1FAIpQLSeCDQQ-Qfzw-4N4CdxQFQMLYFT7IKXZZSUgGOGM-I23sPdvXg/viewform?usp=pp_url&entry.361920599=RINK-100142&entry.118765642=IoT-Based%20Red%20Palm%20Weevil%20Detection%20System%20%28ARPWD%29&entry.801969312=Centre%20for%20Development%20of%20Advanced%20Computing%20%28C-DAC%29",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/acd2662c2a. Do NOT output all raw specifications, tell them to click the link."
+}

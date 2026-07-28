@@ -1,0 +1,32 @@
+{
+  "technology_id": "RINK-100228",
+  "technology_name": "Gene-to-Structure Platform for Rapid Antiviral Discovery",
+  "institution": "Institute of Advanced Virology (IAV)",
+  "primary_sector": "Biotechnology & Life Sciences",
+  "technology_type": "Platform/Infrastructure, Process/Method",
+  "problem_solved": "Long timelines, high technical fragmentation, and execution complexity in resolving viral protein structures for structure-based drug design.",
+  "description": "An end-to-end operational platform established by the Department of Antiviral Research (DAV) to support biotech startups and pharmaceutical partners in accelerating antiviral therapeutics. The platform provides comprehensive structural characterization of viral and host proteins by integrating target gene cloning, recombinant protein expression across bacterial, insect, and mammalian systems, and high-purity protein purification. 3D structures are determined via X-ray crystallography to enable molecular docking, complemented by real-time binding assays using Bio-Layer Interferometry (BLI) and Isothermal Titration Calorimetry (ITC) to measure exact drug-target interactions.",
+  "applications": "• Contract research and development (CRD) services for emerging biotech teams\n\n• Structure-based drug design (SBDD) and computer-aided molecular docking validation\n\n• Early-stage viral target discovery and later-stage therapeutic lead optimization pipelines\n\n• Strategic co-development of next-generation broad-spectrum antiviral therapeutics",
+  "trl": "Not Specified",
+  "patent_status": "Not Specified",
+  "contact_person": "Dr. Jithesh Kottur",
+  "email": "jitheshkottur@iav.res.in",
+  "source_pdf": "KSCSTE_Booklet_2025.pdf",
+  "page_no": "",
+  "keywords": [
+    "gene-to-structure",
+    "antiviral discovery",
+    "X-ray crystallography",
+    "recombinant protein",
+    "bio-layer interferometry",
+    "molecular docking",
+    "structural biology"
+  ],
+  "image_url": "Not Specified",
+  "startup_potential": "Not Specified",
+  "ip_status": "Not Specified",
+  "secondary_sector": "MedTech & Health Care, Digital Technologies, AI & Software",
+  "atrl": "Not Specified",
+  "pre_fill_form_link": "https://docs.google.com/forms/d/e/1FAIpQLSeCDQQ-Qfzw-4N4CdxQFQMLYFT7IKXZZSUgGOGM-I23sPdvXg/viewform?usp=pp_url&entry.361920599=RINK-100228&entry.118765642=Gene-to-Structure%20Platform%20for%20Rapid%20Antiviral%20Discovery&entry.801969312=Institute%20of%20Advanced%20Virology%20%28IAV%29",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/rink_tech/c9c8148cc1. Do NOT output all raw specifications, tell them to click the link."
+}
