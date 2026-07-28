@@ -8,6 +8,5 @@
   "correct_provider_key": "kscste_center",
   "reason_classification": "Under KSCSTE (Kerala State Council)",
   "mou": "No",
-  "logo_link": "",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/86666b5202. Do NOT output all raw specifications, tell them to click the link."
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/88b124f773. Do NOT output all raw specifications, tell them to click the link."
 }
