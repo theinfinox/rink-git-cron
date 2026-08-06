@@ -1,5 +1,5 @@
 # 🧠 RINK LLM Integration Report
-*Auto-generated on: Wed, 05 Aug 2026 02:46:15 GMT*
+*Auto-generated on: Thu, 06 Aug 2026 02:49:00 GMT*
 
 This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.
 
@@ -18,7 +18,7 @@ For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked t
 
 ### services
 - **Search Index:** [`/api/services/llms.txt`](/api/services/llms.txt) (Highly compressed metadata for spatial/categorical search)
-- **Data Chunks:** `/api/services/{id}.json` (5 zero-token endpoints generated)
+- **Data Chunks:** `/api/services/{id}.json` (10 zero-token endpoints generated)
 
 ## 🔌 2. Local AI MCP Server (Cursor, Claude Desktop)
 For local development environments, we expose a native Model Context Protocol (MCP) server.
