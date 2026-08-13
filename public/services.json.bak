@@ -479,6 +479,46 @@
       "address": "",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
       "id": "service_100024"
+    },
+    {
+      "startup_name": "Specrule Scientific Private Limited",
+      "ksum_uid": "DIPP118534/2022/KSUM2473",
+      "district": "Thiruvananthapuram",
+      "booking_link_or_official_website": "https://specrule.com/",
+      "enquiry_e_mail_address": "info@specrule.com",
+      "enquiry_phone_number": "918289878532",
+      "upload_the_startup_logo_png_format": "/assets/services/1qohT35NSeQe9gUYybt-hao3cTQyiMzam.webp",
+      "sector_domain": "Laser Technology and Optics",
+      "services_details": "Technical consultancy",
+      "column_12": "Scientific product development",
+      "column_13": "Design, development and testing of scientific instruments; sourcing and distribution of optical components; robotics and automation solutions; and technical consultancy related to laser technology and applications.",
+      "column_14": "Lasers, Photonics, Optics, Spectroscopy, Robotics, Automation, Scientific Instruments, Technical consultancy, Laser safety",
+      "column_15": "None",
+      "column_16": "In-house Laboratory",
+      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
+      "address": "Specrule Scientific Pvt Ltd,\nSpace Technology Innovation & Incubation Centre,\nIndian Institute of Space Science & Technology,\nValiamala P.O, Trivandrum,\nKerala, India, 695 547",
+      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1qohT35NSeQe9gUYybt-hao3cTQyiMzam/view?usp=drivesdk",
+      "id": "service_100025"
+    },
+    {
+      "startup_name": "PhyEcoSyS Pvt Ltd",
+      "ksum_uid": "DIPP205429/2025/KSUM4820",
+      "district": "Ernakulam",
+      "booking_link_or_official_website": "https://phyecosys.com/",
+      "enquiry_e_mail_address": "info@phyecosys.com",
+      "enquiry_phone_number": "8138804659",
+      "upload_the_startup_logo_png_format": "/assets/services/1v-yOfgBeB1OldLRXnsXuZiOTkf0oHKsL.webp",
+      "sector_domain": "Environment, Water & Sustainability",
+      "services_details": "Biological Extraction & Isolation Services",
+      "column_12": "Microalgal R&D, Cultures, Isolation, Biochemical & Spectrophotometric, Antialgal Assays",
+      "column_13": "Microalgal R&D, isolation, identification, culture & optimization; environmental and biological sample analysis; biochemical, spectrophotometric and bioactivity assays; antialgal screening; microscopy, consultancy and research training.",
+      "column_14": "Microalgal Culture, Isolation & Identification, Microscopy, UV-Vis Spectrophotometry, Biochemical Assays, Bioactivity Assays, Antialgal Assays, Centrifugation, Aseptic Culture, Autoclave, LAF",
+      "column_15": "None",
+      "column_16": "In-house Laboratory",
+      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
+      "address": "PhyEcoSyS academy and R and D Hub, C/O PhyEcoSyS Pvt Ltd, MNRA 604-Sector 6, Moolepadam Road,HMT Jn, Kalmassery, Ernakulam.",
+      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1v-yOfgBeB1OldLRXnsXuZiOTkf0oHKsL/view?usp=drivesdk",
+      "id": "service_100026"
     }
   ]
 }
