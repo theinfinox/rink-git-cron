@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Tue, 25 Aug 2026 01:24:47 GMT*
+*Auto-generated on: Wed, 26 Aug 2026 01:28:21 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -23,8 +23,8 @@ To allow local AI agents to natively query and search this database, add this to
 ```
 
 ## 📊 Global Analytics
-- **Total Data Endpoints:** 2
-- **Total Active Records:** 941
+- **Total Data Endpoints:** 3
+- **Total Active Records:** 1406
 
 ---
 
@@ -42,6 +42,20 @@ To allow local AI agents to natively query and search this database, add this to
   - `data.main_data`: Array containing **868** items.
   - `data.instituitiion_list`: Array containing **23** items.
   - `data.mou`: Array containing **23** items.
+
+---
+
+## 📄 rink_tech
+- **Endpoint URL:** `/rink_tech.json`
+- **Total Records:** 465
+- **Images Directory:** `/assets/rink_tech/`
+- **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
+- **Tabs Synced:**
+  - `technologies` (439 items)
+  - `institutions` (26 items)
+- **JSON Structure:**
+  - `data.technologies`: Array containing **439** items.
+  - `data.institutions`: Array containing **26** items.
 
 ---
 
