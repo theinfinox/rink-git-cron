@@ -89,6 +89,8 @@ sheets:
             equals: 'No'
           - column: column_12
             equals: Service Name
+          - column: approved
+            equals: ''
         autoGenerateId:
           enabled: true
           field: id
