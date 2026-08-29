@@ -85,8 +85,8 @@ sheets:
           - added_time
           - ip_address
         excludeRowsWhere:
-          - column: services_details
-            equals: Service Category
+          - column: approved
+            equals: 'No'
         autoGenerateId:
           enabled: true
           field: id
