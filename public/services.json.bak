@@ -1,84 +1,24 @@
 {
   "main_services": [
     {
-      "startup_name": "KSUM",
-      "ksum_uid": "KSUM#123",
-      "district": "Thiruvananthapuram",
-      "booking_link_or_official_website": "www.rink@startupmission.in",
-      "enquiry_e_mail_address": "krishnasree@fellow.startupmission.in",
-      "enquiry_phone_number": "8301919348",
-      "upload_the_startup_logo_png_format": "/assets/services/1V0FY7Xw5-TLq1e-20p-jFiVb1sh8ZblA.webp",
-      "sector_domain": "Biotechnology & Life Sciences",
-      "services_details": "Chemical Synthesis Services",
-      "column_12": "Biochemical synthesis",
-      "column_13": "Protein synthesis",
-      "column_14": "synthesiser",
-      "column_15": "NABL",
-      "column_16": "In-house Laboratory",
-      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
+      "startup_name": "",
+      "ksum_uid": "",
+      "district": "",
+      "booking_link_or_official_website": "",
+      "enquiry_e_mail_address": "",
+      "enquiry_phone_number": "",
+      "upload_the_startup_logo_png_format": "",
+      "sector_domain": "",
+      "services_details": "Service Category",
+      "column_12": "Service Name",
+      "column_13": "Service Description",
+      "column_14": "Keywords (Techniques / Instruments / Platforms)",
+      "column_15": "Accreditations / Certifications",
+      "column_16": "Service Infrastructure",
+      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
-      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1V0FY7Xw5-TLq1e-20p-jFiVb1sh8ZblA/view?usp=drivesdk",
+      "approved": "",
       "id": "service_100001"
-    },
-    {
-      "startup_name": "XYZ",
-      "ksum_uid": "KSUM123",
-      "district": "Thiruvananthapuram",
-      "booking_link_or_official_website": "www.xyz.com",
-      "enquiry_e_mail_address": "xyz@gmail.com",
-      "enquiry_phone_number": "12345678",
-      "upload_the_startup_logo_png_format": "/assets/services/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr.webp",
-      "sector_domain": "Environment, Water & Sustainability",
-      "services_details": "Biodiversity & Ecological Analysis",
-      "column_12": "Biodiveristy analysis",
-      "column_13": "Analysis of biodiversity.",
-      "column_14": "ABCD",
-      "column_15": "None",
-      "column_16": "In-house Laboratory",
-      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
-      "address": "",
-      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr/view?usp=drivesdk",
-      "id": "service_100002"
-    },
-    {
-      "startup_name": "XYZ",
-      "ksum_uid": "KSUM123",
-      "district": "Thiruvananthapuram",
-      "booking_link_or_official_website": "www.xyz.com",
-      "enquiry_e_mail_address": "xyz@gmail.com",
-      "enquiry_phone_number": "12345678",
-      "upload_the_startup_logo_png_format": "/assets/services/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr.webp",
-      "sector_domain": "Environment, Water & Sustainability",
-      "services_details": "Bioinformatics & Computational Biology",
-      "column_12": "Bioinformatics for genetic diveristy analysis",
-      "column_13": "Genetic diveristy analysis using genetic markers.",
-      "column_14": "PCR,gel elctrophoresis, Popgene",
-      "column_15": "NABL",
-      "column_16": "In-house Laboratory",
-      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
-      "address": "",
-      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr/view?usp=drivesdk",
-      "id": "service_100003"
-    },
-    {
-      "startup_name": "XYZ",
-      "ksum_uid": "KSUM123",
-      "district": "Thiruvananthapuram",
-      "booking_link_or_official_website": "www.xyz.com",
-      "enquiry_e_mail_address": "xyz@gmail.com",
-      "enquiry_phone_number": "12345678",
-      "upload_the_startup_logo_png_format": "/assets/services/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr.webp",
-      "sector_domain": "Environment, Water & Sustainability",
-      "services_details": "Environmental Impact Assessment",
-      "column_12": "Environmental Impact analysis",
-      "column_13": "Environmental impact analysis identifies, predicts, and mitigates the environmental and social effects of a proposed project before official approval and development begin.",
-      "column_14": "GIS, LCA",
-      "column_15": "None",
-      "column_16": "Field Testing Facility",
-      "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
-      "address": "",
-      "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1deOra-TgE1VeqiM3bL5-LFKDFWyOB3Vr/view?usp=drivesdk",
-      "id": "service_100004"
     },
     {
       "startup_name": "Phytocom Pharmaceuticals Private Limited",
@@ -97,8 +37,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "Plot No.32A, KINFRA Hi-Tech Park,\nHMT Colony P. O., Kalamassery\nKeralam, India, PIN - 683503",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1h1oVg4ULzcEqfN493R6QYUAjQcOaNmtH/view?usp=drivesdk",
-      "id": "service_100005"
+      "id": "service_100002"
     },
     {
       "startup_name": "PRIMORDIA LIFESCIENCES PRIVATE LIMITED",
@@ -117,8 +58,9 @@
       "column_16": "In-house Engineering / R&D Facility",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "Plot No.32C, KINFRA Hi-Tech Park, Kalamassery, Kochi-683503",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1G5Qr-T6IU3Ma3xAHNhVY991TIV--O4pL/view?usp=drivesdk",
-      "id": "service_100006"
+      "id": "service_100003"
     },
     {
       "startup_name": "PRIMORDIA LIFESCIENCES PRIVATE LIMITED",
@@ -137,8 +79,9 @@
       "column_16": "In-house Engineering / R&D Facility",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1G5Qr-T6IU3Ma3xAHNhVY991TIV--O4pL/view?usp=drivesdk",
-      "id": "service_100007"
+      "id": "service_100004"
     },
     {
       "startup_name": "PRIMORDIA LIFESCIENCES PRIVATE LIMITED",
@@ -157,8 +100,9 @@
       "column_16": "In-house Engineering / R&D Facility",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1G5Qr-T6IU3Ma3xAHNhVY991TIV--O4pL/view?usp=drivesdk",
-      "id": "service_100008"
+      "id": "service_100005"
     },
     {
       "startup_name": "PRIMORDIA LIFESCIENCES PRIVATE LIMITED",
@@ -177,8 +121,9 @@
       "column_16": "In-house Engineering / R&D Facility",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1G5Qr-T6IU3Ma3xAHNhVY991TIV--O4pL/view?usp=drivesdk",
-      "id": "service_100009"
+      "id": "service_100006"
     },
     {
       "startup_name": "Doctor John's Biotech Center for Research and Development",
@@ -197,8 +142,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "DOCTOR JOHN'S BIOTECH CENTRE FOR RESEARCH AND DEVELOPMENT, Clock Tower Building, QS Road, KOTTARAKKARA, KERALA",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1xxPitWNmrkHXFvtONhM-2uXQ8A5f-Jc8/view?usp=drivesdk",
-      "id": "service_100010"
+      "id": "service_100007"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -217,8 +163,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "BioQuatix Solutions Pvt Ltd, Bio 360, Life Sciences Park, Thonnakkal, Trivandrum, Kerala 695317",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100011"
+      "id": "service_100008"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -237,8 +184,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100012"
+      "id": "service_100009"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -257,8 +205,9 @@
       "column_16": "Field Testing Facility",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100013"
+      "id": "service_100010"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -277,8 +226,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100014"
+      "id": "service_100011"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -297,8 +247,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100015"
+      "id": "service_100012"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -317,8 +268,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100016"
+      "id": "service_100013"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -337,8 +289,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100017"
+      "id": "service_100014"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -357,8 +310,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100018"
+      "id": "service_100015"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -377,8 +331,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100019"
+      "id": "service_100016"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -397,8 +352,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100020"
+      "id": "service_100017"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -417,8 +373,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100021"
+      "id": "service_100018"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -437,8 +394,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100022"
+      "id": "service_100019"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -457,8 +415,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100023"
+      "id": "service_100020"
     },
     {
       "startup_name": "BioQuatix Solution Pvt Ltd -CARTS",
@@ -477,8 +436,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "",
       "address": "",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/18PGrEzKJtCbNrotKau9bdmrkrfz32ihT/view?usp=drivesdk",
-      "id": "service_100024"
+      "id": "service_100021"
     },
     {
       "startup_name": "Specrule Scientific Private Limited",
@@ -497,8 +457,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "Specrule Scientific Pvt Ltd,\nSpace Technology Innovation & Incubation Centre,\nIndian Institute of Space Science & Technology,\nValiamala P.O, Trivandrum,\nKerala, India, 695 547",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1qohT35NSeQe9gUYybt-hao3cTQyiMzam/view?usp=drivesdk",
-      "id": "service_100025"
+      "id": "service_100022"
     },
     {
       "startup_name": "PhyEcoSyS Pvt Ltd",
@@ -517,8 +478,9 @@
       "column_16": "In-house Laboratory",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "PhyEcoSyS academy and R and D Hub, C/O PhyEcoSyS Pvt Ltd, MNRA 604-Sector 6, Moolepadam Road,HMT Jn, Kalmassery, Ernakulam.",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1v-yOfgBeB1OldLRXnsXuZiOTkf0oHKsL/view?usp=drivesdk",
-      "id": "service_100026"
+      "id": "service_100023"
     },
     {
       "startup_name": "Statoberry LLP",
@@ -537,8 +499,9 @@
       "column_16": "Computational / Software Platform",
       "i_hereby_declare_that_all_services_listed_in_this_submission_are_operational_and_currently_offered_by_our_startup_the_information_provided_is_true_and_accurate_to_the_best_of_my_knowledge_and_does_not_represent_future_capabilities": "TRUE",
       "address": "Nedinjal, Mavuvila, Kalliyoor P.O, , Kalliyoor, Thiruvananthapuram, Kerala",
+      "approved": "Approved",
       "original_upload_the_startup_logo_png_format": "https://drive.google.com/file/d/1RFt5C4hI6PUM4RxsxnWlE2axM3zwgWbM/view?usp=drivesdk",
-      "id": "service_100027"
+      "id": "service_100024"
     }
   ]
 }
