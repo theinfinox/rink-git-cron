@@ -89,11 +89,25 @@ This report summarizes all technical additions, architectural updates, data sani
 
 ---
 
+## 8. 🎨 UI Fixes & Smart Dynamic Pagination (`rink-instruments`)
+
+- **Zero-Flicker Portal Toggle (`PortalManager.tsx`)**:
+  - Eliminated the double-refresh flicker when toggling between Instruments and Services in the hero section. Swapped artificial route push delay with instant client state switching and soft URL synchronization via `window.history.pushState`.
+- **Smart Dynamic Pagination (`SmartPagination.tsx`)**:
+  - Replaced basic Next/Prev text with modern dynamic pagination for both `/instruments` and `/services/list`. Features dynamic page windowing (`[1, 2, 3... 12... 47]`), jump-skip `±5` page ellipsis buttons, active blue pill highlights, and smooth scroll-to-top on page change.
+- **Fixed 404 Breadcrumb Hyperlinks (`instruments/[id]` & `services/[id]`)**:
+  - Replaced broken `/sectors/${sectorSlug}` links in `instruments/[id]` with canonical, 100% valid routes (`/instruments?district=...`).
+  - Added clean breadcrumb navigation to `/services/[id]` linking back to `Home ➔ Services ➔ {Category} ➔ {ServiceName}`.
+  - Added header breadcrumb trails to `/instruments` and `/services/list`.
+
+---
+
 ## 🧪 Verification Matrix
 
 | Component | Test / Command | Result |
 | :--- | :--- | :--- |
 | **`rink-instruments`** | `npx tsc --noEmit` | **✅ PASS (0 TypeScript errors)** |
-| **`rink-instruments`** | `npm run build` | **✅ PASS (1,009 static pages prerendered in 17.6s)** |
+| **`rink-instruments`** | `npm run build` | **✅ PASS (1,009 static pages prerendered in 16.1s)** |
 | **`rink-git-cron`** | `node scripts/sync.js` | **✅ PASS (939 records cleanly merged and cached)** |
 | **Dynamic Filters** | `filters.json` validation | **✅ PASS (14 districts & 17 institution groups verified)** |
+
