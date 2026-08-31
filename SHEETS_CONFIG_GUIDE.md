@@ -113,3 +113,17 @@ Takes a list of objects containing `column` and `delimiter`. Converts a raw stri
 #### `imageColumns` (String or List)
 *Highly Recommended.* If your spreadsheet contains multiple columns with URLs (e.g., a Google Drive link for an image, and a standard URL for an external website), the engine might accidentally try to download the external website. 
 By defining `imageColumns`, you force the engine to **only** scan and optimize the specified columns, safely ignoring all other links. You can write this as a comma-separated string (`"image_link, banner"`) or a YAML list.
+
+#### `mergeSources` (List of Objects)
+*Powerful & 100% Additive.* Allows you to seamlessly merge secondary Google Sheets (e.g. intake Google Forms, partner institution lists) directly into the primary tab dataset.
+
+**Supported Merge Source Properties**:
+- `spreadsheetId` (String): The Google Spreadsheet ID of the secondary sheet.
+- `gid` (String/Number): The worksheet tab GID.
+- `name` (String): Human-readable source label.
+- `columnMapping` (Object): Map secondary column headers to canonical target column keys (e.g., `instrumentation_details: instruments`).
+- `defaults` (Object): Key-value pairs injected if a mapped column is empty or missing.
+- `autoGenerateId` (Object): `{ enabled: true, prefix: "form_inst", start: 200001 }` to namespace secondary IDs and avoid collisions.
+- `excludeRowsWhere` & `excludeColumns`: Same syntax as tab-level modifiers.
+- `hierarchical_rows`: Supports blank leading column inheritance if secondary sheet uses indented row formatting.
+

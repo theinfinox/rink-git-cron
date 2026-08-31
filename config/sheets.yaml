@@ -17,6 +17,28 @@ sheets:
           - test
           - warnings
           - warnings_gemini
+        mergeSources:
+          - name: Intake Form Responses
+            spreadsheetId: 1yECxIL-BGmUiIIfLFeZWVT1Ot_qxaeE4clITiIugHE8
+            gid: 0
+            hierarchical_rows: true
+            excludeRowsWhere:
+              - column: instrumentation_details
+                equals: Name of the Instrument
+            columnMapping:
+              instrumentation_details: instruments
+              institution_or_startup_name: institution_name
+              column_12: tag
+              column_13: image_link
+              column_14: specifications
+            defaults:
+              source_type: intake_form
+              approval_status: Approved
+            autoGenerateId:
+              enabled: true
+              field: id
+              prefix: inst_form
+              start: 200001
       - name: Instituitiion list
         gid: 1583764603
         aiSearch:
