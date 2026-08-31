@@ -96,3 +96,13 @@ sheets:
           field: id
           prefix: service
           start: 100001
+  - name: RINK_instrumentation_portal_form
+    spreadsheetId: 1yECxIL-BGmUiIIfLFeZWVT1Ot_qxaeE4clITiIugHE8
+    tabs:
+      - name: Sheet1
+        gid: 0
+        hierarchical_rows: true
+        excludeColumns:
+          - ksum_uid
+        imageColumns:
+          - column_14
