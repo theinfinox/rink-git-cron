@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 31 Aug 2026 14:54:04 GMT*
+*Auto-generated on: Mon, 31 Aug 2026 15:10:20 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -24,22 +24,24 @@ To allow local AI agents to natively query and search this database, add this to
 
 ## 📊 Global Analytics
 - **Total Data Endpoints:** 4
-- **Total Active Records:** 1454
+- **Total Active Records:** 1453
+- **Total Discarded Records:** ⚠️ 2 (Failed validation)
 
 ---
 
 ## 📄 instrument
 - **Endpoint URL:** `/instrument.json`
 - **Dynamic Filters Taxonomy:** `/api/instrument/filters.json`
-- **Total Records:** 940
+- **Total Records:** 939
+- **Discarded Records:** ⚠️ 2 rows failed validation rules and were dropped.
 - **Images Directory:** `/assets/instrument/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
-  - `Main Data` (894 items)
+  - `Main Data` (893 items)
   - `Instituitiion list` (23 items)
   - `mou` (23 items)
 - **JSON Structure:**
-  - `data.main_data`: Array containing **894** items.
+  - `data.main_data`: Array containing **893** items.
   - `data.instituitiion_list`: Array containing **23** items.
   - `data.mou`: Array containing **23** items.
 

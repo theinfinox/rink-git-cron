@@ -22,6 +22,7 @@ sheets:
             spreadsheetId: 1yECxIL-BGmUiIIfLFeZWVT1Ot_qxaeE4clITiIugHE8
             gid: 0
             hierarchical_rows: true
+            onlyIncludeMapped: true
             excludeRowsWhere:
               - column: instrumentation_details
                 equals: Name of the Instrument

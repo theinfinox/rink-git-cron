@@ -1,5 +1,5 @@
 # 🧠 RINK LLM Integration Report
-*Auto-generated on: Mon, 31 Aug 2026 14:54:04 GMT*
+*Auto-generated on: Mon, 31 Aug 2026 15:10:21 GMT*
 
 This document outlines how AI models (ChatGPT, Claude, Cursor) can consume the RINK dataset at zero token-waste.
 
@@ -10,7 +10,7 @@ For cloud-based LLMs that cannot run local scripts, the dataset is pre-chunked t
 
 ### instrument
 - **Search Index:** [`/api/instrument/llms.txt`](/api/instrument/llms.txt) (Highly compressed metadata for spatial/categorical search)
-- **Data Chunks:** `/api/instrument/{id}.json` (940 zero-token endpoints generated)
+- **Data Chunks:** `/api/instrument/{id}.json` (939 zero-token endpoints generated)
 
 ### rink_tech
 - **Search Index:** [`/api/rink_tech/llms.txt`](/api/rink_tech/llms.txt) (Highly compressed metadata for spatial/categorical search)

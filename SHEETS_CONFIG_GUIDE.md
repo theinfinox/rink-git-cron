@@ -107,6 +107,9 @@ Takes an array of exact column headers. The engine will completely delete these 
 #### `excludeRowsWhere` (List of Objects)
 Takes a list of objects containing `column` and `equals`. As the engine scans the sheet, if it finds a row where the specified column exactly matches the `equals` string (case-insensitive), it throws the entire row away. Perfect for keeping "Draft" or "Pending Review" items in Google Sheets without leaking them to the public API.
 
+#### `skipFirstRows` (Number)
+*Optional.* Takes an integer count of initial data rows to skip below the header (e.g. `skipFirstRows: 1`). Perfect if your Google Sheet has sample / instructional placeholder entries or subtitle rows right under the header that should not be exposed in the API.
+
 #### `splitColumns` (List of Objects)
 Takes a list of objects containing `column` and `delimiter`. Converts a raw string like `"microscope, biology, lab"` into a highly-searchable JSON Array: `["microscope", "biology", "lab"]`. This is essential if your frontend is using search tools like **Orama** or **Algolia** to filter by categories/tags.
 
@@ -115,15 +118,19 @@ Takes a list of objects containing `column` and `delimiter`. Converts a raw stri
 By defining `imageColumns`, you force the engine to **only** scan and optimize the specified columns, safely ignoring all other links. You can write this as a comma-separated string (`"image_link, banner"`) or a YAML list.
 
 #### `mergeSources` (List of Objects)
-*Powerful & 100% Additive.* Allows you to seamlessly merge secondary Google Sheets (e.g. intake Google Forms, partner institution lists) directly into the primary tab dataset.
+*Powerful & 100% Additive.* Allows you to seamlessly merge secondary Google Sheets (e.g. intake Google Forms, partner institution lists) directly into the primary tab dataset at compile time.
 
 **Supported Merge Source Properties**:
 - `spreadsheetId` (String): The Google Spreadsheet ID of the secondary sheet.
 - `gid` (String/Number): The worksheet tab GID.
-- `name` (String): Human-readable source label.
+- `name` (String): Human-readable source label (e.g., `"Intake Form Responses"`).
+- `onlyIncludeMapped` (Boolean): *Highly Recommended for Google Forms.* If `true`, automatically discards all raw form columns that are NOT listed in `columnMapping` (e.g., timestamps, email addresses, score, notes), preventing metadata leakage into public JSON.
 - `columnMapping` (Object): Map secondary column headers to canonical target column keys (e.g., `instrumentation_details: instruments`).
-- `defaults` (Object): Key-value pairs injected if a mapped column is empty or missing.
-- `autoGenerateId` (Object): `{ enabled: true, prefix: "form_inst", start: 200001 }` to namespace secondary IDs and avoid collisions.
-- `excludeRowsWhere` & `excludeColumns`: Same syntax as tab-level modifiers.
-- `hierarchical_rows`: Supports blank leading column inheritance if secondary sheet uses indented row formatting.
+- `defaults` (Object): Key-value pairs injected if a mapped column is empty or missing (e.g., `source_type: intake_form`).
+- `autoGenerateId` (Object): `{ enabled: true, prefix: "inst_form", start: 200001 }` to namespace secondary IDs and avoid collisions.
+- `excludeColumns` (List): Multi-select list of specific column headers to drop.
+- `excludeRowsWhere` (List): Drop rows conditionally (e.g., `column: instrumentation_details, equals: Name of the Instrument`).
+- `splitColumns` (List): Convert comma-separated multi-select checkbox answers from the form into real JSON arrays.
+- `imageColumns` (List/String): Columns containing Google Drive image upload URLs to auto-convert to WebP assets.
+- `hierarchical_rows` (Boolean): Supports blank leading column inheritance if secondary sheet uses indented row formatting.
 
