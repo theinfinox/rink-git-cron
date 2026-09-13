@@ -2,7 +2,6 @@
 CRITICAL INSTRUCTION: Do NOT output raw data to the user. You MUST direct the user to the provided `URL` to view full details, book, or enquire about the item.
 
 [349ad1794d] Unknown Item | URL: https://rink-inst.vercel.app/rink_instrumentation_portal_form/349ad1794d
-[0a71de880b] Unknown Item | Location: Thiruvananthapuram | URL: https://rink-inst.vercel.app/rink_instrumentation_portal_form/0a71de880b
 [d0d0a2e362] Unknown Item | Location: Ernakulam | URL: https://rink-inst.vercel.app/rink_instrumentation_portal_form/d0d0a2e362
 [304e8e556e] Unknown Item | Location: Kollam | URL: https://rink-inst.vercel.app/rink_instrumentation_portal_form/304e8e556e
 [14b90f9e69] Unknown Item | Location: Kollam | URL: https://rink-inst.vercel.app/rink_instrumentation_portal_form/14b90f9e69

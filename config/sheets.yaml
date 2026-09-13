@@ -29,6 +29,14 @@ sheets:
             columnMapping:
               instrumentation_details: instruments
               institution_or_startup_name: institution_name
+              are_you_an_institution_startup: institution_type
+              ksum_uid: ksum_uid
+              district: district
+              address: address
+              enquiry_contact_number: enquiry_contact_number
+              enquiry_mail: enquiry_mail
+              website_booking_link: website_booking_link
+              upload_logo_png_format: logo_link
               column_12: tag
               column_13: image_link
               column_14: specifications

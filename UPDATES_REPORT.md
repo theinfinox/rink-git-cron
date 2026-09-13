@@ -102,12 +102,25 @@ This report summarizes all technical additions, architectural updates, data sani
 
 ---
 
+## 9. 🔬 Service Architecture & Equipment Clarification (`rink-instruments`)
+
+- **Dedicated Testing Equipment & Instrumentation Section (`services/[id]`)**:
+  - Instead of dumping raw equipment strings as keywords, mapped `column_14` to structured `equipmentUsed` array.
+  - Added a dedicated, visual **"Equipment & Testing Capabilities Available"** card on `/services/[id]` with clean tags and microscope iconography.
+- **Canonical Stable Service Route IDs**:
+  - Leveraged backend `id` (`service_100001`, `service_100002`...) for static generation, producing canonical `/services/service_100001` URLs while retaining fallback matching for title slugs.
+- **Startup Address & Accreditation Badges**:
+  - Displayed full physical address, district, ISO/GLP accreditation badges, and direct booking links.
+
+---
+
 ## 🧪 Verification Matrix
 
 | Component | Test / Command | Result |
 | :--- | :--- | :--- |
 | **`rink-instruments`** | `npx tsc --noEmit` | **✅ PASS (0 TypeScript errors)** |
-| **`rink-instruments`** | `npm run build` | **✅ PASS (1,009 static pages prerendered in 16.1s)** |
+| **`rink-instruments`** | `npm run build` | **✅ PASS (1,009 static pages prerendered in 16.6s)** |
 | **`rink-git-cron`** | `node scripts/sync.js` | **✅ PASS (939 records cleanly merged and cached)** |
 | **Dynamic Filters** | `filters.json` validation | **✅ PASS (14 districts & 17 institution groups verified)** |
+
 
