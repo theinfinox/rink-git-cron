@@ -115,6 +115,7 @@ sheets:
         excludeColumns:
           - added_time
           - ip_address
+          - ksum_uid
         excludeRowsWhere:
           - column: approved
             equals: 'No'
@@ -127,6 +128,29 @@ sheets:
           field: id
           prefix: service
           start: 100001
+    filterTaxonomy:
+      - id: district
+        title: Districts
+        gid: 0
+        groups:
+          South Zone:
+            - Thiruvananthapuram
+            - Kollam
+            - Pathanamthitta
+          Central Zone:
+            - Ernakulam
+            - Thrissur
+            - Alappuzha
+            - Kottayam
+            - Idukki
+          North-Central Zone:
+            - Palakkad
+            - Malappuram
+          North Zone:
+            - Kozhikode
+            - Kannur
+            - Wayanad
+            - Kasaragod
   - name: RINK_instrumentation_portal_form
     spreadsheetId: 1yECxIL-BGmUiIIfLFeZWVT1Ot_qxaeE4clITiIugHE8
     tabs:

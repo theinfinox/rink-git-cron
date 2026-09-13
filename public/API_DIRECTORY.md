@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Sun, 13 Sep 2026 17:57:31 GMT*
+*Auto-generated on: Sun, 13 Sep 2026 16:59:29 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -25,6 +25,7 @@ To allow local AI agents to natively query and search this database, add this to
 ## 📊 Global Analytics
 - **Total Data Endpoints:** 4
 - **Total Active Records:** 1451
+- **Total Discarded Records:** ⚠️ 7 (Failed validation)
 
 ---
 
@@ -32,6 +33,7 @@ To allow local AI agents to natively query and search this database, add this to
 - **Endpoint URL:** `/instrument.json`
 - **Dynamic Filters Taxonomy:** `/api/instrument/filters.json`
 - **Total Records:** 938
+- **Discarded Records:** ⚠️ 2 rows failed validation rules and were dropped.
 - **Images Directory:** `/assets/instrument/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
@@ -62,6 +64,7 @@ To allow local AI agents to natively query and search this database, add this to
 ## 📄 services
 - **Endpoint URL:** `/services.json`
 - **Total Records:** 23
+- **Discarded Records:** ⚠️ 5 rows failed validation rules and were dropped.
 - **Images Directory:** `/assets/services/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
@@ -83,3 +86,11 @@ To allow local AI agents to natively query and search this database, add this to
 
 ---
 
+
+## 🖼️ Image Pipeline Analytics
+- **Total Active Images:** 335
+- **Newly Downloaded:** 0
+- **Served from Cache:** 335
+- **Broken Links/Errors:** ⚠️ 32 (Check Action Logs)
+
+---
