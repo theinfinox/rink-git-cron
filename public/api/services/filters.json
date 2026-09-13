@@ -1,0 +1,32 @@
+[
+  {
+    "id": "district",
+    "title": "Districts",
+    "gid": 0,
+    "tabKey": "main_services",
+    "groups": {
+      "South Zone": [
+        "Thiruvananthapuram",
+        "Kollam",
+        "Pathanamthitta"
+      ],
+      "Central Zone": [
+        "Ernakulam",
+        "Thrissur",
+        "Alappuzha",
+        "Kottayam",
+        "Idukki"
+      ],
+      "North-Central Zone": [
+        "Palakkad",
+        "Malappuram"
+      ],
+      "North Zone": [
+        "Kozhikode",
+        "Kannur",
+        "Wayanad",
+        "Kasaragod"
+      ]
+    }
+  }
+]
