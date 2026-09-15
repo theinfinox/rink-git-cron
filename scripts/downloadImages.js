@@ -140,6 +140,13 @@ async function runDownload() {
                         }
                     });
 
+                    const contentType = response.headers['content-type'] || '';
+                    if (contentType.includes('text/html')) {
+                        console.warn(`⚠️  Skipped ${imageId}: Google Drive returned HTML instead of an image (file access may be private / requires Google sign-in).`);
+                        errorCount++;
+                        continue;
+                    }
+
                     // Ensure the nested directory exists (just in case)
                     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 

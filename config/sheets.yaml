@@ -26,11 +26,12 @@ sheets:
             excludeRowsWhere:
               - column: instrumentation_details
                 equals: Name of the Instrument
+            excludeColumns:
+              - ksum_uid
             columnMapping:
               instrumentation_details: instruments
               institution_or_startup_name: institution_name
               are_you_an_institution_startup: institution_type
-              ksum_uid: ksum_uid
               district: district
               address: address
               enquiry_contact_number: enquiry_contact_number
@@ -161,16 +162,17 @@ sheets:
       - name: Sheet1
         gid: 0
         hierarchical_rows: true
+        onlyIncludeMapped: true
         excludeRowsWhere:
           - column: instrumentation_details
             equals: Name of the Instrument
         excludeColumns:
           - ksum_uid
         columnMapping:
+          added_time: added_time
           instrumentation_details: instruments
           institution_or_startup_name: institution_name
           are_you_an_institution_startup: institution_type
-          ksum_uid: ksum_uid
           district: district
           address: address
           enquiry_contact_number: enquiry_contact_number
