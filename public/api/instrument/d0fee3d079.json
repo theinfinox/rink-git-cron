@@ -1,0 +1,22 @@
+{
+  "institution_id": "INSTITUTE-100001",
+  "institution_name": "Cochin University of Science and Technology (CUSAT)",
+  "ksum_mou_status": "Yes",
+  "benefit_type": "Government R&D Institution User Fee Rates",
+  "eligibility": "Startups with valid KSUM UID",
+  "facility_or_centre": "Sophisticated Test & Instrumentation Centre (STIC)",
+  "discount_or_rate": "Government R&D Institution (Category II) user fee rates (inclusive of applicable taxes)",
+  "access_conditions": "Follow STIC payment procedure and submission guidelines",
+  "validity": "Not Specified",
+  "application_method": "Official STIC Website",
+  "reference_or_document": "Analysis charge",
+  "notes": "",
+  "description": "Startups with a valid KSUM UID can avail access to instrumentation and testing services at the user fee rates applicable to Government R&D Institutions under Category II, inclusive of all applicable taxes. The payment procedure and other submission guidelines are provided on the official STIC website.",
+  "verification_status": "Verified",
+  "facility_name_reference": "",
+  "additional_policy_details": "The applicable Government R&D Institution Category II user fee rates are inclusive of all applicable taxes. Payment procedure and submission guidelines are provided by STIC.",
+  "source_url": "https://stic.cusat.ac.in/",
+  "application_form_url": "",
+  "id": "d0fee3d079",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/d0fee3d079. Do NOT output all raw specifications, tell them to click the link."
+}

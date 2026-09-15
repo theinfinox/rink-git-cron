@@ -1,0 +1,22 @@
+{
+  "institution_id": "INSTITUTE-100008",
+  "institution_name": "Institute of Advanced VIrology (IAV)",
+  "ksum_mou_status": "Nil",
+  "benefit_type": "",
+  "eligibility": "",
+  "facility_or_centre": "",
+  "discount_or_rate": "",
+  "access_conditions": "",
+  "validity": "",
+  "application_method": "",
+  "reference_or_document": "",
+  "notes": "",
+  "description": "Institution mentioned but no policy details.",
+  "verification_status": "Not Verified",
+  "facility_name_reference": "",
+  "additional_policy_details": "",
+  "source_url": "",
+  "application_form_url": "",
+  "id": "4295e5fd96",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/4295e5fd96. Do NOT output all raw specifications, tell them to click the link."
+}
