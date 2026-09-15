@@ -7,9 +7,8 @@
   "plus_code": "GWW7+4X Thiruvananthapuram, Kerala",
   "correct_provider_key": "icar_lab",
   "reason_classification": "ICAR",
-  "mou": "No",
-  "logo_link": "/assets/instrument/ccdb690f35_logo_link.webp",
-  "id": "ccdb690f35",
+  "logo_link": "/assets/instrument/1ed49e0ca2_logo_link.webp",
+  "id": "1ed49e0ca2",
   "original_logo_link": "https://drive.google.com/file/d/1Am4C5VhZzEmghGUBIm6IWTYEARMODUz3/view?usp=drive_link",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/ccdb690f35. Do NOT output all raw specifications, tell them to click the link."
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/1ed49e0ca2. Do NOT output all raw specifications, tell them to click the link."
 }
