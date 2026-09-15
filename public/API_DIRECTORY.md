@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Mon, 14 Sep 2026 04:04:50 GMT*
+*Auto-generated on: Tue, 15 Sep 2026 07:20:13 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
@@ -24,7 +24,8 @@ To allow local AI agents to natively query and search this database, add this to
 
 ## 📊 Global Analytics
 - **Total Data Endpoints:** 4
-- **Total Active Records:** 1451
+- **Total Active Records:** 1450
+- **Total Discarded Records:** ⚠️ 3 (Failed validation)
 
 ---
 
@@ -32,6 +33,7 @@ To allow local AI agents to natively query and search this database, add this to
 - **Endpoint URL:** `/instrument.json`
 - **Dynamic Filters Taxonomy:** `/api/instrument/filters.json`
 - **Total Records:** 938
+- **Discarded Records:** ⚠️ 2 rows failed validation rules and were dropped.
 - **Images Directory:** `/assets/instrument/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
@@ -74,21 +76,22 @@ To allow local AI agents to natively query and search this database, add this to
 
 ## 📄 RINK_instrumentation_portal_form
 - **Endpoint URL:** `/rink_instrumentation_portal_form.json`
-- **Total Records:** 25
+- **Total Records:** 24
+- **Discarded Records:** ⚠️ 1 rows failed validation rules and were dropped.
 - **Images Directory:** `/assets/rink_instrumentation_portal_form/`
 - **Image Naming Structure:** `<row_id>_<column_name>.webp` *(Fallback: random hash if row lacks an `id` column)*
 - **Tabs Synced:**
-  - `Sheet1` (25 items)
+  - `Sheet1` (24 items)
 - **JSON Structure:**
-  - `data.sheet1`: Array containing **25** items.
+  - `data.sheet1`: Array containing **24** items.
 
 ---
 
 
 ## 🖼️ Image Pipeline Analytics
-- **Total Active Images:** 334
-- **Newly Downloaded:** 0
-- **Served from Cache:** 334
-- **Broken Links/Errors:** ⚠️ 32 (Check Action Logs)
+- **Total Active Images:** 356
+- **Newly Downloaded:** 355
+- **Served from Cache:** 1
+- **Broken Links/Errors:** ⚠️ 33 (Check Action Logs)
 
 ---

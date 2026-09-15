@@ -26,10 +26,14 @@ function toSnakeCase(str) {
               .replace(/^_+|_+$/g, '');
 }
 
-// Helper to extract Drive ID
+// Helper to extract Drive ID with strict Google domain validation
 const extractDriveId = (url) => {
-    if (!url) return null;
-    const match = url.match(/(?:id=|v\/|vi\/|u\/\w\/|embed\/|e\/|file\/d\/|uc\?id=)([^#&?/\s]+)/);
+    if (!url || typeof url !== 'string') return null;
+    const cleanUrl = url.trim();
+    if (!cleanUrl.includes('drive.google.com') && !cleanUrl.includes('docs.google.com') && !cleanUrl.includes('googleusercontent.com')) {
+        return null;
+    }
+    const match = cleanUrl.match(/(?:id=|v\/|vi\/|u\/\w+\/|embed\/|e\/|file\/d\/|uc\?id=)([^#&?/\s]+)/);
     return match ? match[1] : null;
 };
 
@@ -265,7 +269,14 @@ function processSourceRows({
 
         // 🧠 TRANSFORM ALL IMAGE LINKS FOR FRONTEND
         for (const key of Object.keys(rowObj)) {
-            if (imageColumnsList && !imageColumnsList.includes(key)) continue;
+            if (imageColumnsList) {
+                if (!imageColumnsList.includes(key)) continue;
+            } else {
+                const lowerKey = key.toLowerCase();
+                if (!lowerKey.includes('image') && !lowerKey.includes('logo') && !lowerKey.includes('photo') && !lowerKey.includes('pic') && !lowerKey.includes('thumbnail')) {
+                    continue;
+                }
+            }
 
             const cellValue = rowObj[key];
             if (typeof cellValue !== 'string') continue;

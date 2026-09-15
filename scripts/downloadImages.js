@@ -14,10 +14,14 @@ import sharp from 'sharp';
 
 const PUBLIC_DIR = './public';
 
-// Extract Google Drive file ID from a URL
+// Extract Google Drive file ID from a URL with strict Google domain validation
 function extractDriveId(url) {
-    if (!url) return null;
-    const match = url.match(/(?:id=|v\/|vi\/|u\/\w\/|embed\/|e\/|file\/d\/|uc\?id=)([^#&?/\s]+)/);
+    if (!url || typeof url !== 'string') return null;
+    const cleanUrl = url.trim();
+    if (!cleanUrl.includes('drive.google.com') && !cleanUrl.includes('docs.google.com') && !cleanUrl.includes('googleusercontent.com')) {
+        return null;
+    }
+    const match = cleanUrl.match(/(?:id=|v\/|vi\/|u\/\w+\/|embed\/|e\/|file\/d\/|uc\?id=)([^#&?/\s]+)/);
     return match ? match[1] : null;
 }
 
@@ -38,6 +42,16 @@ async function runDownload() {
     let globalDownloadedCount = 0;
     let globalSkippedCount = 0;
     let globalErrorCount = 0;
+
+    const MANIFEST_PATH = path.join(PUBLIC_DIR, 'assets', '.image_manifest.json');
+    let imageManifest = {};
+    if (fs.existsSync(MANIFEST_PATH)) {
+        try {
+            imageManifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
+        } catch (e) {
+            imageManifest = {};
+        }
+    }
 
     for (const jsonFile of jsonFiles) {
         const snakeCaseName = path.basename(jsonFile, '.json');
@@ -89,13 +103,16 @@ async function runDownload() {
                 const outputPath = path.join(PUBLIC_DIR, safeRelativePath);
                 const imageId = path.basename(outputPath, '.webp');
 
-                // Check if image already exists and is valid
+                // Check if image already exists, is valid, AND was downloaded from the EXACT same source URL
+                const isCachedForSameUrl = imageManifest[safeRelativePath] === originalUrl;
                 if (fs.existsSync(outputPath)) {
                     const stats = fs.statSync(outputPath);
-                    if (stats.size > 0) {
-                        console.log(`⏭️  Skipping existing image: ${imageId}.webp`);
+                    if (stats.size > 0 && isCachedForSameUrl) {
+                        console.log(`⏭️  Skipping existing image: ${imageId}.webp (matched source URL)`);
                         skippedCount++;
                         continue;
+                    } else if (stats.size > 0 && !isCachedForSameUrl) {
+                        console.log(`🔄 Source URL changed for ${imageId}.webp. Re-downloading from new URL...`);
                     } else {
                         console.log(`⚠️  Found corrupted 0-byte image: ${imageId}.webp. Deleting and retrying...`);
                         fs.unlinkSync(outputPath);
@@ -132,6 +149,7 @@ async function runDownload() {
                         .webp({ quality: 80 })
                         .toFile(outputPath);
                     
+                    imageManifest[safeRelativePath] = originalUrl;
                     console.log(`✅ Saved: ${imageId}.webp`);
                     downloadedCount++;
                     
@@ -152,6 +170,14 @@ async function runDownload() {
         globalDownloadedCount += downloadedCount;
         globalSkippedCount += skippedCount;
         globalErrorCount += errorCount;
+    }
+
+    // Persist updated image manifest
+    try {
+        fs.mkdirSync(path.join(PUBLIC_DIR, 'assets'), { recursive: true });
+        fs.writeFileSync(MANIFEST_PATH, JSON.stringify(imageManifest, null, 2));
+    } catch (e) {
+        console.warn('⚠️ Failed to save image manifest:', e.message);
     }
 
     // Append Image Analytics to the API Directory Report

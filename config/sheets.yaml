@@ -40,6 +40,10 @@ sheets:
               column_12: tag
               column_13: image_link
               column_14: specifications
+              name_of_facility: name_of_facility
+            imageColumns:
+              - image_link
+              - logo_link
             defaults:
               source_type: intake_form
               approval_status: Approved
@@ -157,7 +161,34 @@ sheets:
       - name: Sheet1
         gid: 0
         hierarchical_rows: true
+        excludeRowsWhere:
+          - column: instrumentation_details
+            equals: Name of the Instrument
         excludeColumns:
           - ksum_uid
+        columnMapping:
+          instrumentation_details: instruments
+          institution_or_startup_name: institution_name
+          are_you_an_institution_startup: institution_type
+          ksum_uid: ksum_uid
+          district: district
+          address: address
+          enquiry_contact_number: enquiry_contact_number
+          enquiry_mail: enquiry_mail
+          website_booking_link: website_booking_link
+          upload_logo_png_format: logo_link
+          column_12: tag
+          column_13: image_link
+          column_14: specifications
+          name_of_facility: name_of_facility
         imageColumns:
-          - column_14
+          - image_link
+          - logo_link
+        defaults:
+          source_type: intake_form
+          approval_status: Approved
+        autoGenerateId:
+          enabled: true
+          field: id
+          prefix: form_inst
+          start: 200001

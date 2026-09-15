@@ -12,6 +12,7 @@
   "image_link": "/assets/instrument/inst_form_200024_image_link.webp",
   "specifications": "Model No.\tSMD102\nTemperature Measuring Range\t-40°C to +50°C\nHumidity Measuring Range\tNA\nAccuracy\t±0.5°C\nSensor Type\tNTC \nLogging Interval\t1 - 40 minutes\nOffline data logging \tUpto 500 Readings\nCommunication\tGSM / GPRS (2G)\nInput Voltage / Charging\t5V USB\nCharging time\t2 Hrs\nBattery Type\t3.7V Li-ion  \nBattery Capacity\t1000 mAh\nBattery Backup\t30 hrs\nProtection\tOvercharge / Overdischarge\nDisplay\t✓, OLED\nLocation & Tracking\t✓ GSM Cell ID (Optional)\nAlert Type\tCall, SMS & Email\nDimensions\t66.5×66.5×27.9mm \nWeight\t92g\nOperating Environment (Temperature & humidity)\t10°C to 40°C , 30% to 70% RH\nCalibration\tInternal / NABL\nOTA Support\t✓ \nEnclosure Material\tABS Plastic\nEnclosure Rating\tIP4X\nMounting\tWall mount / Peel-and-stick",
   "logo_link": "",
+  "name_of_facility": "",
   "source_type": "intake_form",
   "approval_status": "Approved",
   "id": "inst_form_200024",
