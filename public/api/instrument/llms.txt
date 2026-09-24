@@ -1007,7 +1007,7 @@ Sample Types: Analyzes liquid solutions, digested plant and soil extracts, biolo
 [d75faeb732] Unknown Item | Institute: Kerala Forest Research Institute (KSCSTE - KFRI) | URL: https://rink-inst.vercel.app/instrument/d75faeb732
 [611ddc0be9] Unknown Item | Institute: Central Coir Research Institute (CCRI) | URL: https://rink-inst.vercel.app/instrument/611ddc0be9
 [a49f7ff178] Unknown Item | Institute: National Institute of Technology Calicut (NITC) | URL: https://rink-inst.vercel.app/instrument/a49f7ff178
-[01407cc818] Unknown Item | Institute: Centre for Water Resources Development and Management (CWRDM) | URL: https://rink-inst.vercel.app/instrument/01407cc818
+[d0ec28101f] Unknown Item | Institute: Centre for Water Resources Development and Management (CWRDM) | URL: https://rink-inst.vercel.app/instrument/d0ec28101f
 [8aef5ab87c] Unknown Item | Institute: ICAR - CENTRAL TUBER CROPS RESEARCH INSTITUTE (CTCRI) | URL: https://rink-inst.vercel.app/instrument/8aef5ab87c
 [ca67073f1f] Unknown Item | Institute: ICAR - Central Plantation Crops Research Institute (CPCRI) | URL: https://rink-inst.vercel.app/instrument/ca67073f1f
 [4528748b59] Unknown Item | Institute: ICAR - Central Marine Fisheries Research Institute | URL: https://rink-inst.vercel.app/instrument/4528748b59
