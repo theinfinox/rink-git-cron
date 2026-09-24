@@ -1,6 +1,6 @@
 {
-  "institution_id": "INSTITUTE-100019",
-  "institution_name": "Kerala Veterinary and Animal Sciences University (KVASU CVAS)",
+  "institution_id": "INSTITUTE-100016",
+  "institution_name": "Rajiv Gandhi Centre for Biotechnology",
   "ksum_mou_status": "Nil",
   "benefit_type": "",
   "eligibility": "",
@@ -16,7 +16,7 @@
   "facility_name_reference": "",
   "additional_policy_details": "",
   "source_url": "",
-  "application_form_url": "",
-  "id": "f4ae041446",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/f4ae041446. Do NOT output all raw specifications, tell them to click the link."
+  "fee_rate_url": "",
+  "id": "a6725b8368",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/a6725b8368. Do NOT output all raw specifications, tell them to click the link."
 }

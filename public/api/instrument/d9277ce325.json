@@ -1,6 +1,6 @@
 {
-  "institution_id": "INSTITUTE-100016",
-  "institution_name": "Rajiv Gandhi Centre for Biotechnology",
+  "institution_id": "INSTITUTE-100003",
+  "institution_name": "Mahatma Gandhi University (MG)",
   "ksum_mou_status": "Nil",
   "benefit_type": "",
   "eligibility": "",
@@ -16,7 +16,7 @@
   "facility_name_reference": "",
   "additional_policy_details": "",
   "source_url": "",
-  "application_form_url": "",
-  "id": "1615c62883",
-  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/1615c62883. Do NOT output all raw specifications, tell them to click the link."
+  "fee_rate_url": "",
+  "id": "d9277ce325",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/d9277ce325. Do NOT output all raw specifications, tell them to click the link."
 }
