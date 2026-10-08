@@ -1,5 +1,5 @@
 # 📡 RINK Data API Directory
-*Auto-generated on: Wed, 07 Oct 2026 05:04:29 GMT*
+*Auto-generated on: Thu, 08 Oct 2026 05:15:00 GMT*
 
 This document serves as a live map and analytics overview of your JSON data endpoints.
 
