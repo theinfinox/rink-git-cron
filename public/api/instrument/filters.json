@@ -137,6 +137,18 @@
           "label": "CEPCI Laboratory & Research Institute",
           "value": "industry_board"
         }
+      ],
+      "Under KSCSTE (National Transportation Planning and Research Centre)": [
+        {
+          "label": "National Transportation Planning and Research Centre (NATPAC)",
+          "value": "kscste_center"
+        }
+      ],
+      "Under KSCSTE (Malabar Botanical Garden)": [
+        {
+          "label": "Malabar Botanical Garden & Institute for Plant Sciences (MBGIPS)",
+          "value": "kscste_center"
+        }
       ]
     }
   }
