@@ -1,0 +1,23 @@
+{
+  "institution_id": "INSTITUTE-100012",
+  "institution_name": "Centre for Water Resources Development and Management (CWRDM)",
+  "ksum_mou_status": "Yes",
+  "benefit_type": "Incubation Centre Facility Access",
+  "eligibility": "Incubatees associated with CWRDM Incubation Centre",
+  "facility_or_centre": "KSCSTE - CWRDM",
+  "discount_or_rate": "Subsidized Rates for KSUM UID Startup",
+  "access_conditions": "Restricted to incubatees",
+  "validity": "Not Specified",
+  "application_method": "Contact CWRDM",
+  "reference_or_document": "Official CWRDM",
+  "notes": "Restricted to incubatees",
+  "description": "Facilities at CWRDM are available to incubatees associated with the incubation centre of CWRDM.",
+  "verification_status": "Verified",
+  "facility_name_reference": "",
+  "additional_policy_details": "",
+  "source_url": "https://cwrdm.kerala.gov.in/",
+  "fee_rate_url": "https://drive.google.com/file/d/1R1e7XIOxfetMgamm7vSKsaCK2tXfPGRZ/view",
+  "other_url": "",
+  "id": "3db28bf811",
+  "_llm_instruction": "CRITICAL: You MUST provide the user with this link to view details or enquire: https://rink-inst.vercel.app/instrument/3db28bf811. Do NOT output all raw specifications, tell them to click the link."
+}

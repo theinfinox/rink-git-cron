@@ -972,52 +972,28 @@ Sample Types: Analyzes liquid solutions, digested plant and soil extracts, biolo
 [inst_form_200022] Clevenger Apparatus | Institute: DOCTOR JOHNS BIOTECH CENTRE FOR RESEARCH AND DEVELOPMENT | Location: Kollam | Tags: The Clevenger Apparatus is a specialized laboratory glassware assembly designed for the extraction and quantitative determination of volatile (essential) oils from plant materials via hydro-distillation or steam distillation. | URL: https://rink-inst.vercel.app/instrument/inst_form_200022
 [inst_form_200023] Nephelometer | Institute: DOCTOR JOHNS BIOTECH CENTRE FOR RESEARCH AND DEVELOPMENT | Location: Kollam | Tags: To measure the turbidity of solutions | URL: https://rink-inst.vercel.app/instrument/inst_form_200023
 [inst_form_200024] LoggFi | Institute: Bagmo private limited | Location: Ernakulam | Tags: Realtime temperature monitoring and logging and Alerting | URL: https://rink-inst.vercel.app/instrument/inst_form_200024
-[67aed33e53] Unknown Item | Institute: Cochin University of Science and Technology (CUSAT) | URL: https://rink-inst.vercel.app/instrument/67aed33e53
-[c049ac4bd4] Unknown Item | Institute: Kerala University (KU) | URL: https://rink-inst.vercel.app/instrument/c049ac4bd4
-[ba7576b6bd] Unknown Item | Institute: Mahatma Gandhi University (MG) | URL: https://rink-inst.vercel.app/instrument/ba7576b6bd
-[8879508e25] Unknown Item | Institute: ICAR - Central Institute of Fisheries Technology (CIFT) | URL: https://rink-inst.vercel.app/instrument/8879508e25
-[3c589dc47e] Unknown Item | Institute: Indian Institute of Technology Palakkad (IIT Palakkad) | URL: https://rink-inst.vercel.app/instrument/3c589dc47e
-[e8128e933d] Unknown Item | Institute: ICAR-Indian Institute of Spices Research (IISR) | URL: https://rink-inst.vercel.app/instrument/e8128e933d
-[aa939599ee] Unknown Item | Institute: Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI) | URL: https://rink-inst.vercel.app/instrument/aa939599ee
-[2059999dc7] Unknown Item | Institute: Institute of Advanced VIrology (IAV) | URL: https://rink-inst.vercel.app/instrument/2059999dc7
-[e99c717ef7] Unknown Item | Institute: Kerala Forest Research Institute (KSCSTE - KFRI) | URL: https://rink-inst.vercel.app/instrument/e99c717ef7
-[aab35ad345] Unknown Item | Institute: Central Coir Research Institute (CCRI) | URL: https://rink-inst.vercel.app/instrument/aab35ad345
-[b2a509bc30] Unknown Item | Institute: National Institute of Technology Calicut (NITC) | URL: https://rink-inst.vercel.app/instrument/b2a509bc30
-[910ac3a8b9] Unknown Item | Institute: Centre for Water Resources Development and Management (CWRDM) | URL: https://rink-inst.vercel.app/instrument/910ac3a8b9
-[b2eb68a9be] Unknown Item | Institute: ICAR - CENTRAL TUBER CROPS RESEARCH INSTITUTE (CTCRI) | URL: https://rink-inst.vercel.app/instrument/b2eb68a9be
-[b782cadae1] Unknown Item | Institute: ICAR - Central Plantation Crops Research Institute (CPCRI) | URL: https://rink-inst.vercel.app/instrument/b782cadae1
-[5138691473] Unknown Item | Institute: ICAR - Central Marine Fisheries Research Institute | URL: https://rink-inst.vercel.app/instrument/5138691473
-[3fe3a94363] Unknown Item | Institute: Rajiv Gandhi Centre for Biotechnology | URL: https://rink-inst.vercel.app/instrument/3fe3a94363
-[e827d05afe] Unknown Item | Institute: Sree Chitra Tirunal Institute for Medical Sciences & Technology | URL: https://rink-inst.vercel.app/instrument/e827d05afe
-[093e418333] Unknown Item | Institute: University of Calicut | URL: https://rink-inst.vercel.app/instrument/093e418333
-[4d8558f453] Unknown Item | Institute: Kerala Veterinary and Animal Sciences University (KVASU CVAS) | URL: https://rink-inst.vercel.app/instrument/4d8558f453
-[0fd6f6a81b] Unknown Item | Institute: Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM) | URL: https://rink-inst.vercel.app/instrument/0fd6f6a81b
-[2538fa6e37] Unknown Item | Institute: National Centre for Earth Science Studies | URL: https://rink-inst.vercel.app/instrument/2538fa6e37
-[788c93092f] Unknown Item | Institute: Dr. Moopen's iNEST | URL: https://rink-inst.vercel.app/instrument/788c93092f
-[890eaa8158] Unknown Item | Institute: CEPCI Laboratory & Research Institute | URL: https://rink-inst.vercel.app/instrument/890eaa8158
-[898dd607a7] Unknown Item | Institute: NATPAC | URL: https://rink-inst.vercel.app/instrument/898dd607a7
-[d7bd02efdb] Unknown Item | Institute: Cochin University of Science and Technology (CUSAT) | URL: https://rink-inst.vercel.app/instrument/d7bd02efdb
-[cb44589b75] Unknown Item | Institute: Kerala University (KU) | URL: https://rink-inst.vercel.app/instrument/cb44589b75
-[d9277ce325] Unknown Item | Institute: Mahatma Gandhi University (MG) | URL: https://rink-inst.vercel.app/instrument/d9277ce325
-[37b6c79d91] Unknown Item | Institute: ICAR - Central Institute of Fisheries Technology (CIFT) | URL: https://rink-inst.vercel.app/instrument/37b6c79d91
-[723f1af0f9] Unknown Item | Institute: Indian Institute of Technology Palakkad (IIT Palakkad) | URL: https://rink-inst.vercel.app/instrument/723f1af0f9
-[950bcc0ecd] Unknown Item | Institute: ICAR-Indian Institute of Spices Research (IISR) | URL: https://rink-inst.vercel.app/instrument/950bcc0ecd
-[602041b37a] Unknown Item | Institute: Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI) | URL: https://rink-inst.vercel.app/instrument/602041b37a
-[a97d4c3730] Unknown Item | Institute: Institute of Advanced VIrology (IAV) | URL: https://rink-inst.vercel.app/instrument/a97d4c3730
-[d75faeb732] Unknown Item | Institute: Kerala Forest Research Institute (KSCSTE - KFRI) | URL: https://rink-inst.vercel.app/instrument/d75faeb732
-[611ddc0be9] Unknown Item | Institute: Central Coir Research Institute (CCRI) | URL: https://rink-inst.vercel.app/instrument/611ddc0be9
-[a49f7ff178] Unknown Item | Institute: National Institute of Technology Calicut (NITC) | URL: https://rink-inst.vercel.app/instrument/a49f7ff178
-[d0ec28101f] Unknown Item | Institute: Centre for Water Resources Development and Management (CWRDM) | URL: https://rink-inst.vercel.app/instrument/d0ec28101f
-[8aef5ab87c] Unknown Item | Institute: ICAR - CENTRAL TUBER CROPS RESEARCH INSTITUTE (CTCRI) | URL: https://rink-inst.vercel.app/instrument/8aef5ab87c
-[ca67073f1f] Unknown Item | Institute: ICAR - Central Plantation Crops Research Institute (CPCRI) | URL: https://rink-inst.vercel.app/instrument/ca67073f1f
-[4528748b59] Unknown Item | Institute: ICAR - Central Marine Fisheries Research Institute | URL: https://rink-inst.vercel.app/instrument/4528748b59
-[a6725b8368] Unknown Item | Institute: Rajiv Gandhi Centre for Biotechnology | URL: https://rink-inst.vercel.app/instrument/a6725b8368
-[7e1647d1aa] Unknown Item | Institute: Sree Chitra Tirunal Institute for Medical Sciences & Technology | URL: https://rink-inst.vercel.app/instrument/7e1647d1aa
-[ecab665cfb] Unknown Item | Institute: University of Calicut | URL: https://rink-inst.vercel.app/instrument/ecab665cfb
-[48043a40c7] Unknown Item | Institute: Kerala Veterinary and Animal Sciences University (KVASU CVAS) | URL: https://rink-inst.vercel.app/instrument/48043a40c7
-[49de70b006] Unknown Item | Institute: Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM) | URL: https://rink-inst.vercel.app/instrument/49de70b006
-[7e049099ce] Unknown Item | Institute: National Centre for Earth Science Studies | URL: https://rink-inst.vercel.app/instrument/7e049099ce
-[ff3100987a] Unknown Item | Institute: Dr. Moopen's iNEST | URL: https://rink-inst.vercel.app/instrument/ff3100987a
-[2bd5475c69] Unknown Item | Institute: CEPCI Laboratory & Research Institute | URL: https://rink-inst.vercel.app/instrument/2bd5475c69
-[f02dfaa454] Unknown Item | Institute: NATPAC | URL: https://rink-inst.vercel.app/instrument/f02dfaa454
-[8e1d568027] Unknown Item | Institute: Malabar Botanical Garden & Institute for Plant Sciences (MBGIPS) | URL: https://rink-inst.vercel.app/instrument/8e1d568027
+[9285dcd7b8] Unknown Item | Institute: Cochin University of Science and Technology (CUSAT) | URL: https://rink-inst.vercel.app/instrument/9285dcd7b8
+[b877a7c86b] Unknown Item | Institute: Kerala University (KU) | URL: https://rink-inst.vercel.app/instrument/b877a7c86b
+[8cb90b950b] Unknown Item | Institute: Mahatma Gandhi University (MG) | URL: https://rink-inst.vercel.app/instrument/8cb90b950b
+[27ad4b6432] Unknown Item | Institute: ICAR - Central Institute of Fisheries Technology (CIFT) | URL: https://rink-inst.vercel.app/instrument/27ad4b6432
+[f0f2229c9a] Unknown Item | Institute: Indian Institute of Technology Palakkad (IIT Palakkad) | URL: https://rink-inst.vercel.app/instrument/f0f2229c9a
+[6bbe2603a3] Unknown Item | Institute: ICAR-Indian Institute of Spices Research (IISR) | URL: https://rink-inst.vercel.app/instrument/6bbe2603a3
+[7580500a95] Unknown Item | Institute: Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI) | URL: https://rink-inst.vercel.app/instrument/7580500a95
+[1e71b56816] Unknown Item | Institute: Institute of Advanced VIrology (IAV) | URL: https://rink-inst.vercel.app/instrument/1e71b56816
+[4fdd733f2d] Unknown Item | Institute: Kerala Forest Research Institute (KSCSTE - KFRI) | URL: https://rink-inst.vercel.app/instrument/4fdd733f2d
+[d88cadc205] Unknown Item | Institute: Central Coir Research Institute (CCRI) | URL: https://rink-inst.vercel.app/instrument/d88cadc205
+[3dc26d635a] Unknown Item | Institute: National Institute of Technology Calicut (NITC) | URL: https://rink-inst.vercel.app/instrument/3dc26d635a
+[3db28bf811] Unknown Item | Institute: Centre for Water Resources Development and Management (CWRDM) | URL: https://rink-inst.vercel.app/instrument/3db28bf811
+[ce5afa245b] Unknown Item | Institute: ICAR - CENTRAL TUBER CROPS RESEARCH INSTITUTE (CTCRI) | URL: https://rink-inst.vercel.app/instrument/ce5afa245b
+[51471673af] Unknown Item | Institute: ICAR - Central Plantation Crops Research Institute (CPCRI) | URL: https://rink-inst.vercel.app/instrument/51471673af
+[aa8100f128] Unknown Item | Institute: ICAR - Central Marine Fisheries Research Institute | URL: https://rink-inst.vercel.app/instrument/aa8100f128
+[786334b980] Unknown Item | Institute: Rajiv Gandhi Centre for Biotechnology | URL: https://rink-inst.vercel.app/instrument/786334b980
+[500d4e0e88] Unknown Item | Institute: Sree Chitra Tirunal Institute for Medical Sciences & Technology | URL: https://rink-inst.vercel.app/instrument/500d4e0e88
+[547e2d7e58] Unknown Item | Institute: University of Calicut | URL: https://rink-inst.vercel.app/instrument/547e2d7e58
+[7a2749488a] Unknown Item | Institute: Kerala Veterinary and Animal Sciences University (KVASU CVAS) | URL: https://rink-inst.vercel.app/instrument/7a2749488a
+[9772444bc2] Unknown Item | Institute: Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM) | URL: https://rink-inst.vercel.app/instrument/9772444bc2
+[2110fc95c1] Unknown Item | Institute: National Centre for Earth Science Studies | URL: https://rink-inst.vercel.app/instrument/2110fc95c1
+[a716a84d1f] Unknown Item | Institute: Dr. Moopen's iNEST | URL: https://rink-inst.vercel.app/instrument/a716a84d1f
+[f619dd63b9] Unknown Item | Institute: CEPCI Laboratory & Research Institute | URL: https://rink-inst.vercel.app/instrument/f619dd63b9
+[01f094ca2a] Unknown Item | Institute: NATPAC | URL: https://rink-inst.vercel.app/instrument/01f094ca2a
+[cea2e5f7d9] Unknown Item | Institute: Malabar Botanical Garden & Institute for Plant Sciences (MBGIPS) | URL: https://rink-inst.vercel.app/instrument/cea2e5f7d9
