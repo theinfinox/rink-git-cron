@@ -59,8 +59,6 @@ sheets:
           enabled: false
         imageColumns:
           - logo_link
-      - name: mou
-        gid: 1204232309
       - name: Subsidized
         gid: 641457189
     filterTaxonomy:
