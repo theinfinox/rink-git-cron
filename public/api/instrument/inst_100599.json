@@ -11,7 +11,7 @@
   "enquiry_contact_number": "0494 2407606",
   "enquiry_mail": "csifoffice@uoc.ac.in",
   "website_booking_link": "http://csif.uoc.ac.in/",
-  "website_booking_link_fallback": "https://www.sctimst.ac.in/tcs/",
+  "website_booking_link_fallback": "",
   "standardized_district": "Malappuram",
   "provider_key": "",
   "matched_institution": "University of Calicut",

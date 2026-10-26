@@ -11,7 +11,7 @@
   "enquiry_contact_number": "0471-2443152",
   "enquiry_mail": "sct@sctimst.ac.in",
   "website_booking_link": "https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/",
-  "website_booking_link_fallback": "https://www.rgcb.res.in/mls-test.php",
+  "website_booking_link_fallback": "",
   "standardized_district": "Thiruvananthapuram",
   "provider_key": "",
   "matched_institution": "Sree Chitra Tirunal Institute for Medical Sciences & Technology",
