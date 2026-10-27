@@ -911,7 +911,6 @@ and Technology, Trivandrum | Location: Trivandrum | URL: https://rink-inst.verce
 [inst_100836] Inverted Phase Contrast Microscope | Institute: Dr. Moopen's iNEST | Location: Wayanad | URL: https://rink-inst.vercel.app/instrument/inst_100836
 [inst_100837] Muffle Furnace | Institute: Dr. Moopen's iNEST | Location: Wayanad | URL: https://rink-inst.vercel.app/instrument/inst_100837
 [inst_100838] Vacuum Oven | Institute: Dr. Moopen's iNEST | Location: Wayanad | URL: https://rink-inst.vercel.app/instrument/inst_100838
-[inst_100839] 3D Bioprinter | Institute: Dr. Moopen's iNEST | Location: Wayanad | URL: https://rink-inst.vercel.app/instrument/inst_100839
 [inst_100840] Water Bath | Institute: CEPCI Laboratory & Research Institute | Location: Kollam | URL: https://rink-inst.vercel.app/instrument/inst_100840
 [inst_100841] Orbital Shaking Incubator | Institute: CEPCI Laboratory & Research Institute | Location: Kollam | URL: https://rink-inst.vercel.app/instrument/inst_100841
 [inst_100842] Bacteriological Incubator | Institute: CEPCI Laboratory & Research Institute | Location: Kollam | URL: https://rink-inst.vercel.app/instrument/inst_100842
