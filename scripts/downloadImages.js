@@ -11,6 +11,7 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 import sharp from 'sharp';
+import { FailSafeStore } from './FailSafeStore.js';
 
 const PUBLIC_DIR = './public';
 
@@ -72,6 +73,7 @@ async function runDownload() {
         let downloadedCount = 0;
         let skippedCount = 0;
         let errorCount = 0;
+        let hasJsonModifications = false;
 
         // Flatten data if it's an object with tabs
         let itemsToProcess = [];
@@ -144,6 +146,8 @@ async function runDownload() {
                     if (contentType.includes('text/html')) {
                         console.warn(`⚠️  Skipped ${imageId}: Google Drive returned HTML instead of an image (file access may be private / requires Google sign-in).`);
                         errorCount++;
+                        item[targetKey] = '';
+                        hasJsonModifications = true;
                         continue;
                     }
 
@@ -165,6 +169,8 @@ async function runDownload() {
                 } catch (error) {
                     console.error(`❌ Failed to process image for ${imageId} (${originalUrl}): ${error.message}`);
                     errorCount++;
+                    item[targetKey] = '';
+                    hasJsonModifications = true;
                 }
             }
         }
@@ -173,6 +179,11 @@ async function runDownload() {
         console.log(`   Downloaded: ${downloadedCount}`);
         console.log(`   Skipped:    ${skippedCount}`);
         console.log(`   Errors:     ${errorCount}`);
+
+        if (hasJsonModifications) {
+            console.log(`💾 Persisting sanitized image fallback links to ${jsonFile}...`);
+            FailSafeStore.save(dataJsonPath, data);
+        }
 
         globalDownloadedCount += downloadedCount;
         globalSkippedCount += skippedCount;

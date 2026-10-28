@@ -270,7 +270,9 @@ function processSourceRows({
         // 🧠 TRANSFORM ALL IMAGE LINKS FOR FRONTEND
         for (const key of Object.keys(rowObj)) {
             if (imageColumnsList) {
-                if (!imageColumnsList.includes(key)) continue;
+                const isTargetMatch = imageColumnsList.includes(key);
+                const isSourceMatch = imageColumnsList.some(col => columnMap[col] === key);
+                if (!isTargetMatch && !isSourceMatch) continue;
             } else {
                 const lowerKey = key.toLowerCase();
                 if (!lowerKey.includes('image') && !lowerKey.includes('logo') && !lowerKey.includes('photo') && !lowerKey.includes('pic') && !lowerKey.includes('thumbnail')) {
