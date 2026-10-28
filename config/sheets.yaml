@@ -133,6 +133,8 @@ sheets:
           field: id
           prefix: service
           start: 100001
+        imageColumns:
+          - upload_the_startup_logo_png_format
     filterTaxonomy:
       - id: district
         title: Districts
